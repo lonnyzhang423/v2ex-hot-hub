@@ -73,7 +73,7 @@ def generateArchiveReadme(items):
 
     date = '# '+currentDateStr()+'\n'
     now = currentTimeStr()
-    lastUpdate = '<!-- 最后更新时间：{} -->'.format(now)+'\n'
+    lastUpdate = '```最后更新时间：{} -->```'.format(now)+'\n'
 
     readme = '\n'.join([date, lastUpdate, topics])
     return readme
@@ -93,7 +93,7 @@ def generateTodayReadme(items):
     with open('README_template.md', 'r') as f:
         readme = f.read()
 
-    timeInfo = '更新时间：'+currentTimeStr()
+    timeInfo = '```更新时间：{}```'.format(currentTimeStr())
     readme = readme.replace("<!-- update time -->", timeInfo)
     readme = readme.replace("<!-- topics -->", topics)
 
