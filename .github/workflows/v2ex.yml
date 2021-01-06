@@ -3,18 +3,14 @@ name: v2ex
 on:
   [push]
   # schedule:
-  #     # 8-23点每10分钟执行一次
-  #     - cron: "*/10 8-23 * * *"
+  #     # 北京时间8-23点每10分钟执行一次（对应utc时间0-15）
+  #     - cron: "*/10 0-15 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Shanghai
-
-    # strategy:
-    #   matrix:
-    #     python-version: [2.7, 3.5, 3.6, 3.7, 3.8]
 
     steps:
       # 克隆仓库
@@ -41,15 +37,13 @@ jobs:
           git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
           git pull --rebase
 
-      # 编译运行
-      - name: Build and run
-        run: |
-          echo "hello github action" > README.md
-          python v2ex.py
-
+      # 运行
+      - name: Run python
+        run: python v2ex.py
+          
       # 更新仓库
       - name: Update repo
         run: |
           git add .
-          git commit -m "update"
+          git commit -m "auto update"
           git push -u origin main

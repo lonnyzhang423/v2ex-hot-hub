@@ -1,0 +1,12 @@
+# v2ex-hot-hub
+
+[V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2021-1-6 日至今的热门话题。每小时抓取一次数据，按天[归档](./archives)。
+
+## 今日热议话题
+
+<!-- update time -->
+
+<!-- topics -->
+
+
+历史归档 [./archives](./archives)
