@@ -44,7 +44,7 @@ jobs:
       # 编译运行
       - name: Build and run
         run: |
-          echo "hello github action" >> README.md
+          echo "hello github action" > README.md
           python v2ex.py
 
       # 更新仓库
