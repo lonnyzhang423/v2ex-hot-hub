@@ -1,10 +1,10 @@
 name: v2ex
 
 on:
-  [push]
-  # schedule:
-  #     # 北京时间8-23点每10分钟执行一次（对应utc时间0-15）
-  #     - cron: "*/10 0-15 * * *"
+  # [push]
+  schedule:
+    # 北京时间8-23点每10分钟执行一次（对应utc时间0-15）
+    - cron: "*/10 0-15 * * *"
 
 jobs:
   build:
@@ -40,7 +40,7 @@ jobs:
       # 运行
       - name: Run python
         run: python v2ex.py
-          
+
       # 更新仓库
       - name: Update repo
         run: |
