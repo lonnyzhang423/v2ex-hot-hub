@@ -42,11 +42,11 @@ def parseItemInfo(item):
 
 
 def currentTimeStr():
-    return datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z%z')
+    return datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %Z%z')
 
 
 def currentDateStr():
-    return datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    return datetime.now().astimezone().strftime('%Y-%m-%d')
 
 
 def ensureDir(file):
