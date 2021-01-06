@@ -65,7 +65,7 @@ def generateArchiveReadme(items):
     """生成归档readme
     """
     def topic(item):
-        return '1. ({})[{}]'.format(item['title'], item['url'])
+        return '1. [{}]({})'.format(item['title'], item['url'])
 
     topics = '暂无数据'
     if items:
@@ -83,7 +83,7 @@ def generateTodayReadme(items):
     """生成今日readme
     """
     def topic(item):
-        return '1. ({})[{}]'.format(item['title'], item['url'])
+        return '1. [{}]({})'.format(item['title'], item['url'])
 
     topics = '暂无数据'
     if items:
