@@ -11,7 +11,7 @@ import util
 
 logging.basicConfig()
 log = logging.getLogger(__name__)
-log.setLevel(level=logging.DEBUG)
+log.setLevel(level=logging.INFO)
 
 HOT_URL = "https://www.v2ex.com/api/topics/hot.json"
 
@@ -28,7 +28,7 @@ def getContent(url: str) -> str:
             r = s.get(url)
             return r.text
     except:
-        log.warning(traceback.format_exc())
+        log.error(traceback.format_exc())
 
 
 def parseTopics(content):
@@ -48,7 +48,7 @@ def parseTopics(content):
         if arr:
             result = [topic(item) for item in arr]
     except:
-        log.warning(traceback.format_exc())
+        log.error(traceback.format_exc())
 
     return result
 
@@ -90,7 +90,7 @@ def generateTodayReadme(items):
     with open('README.template', 'r') as f:
         readme = f.read()
 
-    now = util.currentDateStr()
+    now = util.currentTimeStr()
     readme = readme.replace("{updateTime}", now)
     readme = readme.replace("{topics}", topics)
 
@@ -98,19 +98,19 @@ def generateTodayReadme(items):
 
 
 def handleTodayMd(md):
-    log.info('today md:%s', md)
+    log.debug('today md:%s', md)
     util.writeText('README.md', md)
 
 
 def handleArchiveMd(md):
-    log.info('archive md:%s', md)
+    log.debug('archive md:%s', md)
     name = util.currentDateStr()+'.md'
     file = os.path.join('archives', name)
     util.writeText(file, md)
 
 
 def handleRawContent(content: str):
-    log.info('raw content:%s', content)
+    log.debug('raw content:%s', content)
     name = util.currentDateStr()+'.json'
     file = os.path.join('raw', name)
     util.writeText(file, content)
