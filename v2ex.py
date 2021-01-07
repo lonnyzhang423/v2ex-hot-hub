@@ -42,7 +42,7 @@ def parseItemInfo(item):
 
 
 def currentTimeStr():
-    return datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %Z%z')
+    return datetime.now().astimezone().strftime('%Y-%m-%d %H:%M:%S %z')
 
 
 def currentDateStr():
@@ -120,17 +120,14 @@ def handleRawJson(json: str):
 
 
 def run():
-    log.debug('run:%s', currentTimeStr())
-
-    items = []
+    items = None
+    # 获取数据
     arr = getJsonArray()
     if arr:
-        for item in arr:
-            info = parseItemInfo(item)
-            items.append(info)
+        items = [parseItemInfo(item) for item in arr]
 
     if items:
-        # 处理最新数据
+        # 最新数据
         todayMd = generateTodayReadme(items)
         handleTodayMd(todayMd)
         # 归档
