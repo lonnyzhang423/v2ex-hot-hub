@@ -1,4 +1,4 @@
-name: v2ex
+name: schedule-update
 
 on:
   schedule:
@@ -46,5 +46,5 @@ jobs:
       - name: Update repo
         run: |
           git add .
-          git commit -m "auto update"
+          git commit -m "github actions schedule update"
           git push -u origin main
