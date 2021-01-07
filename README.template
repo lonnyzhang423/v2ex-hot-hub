@@ -4,10 +4,11 @@
 
 ## 今日热议话题
 
-<!-- update time -->
+```
+更新时间：{updateTime}
+```
 
-<!-- topics -->
-
+{topics}
 
 ## 历史归档
 
