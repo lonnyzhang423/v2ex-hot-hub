@@ -4,9 +4,7 @@
 
 ## 今日热议话题
 
-```
-更新时间：{updateTime}
-```
+`更新时间：{updateTime}`
 
 {topics}
 
