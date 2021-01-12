@@ -1,135 +1,94 @@
 import json
-import logging
 import os
 import traceback
 
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-
 import util
-
-logging.basicConfig()
-log = logging.getLogger(__name__)
-log.setLevel(level=logging.INFO)
-
-HOT_URL = "https://www.v2ex.com/api/topics/hot.json"
-
-retries = Retry(total=2,
-                backoff_factor=0.1,
-                status_forcelist=[k for k in range(400, 600)])
+from util import logger
+from v2ex import V2ex
 
 
-def getContent(url: str) -> str:
-    try:
-        with requests.session() as s:
-            s.mount("http://", HTTPAdapter(max_retries=retries))
-            s.mount("https://", HTTPAdapter(max_retries=retries))
-            r = s.get(url)
-            return r.text
-    except:
-        log.error(traceback.format_exc())
-
-
-def parseTopics(content):
-    """解析话题
-    """
-    def topic(item):
-        info = {}
-        info['id'] = item['id']
-        info['title'] = item['title']
-        info['content'] = item['content']
-        info['url'] = item['url']
-        return info
-
-    result = []
-    try:
-        arr = json.loads(content)
-        if arr:
-            result = [topic(item) for item in arr]
-    except:
-        log.error(traceback.format_exc())
-
-    return result
-
-
-def generateArchiveReadme(items):
+def generateArchiveMd(items):
     """生成归档readme
     """
     def topic(item):
-        return '1. [{}]({})'.format(item['title'], item['url'])
+        title = item['title']
+        url = item['url']
+        return '1. [{}]({})'.format(title, url)
 
-    topics = '暂无数据'
+    topicMd = '暂无数据'
     if items:
-        topics = '\n'.join([topic(item) for item in items])
+        topicMd = '\n'.join([topic(item) for item in items])
 
-    readme = ''
-    with open('README_archive.template', 'r') as f:
-        readme = f.read()
+    md = ''
+    file = os.path.join('template', 'archive.md')
+    with open(file) as f:
+        md = f.read()
 
-    date = util.currentDateStr()
-    now = util.currentTimeStr()
-    readme = readme.replace("{date}", date)
-    readme = readme.replace("{updateTime}", now)
-    readme = readme.replace("{topics}", topics)
+    now = util.current_time()
+    md = md.replace("{updateTime}", now)
+    md = md.replace("{topics}", topicMd)
 
-    return readme
+    return md
 
 
-def generateTodayReadme(items):
+def generateReadme(items):
     """生成今日readme
     """
     def topic(item):
-        return '1. [{}]({})'.format(item['title'], item['url'])
+        title = item['title']
+        url = item['url']
+        return '1. [{}]({})'.format(title, url)
 
-    topics = '暂无数据'
+    topicMd = '暂无数据'
     if items:
-        topics = '\n'.join([topic(item) for item in items])
+        topicMd = '\n'.join([topic(item) for item in items])
 
     readme = ''
-    with open('README.template', 'r') as f:
+    file = os.path.join('template', 'README.md')
+    with open(file) as f:
         readme = f.read()
 
-    now = util.currentTimeStr()
+    now = util.current_time()
     readme = readme.replace("{updateTime}", now)
-    readme = readme.replace("{topics}", topics)
+    readme = readme.replace("{topics}", topicMd)
 
     return readme
 
 
-def handleTodayMd(md):
-    log.debug('today md:%s', md)
-    util.writeText('README.md', md)
+def saveReadme(md):
+    logger.debug('today md:%s', md)
+    util.write_text('README.md', md)
 
 
-def handleArchiveMd(md):
-    log.debug('archive md:%s', md)
-    name = util.currentDateStr()+'.md'
+def saveArchiveMd(md):
+    logger.debug('archive md:%s', md)
+    name = util.current_date()+'.md'
     file = os.path.join('archives', name)
-    util.writeText(file, md)
+    util.write_text(file, md)
 
 
-def handleRawContent(content: str):
-    log.debug('raw content:%s', content)
-    name = util.currentDateStr()+'.json'
+def saveRawResponse(content: str):
+    logger.debug('raw content:%s', content)
+    name = util.current_date()+'.json'
     file = os.path.join('raw', name)
-    util.writeText(file, content)
+    util.write_text(file, content)
 
 
 def run():
     # 获取数据
-    content = getContent(HOT_URL)
-    topics = parseTopics(content)
+    v2ex = V2ex()
+    topics, resp = v2ex.get_hot_topic()
+    if resp:
+        # 原始数据
+        text = json.dumps(json.loads(resp.text), ensure_ascii=False)
+        saveRawResponse(text)
 
     # 最新数据
-    todayMd = generateTodayReadme(topics)
-    handleTodayMd(todayMd)
+    readme = generateReadme(topics)
+    saveReadme(readme)
     # 归档
-    archiveMd = generateArchiveReadme(topics)
-    handleArchiveMd(archiveMd)
-    # 原始数据
-    raw = json.dumps(json.loads(content), ensure_ascii=False)
-    handleRawContent(raw)
+    archiveMd = generateArchiveMd(topics)
+    saveArchiveMd(archiveMd)
 
 
 if __name__ == "__main__":
