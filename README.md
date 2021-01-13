@@ -11,19 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-13 11:43:15 +0800`
+ `更新时间：2021-01-13 12:30:33 +0800`
 
 ## 热议话题
 
 1. [辞职太爽了](https://www.v2ex.com/t/744290)
 1. [2021 你还回家过年吗？](https://www.v2ex.com/t/744401)
 1. [Notion 中文版本要来啦！](https://www.v2ex.com/t/744395)
-1. [回不去的 BBS 时代](https://www.v2ex.com/t/744338)
-1. [请教一个问题，想搭建一个网站，目的就是一些人发一些文章用的](https://www.v2ex.com/t/744137)
-1. [不懂就问，入手手机无线充电器有意义吗](https://www.v2ex.com/t/744120)
-1. [拼多多被爆远程删除相册内容](https://www.v2ex.com/t/744281)
 1. [辣鸡到处都是微信健康码](https://www.v2ex.com/t/744459)
-1. [不用写文档，靠说就可以](https://www.v2ex.com/t/744133)
+1. [回不去的 BBS 时代](https://www.v2ex.com/t/744338)
+1. [拼多多被爆远程删除相册内容](https://www.v2ex.com/t/744281)
+1. [有轻量一点的 win10 吗？现在 8G 的机器 20H2 开机内存占用 2.5G](https://www.v2ex.com/t/744420)
 1. [如果不能回家，在京过年，一个人，能怎么过](https://www.v2ex.com/t/744237)
 
 ## 历史归档
