@@ -1,6 +1,4 @@
 import contextlib
-import json
-import traceback
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -41,10 +39,11 @@ class V2ex:
                 resp = s.get(HOT_URL)
                 items.extend(resp.json())
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot topic failed')
         return (items, resp)
+
 
 if __name__ == "__main__":
     v2ex = V2ex()
-    topics,resp = v2ex.get_hot_topic()
+    topics, resp = v2ex.get_hot_topic()
     logger.info('%s', topics[0])
