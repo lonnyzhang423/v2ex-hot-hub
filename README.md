@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-14 14:28:14 +0800`
+ `更新时间：2021-01-14 15:34:26 +0800`
 
 ## 热议话题
 
 1. [苹果团十周年！原封 iPhone 12 澳门版（带小票，直营店保）、港行，下单减 100，激活 24 小时无理由退换，绿屏可换。国行 M1 MacBook Pro / Mac Mini 16G 内存定制机，现货。](https://www.v2ex.com/t/744798)
 1. [熬不住了，想辞职了…](https://www.v2ex.com/t/744757)
 1. [MacBook Pro M1 真香](https://www.v2ex.com/t/744579)
+1. [Intel 正在死去，大家怎么看呢？](https://www.v2ex.com/t/744868)
+1. [要想财富自由，投资自己的最好方法有哪些呢？](https://www.v2ex.com/t/744831)
 1. [吐槽： Apple 手机壳是消耗品吗？](https://www.v2ex.com/t/744608)
 1. [迫于闲的蛋疼，问一下各位买了智能手表的感觉这东西值不值得买](https://www.v2ex.com/t/744609)
-1. [女朋友公司开始强制 996，该怎么办？](https://www.v2ex.com/t/744589)
-1. [Intel 正在死去，大家怎么看呢？](https://www.v2ex.com/t/744868)
 
 ## 历史归档
 
