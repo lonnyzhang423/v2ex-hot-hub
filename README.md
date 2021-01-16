@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-16 19:30:48 +0800`
+ `更新时间：2021-01-16 20:20:15 +0800`
 
 ## 热议话题
 
-1. [996 工作是不是类似于地铁上的乞讨](https://www.v2ex.com/t/745439)
 1. [腾讯视频（PC 版）疑似私下启用 p2p 网络加速，偷占用户带宽？](https://www.v2ex.com/t/745365)
+1. [996 工作是不是类似于地铁上的乞讨](https://www.v2ex.com/t/745439)
 1. [苹果已在服务器端阻止了在 M1 Mac 上使用 iMazing 等手动方式安装 iOS 应用程序](https://www.v2ex.com/t/745449)
 1. [短视频真的越来越垃圾，我看得越多，自己变得越垃圾](https://www.v2ex.com/t/745432)
 1. [目前内网远程控制最好的方案就是 VNC 吗？最近试了 teamviewer 和 anydesk，都不太爽](https://www.v2ex.com/t/745358)
