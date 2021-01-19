@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-19 20:23:50 +0800`
+ `更新时间：2021-01-19 21:42:13 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [我是一个人在出租屋里过年，但我不可怜。](https://www.v2ex.com/t/746172)
 1. [？？反咬一口](https://www.v2ex.com/t/746267)
 1. [小米路由器一天发了 2.4 万个请求到 api.miwifi.com](https://www.v2ex.com/t/746094)
-1. [Signal 好像火了？有什么使用建议吗](https://www.v2ex.com/t/746147)
 1. [离职后惊闻公司装了监控](https://www.v2ex.com/t/746299)
 1. [星巴克那么吵，为什么还是有那么多人在里面工作/看书/学习？](https://www.v2ex.com/t/746322)
+1. [Signal 好像火了？有什么使用建议吗](https://www.v2ex.com/t/746147)
 
 ## 历史归档
 
