@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-21 16:29:56 +0800`
+ `更新时间：2021-01-21 17:36:39 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,10 @@
 1. [独立开发 iOS App，后端用什么语言写合适？](https://www.v2ex.com/t/746857)
 1. [讲个银行卡莫名被限制,和这两天想办新卡的经历,当故事听了~](https://www.v2ex.com/t/746789)
 1. [我想用 C 语言开发一个有操作界面的程序，就像一些通用 exe 程序一样，网上有没有好的资料示例可学习？](https://www.v2ex.com/t/746800)
-1. [开发用 纠结 m1 Mac mini 和组装台式机黑果+win，求解毒](https://www.v2ex.com/t/746737)
+1. [个人博客一般怎么增加用户粘性？](https://www.v2ex.com/t/746884)
+1. [纠结 apple watch s6 能不能给生活带来便利](https://www.v2ex.com/t/746977)
+1. [求推荐一个替代 evernote 的笔记软件，有如下要求](https://www.v2ex.com/t/746843)
+1. [iPhone 怎么关闭 bilibili 开屏广告（广告会占用音频通道）](https://www.v2ex.com/t/746838)
 
 ## 历史归档
 
