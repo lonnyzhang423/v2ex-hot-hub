@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-21 23:18:57 +0800`
+ `更新时间：2021-01-22 00:31:00 +0800`
 
 ## 热议话题
 
 1. [面试接连被挂，心态快崩了](https://www.v2ex.com/t/746898)
-1. [独立开发 iOS App，后端用什么语言写合适？](https://www.v2ex.com/t/746857)
 1. [纠结 apple watch s6 能不能给生活带来便利](https://www.v2ex.com/t/746977)
 1. [个人博客一般怎么增加用户粘性？](https://www.v2ex.com/t/746884)
 1. [经常看到有人说黑苹果折腾,小白谈谈自己的体验](https://www.v2ex.com/t/746913)
