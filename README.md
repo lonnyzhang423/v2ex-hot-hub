@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-23 15:34:36 +0800`
+ `更新时间：2021-01-23 16:26:30 +0800`
 
 ## 热议话题
 
 1. [公司开始批量裁员了,要上班怎么去劳动局申请仲裁?](https://www.v2ex.com/t/747473)
+1. [垃圾搜狗输入法，再也不用](https://www.v2ex.com/t/747566)
 1. [树屋-兴趣交友-兴趣发贴 争做中国的 reddit+facebook^_^](https://www.v2ex.com/t/747484)
 1. [IT 行业，还有没有朝九晚五的公司？](https://www.v2ex.com/t/747498)
-1. [垃圾搜狗输入法，再也不用](https://www.v2ex.com/t/747566)
-1. [有没有大佬试过把 ATX 主机改造成 ITX 主机？](https://www.v2ex.com/t/747451)
 1. [是否存在两台 MacOS 之间无缝切换的办法？](https://www.v2ex.com/t/747559)
 1. [支付宝开始变本加厉，连银行卡转银行卡都要收取手续费了](https://www.v2ex.com/t/747601)
-1. [大佬们一般都是怎么学习新技术的？](https://www.v2ex.com/t/747432)
+1. [有什么方案能傻瓜式的在国内访问谷歌地球？](https://www.v2ex.com/t/747562)
 
 ## 历史归档
 
