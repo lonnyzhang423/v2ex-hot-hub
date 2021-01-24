@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-25 02:12:13 +0800`
+ `更新时间：2021-01-25 03:41:05 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [关于 AirPods Pro 免费换新问题的咨询](https://www.v2ex.com/t/747887)
 1. [如果新 mac 笔记本加回 magsafe？](https://www.v2ex.com/t/747820)
 1. [大众 ID.4,个人非常看好](https://www.v2ex.com/t/747823)
+1. [有多少人已经陷进 pdd 中了？](https://www.v2ex.com/t/747923)
 1. [已与生活脱节，请推荐一些好看的动作或科幻片吧，感谢了](https://www.v2ex.com/t/747792)
-1. [[技术的价值在于解决业务问题] 元芳，你怎么看？](https://www.v2ex.com/t/747800)
 
 ## 历史归档
 
