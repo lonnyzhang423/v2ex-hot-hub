@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-25 07:27:55 +0800`
+ `更新时间：2021-01-25 08:38:40 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [不懂就问，科学上网软件的分流规则搞那么复杂干什么](https://www.v2ex.com/t/747883)
 1. [草木皆兵？腾讯微云提示 JQuery 文件“内容可能违法相关法规”不还我文件了](https://www.v2ex.com/t/747875)
 1. [关于 AirPods Pro 免费换新问题的咨询](https://www.v2ex.com/t/747887)
-1. [如果新 mac 笔记本加回 magsafe？](https://www.v2ex.com/t/747820)
 1. [大众 ID.4,个人非常看好](https://www.v2ex.com/t/747823)
-1. [已与生活脱节，请推荐一些好看的动作或科幻片吧，感谢了](https://www.v2ex.com/t/747792)
+1. [如果新 mac 笔记本加回 magsafe？](https://www.v2ex.com/t/747820)
+1. [[技术的价值在于解决业务问题] 元芳，你怎么看？](https://www.v2ex.com/t/747800)
 
 ## 历史归档
 
