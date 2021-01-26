@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-26 13:08:33 +0800`
+ `更新时间：2021-01-26 14:04:39 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [Java 面试新人如何避免培训刚出来自称 2 年经验的](https://www.v2ex.com/t/748164)
 1. [JAVA8 的 Optional 是鸡肋](https://www.v2ex.com/t/748167)
 1. [分享下在日本工作两年总结](https://www.v2ex.com/t/748274)
-1. [造成面试造火箭，工作拧螺丝这种现象的根本原因是什么？](https://www.v2ex.com/t/748372)
 1. [家里东北县城鸡蛋 7 元一斤了](https://www.v2ex.com/t/748155)
-1. [如果您购买的是非国行苹果手机](https://www.v2ex.com/t/748129)
+1. [造成面试造火箭，工作拧螺丝这种现象的根本原因是什么？](https://www.v2ex.com/t/748372)
+1. [用惯了 M1 发现 window 在未来会是个电子垃圾](https://www.v2ex.com/t/748450)
 1. [怎么才能让狗屎的 16 寸 Mac 安静下来](https://www.v2ex.com/t/748330)
 1. [国内手机能媲美 apple 推送体验的是不是只有华为小米？](https://www.v2ex.com/t/748292)
 
