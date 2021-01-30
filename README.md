@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-31 02:20:41 +0800`
+ `更新时间：2021-01-31 03:13:37 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [身份证三件套被淘宝卖家泄露怎么办？](https://www.v2ex.com/t/749777)
 1. [GME / WSB / Robinhood 事件背后的金融原理](https://www.v2ex.com/t/749874)
 1. [接私活非 PHP 不可吗？](https://www.v2ex.com/t/749820)
-1. [美区 ID 被封，联系过海外客服帮忙递交申请，申请结果被拒继续永封。](https://www.v2ex.com/t/749778)
 1. [亲戚都劝我回家里考公，而我想去深圳闯一闯](https://www.v2ex.com/t/749886)
+1. [美区 ID 被封，联系过海外客服帮忙递交申请，申请结果被拒继续永封。](https://www.v2ex.com/t/749778)
 1. [困扰 mac 用户 n 久的问题又来了， bigsur 有好用的看图软件吗？](https://www.v2ex.com/t/749799)
 1. [TM 的破壁公司没有 13 薪，年终奖就 TM 给了 3K 打发要饭的，还 TM 大小周， SB 老板天天画大饼](https://www.v2ex.com/t/749772)
 1. [请未来的首富帮我写个能跑起来的 caddy 2 的 Caddyfile，不是我懒，详见内文](https://www.v2ex.com/t/749758)
