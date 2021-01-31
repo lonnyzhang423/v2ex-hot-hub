@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-01 01:33:25 +0800`
+ `更新时间：2021-02-01 02:16:41 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [MWeb 新的编辑器 iOS/macOS 版发布了，发几十个兑换码！大概三个月后将整合到 MWeb，免费升级，关注 MWeb 和 Markdown 编辑器的 的可以来试试。](https://www.v2ex.com/t/749958)
 1. [耳鸣一年了](https://www.v2ex.com/t/749936)
 1. [买机票一定要看清楚行李限额](https://www.v2ex.com/t/749949)
-1. [要入手一台 Mac mini 了，来推荐你们认为最高性价比的显示器吧](https://www.v2ex.com/t/750000)
 1. [身处厦门有必要去大城市闯一闯吗](https://www.v2ex.com/t/750003)
+1. [要入手一台 Mac mini 了，来推荐你们认为最高性价比的显示器吧](https://www.v2ex.com/t/750000)
 1. [是否存在一种方案可以在指定时间解锁压缩文件？](https://www.v2ex.com/t/750085)
 
 ## 历史归档
