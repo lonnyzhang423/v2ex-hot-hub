@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-01-31 12:08:02 +0800`
+ `更新时间：2021-01-31 13:15:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [请问天猫官方旗舰店买到了高仿该怎么办？](https://www.v2ex.com/t/749909)
 1. [树莓派不讲武德,自研双核 MCU Pico,STM32 哭晕在厕所!](https://www.v2ex.com/t/749822)
 1. [在苏州 50 万年薪，税前月薪大概 25k，生活怎么样？能买房？](https://www.v2ex.com/t/749877)
-1. [二线城市线下 Apple Store 有可能买到退货/二手的 Apple 产品吗？](https://www.v2ex.com/t/749927)
+1. [能做 Linux 服务器的最小发行版是啥？](https://www.v2ex.com/t/749947)
 
 ## 历史归档
 
