@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-03 12:04:50 +0800`
+ `更新时间：2021-02-03 13:05:30 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [Mac 内存不足会自动分配 Swap，是不是买 8G 内存就够了？](https://www.v2ex.com/t/750730)
 1. [心里有股火，大家一般是怎么释放的](https://www.v2ex.com/t/750753)
 1. [从 6k 到 10k 再到 5k，真的难受](https://www.v2ex.com/t/750623)
+1. [运营一个严肃的技术群应该注意什么？](https://www.v2ex.com/t/750832)
 1. [一个关于 iframe 很艹蛋的前端需求](https://www.v2ex.com/t/750642)
 1. [Big Sur 在投屏过程中合上盖子可以使屏幕镜像功能永久废掉？？](https://www.v2ex.com/t/750673)
-1. [四核 intel 还是 8 核 amd](https://www.v2ex.com/t/750805)
-1. [Apple Watch 解锁 iPhone 的实际体验真不错](https://www.v2ex.com/t/750571)
+1. [Server 酱通知服务要下线了](https://www.v2ex.com/t/750754)
 
 ## 历史归档
 
