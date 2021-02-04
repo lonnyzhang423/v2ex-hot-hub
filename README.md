@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-04 17:03:37 +0800`
+ `更新时间：2021-02-04 18:04:09 +0800`
 
 ## 热议话题
 
 1. [我真的没想到 bilibili 能成为中国的 YouTube](https://www.v2ex.com/t/751071)
 1. [Java16 都快出了，你们还在用 Java8 ？](https://www.v2ex.com/t/751042)
-1. [有没有人有兴趣做一个开源的，客观的医生评价网站，避免医疗套路？](https://www.v2ex.com/t/751069)
+1. [如果让你推荐一部电影](https://www.v2ex.com/t/751220)
 1. [相信大家已经被自动注入了搜狗智能助手了吧](https://www.v2ex.com/t/751120)
 1. [2021 年，求推荐键盘 for Mac](https://www.v2ex.com/t/751085)
+1. [有没有人有兴趣做一个开源的，客观的医生评价网站，避免医疗套路？](https://www.v2ex.com/t/751069)
 1. [菜市场居然比超市更贵？](https://www.v2ex.com/t/751074)
-1. [现在 Bilibili 内容质量也太差了吧](https://www.v2ex.com/t/751221)
 1. [努力是否有反作用](https://www.v2ex.com/t/751265)
-1. [如果让你推荐一部电影](https://www.v2ex.com/t/751220)
+1. [现在 Bilibili 内容质量也太差了吧](https://www.v2ex.com/t/751221)
 
 ## 历史归档
 
