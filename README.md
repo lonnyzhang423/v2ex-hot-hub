@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-04 20:15:14 +0800`
+ `更新时间：2021-02-04 21:04:26 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [2021 年，求推荐键盘 for Mac](https://www.v2ex.com/t/751085)
 1. [现在 Bilibili 内容质量也太差了吧](https://www.v2ex.com/t/751221)
 1. [菜市场居然比超市更贵？](https://www.v2ex.com/t/751074)
-1. [一个半成品 DTK 卖 500 刀不合适](https://www.v2ex.com/t/751167)
+1. [V 站的朋友们，你们最喜欢的最爱的电影 bgm 是？](https://www.v2ex.com/t/751257)
 
 ## 历史归档
 
