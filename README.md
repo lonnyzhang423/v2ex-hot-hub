@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-04 12:04:27 +0800`
+ `更新时间：2021-02-04 13:03:09 +0800`
 
 ## 热议话题
 
 1. [各位打工人会给家里打钱吗？](https://www.v2ex.com/t/750898)
 1. [我真的没想到 bilibili 能成为中国的 YouTube](https://www.v2ex.com/t/751071)
+1. [Java16 都快出了，你们还在用 Java8 ？](https://www.v2ex.com/t/751042)
 1. [有没有人有兴趣做一个开源的，客观的医生评价网站，避免医疗套路？](https://www.v2ex.com/t/751069)
 1. [北京国企不让回家过年](https://www.v2ex.com/t/750951)
 1. [那个 1 天零 6 小时让我夜不能寐的“狗子宋超”。。。](https://www.v2ex.com/t/750958)
-1. [Java16 都快出了，你们还在用 Java8 ？](https://www.v2ex.com/t/751042)
 1. [菜市场居然比超市更贵？](https://www.v2ex.com/t/751074)
 1. [2021 年，求推荐键盘 for Mac](https://www.v2ex.com/t/751085)
 1. [相信大家已经被自动注入了搜狗智能助手了吧](https://www.v2ex.com/t/751120)
