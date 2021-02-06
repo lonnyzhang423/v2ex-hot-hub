@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-06 21:03:08 +0800`
+ `更新时间：2021-02-06 22:03:33 +0800`
 
 ## 热议话题
 
 1. [[送码] 猜对腾讯股价，赠送 Percento iOS 高级会员](https://www.v2ex.com/t/751757)
 1. [想换个城市，能否给个推荐](https://www.v2ex.com/t/751763)
 1. [在所有工作中，编程对智力要求是不是算高的？](https://www.v2ex.com/t/751831)
-1. [有没有觉得国内的 app（大厂）都巨大…这是偏见吗？](https://www.v2ex.com/t/751699)
-1. [App Store 充值优惠！ 50-10， 10 随机减，一天一次](https://www.v2ex.com/t/751745)
 1. [招募兼职合伙人](https://www.v2ex.com/t/751795)
 1. [昨天坐飞机抖得非常厉害，我以为飞机要解体了](https://www.v2ex.com/t/751842)
+1. [有没有觉得国内的 app（大厂）都巨大…这是偏见吗？](https://www.v2ex.com/t/751699)
+1. [App Store 充值优惠！ 50-10， 10 随机减，一天一次](https://www.v2ex.com/t/751745)
 1. [当管理真的好吗？](https://www.v2ex.com/t/751739)
-1. [看望生了小孩子 1 个多月后的妇女, 送啥好呢?](https://www.v2ex.com/t/751773)
 
 ## 历史归档
 
