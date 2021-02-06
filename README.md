@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-06 13:03:44 +0800`
+ `更新时间：2021-02-06 14:03:52 +0800`
 
 ## 热议话题
 
@@ -20,6 +20,7 @@
 1. [一种 99%程序员都没用过的 Java 语法](https://www.v2ex.com/t/751581)
 1. [wsl2 的内存占用真是有够离谱的](https://www.v2ex.com/t/751582)
 1. [百度免费加速器内测 - 带宽 8-10Mbps - 注册拳头账户，加速 LOL，吃鸡， Nintendo Switch Online， Twitch 直播，日本二次元游戏，有什么想加速的直接进群提](https://www.v2ex.com/t/751648)
+1. [Ubuntu 如何优雅地屏蔽全部中国大陆连接？](https://www.v2ex.com/t/751645)
 
 ## 历史归档
 
