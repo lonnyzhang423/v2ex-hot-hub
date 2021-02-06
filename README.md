@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-06 09:26:43 +0800`
+ `更新时间：2021-02-06 10:07:56 +0800`
 
 ## 热议话题
 
 1. [V2EX 竟然没有人 Clubhouse 薪火接力么？我来当第一个人好了～](https://www.v2ex.com/t/751613)
 1. [妈妈存 20 万定期，到期后变成了保险](https://www.v2ex.com/t/751490)
-1. [为啥到了 Clubhouse，不给通讯录权限就不能邀请好友，就变得可以接受了呢？](https://www.v2ex.com/t/751456)
 1. [那些前端面试问 iframe 优缺点的是不是应该马上逃离？](https://www.v2ex.com/t/751502)
 1. [一种 99%程序员都没用过的 Java 语法](https://www.v2ex.com/t/751581)
-1. [做英语公众号 2 年了](https://www.v2ex.com/t/751458)
+1. [为什么越长大越觉得啤酒好喝了，而饮料不好喝了？](https://www.v2ex.com/t/751614)
 1. [程序员与医生](https://www.v2ex.com/t/751487)
+1. [wsl2 的内存占用真是有够离谱的](https://www.v2ex.com/t/751582)
 
 ## 历史归档
 
