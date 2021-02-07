@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-08 02:03:51 +0800`
+ `更新时间：2021-02-08 03:02:34 +0800`
 
 ## 热议话题
 
 1. [让我来看看今天还有谁在上班](https://www.v2ex.com/t/751953)
-1. [10 年程序员 vs 公务员](https://www.v2ex.com/t/751931)
 1. [打工人为公司奋斗的意义是什么？](https://www.v2ex.com/t/751957)
 1. [全身麻醉是什么感觉？我现在好紧张](https://www.v2ex.com/t/752040)
 1. [为键盘工作者设计的单词记忆软件⌨️](https://www.v2ex.com/t/752050)
 1. [要怎么理解 update 和 upgrade 这两个词的区别](https://www.v2ex.com/t/751983)
-1. [网易云音乐擅自操作用户关注](https://www.v2ex.com/t/751929)
 1. [如何更好的制止别人插队？](https://www.v2ex.com/t/751992)
 1. [Java 工作两年多，我面试过的题目](https://www.v2ex.com/t/752020)
+1. [给父母选台手机](https://www.v2ex.com/t/751938)
 
 ## 历史归档
 
