@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-08 20:04:29 +0800`
+ `更新时间：2021-02-08 21:04:06 +0800`
 
 ## 热议话题
 
 1. [父亲去世、离婚，不堪回首的 2020](https://www.v2ex.com/t/752315)
 1. [双方父母不能支持买房的打工人该何去何从](https://www.v2ex.com/t/752259)
 1. [给大佬们推荐个玩具，一秒钟打开在线 VS Code 阅读 GitHub 代码](https://www.v2ex.com/t/752197)
-1. [B 站下架无职转生，各位怎么看？](https://www.v2ex.com/t/752226)
-1. [过年了，你们公司发福利了吗](https://www.v2ex.com/t/752287)
 1. [各位拿移动硬盘都干些啥](https://www.v2ex.com/t/752228)
 1. [Clubhouse 之三大吐槽](https://www.v2ex.com/t/752217)
-1. [今年本科毕业 只会装系统 刷机 ，不知何去何从](https://www.v2ex.com/t/752205)
 1. [高中的铁哥们，现在大学毕业快 10 年了，不怎么搭理我了](https://www.v2ex.com/t/752354)
-1. [老爸被证券公司的人劝的买了好多基金,大家看看哪些能抛出去](https://www.v2ex.com/t/752265)
+1. [今年本科毕业 只会装系统 刷机 ，不知何去何从](https://www.v2ex.com/t/752205)
+1. [Windows 系统，键盘上的 ctrl 和 shift，大家什么情况下使用右边的 ctrl 和 shift](https://www.v2ex.com/t/752294)
 
 ## 历史归档
 
