@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-08 11:03:39 +0800`
+ `更新时间：2021-02-08 12:04:38 +0800`
 
 ## 热议话题
 
 1. [全身麻醉是什么感觉？我现在好紧张](https://www.v2ex.com/t/752040)
-1. [为键盘工作者设计的单词记忆软件⌨️](https://www.v2ex.com/t/752050)
-1. [B 站下架无职转生，各位怎么看？](https://www.v2ex.com/t/752226)
 1. [给大佬们推荐个玩具，一秒钟打开在线 VS Code 阅读 GitHub 代码](https://www.v2ex.com/t/752197)
+1. [B 站下架无职转生，各位怎么看？](https://www.v2ex.com/t/752226)
+1. [为键盘工作者设计的单词记忆软件⌨️](https://www.v2ex.com/t/752050)
+1. [双方父母不能支持买房的打工人该何去何从](https://www.v2ex.com/t/752259)
 1. [真有必要搞技术分享会吗？](https://www.v2ex.com/t/752048)
 1. [昨天差点被诈骗一万五](https://www.v2ex.com/t/752025)
-1. [Java 工作两年多，我面试过的题目](https://www.v2ex.com/t/752020)
-1. [双方父母不能支持买房的打工人该何去何从](https://www.v2ex.com/t/752259)
-1. [USDT 理财靠谱吗？](https://www.v2ex.com/t/752012)
+1. [今年本科毕业 只会装系统 刷机 ，不知何去何从](https://www.v2ex.com/t/752205)
+1. [各位拿移动硬盘都干些啥](https://www.v2ex.com/t/752228)
 
 ## 历史归档
 
