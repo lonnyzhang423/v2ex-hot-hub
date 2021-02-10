@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-10 20:04:51 +0800`
+ `更新时间：2021-02-10 21:04:16 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [在给 1Password 个人版付了几年钱以后，我觉得自己不能再做冤大头了。](https://www.v2ex.com/t/752805)
 1. [简历留邮箱还有邮箱歧视吗](https://www.v2ex.com/t/752733)
 1. [总是担心 notion 笔记公司忽然倒闭或者打不开啥的…](https://www.v2ex.com/t/752728)
-1. [indeed Tokyo is hiring.](https://www.v2ex.com/t/752708)
 1. [上海电信 2990 年付加精品网转了 2189 年付 5g 套餐](https://www.v2ex.com/t/752725)
+1. [想整一个生产力工具](https://www.v2ex.com/t/752785)
 
 ## 历史归档
 
