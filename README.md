@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-10 14:04:11 +0800`
+ `更新时间：2021-02-10 15:03:31 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [普通人家庭，花 30 万读复旦全日制金融硕士值得吗？](https://www.v2ex.com/t/752766)
 1. [简历留邮箱还有邮箱歧视吗](https://www.v2ex.com/t/752733)
 1. [单从无线角度来看，企业级 AP 和普通路由器有哪些差别？](https://www.v2ex.com/t/752640)
-1. [indeed Tokyo is hiring.](https://www.v2ex.com/t/752708)
 1. [总是担心 notion 笔记公司忽然倒闭或者打不开啥的…](https://www.v2ex.com/t/752728)
+1. [indeed Tokyo is hiring.](https://www.v2ex.com/t/752708)
 
 ## 历史归档
 
