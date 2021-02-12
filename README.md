@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-13 05:03:19 +0800`
+ `更新时间：2021-02-13 06:03:47 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [昨晚中了淘宝清空购物车](https://www.v2ex.com/t/753055)
 1. [大家买了马里奥 3D 世界吗](https://www.v2ex.com/t/753010)
 1. [目前 Google Photos 似乎并没有更好的替代品](https://www.v2ex.com/t/753074)
+1. [有没有觉得今年的央视春晚越来越难看？](https://www.v2ex.com/t/753112)
 1. [想退学去做桌面运维，可行性怎样？](https://www.v2ex.com/t/753116)
 1. [我来送 DV 通配符了 兼容性=DigiCert (Limited Offer 50 张)](https://www.v2ex.com/t/753028)
-1. [有没有觉得今年的央视春晚越来越难看？](https://www.v2ex.com/t/753112)
 
 ## 历史归档
 
