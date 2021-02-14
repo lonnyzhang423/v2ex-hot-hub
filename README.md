@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-14 15:03:40 +0800`
+ `更新时间：2021-02-14 16:04:23 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [中国移动的宽带真的是一言难尽](https://www.v2ex.com/t/753184)
 1. [终于也被手机偷听了一回](https://www.v2ex.com/t/753220)
 1. [Coding 的屏幕是不是能看就行👀](https://www.v2ex.com/t/753177)
-1. [Windows Insider 进了 Dev Channel 有什么奇技淫巧能返回正常版本吗？](https://www.v2ex.com/t/753211)
+1. [觉得自己是弱智，是不是没救了？要去医院看吗？](https://www.v2ex.com/t/753201)
 
 ## 历史归档
 
