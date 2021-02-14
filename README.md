@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-14 07:03:51 +0800`
+ `更新时间：2021-02-14 08:09:07 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [安卓手机用超过一年多拍摄录像会卡，怎么解决?](https://www.v2ex.com/t/753137)
 1. [家用电脑 i7 cpu 可以连续几个星期 100%运行吗](https://www.v2ex.com/t/753163)
 1. [唐人街探案 3 比尬更尬！](https://www.v2ex.com/t/753205)
+1. [PDF Expert 3.0 试用体验](https://www.v2ex.com/t/753191)
+1. [试用了一下 qq 音乐，很困惑：中学生口味](https://www.v2ex.com/t/753145)
 1. [既然微信支持安卓平板扫码登陆了, 我有一个想法不知当不当讲](https://www.v2ex.com/t/753167)
 1. [Coding 的屏幕是不是能看就行👀](https://www.v2ex.com/t/753177)
-1. [试用了一下 qq 音乐，很困惑：中学生口味](https://www.v2ex.com/t/753145)
-1. [PDF Expert 3.0 试用体验](https://www.v2ex.com/t/753191)
 
 ## 历史归档
 
