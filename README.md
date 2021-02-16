@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-16 17:03:48 +0800`
+ `更新时间：2021-02-16 18:04:04 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [8G m1 做开发是不是内存严重不足？](https://www.v2ex.com/t/753454)
 1. [过年期间，你每天都上些什么网站？](https://www.v2ex.com/t/753449)
 1. [有些技巧以前很重要，现在越来越没用了](https://www.v2ex.com/t/753483)
-1. [智能音箱你们用的开心么？](https://www.v2ex.com/t/753414)
 1. [体检与隐私，如何更好地兼顾？](https://www.v2ex.com/t/753499)
 1. [大家的 M1 有没有这个问题](https://www.v2ex.com/t/753441)
-1. [大家有没有注意过 [交管 12123] 这个 app 奇怪的问题](https://www.v2ex.com/t/753410)
 1. [WiFi 与 USB 3.0 干扰问题](https://www.v2ex.com/t/753485)
 1. [关于外区 Apple ID 不允许非该地区用户使用，是否有政策或协议依据？](https://www.v2ex.com/t/753464)
+1. [iPhone 12 mini 刚购入两天，电源键软趴趴的，可以申请换机吗？](https://www.v2ex.com/t/753443)
+1. [想要一个能跑 Linux 桌面的电视盒子](https://www.v2ex.com/t/753447)
 
 ## 历史归档
 
