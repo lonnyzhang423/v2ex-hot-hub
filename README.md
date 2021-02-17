@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-18 03:02:36 +0800`
+ `更新时间：2021-02-18 04:03:45 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [正月初六老一辈人留下的传统习俗你们都能接受吗](https://www.v2ex.com/t/753740)
 1. [Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了](https://www.v2ex.com/t/753716)
 1. [Switch 连小米电视这画质不能忍啊](https://www.v2ex.com/t/753700)
+1. [M1 Mac 使用未上架 MAS 的 iOS 应用的途径似乎已经被堵死](https://www.v2ex.com/t/753655)
 
 ## 历史归档
 
