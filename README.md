@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-18 12:04:24 +0800`
+ `更新时间：2021-02-18 13:03:27 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [春节假期后就要上班了， 浑身难受。 才毕业两年就不想努力嘞](https://www.v2ex.com/t/753706)
 1. [正月初六老一辈人留下的传统习俗你们都能接受吗](https://www.v2ex.com/t/753740)
 1. [Macbook Pro 2013 late 今天出掉了，回收给了 3200，挺给力了](https://www.v2ex.com/t/753716)
-1. [IM 软件的想法](https://www.v2ex.com/t/753682)
-1. [Switch 连小米电视这画质不能忍啊](https://www.v2ex.com/t/753700)
-1. [自己搭了个 FreshRSS，共享给大家使用](https://www.v2ex.com/t/753776)
 1. [为什么一些工作年长的程序员老喜欢当培训机构讲师？](https://www.v2ex.com/t/753786)
+1. [IM 软件的想法](https://www.v2ex.com/t/753682)
+1. [玩了好几天 CH，平均每天十个小时。有点上头。](https://www.v2ex.com/t/753788)
+1. [自己搭了个 FreshRSS，共享给大家使用](https://www.v2ex.com/t/753776)
 
 ## 历史归档
 
