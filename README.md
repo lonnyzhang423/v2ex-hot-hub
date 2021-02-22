@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-02-22 15:02:59 +0800`
+ `更新时间：2021-02-22 16:03:47 +0800`
 
 ## 热议话题
 
 1. [你为什么会成为一名程序员？](https://www.v2ex.com/t/755020)
 1. [关于被发小及同学当花呗频繁借钱的应对方案？](https://www.v2ex.com/t/754987)
-1. [用了几天鼠须管还是换回了搜狗](https://www.v2ex.com/t/754860)
-1. [小白 win 用户已沦为各流氓“卫士”软件横行霸道倾销广告与垃圾的场所](https://www.v2ex.com/t/754945)
 1. [请教一下，为啥现在流行的 color theme 都是 dark 系的？有没有喜欢 light 系的兄弟姐妹？](https://www.v2ex.com/t/754951)
+1. [用了几天鼠须管还是换回了搜狗](https://www.v2ex.com/t/754860)
 1. [做个小调查，一个新项目，大家首选的框架是什么](https://www.v2ex.com/t/754961)
+1. [小白 win 用户已沦为各流氓“卫士”软件横行霸道倾销广告与垃圾的场所](https://www.v2ex.com/t/754945)
 1. [早上睁开眼，王伟说，不想活了](https://www.v2ex.com/t/754936)
 1. [iPhone 7， iOS 14.4 已经撑不住微信了](https://www.v2ex.com/t/754950)
 
