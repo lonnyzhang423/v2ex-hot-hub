@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-07 00:05:50 +0800`
+ `更新时间：2021-03-07 01:22:11 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [Linux 如果宣布收费的话， Linus Torvalds 会立即成为世界首富吗？](https://www.v2ex.com/t/759028)
 1. [有没有一个论坛，专为人肉胡言乱语者而生](https://www.v2ex.com/t/758991)
 1. [用 2、3 周时间，自己做了个小网站，这个网站大家能给打几分呢？](https://www.v2ex.com/t/759079)
+1. [微软的 OneNote 算是坑死我了](https://www.v2ex.com/t/759157)
 1. [请问机械硬盘竖装只安装两颗螺丝可以吗？](https://www.v2ex.com/t/758967)
-1. [有无老哥用 Mac Mini 日常带着往返公司家里用的？](https://www.v2ex.com/t/759007)
 
 ## 历史归档
 
