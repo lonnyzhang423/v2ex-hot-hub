@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-09 12:04:30 +0800`
+ `更新时间：2021-03-09 13:04:25 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [我们用一年的时间，打造了最有逼格的热榜网站 the.top](https://www.v2ex.com/t/759615)
 1. [苦于 vue3 生态太差，去看了看 react 文档](https://www.v2ex.com/t/759655)
 1. [花了点时间写了个 macOS 下的动态壁纸,来发一下兑换码](https://www.v2ex.com/t/759603)
+1. [基金巨亏要不要跑路？](https://www.v2ex.com/t/759849)
 1. [分享一下近一年的欧盟 WeChat 账号与微信账号的使用与功能区别](https://www.v2ex.com/t/759570)
 1. [咨询一个 redis 穿透的问题，看看大佬有什么解决方案没有](https://www.v2ex.com/t/759715)
-1. [基金巨亏要不要跑路？](https://www.v2ex.com/t/759849)
 1. [找一下 GitHub 上的 imldy](https://www.v2ex.com/t/759656)
 1. [王伟说：“我可以做一个傻子吗？”](https://www.v2ex.com/t/759805)
 
