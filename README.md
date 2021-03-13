@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-13 17:03:46 +0800`
+ `更新时间：2021-03-13 18:04:04 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [游戏中这么多美女战士，符合历史背景文化吗？](https://www.v2ex.com/t/761219)
 1. [M1 MBA 推荐个扩展坞](https://www.v2ex.com/t/761161)
 1. [不庆祝一下么，可以在浏览器使用 JetBrains 家的 IDE 了 ( VSCode 退出群聊..](https://www.v2ex.com/t/761155)
+1. [V2EX 连接已重置？默认解析的三个 IP 全部不可用（TCPing 疑似被劫持？延迟过低 有规律）](https://www.v2ex.com/t/761226)
 1. [“如何证明照片没有经过处理”的一个 idea](https://www.v2ex.com/t/761216)
-1. [现在入手 se2 还是安卓好](https://www.v2ex.com/t/761224)
 
 ## 历史归档
 
