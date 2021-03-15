@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-15 12:04:35 +0800`
+ `更新时间：2021-03-15 13:04:08 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [你们为什么会有母校情节？](https://www.v2ex.com/t/761595)
 1. [入手 Macbook 2020 Intel...](https://www.v2ex.com/t/761488)
 1. [人在非常安静的情况下,将注意力转移到耳朵,会听到什么声音?](https://www.v2ex.com/t/761549)
-1. [从 Linux 换到黑苹果的一些感想](https://www.v2ex.com/t/761527)
 1. [请问应该怎么面试简历上写的都是看文档调用 api 的候选人，而且该人说“加班任劳任怨”](https://www.v2ex.com/t/761621)
+1. [从 Linux 换到黑苹果的一些感想](https://www.v2ex.com/t/761527)
 1. [上次遇到这种天已经是 10 多年前了](https://www.v2ex.com/t/761639)
 1. [在面试的时候要不要表示自己能加班？](https://www.v2ex.com/t/761630)
-1. [有无小工具可以强制 sim 卡不漫游？？](https://www.v2ex.com/t/761541)
+1. [感觉在给别人爸妈养老](https://www.v2ex.com/t/761692)
 
 ## 历史归档
 
