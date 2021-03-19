@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-19 16:04:42 +0800`
+ `更新时间：2021-03-19 17:03:51 +0800`
 
 ## 热议话题
 
 1. [新来的外包同事，这代码，我？？?](https://www.v2ex.com/t/763063)
-1. [嘴里溃疡长在了奇怪的地方，求各位经验](https://www.v2ex.com/t/762988)
 1. [公司征集一段代码印制在 T 恤上，过来取经了, 送键盘](https://www.v2ex.com/t/763130)
+1. [嘴里溃疡长在了奇怪的地方，求各位经验](https://www.v2ex.com/t/762988)
 1. [要换国产安卓手机了，要装哪些防国产流氓 app 的 app](https://www.v2ex.com/t/763097)
 1. [大家会用工作和生活两个微信号吗？](https://www.v2ex.com/t/763052)
 1. [Intel 上线了 Apple M1 vs Intel 的比较页面](https://www.v2ex.com/t/763028)
