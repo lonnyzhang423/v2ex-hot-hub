@@ -11,13 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-20 10:23:01 +0800`
+ `更新时间：2021-03-20 11:05:55 +0800`
 
 ## 热议话题
 
 1. [公司征集一段代码印制在 T 恤上，过来取经了, 送键盘](https://www.v2ex.com/t/763130)
-1. [要换国产安卓手机了，要装哪些防国产流氓 app 的 app](https://www.v2ex.com/t/763097)
-1. [2 万翻 10 倍变成了 20 万，我该继续持有吗？](https://www.v2ex.com/t/763109)
 1. [并行用了两年的 macos 和 win10，感觉还是 win 生产力高，大家有同感吗？](https://www.v2ex.com/t/763209)
 1. [都说 Java 是卷王之王，那 Java 到底有多卷？](https://www.v2ex.com/t/763188)
 1. [自从刘海屏问世，不再关注新手机了](https://www.v2ex.com/t/763174)
@@ -25,6 +23,8 @@
 1. [五线城市民办学校，年薪 17W，大家觉得怎么样](https://www.v2ex.com/t/763155)
 1. [换了 android 机， nfc 解放门卡](https://www.v2ex.com/t/763203)
 1. [有没有人觉得这次 chrome 更新 更好用了](https://www.v2ex.com/t/763126)
+1. [使用 frp 将 Windows 远程桌面暴露到公网上，貌似被爆破了，怎么破](https://www.v2ex.com/t/763283)
+1. [迫于老婆身份证又找不到了。。。有类似的防丢贴产品吗？](https://www.v2ex.com/t/763181)
 
 ## 历史归档
 
