@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-23 21:16:39 +0800`
+ `更新时间：2021-03-23 22:09:02 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [2021 3/22 - 3/28 腾讯充值 App Store 充值 9 折优惠](https://www.v2ex.com/t/764122)
 1. [15， 25 万左右档次分别有什么车推荐？](https://www.v2ex.com/t/764121)
 1. [科技媒体的评测真的有人信？](https://www.v2ex.com/t/764120)
+1. [大家 Windows 下用什么普通文本编辑器？](https://www.v2ex.com/t/764246)
 1. [未来，你看好哪个行业？](https://www.v2ex.com/t/764185)
 1. [心理咨询了好几次，每次感觉好点，回到家，又是一堆鸡毛](https://www.v2ex.com/t/764134)
-1. [大家 Windows 下用什么普通文本编辑器？](https://www.v2ex.com/t/764246)
 1. [广州办个借记卡怎么那么麻烦？？](https://www.v2ex.com/t/764149)
 1. [Android APP 提示“是否允许访问您设备上的照片、媒体内容和文件”？](https://www.v2ex.com/t/764119)
 1. [又到金三银四了，今年程序员面试卷不卷？](https://www.v2ex.com/t/764224)
