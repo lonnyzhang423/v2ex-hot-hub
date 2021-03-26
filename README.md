@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-26 19:08:08 +0800`
+ `更新时间：2021-03-26 20:12:54 +0800`
 
 ## 热议话题
 
 1. [之前 3500 出了一套整机，现在想玩游戏又买了新电脑，感觉自己像个 sb 怎么办](https://www.v2ex.com/t/765249)
 1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254)
 1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262)
-1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288)
-1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250)
 1. [业余时间做了个 Bilibili for tvOS，不知道多少人有这个需求](https://www.v2ex.com/t/765455)
+1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250)
+1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288)
 1. [这也行，是巧合是缘分？](https://www.v2ex.com/t/765206)
 1. [自己最近独立开发的一个可以一起听歌的聊天室开源项目](https://www.v2ex.com/t/765354)
 1. [Flash 保存计划，保存那些老的 Flash](https://www.v2ex.com/t/765236)
-1. [感觉 MagSafe 充电比想象中快](https://www.v2ex.com/t/765242)
+1. [是因为年纪越来越大，开始对游戏逐渐失去兴趣了吗](https://www.v2ex.com/t/765480)
 
 ## 历史归档
 
