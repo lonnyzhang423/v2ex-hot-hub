@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-26 15:11:38 +0800`
+ `更新时间：2021-03-26 16:12:50 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [各位码农前辈，租房贵重设备如何防偷？](https://www.v2ex.com/t/765254)
 1. [隔壁工位敲键盘声音太响说了也没用](https://www.v2ex.com/t/765091)
 1. [有哪些你看着眼熟实际并不认识的字？](https://www.v2ex.com/t/765262)
-1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288)
 1. [为什么早饭每天吃一样的就可以，午饭吃一样的就会腻](https://www.v2ex.com/t/765250)
+1. [在 macbook 上使用浏览器太纠结了， chrome 和 safari 切换的难受](https://www.v2ex.com/t/765288)
 
 ## 历史归档
 
