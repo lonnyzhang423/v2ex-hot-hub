@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-28 21:17:51 +0800`
+ `更新时间：2021-03-28 22:08:49 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [无大厂经验， offer 选择，请过来人给个经验](https://www.v2ex.com/t/765826)
 1. [电信客户经理求我要送我一个 5G 套餐](https://www.v2ex.com/t/765836)
 1. [如何保持编程的乐趣?](https://www.v2ex.com/t/765795)
-1. [求全家桶精简建议](https://www.v2ex.com/t/765779)
 1. [关于异地的双方在某地买房的讨论](https://www.v2ex.com/t/765784)
-1. [请教一条 MYSQL 语句，根据 SELECT 有无数据，进行 INSERT，或者是什么都不做...](https://www.v2ex.com/t/765767)
+1. [求全家桶精简建议](https://www.v2ex.com/t/765779)
 1. [35+的程序员转体制内是一个好的选择吗](https://www.v2ex.com/t/765819)
+1. [关于考研意见征求](https://www.v2ex.com/t/765811)
 
 ## 历史归档
 
