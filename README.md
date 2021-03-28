@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-28 11:16:28 +0800`
+ `更新时间：2021-03-28 12:13:20 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [写了一个 py 想让它在云服务后台运行](https://www.v2ex.com/t/765656)
 1. [V 站做嵌入式的多么？都没见聊嵌入式的（嵌入式开除程序员籍）](https://www.v2ex.com/t/765706)
 1. [把收验证码的手机号存家里，远程查看验证码](https://www.v2ex.com/t/765711)
-1. [阿里云盘上传限速](https://www.v2ex.com/t/765661)
 1. [团队奋斗了 1 年,首个稳定版发布了 ToDesk](https://www.v2ex.com/t/765799)
-1. [实话实说，把 iPhone8 卖掉后悔了](https://www.v2ex.com/t/765634)
+1. [阿里云盘上传限速](https://www.v2ex.com/t/765661)
 1. [有没有什么提升生活乐趣的习惯？](https://www.v2ex.com/t/765690)
-1. [钉钉不能导出考勤记录？恶心死我了](https://www.v2ex.com/t/765644)
-1. [Python 读写文件时不用 with 也不关闭文件，这样的风格好吗？](https://www.v2ex.com/t/765647)
+1. [onedrive 在国内的上传下载速度如何？](https://www.v2ex.com/t/765727)
+1. [性格内向敏感，有点难受](https://www.v2ex.com/t/765789)
+1. [作为独立开发者，到底该不该花钱开个公司找代理记账?](https://www.v2ex.com/t/765668)
 
 ## 历史归档
 
