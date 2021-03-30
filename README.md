@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-30 08:29:55 +0800`
+ `更新时间：2021-03-30 09:53:41 +0800`
 
 ## 热议话题
 
 1. [感觉每天活的都好累](https://www.v2ex.com/t/766048)
 1. [今年 30 岁，想体验一次蹦极，想听一些过来人的经验](https://www.v2ex.com/t/766085)
+1. [无线充电，是不是鸡肋？](https://www.v2ex.com/t/766163)
 1. [各路神仙， ios14 还有办法使用 callKit 吗](https://www.v2ex.com/t/766054)
 1. [大家 web 开发时，是怎么样保障正式数据库的账号安全的？](https://www.v2ex.com/t/766088)
-1. [无线充电，是不是鸡肋？](https://www.v2ex.com/t/766163)
-1. [[国外远程] 招 react 职位](https://www.v2ex.com/t/766089)
-1. [更新 iOS 还是习惯线刷 不习惯 OTA 总感觉后者像是打补丁](https://www.v2ex.com/t/766024)
 1. [[上海][前端]传统行业，不加班， 15K](https://www.v2ex.com/t/766118)
+1. [[国外远程] 招 react 职位](https://www.v2ex.com/t/766089)
+1. [JDK16 发布， GC 最大暂停时间缩短到 1 毫秒，平均暂停时间 0.05 毫秒，有人体验过没？](https://www.v2ex.com/t/766035)
 
 ## 历史归档
 
