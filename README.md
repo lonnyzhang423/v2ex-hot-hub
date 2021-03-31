@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-03-31 08:26:14 +0800`
+ `更新时间：2021-03-31 09:53:09 +0800`
 
 ## 热议话题
 
-1. [公司开始要用 Java ， jdk 版本怎么选？](https://www.v2ex.com/t/766378)
 1. [记录一次尝试将 iPhone 11 作为主力机的经历](https://www.v2ex.com/t/766389)
-1. [微信推出微小号服务了 10 元/月](https://www.v2ex.com/t/766369)
-1. [阿里云现在的工单处理好慢，要快的话只能买极速工单包吗？收费好贵](https://www.v2ex.com/t/766527)
 1. [大家开车使用的是什么导航？ carplay？ carlife?](https://www.v2ex.com/t/766561)
+1. [阿里云现在的工单处理好慢，要快的话只能买极速工单包吗？收费好贵](https://www.v2ex.com/t/766527)
+1. [别，别在咸鱼上卖贵重物品](https://www.v2ex.com/t/766619)
 1. [苏伊士运河模拟器](https://www.v2ex.com/t/766518)
 1. [常年投诉垃圾短信后，很多验证码收不到了](https://www.v2ex.com/t/766399)
-1. [别，别在咸鱼上卖贵重物品](https://www.v2ex.com/t/766619)
+1. [小米官网的前端有点敷衍呀！](https://www.v2ex.com/t/766683)
 1. [google 的一个小众工具 keep 有替换品，竞品，或者增强版么？](https://www.v2ex.com/t/766397)
+1. [请问谷歌商店下载 app 永远等待中什么原因啊](https://www.v2ex.com/t/766425)
 
 ## 历史归档
 
