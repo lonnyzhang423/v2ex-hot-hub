@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-02 01:40:42 +0800`
+ `更新时间：2021-04-02 02:25:42 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111)
 1. [Sublime Text 4](https://www.v2ex.com/t/767077)
 1. [你的 4 月挑战是什么？](https://www.v2ex.com/t/767128)
-1. [大型犬儒狂欢现场](https://www.v2ex.com/t/767297)
 
 ## 历史归档
 
