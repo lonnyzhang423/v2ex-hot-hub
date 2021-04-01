@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-01 21:19:00 +0800`
+ `更新时间：2021-04-01 22:09:48 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [Sublime Text 4](https://www.v2ex.com/t/767077)
 1. [摇到了指标，预算 13W 左右买什么车](https://www.v2ex.com/t/767138)
 1. [你的 4 月挑战是什么？](https://www.v2ex.com/t/767128)
-1. [iPhone X 刷机后，需要激活锁，不记得 ID 账户和密码是不是没办法了？](https://www.v2ex.com/t/767143)
+1. [大型犬儒狂欢现场](https://www.v2ex.com/t/767297)
 
 ## 历史归档
 
