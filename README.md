@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-02 07:21:58 +0800`
+ `更新时间：2021-04-02 08:39:56 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [今天是裸辞的第一天](https://www.v2ex.com/t/767059)
 1. [我有一批牛肉干，家里工厂的，想在网上卖，大家有什么建议吗](https://www.v2ex.com/t/767086)
 1. [摇到了指标，预算 13W 左右买什么车](https://www.v2ex.com/t/767138)
-1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111)
 1. [Sublime Text 4](https://www.v2ex.com/t/767077)
+1. [1202 年了，为啥还有一堆公司用 jq + art-template ?](https://www.v2ex.com/t/767111)
 1. [你的 4 月挑战是什么？](https://www.v2ex.com/t/767128)
+1. [[更新] 咸鱼电脑摄像头骗局后续，贩子把我的电脑完全损坏](https://www.v2ex.com/t/767322)
 
 ## 历史归档
 
