@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-03 16:10:15 +0800`
+ `更新时间：2021-04-03 17:08:59 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [C#怎么读？ C 井？](https://www.v2ex.com/t/767700)
 1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746)
 1. [golang 是不是云时代的 PHP ?](https://www.v2ex.com/t/767676)
-1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741)
 1. [谷歌 L5 对标阿里 P7+？](https://www.v2ex.com/t/767713)
-1. [大家开始使用公司配发的 Apple M1 做开发了吗，有什么兼容性问题吗？](https://www.v2ex.com/t/767606)
+1. [一个牵扯丰巢柜、快递员、物业、车主的奇葩巧合。](https://www.v2ex.com/t/767741)
+1. [Vue3 放弃兼容 IE](https://www.v2ex.com/t/767710)
 
 ## 历史归档
 
