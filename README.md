@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-04 06:09:47 +0800`
+ `更新时间：2021-04-04 07:10:03 +0800`
 
 ## 热议话题
 
-1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746)
 1. [贪便宜，装了个移动的宽带，发现非常不稳定，能怎么改善吗](https://www.v2ex.com/t/767800)
 1. [macOS 有什么办法能真全局代理。](https://www.v2ex.com/t/767745)
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750)
