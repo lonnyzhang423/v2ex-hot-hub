@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-04 01:38:10 +0800`
+ `更新时间：2021-04-04 02:22:14 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [有人给 Apple 提意见并被采纳了吗？](https://www.v2ex.com/t/767750)
 1. [阿里小号从 5 月 1 日起关闭](https://www.v2ex.com/t/767780)
 1. [相见时难别亦难](https://www.v2ex.com/t/767759)
+1. [刚学多线程，请问下面这段程序为什么停不下来啊？](https://www.v2ex.com/t/767839)
 1. [macbook 13 寸（M1 芯片）外接两台 dell 的 27 寸 4k 显示器 u2720QM](https://www.v2ex.com/t/767784)
-1. [看网上说好像 iphone12 价格跌了](https://www.v2ex.com/t/767751)
 
 ## 历史归档
 
