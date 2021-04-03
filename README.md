@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-03 14:11:15 +0800`
+ `更新时间：2021-04-03 15:12:36 +0800`
 
 ## 热议话题
 
-1. [迫于女朋友，求一个合适的免息分期方案](https://www.v2ex.com/t/767538)
 1. [期货是不是比股票容易赚钱？听说没有熊市](https://www.v2ex.com/t/767666)
 1. [关于本次电信 C-I 段新发现](https://www.v2ex.com/t/767650)
 1. [Rust 最神奇的地方](https://www.v2ex.com/t/767570)
-1. [Mac 上有哪些好用的 PDF 阅读软件啊？](https://www.v2ex.com/t/767563)
 1. [C#怎么读？ C 井？](https://www.v2ex.com/t/767700)
+1. [你们查进程的时候喜欢用 ps -ef 还是 ps aux？](https://www.v2ex.com/t/767746)
 1. [提了离职，约了离职时间，还被组长安排进新项目](https://www.v2ex.com/t/767587)
 1. [golang 是不是云时代的 PHP ?](https://www.v2ex.com/t/767676)
 1. [谷歌 L5 对标阿里 P7+？](https://www.v2ex.com/t/767713)
+1. [清明节了，说吧准备怎么躺过三天](https://www.v2ex.com/t/767585)
 
 ## 历史归档
 
