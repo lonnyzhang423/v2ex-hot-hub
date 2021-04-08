@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-08 21:19:32 +0800`
+ `更新时间：2021-04-08 22:09:27 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [25 岁，到底应不应该要有存款？](https://www.v2ex.com/t/769087)
 1. [大龄 C++求职历程](https://www.v2ex.com/t/769036)
 1. [纯小白怎么入门烹饪](https://www.v2ex.com/t/768868)
-1. [Xcode 的 git，没保存不小心 checkout 后还能救吗？](https://www.v2ex.com/t/768881)
+1. [再过几年燃油车都禁售了，越野、远足怎么办？](https://www.v2ex.com/t/769103)
 
 ## 历史归档
 
