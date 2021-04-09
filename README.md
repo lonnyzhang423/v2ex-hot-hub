@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-09 08:29:47 +0800`
+ `更新时间：2021-04-09 09:56:33 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,12 @@
 1. [微软的 C# 和 .NET 未能发展好是不是和名字起的不好也有关系](https://www.v2ex.com/t/768962)
 1. [25 岁，到底应不应该要有存款？](https://www.v2ex.com/t/769087)
 1. [再过几年燃油车都禁售了，越野、远足怎么办？](https://www.v2ex.com/t/769103)
-1. [大龄 C++求职历程](https://www.v2ex.com/t/769036)
 1. [家族聚会时，每一个长辈都一一叫过吗？](https://www.v2ex.com/t/769013)
+1. [大龄 C++求职历程](https://www.v2ex.com/t/769036)
+1. [看完这块代码,我久久不能平静](https://www.v2ex.com/t/769094)
 1. [Windows 上有 zsh 的替代品吗](https://www.v2ex.com/t/769061)
 1. [[北京/远程] 北京雅识招聘前端工程师](https://www.v2ex.com/t/769052)
+1. [入职一星期离职了](https://www.v2ex.com/t/769053)
 
 ## 历史归档
 
