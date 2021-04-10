@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-10 15:12:30 +0800`
+ `更新时间：2021-04-10 16:10:22 +0800`
 
 ## 热议话题
 
 1. [绞尽脑汁，都怎么起的设备名？](https://www.v2ex.com/t/769488)
-1. [我是真的血压拉满了](https://www.v2ex.com/t/769474)
 1. [云游戏越来越玩完了](https://www.v2ex.com/t/769545)
-1. [数据库存储的敏感信息是否需要加密存储？](https://www.v2ex.com/t/769456)
-1. [BitLocker 在没有 TPM 的情况下安全吗？](https://www.v2ex.com/t/769463)
+1. [你们最近都学啥好玩有意思的技术了吗，想学点新东西玩玩](https://www.v2ex.com/t/769636)
+1. [能推荐一款游戏鼠标吗](https://www.v2ex.com/t/769625)
 1. [求推荐一款小型家用服务器](https://www.v2ex.com/t/769617)
+1. [感觉苹果要发 AR 眼镜了](https://www.v2ex.com/t/769664)
 
 ## 历史归档
 
