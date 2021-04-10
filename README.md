@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-11 00:14:14 +0800`
+ `更新时间：2021-04-11 01:33:23 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [自建 NAS 的存储方案的技术选择，求建议](https://www.v2ex.com/t/769653)
 1. [公司出差问题，询问大佬](https://www.v2ex.com/t/769691)
 1. [升级 ios14.4.2 之后 App Store 无法跳转不同国家商店](https://www.v2ex.com/t/769676)
+1. [7z vs rar](https://www.v2ex.com/t/769735)
 
 ## 历史归档
 
