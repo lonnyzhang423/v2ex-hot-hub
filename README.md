@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-10 18:09:33 +0800`
+ `更新时间：2021-04-10 19:07:44 +0800`
 
 ## 热议话题
 
-1. [云游戏越来越玩完了](https://www.v2ex.com/t/769545)
 1. [你们最近都学啥好玩有意思的技术了吗，想学点新东西玩玩](https://www.v2ex.com/t/769636)
 1. [能推荐一款游戏鼠标吗](https://www.v2ex.com/t/769625)
 1. [求推荐一款小型家用服务器](https://www.v2ex.com/t/769617)
 1. [公司出差问题，询问大佬](https://www.v2ex.com/t/769691)
 1. [感觉苹果要发 AR 眼镜了](https://www.v2ex.com/t/769664)
+1. [升级 ios14.4.2 之后 App Store 无法跳转不同国家商店](https://www.v2ex.com/t/769676)
 
 ## 历史归档
 
