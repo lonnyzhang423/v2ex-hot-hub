@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-11 08:34:29 +0800`
+ `更新时间：2021-04-11 10:02:02 +0800`
 
 ## 热议话题
 
-1. [你们最近都学啥好玩有意思的技术了吗，想学点新东西玩玩](https://www.v2ex.com/t/769636)
 1. [自建 NAS 的存储方案的技术选择，求建议](https://www.v2ex.com/t/769653)
 1. [公司出差问题，询问大佬](https://www.v2ex.com/t/769691)
 1. [升级 ios14.4.2 之后 App Store 无法跳转不同国家商店](https://www.v2ex.com/t/769676)
 1. [7z vs rar](https://www.v2ex.com/t/769735)
 1. [感觉苹果要发 AR 眼镜了](https://www.v2ex.com/t/769664)
-1. [现在从 SE2 换到 12mini 是否合适](https://www.v2ex.com/t/769638)
+1. [请教诸位一个 redis 统计访问量增速的问题](https://www.v2ex.com/t/769758)
+1. [多台 iPhone 之间如何快速传输文本？](https://www.v2ex.com/t/769652)
+1. [求问一下各位，自如的租房可以帮忙办居住证吗？](https://www.v2ex.com/t/769655)
 
 ## 历史归档
 
