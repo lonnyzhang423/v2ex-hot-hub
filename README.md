@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-11 19:07:42 +0800`
+ `更新时间：2021-04-11 20:12:38 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [剧慌，求推荐〔男女主开始互相讨厌，最后走到一起〕这类国产剧](https://www.v2ex.com/t/769868)
 1. [线下面试服装选择 正装 or 其他](https://www.v2ex.com/t/769852)
 1. [面试问到红黑树， B 树这种原理性的问题，怎么回答比较好?不啰嗦，又能回答到点子上](https://www.v2ex.com/t/769849)
+1. [APKPure v3.17.18 被植入木马](https://www.v2ex.com/t/769879)
 1. [这个时间可以入 M1 的 MacBook Air 吗？](https://www.v2ex.com/t/769825)
 1. [求推荐一款烧水壶](https://www.v2ex.com/t/769861)
-1. [你们都是怎么维护多个代码服务器的](https://www.v2ex.com/t/769763)
 1. [类似 vultr.com godaddy.com 这样的国外网站是如何拥有支付宝和微信支付的](https://www.v2ex.com/t/769819)
-1. [APKPure v3.17.18 被植入木马](https://www.v2ex.com/t/769879)
+1. [App Store 最新临时跳区方法，亲测(4.10)有效](https://www.v2ex.com/t/769803)
 
 ## 历史归档
 
