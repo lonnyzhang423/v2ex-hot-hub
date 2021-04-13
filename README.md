@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-13 07:11:19 +0800`
+ `更新时间：2021-04-13 08:33:40 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [请教个 docker 或是 iptables 防火墙问题：容器内能 ping 通 ip 但 ping 不通域名，提示“bad address”](https://www.v2ex.com/t/769968)
 1. [关于二战考研被导员催促威胁找工作](https://www.v2ex.com/t/770037)
 1. [准备从 Go 和 Rust 二选一，求建议](https://www.v2ex.com/t/770162)
+1. [准备注册个公司，想起个 类似特斯拉的名字，求各位推荐？](https://www.v2ex.com/t/770214)
 1. [移动硬盘，插电脑卡死， DG 类软件也打不开。是不是只能找数据恢复公司了](https://www.v2ex.com/t/770023)
 
 ## 历史归档
