@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-13 20:13:10 +0800`
+ `更新时间：2021-04-13 21:19:25 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [终于有 Linux 官方的 QQ 了](https://www.v2ex.com/t/770249)
 1. [震惊! 宅男忍不住诱惑卖家诱惑, 怒拔黑苹果 Rx470 显卡!](https://www.v2ex.com/t/770227)
 1. [出国有必要保留一张国内卡吗？](https://www.v2ex.com/t/770241)
-1. [类似爬取展示盗版小说的 app 为何可以安然无恙存活？](https://www.v2ex.com/t/770278)
 1. [sublime 用的人还多么？](https://www.v2ex.com/t/770310)
+1. [类似爬取展示盗版小说的 app 为何可以安然无恙存活？](https://www.v2ex.com/t/770278)
 
 ## 历史归档
 
