@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-14 07:09:42 +0800`
+ `更新时间：2021-04-14 08:29:33 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [终于有 Linux 官方的 QQ 了](https://www.v2ex.com/t/770249)
 1. [sublime 用的人还多么？](https://www.v2ex.com/t/770310)
 1. [出国有必要保留一张国内卡吗？](https://www.v2ex.com/t/770241)
-1. [有办法让微信消停吗？](https://www.v2ex.com/t/770239)
 1. [类似爬取展示盗版小说的 app 为何可以安然无恙存活？](https://www.v2ex.com/t/770278)
+1. [被父母要钱，我很抗拒](https://www.v2ex.com/t/770450)
+1. [坐标深圳，一次发烧，花费 520](https://www.v2ex.com/t/770419)
 1. [终于触摸到了 E3 1230 的性能瓶颈..](https://www.v2ex.com/t/770272)
-1. [堡垒机是为了监控管理员行为，那谁来监控运维堡垒机的管理员](https://www.v2ex.com/t/770369)
 
 ## 历史归档
 
