@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-14 14:11:14 +0800`
+ `更新时间：2021-04-14 15:12:11 +0800`
 
 ## 热议话题
 
 1. [被父母要钱，我很抗拒](https://www.v2ex.com/t/770450)
-1. [坐标深圳，一次发烧，花费 520](https://www.v2ex.com/t/770419)
-1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492)
 1. [分享一个还算靠谱的 AirDrop](https://www.v2ex.com/t/770461)
+1. [坐标深圳，一次发烧，花费 520](https://www.v2ex.com/t/770419)
 1. [VioEye: 查看某个 app 的请求的域名和 IP [发放兑换码]](https://www.v2ex.com/t/770502)
-1. [堡垒机是为了监控管理员行为，那谁来监控运维堡垒机的管理员](https://www.v2ex.com/t/770369)
+1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492)
 1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488)
-1. [低代码/无代码开发工具有人真的用过开发线上系统吗？](https://www.v2ex.com/t/770414)
+1. [堡垒机是为了监控管理员行为，那谁来监控运维堡垒机的管理员](https://www.v2ex.com/t/770369)
 
 ## 历史归档
 
