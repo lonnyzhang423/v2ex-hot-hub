@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-15 08:31:23 +0800`
+ `更新时间：2021-04-15 09:56:40 +0800`
 
 ## 热议话题
 
-1. [RX580 咸鱼挂 3000 被秒了。](https://www.v2ex.com/t/770488)
-1. [谈离职却被领导 PUA](https://www.v2ex.com/t/770492)
 1. [VioEye: 查看某个 app 的请求的域名和 IP [发放兑换码]](https://www.v2ex.com/t/770502)
 1. [骚操作:我在京东买东西,卖家直接去淘宝帮我下了一单寄给我了](https://www.v2ex.com/t/770532)
 1. [自己没车，怎么把一只猫从上海带到无锡](https://www.v2ex.com/t/770608)
 1. [买广州还是武汉？](https://www.v2ex.com/t/770523)
 1. [彦祖们，五一打算去上海玩，有小众但值得逛的地方推荐吗？](https://www.v2ex.com/t/770646)
+1. [最近已经出现硬盘挖矿的虚拟币了？](https://www.v2ex.com/t/770543)
+1. [股市何时进入风险较小？](https://www.v2ex.com/t/770497)
+1. [Sony 新机 Xperia 1 III 能否在 Android 阵营站起来？](https://www.v2ex.com/t/770697)
+1. [数据库表设计是否需要在字段前标注字段的所属对象，比如用户表的名字是 user_name,学校表的名字字段是 school_name](https://www.v2ex.com/t/770704)
 
 ## 历史归档
 
