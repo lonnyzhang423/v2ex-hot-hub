@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-15 19:08:00 +0800`
+ `更新时间：2021-04-15 20:13:01 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [Sony 新机 Xperia 1 III 能否在 Android 阵营站起来？](https://www.v2ex.com/t/770697)
 1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791)
 1. [我有一个问题。芯片制造商为什么不自己挖矿？](https://www.v2ex.com/t/770734)
-1. [移动端的未来是什么](https://www.v2ex.com/t/770773)
 1. [因为把公司 Mysql 一堆带 null 字段优化非空带默认值被骂](https://www.v2ex.com/t/770788)
+1. [移动端的未来是什么](https://www.v2ex.com/t/770773)
 1. [坐标上海，想买 20w-25w 左右的车，怎么选择？](https://www.v2ex.com/t/770780)
-1. [人和人之间是经常是很难交流的](https://www.v2ex.com/t/770722)
+1. [魅族做了一个违背祖宗的决定](https://www.v2ex.com/t/770801)
 
 ## 历史归档
 
