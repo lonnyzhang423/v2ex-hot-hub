@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-16 03:16:07 +0800`
+ `更新时间：2021-04-16 04:09:43 +0800`
 
 ## 热议话题
 
 1. [终于下定决心买了正版 jetbrains 全家桶一年授权](https://www.v2ex.com/t/770756)
 1. [因为把公司 Mysql 一堆带 null 字段优化非空带默认值被骂](https://www.v2ex.com/t/770788)
 1. [写了十年程序，钱也没赚到多少，现在也没稳定工作](https://www.v2ex.com/t/770791)
-1. [我有一个问题。芯片制造商为什么不自己挖矿？](https://www.v2ex.com/t/770734)
-1. [坐标上海，想买 20w-25w 左右的车，怎么选择？](https://www.v2ex.com/t/770780)
 1. [移动端的未来是什么](https://www.v2ex.com/t/770773)
+1. [坐标上海，想买 20w-25w 左右的车，怎么选择？](https://www.v2ex.com/t/770780)
 1. [魅族做了一个违背祖宗的决定](https://www.v2ex.com/t/770801)
 1. [这些读取剪切板的国产 app 是真的烦](https://www.v2ex.com/t/770796)
-1. [3080 现在能卖多少钱？](https://www.v2ex.com/t/770746)
 1. [唉，有点可怕，这开发者好像还在论坛的。还是官网下载的.....FinalShell.....](https://www.v2ex.com/t/770866)
+1. [3080 现在能卖多少钱？](https://www.v2ex.com/t/770746)
+1. [对应届生来说客户端开发真的是劝退吗](https://www.v2ex.com/t/770757)
 
 ## 历史归档
 
