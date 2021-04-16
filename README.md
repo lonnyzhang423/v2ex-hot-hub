@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-17 03:15:26 +0800`
+ `更新时间：2021-04-17 04:09:32 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [wsl2 是真的好用](https://www.v2ex.com/t/771093)
 1. [因为国内部分开发人员的小心思，所以我更偏向较为封闭的 iPhone 手机。](https://www.v2ex.com/t/770993)
 1. [windows 系统中顽固的 2345 到底如何根治？](https://www.v2ex.com/t/771113)
+1. [你们怎么看现在 Python 的发展方向？](https://www.v2ex.com/t/771010)
 
 ## 历史归档
 
