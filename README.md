@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-17 15:12:28 +0800`
+ `更新时间：2021-04-17 16:10:19 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [大容量硬盘成为新的理财产品](https://www.v2ex.com/t/771212)
 1. [脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230)
 1. [尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236)
-1. [广州越秀电信 光猫拿到 IPV6 地址 却测试不过 且无 INTERNET 访问权限](https://www.v2ex.com/t/771108)
+1. [上课屏蔽老师声音，选 Airpods Pro 还是 Sony WF-1000mx3？](https://www.v2ex.com/t/771262)
+1. [新手求问， swiftui 的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241)
 1. [vue 项目，开发预览和构建后的页面不一致，求助](https://www.v2ex.com/t/771169)
-1. [如何整洁的布置一桌子的设备 毫无头绪](https://www.v2ex.com/t/771180)
 
 ## 历史归档
 
