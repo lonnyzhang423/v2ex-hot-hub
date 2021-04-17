@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-17 12:11:19 +0800`
+ `更新时间：2021-04-17 13:12:55 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [电动汽车确实是伪需求](https://www.v2ex.com/t/771129)
 1. [我有个域名，不晓得要不要扔掉，请大佬来帮我参考参考](https://www.v2ex.com/t/771075)
 1. [IKBC 键盘 F108“短寿”后续，售后检测是进了小强](https://www.v2ex.com/t/771077)
-1. [关于 git 和 git workflow 的几个疑点请教下大家](https://www.v2ex.com/t/771099)
-1. [请问大家什么是互联网思维呢](https://www.v2ex.com/t/771074)
 1. [发现自己的五笔打字水平越来越菜了，经常忘字要用临时拼音救场](https://www.v2ex.com/t/771228)
+1. [关于 git 和 git workflow 的几个疑点请教下大家](https://www.v2ex.com/t/771099)
 1. [大容量硬盘成为新的理财产品](https://www.v2ex.com/t/771212)
+1. [迫于穷，请问有无类似 paste 的软件？](https://www.v2ex.com/t/771088)
 
 ## 历史归档
 
