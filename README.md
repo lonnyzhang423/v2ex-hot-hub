@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-17 10:32:50 +0800`
+ `更新时间：2021-04-17 11:14:03 +0800`
 
 ## 热议话题
 
 1. [windows 系统中顽固的 2345 到底如何根治？](https://www.v2ex.com/t/771113)
 1. [wsl2 是真的好用](https://www.v2ex.com/t/771093)
-1. [IKBC 键盘 F108“短寿”后续，售后检测是进了小强](https://www.v2ex.com/t/771077)
 1. [我有个域名，不晓得要不要扔掉，请大佬来帮我参考参考](https://www.v2ex.com/t/771075)
+1. [IKBC 键盘 F108“短寿”后续，售后检测是进了小强](https://www.v2ex.com/t/771077)
 1. [电动汽车确实是伪需求](https://www.v2ex.com/t/771129)
 1. [关于 git 和 git workflow 的几个疑点请教下大家](https://www.v2ex.com/t/771099)
 1. [在创业公司混中层好难熬。。。](https://www.v2ex.com/t/771044)
-1. [[12306] [内推] [前端] [北京西直门]](https://www.v2ex.com/t/771025)
+1. [请问大家什么是互联网思维呢](https://www.v2ex.com/t/771074)
+1. [迫于穷，请问有无类似 paste 的软件？](https://www.v2ex.com/t/771088)
 
 ## 历史归档
 
