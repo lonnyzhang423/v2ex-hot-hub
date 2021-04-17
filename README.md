@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-17 19:07:40 +0800`
+ `更新时间：2021-04-17 20:12:15 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [如何整洁的布置一桌子的设备 毫无头绪](https://www.v2ex.com/t/771180)
 1. [脑洞一下，房子除出租外，如何创造收入？](https://www.v2ex.com/t/771230)
 1. [尴尬的面试题，没有解决，估计面试官在后台偷笑](https://www.v2ex.com/t/771236)
-1. [上课屏蔽老师声音，选 Airpods Pro 还是 Sony WF-1000mx3？](https://www.v2ex.com/t/771262)
 1. [新手求问， swiftui 的文档应该怎么去阅读理解？救命啊。。](https://www.v2ex.com/t/771241)
-1. [vue 项目，开发预览和构建后的页面不一致，求助](https://www.v2ex.com/t/771169)
+1. [上课屏蔽老师声音，选 Airpods Pro 还是 Sony WF-1000mx3？](https://www.v2ex.com/t/771262)
 1. [想再买个手机玩玩，魅族还是一加](https://www.v2ex.com/t/771270)
+1. [vue 项目，开发预览和构建后的页面不一致，求助](https://www.v2ex.com/t/771169)
 
 ## 历史归档
 
