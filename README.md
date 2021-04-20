@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-20 20:13:27 +0800`
+ `更新时间：2021-04-20 21:19:09 +0800`
 
 ## 热议话题
 
 1. [哪些软件是 Windows 上有，反而 macOS 没有的？](https://www.v2ex.com/t/771791)
-1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830)
 1. [我来说说异步框架的最大缺点](https://www.v2ex.com/t/771935)
+1. [真想回到用 iMessage 聊天的时代 微信和 QQ 真的过于冗杂](https://www.v2ex.com/t/771830)
 1. [[offer 比较] ebay vs 小红书](https://www.v2ex.com/t/771819)
 1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820)
 1. [今晚的苹果春季发布会，不想熬夜，打算明天早上起来直接看视频，怎么防止被剧透？](https://www.v2ex.com/t/771898)
