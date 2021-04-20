@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-20 09:57:30 +0800`
+ `更新时间：2021-04-20 10:38:10 +0800`
 
 ## 热议话题
 
 1. [为什么中国大学很少使用邮件进行通信？](https://www.v2ex.com/t/771662)
 1. [30 岁的低欲期](https://www.v2ex.com/t/771627)
-1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576)
+1. [哪些软件是 Windows 上有，反而 macOS 没有的？](https://www.v2ex.com/t/771791)
 1. [收到 offer，要不要跳槽？](https://www.v2ex.com/t/771628)
 1. [如何应对孤独感？](https://www.v2ex.com/t/771599)
-1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563)
 1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597)
-1. [哪些软件是 Windows 上有，反而 macOS 没有的？](https://www.v2ex.com/t/771791)
 1. [提了离职要走吗？](https://www.v2ex.com/t/771707)
+1. [[踢楼送码] 一个 DES 加密的云日记](https://www.v2ex.com/t/771619)
 1. [乳胶枕好用吗。](https://www.v2ex.com/t/771637)
+1. [手持 iphone11 有必要换个 12 么](https://www.v2ex.com/t/771743)
 
 ## 历史归档
 
