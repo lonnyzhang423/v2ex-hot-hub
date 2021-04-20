@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-20 08:31:24 +0800`
+ `更新时间：2021-04-20 09:57:30 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [30 岁的低欲期](https://www.v2ex.com/t/771627)
 1. [阿里味编程语言 pua-lang 正式发布！](https://www.v2ex.com/t/771576)
 1. [收到 offer，要不要跳槽？](https://www.v2ex.com/t/771628)
-1. [闲久了，突然项目要忙起来很害怕焦虑怎么办？](https://www.v2ex.com/t/771549)
 1. [如何应对孤独感？](https://www.v2ex.com/t/771599)
 1. [自己在家挖矿几天结果收益被盗了，说说我的经历](https://www.v2ex.com/t/771563)
 1. [为什么用心制作的视频没人看！大家能给我的视频提点意见嘛~](https://www.v2ex.com/t/771597)
-1. [大家平时都是怎么保护隐私的？](https://www.v2ex.com/t/771550)
+1. [哪些软件是 Windows 上有，反而 macOS 没有的？](https://www.v2ex.com/t/771791)
 1. [提了离职要走吗？](https://www.v2ex.com/t/771707)
+1. [乳胶枕好用吗。](https://www.v2ex.com/t/771637)
 
 ## 历史归档
 
