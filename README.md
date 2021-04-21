@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-22 05:08:30 +0800`
+ `更新时间：2021-04-22 06:10:33 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152)
 1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057)
 1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171)
+1. [为了写论文向 Linux 内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319)
 1. [可以把 AirTag 功能植入体内么？](https://www.v2ex.com/t/772127)
 1. [有没有和我一样的错觉：哪怕是两年前的 iPhone 觉得性能过剩，而刚发布的最新 Android 却觉性能不够？](https://www.v2ex.com/t/772242)
 
