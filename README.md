@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-21 07:09:49 +0800`
+ `更新时间：2021-04-21 08:31:07 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [今晚的苹果春季发布会，不想熬夜，打算明天早上起来直接看视频，怎么防止被剧透？](https://www.v2ex.com/t/771898)
 1. [现在好多 APP 打开就弹出升级提示 还要一个个点击暂不升级，真是心累。](https://www.v2ex.com/t/771820)
 1. [美区 Apple ID 日常使用的一些问题](https://www.v2ex.com/t/771832)
-1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833)
 1. [8 瓶水 2 瓶有毒 6 个耗子 要求单次检验出结果](https://www.v2ex.com/t/771969)
+1. [[翻译] 正式宣布 Visual Studio 2022](https://www.v2ex.com/t/771833)
+1. [M1 in iPad Pro 这操作。](https://www.v2ex.com/t/772038)
 
 ## 历史归档
 
