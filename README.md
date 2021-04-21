@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-21 20:13:12 +0800`
+ `更新时间：2021-04-21 21:19:15 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120)
 1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090)
 1. [M1 in iPad Pro 这操作。](https://www.v2ex.com/t/772038)
-1. [AirTag 可以搞一个玩玩](https://www.v2ex.com/t/772045)
 1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065)
+1. [AirTag 可以搞一个玩玩](https://www.v2ex.com/t/772045)
 1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152)
 1. [ Apple 2021 春季发布会汇总](https://www.v2ex.com/t/772046)
 1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057)
+1. [有什么办法能买到新出的 Apple TV 4K？](https://www.v2ex.com/t/772044)
 
 ## 历史归档
 
