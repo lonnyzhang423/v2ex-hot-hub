@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-21 22:09:30 +0800`
+ `更新时间：2021-04-21 23:09:27 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [AirTag 可以搞一个玩玩](https://www.v2ex.com/t/772045)
 1. [ Apple 2021 春季发布会汇总](https://www.v2ex.com/t/772046)
 1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057)
-1. [有什么办法能买到新出的 Apple TV 4K？](https://www.v2ex.com/t/772044)
+1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171)
 
 ## 历史归档
 
