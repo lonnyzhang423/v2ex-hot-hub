@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-23 00:15:24 +0800`
+ `更新时间：2021-04-23 01:37:34 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358)
 1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
 1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364)
+1. [JetBrains 全家桶，是每种语言分别安装一个 IDE 好，还是只用 Idea 好](https://www.v2ex.com/t/772380)
 
 ## 历史归档
 
