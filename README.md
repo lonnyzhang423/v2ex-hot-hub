@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-22 10:43:23 +0800`
+ `更新时间：2021-04-22 11:16:00 +0800`
 
 ## 热议话题
 
-1. [快过生日 女朋友透露要送键盘 我感觉太贵了](https://www.v2ex.com/t/772120)
 1. [有没有和我一样的错觉：哪怕是两年前的 iPhone 觉得性能过剩，而刚发布的最新 Android 却觉性能不够？](https://www.v2ex.com/t/772242)
-1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152)
 1. [千万不要随便裸辞，真是血的教训！](https://www.v2ex.com/t/772311)
+1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152)
 1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171)
-1. [可以把 AirTag 功能植入体内么？](https://www.v2ex.com/t/772127)
 1. [问个问题，如何向不懂编程的人解释不要自己造轮子](https://www.v2ex.com/t/772199)
+1. [Apple 美国官网有什么方法能刻中文吗？](https://www.v2ex.com/t/772317)
 1. [M1 都入了 iPad 了，会不会进入 iPhone ？](https://www.v2ex.com/t/772223)
+1. [🌁 一个类 Instagram 图片小程序，每周 7 天，每天都是不同的图片 UI [邀请码发送]](https://www.v2ex.com/t/772333)
 
 ## 历史归档
 
