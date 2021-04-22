@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-22 07:10:35 +0800`
+ `更新时间：2021-04-22 08:32:19 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [iPad Pro 2021 来了，手持 iPad Pro 2020 款的 V 友咋考虑？](https://www.v2ex.com/t/772090)
 1. [iMac 做的那么轻薄，是想让用户带去 Starbucks 吗？](https://www.v2ex.com/t/772065)
 1. [AirTag 可以绑在猫身上吗？防止猫咪走丢或者找不到](https://www.v2ex.com/t/772152)
-1. [感觉 macbook air m1 线马上要被砍掉了](https://www.v2ex.com/t/772057)
 1. [为了写论文向 Linux 内核提交有漏洞的代码，这操作绝了。](https://www.v2ex.com/t/772319)
 1. [腾讯为了拿到人脸数据真是脸都不要了](https://www.v2ex.com/t/772171)
 1. [可以把 AirTag 功能植入体内么？](https://www.v2ex.com/t/772127)
