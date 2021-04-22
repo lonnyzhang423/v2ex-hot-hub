@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-22 19:08:07 +0800`
+ `更新时间：2021-04-22 20:13:33 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369)
 1. [机会只留给有准备的人，面试不刷题真不行](https://www.v2ex.com/t/772337)
 1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358)
-1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
+1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364)
 
 ## 历史归档
 
