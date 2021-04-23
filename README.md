@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-23 08:31:47 +0800`
+ `更新时间：2021-04-23 10:02:50 +0800`
 
 ## 热议话题
 
 1. [打算开车从深圳往兰州走，有啥建议或者劝告吗](https://www.v2ex.com/t/772419)
-1. [有点入单反的念头顺便报个班，拍物品， 90d、80d、850d，有大腿可以指导下？](https://www.v2ex.com/t/772355)
-1. [工作选择-内部晋升 or 字节](https://www.v2ex.com/t/772369)
-1. [watch6 女生带 40 还是 44 好？](https://www.v2ex.com/t/772358)
 1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
-1. [AirTag 刻个什么内容比较有趣呢](https://www.v2ex.com/t/772364)
+1. [我家电视机正在监视所有连网设备](https://www.v2ex.com/t/772523)
 1. [JetBrains 全家桶，是每种语言分别安装一个 IDE 好，还是只用 Idea 好](https://www.v2ex.com/t/772380)
 1. [目前最好的安卓 ROM 是什么?](https://www.v2ex.com/t/772488)
 1. [想买个 apple watch，会不会很鸡肋](https://www.v2ex.com/t/772465)
+1. [微信还卖人手机号码？](https://www.v2ex.com/t/772392)
+1. [如何远程控制另一台自己的电脑？](https://www.v2ex.com/t/772466)
+1. [一直好奇各大云服务商对虚拟化服务器的支撑技术到底用的是什么？自研， VMware 还是 VirtualBox？](https://www.v2ex.com/t/772384)
+1. [显卡溢价真的猛。。。](https://www.v2ex.com/t/772435)
 
 ## 历史归档
 
