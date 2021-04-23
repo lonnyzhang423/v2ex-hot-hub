@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-23 10:02:50 +0800`
+ `更新时间：2021-04-23 11:15:19 +0800`
 
 ## 热议话题
 
 1. [打算开车从深圳往兰州走，有啥建议或者劝告吗](https://www.v2ex.com/t/772419)
-1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
 1. [我家电视机正在监视所有连网设备](https://www.v2ex.com/t/772523)
-1. [JetBrains 全家桶，是每种语言分别安装一个 IDE 好，还是只用 Idea 好](https://www.v2ex.com/t/772380)
-1. [目前最好的安卓 ROM 是什么?](https://www.v2ex.com/t/772488)
+1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
 1. [想买个 apple watch，会不会很鸡肋](https://www.v2ex.com/t/772465)
-1. [微信还卖人手机号码？](https://www.v2ex.com/t/772392)
+1. [目前最好的安卓 ROM 是什么?](https://www.v2ex.com/t/772488)
 1. [如何远程控制另一台自己的电脑？](https://www.v2ex.com/t/772466)
-1. [一直好奇各大云服务商对虚拟化服务器的支撑技术到底用的是什么？自研， VMware 还是 VirtualBox？](https://www.v2ex.com/t/772384)
+1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621)
+1. [IDM 的替代品](https://www.v2ex.com/t/772562)
 1. [显卡溢价真的猛。。。](https://www.v2ex.com/t/772435)
+1. [v 友们，币安、火币啥的注册还要手持身份证？这是不是有点不安全。。。](https://www.v2ex.com/t/772432)
 
 ## 历史归档
 
