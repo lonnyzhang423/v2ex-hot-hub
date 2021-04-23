@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-23 12:13:08 +0800`
+ `更新时间：2021-04-23 13:15:20 +0800`
 
 ## 热议话题
 
-1. [打算开车从深圳往兰州走，有啥建议或者劝告吗](https://www.v2ex.com/t/772419)
 1. [我家电视机正在监视所有连网设备](https://www.v2ex.com/t/772523)
-1. [面试了一家初创公司](https://www.v2ex.com/t/772415)
-1. [想买个 apple watch，会不会很鸡肋](https://www.v2ex.com/t/772465)
 1. [程序员日常英文水平怎么提高？ Java 别再读“渣蛙”了！](https://www.v2ex.com/t/772621)
+1. [想买个 apple watch，会不会很鸡肋](https://www.v2ex.com/t/772465)
 1. [目前最好的安卓 ROM 是什么?](https://www.v2ex.com/t/772488)
 1. [如何远程控制另一台自己的电脑？](https://www.v2ex.com/t/772466)
 1. [IDM 的替代品](https://www.v2ex.com/t/772562)
+1. [苹果 marketing chief 表示不打算整合 iPad 和 MacBook](https://www.v2ex.com/t/772612)
 1. [显卡溢价真的猛。。。](https://www.v2ex.com/t/772435)
 1. [v 友们，币安、火币啥的注册还要手持身份证？这是不是有点不安全。。。](https://www.v2ex.com/t/772432)
+1. [现在做原生 app 都采用什么方案比较好呢](https://www.v2ex.com/t/772438)
 
 ## 历史归档
 
