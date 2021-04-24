@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-24 19:07:40 +0800`
+ `更新时间：2021-04-24 20:12:55 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,11 @@
 1. [有币圈大佬吗?想请教一下合约的问题.](https://www.v2ex.com/t/772824)
 1. [娱乐时间和自我提升时间比例](https://www.v2ex.com/t/772866)
 1. [用安卓的你现在用啥 app 听歌？](https://www.v2ex.com/t/772935)
-1. [下单了 Airtag](https://www.v2ex.com/t/772810)
+1. [iOS 14.5 进一步恶心了 Home 键 iPhone 用户](https://www.v2ex.com/t/772926)
 1. [迫于耳机维修 15 天，哪里可以租耳机](https://www.v2ex.com/t/772892)
 1. [苹果把 A14X 改名 M1 的营销效果还真不错](https://www.v2ex.com/t/772919)
 1. [求问 18 款 mbp 最低亮度还是太亮了怎么办？](https://www.v2ex.com/t/772852)
+1. [欢迎参与 Ent 项目的中文文档翻译](https://www.v2ex.com/t/772915)
 
 ## 历史归档
 
