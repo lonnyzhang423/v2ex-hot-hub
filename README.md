@@ -11,19 +11,21 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-24 10:00:41 +0800`
+ `更新时间：2021-04-24 11:15:50 +0800`
 
 ## 热议话题
 
 1. [数据库设计太拉跨被喷了。](https://www.v2ex.com/t/772712)
-1. [Fower: 一个可在 Vue 和 React 方便使用的 CSS in JS 库](https://www.v2ex.com/t/772656)
-1. [怎么避免怯场，或者是说提高自己的沟通技巧](https://www.v2ex.com/t/772652)
-1. [官宣，国行来了！](https://www.v2ex.com/t/772651)
-1. [知乎利用播放音频保活？](https://www.v2ex.com/t/772704)
 1. [如何反广告拦截？](https://www.v2ex.com/t/772685)
+1. [知乎利用播放音频保活？](https://www.v2ex.com/t/772704)
 1. [Mac 邮件客户端 opt(s)?](https://www.v2ex.com/t/772700)
-1. [坐标合肥，五一准备和爱人出去游玩一圈，请给我的规划一些建议，顺便问一下有没有什么轨迹记录的软件，导航只能单次驾驶记录。](https://www.v2ex.com/t/772638)
-1. [为什么 dell 显示器涨价了](https://www.v2ex.com/t/772660)
+1. [如何实现像这个网站一样的反调试效果](https://www.v2ex.com/t/772689)
+1. [看着市面上大量 Go 岗，如何调整心态？](https://www.v2ex.com/t/772855)
+1. [看到 MacBook 图纸被黑客泄露的消息，联想到今天官翻 MacBook 大降价……
+官翻 MBP13 8+512 2133MHz 6499
+官翻 MBP16 32+1T 5600M 22519……](https://www.v2ex.com/t/772687)
+1. [想发明一种用声卡挖矿的币](https://www.v2ex.com/t/772795)
+1. [有币圈大佬吗?想请教一下合约的问题.](https://www.v2ex.com/t/772824)
 
 ## 历史归档
 
