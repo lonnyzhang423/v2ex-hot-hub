@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-25 14:11:22 +0800`
+ `更新时间：2021-04-25 15:13:32 +0800`
 
 ## 热议话题
 
-1. [苹果把 A14X 改名 M1 的营销效果还真不错](https://www.v2ex.com/t/772919)
-1. [iOS 14.5 进一步恶心了 Home 键 iPhone 用户](https://www.v2ex.com/t/772926)
-1. [朋友的全新 16 寸 mbp 该收吗？](https://www.v2ex.com/t/772961)
 1. [美版 iPhone X 99 新 2500 大洋值得入手吗？](https://www.v2ex.com/t/773019)
+1. [朋友的全新 16 寸 mbp 该收吗？](https://www.v2ex.com/t/772961)
 1. [[求助帖] 服务器一直被登陆注销 登陆注销，+数据库被疯狂爆破密码·······](https://www.v2ex.com/t/772978)
+1. [马上要广漂了，咨询点生活方面的](https://www.v2ex.com/t/773048)
+1. [很多负载均衡器都说自己是 event-driven、nonblocking I/O 的，那这些概念到底是什么？](https://www.v2ex.com/t/772976)
 
 ## 历史归档
 
