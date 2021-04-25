@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-25 12:14:07 +0800`
+ `更新时间：2021-04-25 13:16:10 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,7 @@
 1. [iOS 14.5 进一步恶心了 Home 键 iPhone 用户](https://www.v2ex.com/t/772926)
 1. [朋友的全新 16 寸 mbp 该收吗？](https://www.v2ex.com/t/772961)
 1. [[求助帖] 服务器一直被登陆注销 登陆注销，+数据库被疯狂爆破密码·······](https://www.v2ex.com/t/772978)
-1. [欢迎参与 Ent 项目的中文文档翻译](https://www.v2ex.com/t/772915)
+1. [美版 iPhone X 99 新 2500 大洋值得入手吗？](https://www.v2ex.com/t/773019)
 
 ## 历史归档
 
