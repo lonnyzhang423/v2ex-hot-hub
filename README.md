@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-26 01:38:06 +0800`
+ `更新时间：2021-04-26 02:22:33 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [Android 为什么不和 iOS 一样需要用户动态确认联网权限](https://www.v2ex.com/t/773089)
 1. [大家的五险一金都是怎么缴的？](https://www.v2ex.com/t/773045)
 1. [马上要广漂了，咨询点生活方面的](https://www.v2ex.com/t/773048)
+1. [笑死，下单了 iPad air4](https://www.v2ex.com/t/773146)
 
 ## 历史归档
 
