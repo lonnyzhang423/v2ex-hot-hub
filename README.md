@@ -11,15 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-26 19:08:16 +0800`
+ `更新时间：2021-04-26 20:13:29 +0800`
 
 ## 热议话题
 
 1. [请问有人耳鸣吗？](https://www.v2ex.com/t/773320)
-1. [多年关于失眠的经验](https://www.v2ex.com/t/773225)
 1. [6 月 WWDC 会发布 macbook pro 2021](https://www.v2ex.com/t/773327)
-1. [假如没有开源](https://www.v2ex.com/t/773246)
+1. [多年关于失眠的经验](https://www.v2ex.com/t/773225)
 1. [说说那些年用过的机械键盘，对于黑轴/红轴/青轴/茶轴，个人感受。](https://www.v2ex.com/t/773337)
+1. [假如没有开源](https://www.v2ex.com/t/773246)
+1. [一个 10w+用户的 Chrome 插件可以卖多少钱？](https://www.v2ex.com/t/773416)
 1. [玩个手游怎么这么虚？这正常吗？](https://www.v2ex.com/t/773271)
 1. [最近想换 M1 mac 不知道现在值不值得买，秋季的时候会有新的 Mac 发布吗？](https://www.v2ex.com/t/773331)
 
