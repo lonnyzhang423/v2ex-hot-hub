@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-27 21:20:04 +0800`
+ `更新时间：2021-04-27 22:09:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [iOS 14.5 正式版升级体验](https://www.v2ex.com/t/773505)
 1. [小火箭 URL 重定向在 iOS14.5 正式版下不工作](https://www.v2ex.com/t/773536)
 1. [关于财务自由的分析](https://www.v2ex.com/t/773614)
-1. [为了帮一个前同事，自己个人信息泄漏太多了](https://www.v2ex.com/t/773457)
+1. [Oracle 相比 mysql 的优势在哪里](https://www.v2ex.com/t/773654)
 1. [go 有没有类似 springboot 全家桶的东西](https://www.v2ex.com/t/773477)
 
 ## 历史归档
