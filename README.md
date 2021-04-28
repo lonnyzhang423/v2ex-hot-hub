@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-28 13:15:15 +0800`
+ `更新时间：2021-04-28 14:11:59 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [Oracle 相比 mysql 的优势在哪里](https://www.v2ex.com/t/773654)
 1. [关于财务自由的分析](https://www.v2ex.com/t/773614)
 1. [在外地的同学来我这出差](https://www.v2ex.com/t/773634)
-1. [大家觉得中国的酒文化能坚持多久](https://www.v2ex.com/t/773708)
 1. [被自认为十几年的朋友摆了一道，至今也不知道自己错在哪了](https://www.v2ex.com/t/773718)
+1. [大家觉得中国的酒文化能坚持多久](https://www.v2ex.com/t/773708)
 1. [2021 年了，苹果更新了手表解锁，这和安卓几年前的技术有什么区别吗？](https://www.v2ex.com/t/773753)
 1. [iPhone 12 因为存储空间不足升级 14.5 正式版无法开机，求助](https://www.v2ex.com/t/773744)
-1. [一个使用 Next.js + Notion 实现的静态博客系统](https://www.v2ex.com/t/773594)
+1. [从事前端开发 15 年，我挣了 4 套房， 2 辆车](https://www.v2ex.com/t/773790)
 1. [T7 or DIYSSD 硬盘 ?](https://www.v2ex.com/t/773621)
 
 ## 历史归档
