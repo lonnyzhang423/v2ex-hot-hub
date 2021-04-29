@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-29 16:08:17 +0800`
+ `更新时间：2021-04-29 17:06:26 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [上海电信出 5000m 提速包了](https://www.v2ex.com/t/773909)
 1. [原创！在文章中添加“文字指纹”，追踪盗版源头](https://www.v2ex.com/t/774059)
 1. [jwt 的 token 被获取怎么办](https://www.v2ex.com/t/774028)
-1. [apple watch 买哪种表带好一些呢](https://www.v2ex.com/t/774057)
 1. [AirTag 发货了，除了放车上在商场找车，还没有想到其它应用场景。](https://www.v2ex.com/t/774039)
+1. [apple watch 买哪种表带好一些呢](https://www.v2ex.com/t/774057)
 1. [自己搭了个聊天室](https://www.v2ex.com/t/774073)
 
 ## 历史归档
