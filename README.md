@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-29 21:17:27 +0800`
+ `更新时间：2021-04-29 22:06:44 +0800`
 
 ## 热议话题
 
-1. [原创！在文章中添加“文字指纹”，追踪盗版源头](https://www.v2ex.com/t/774059)
 1. [快递员对我说：你以后别在 PDD 买东西了，还要送上门](https://www.v2ex.com/t/774119)
+1. [原创！在文章中添加“文字指纹”，追踪盗版源头](https://www.v2ex.com/t/774059)
 1. [jwt 的 token 被获取怎么办](https://www.v2ex.com/t/774028)
 1. [AirTag 发货了，除了放车上在商场找车，还没有想到其它应用场景。](https://www.v2ex.com/t/774039)
 1. [[搭团队] 一起做一款 App 产品](https://www.v2ex.com/t/774007)
