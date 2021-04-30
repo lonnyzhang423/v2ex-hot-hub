@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-01 00:11:37 +0800`
+ `更新时间：2021-05-01 01:33:09 +0800`
 
 ## 热议话题
 
 1. [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin](https://www.v2ex.com/t/774285)
 1. [是否可以利用 14 天无理由体验 AirPods pro，适合退了再在其他平台入手](https://www.v2ex.com/t/774244)
-1. [素质极差的面试官](https://www.v2ex.com/t/774254)
 1. [[好奇🤔️] 大佬们平时都在早哪里看技术博客，免费、付费都可](https://www.v2ex.com/t/774306)
+1. [素质极差的面试官](https://www.v2ex.com/t/774254)
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318)
 1. [airtag 收到了,但是精确定位的距离也太弱鸡了..](https://www.v2ex.com/t/774311)
+1. [offer 比较 字节教育 / 美团大象 / 手机高德](https://www.v2ex.com/t/774349)
 1. [该不该预购 iPad pro 呢](https://www.v2ex.com/t/774282)
 1. [有幸抢到一台教育优惠+官翻 M1 MBP16+512，纠结要不要留下](https://www.v2ex.com/t/774323)
-1. [offer 比较 字节教育 / 美团大象 / 手机高德](https://www.v2ex.com/t/774349)
 
 ## 历史归档
 
