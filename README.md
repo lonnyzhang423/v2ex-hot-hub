@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-30 17:06:20 +0800`
+ `更新时间：2021-04-30 18:06:50 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin](https://www.v2ex.com/t/774285)
 1. [是否可以利用 14 天无理由体验 AirPods pro，适合退了再在其他平台入手](https://www.v2ex.com/t/774244)
 1. [素质极差的面试官](https://www.v2ex.com/t/774254)
-1. [自己建博客，现在遇到的瓶颈。](https://www.v2ex.com/t/774197)
 1. [[好奇🤔️] 大佬们平时都在早哪里看技术博客，免费、付费都可](https://www.v2ex.com/t/774306)
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318)
+1. [自己建博客，现在遇到的瓶颈。](https://www.v2ex.com/t/774197)
 
 ## 历史归档
 
