@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-01 02:15:46 +0800`
+ `更新时间：2021-05-01 03:11:09 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318)
 1. [airtag 收到了,但是精确定位的距离也太弱鸡了..](https://www.v2ex.com/t/774311)
 1. [offer 比较 字节教育 / 美团大象 / 手机高德](https://www.v2ex.com/t/774349)
-1. [该不该预购 iPad pro 呢](https://www.v2ex.com/t/774282)
 1. [有幸抢到一台教育优惠+官翻 M1 MBP16+512，纠结要不要留下](https://www.v2ex.com/t/774323)
+1. [该不该预购 iPad pro 呢](https://www.v2ex.com/t/774282)
 
 ## 历史归档
 
