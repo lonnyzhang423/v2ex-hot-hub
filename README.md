@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-30 21:16:50 +0800`
+ `更新时间：2021-04-30 22:06:49 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [素质极差的面试官](https://www.v2ex.com/t/774254)
 1. [[好奇🤔️] 大佬们平时都在早哪里看技术博客，免费、付费都可](https://www.v2ex.com/t/774306)
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318)
-1. [airtag 收到了,但是精确定位的距离也太弱鸡了..](https://www.v2ex.com/t/774311)
 1. [该不该预购 iPad pro 呢](https://www.v2ex.com/t/774282)
+1. [airtag 收到了,但是精确定位的距离也太弱鸡了..](https://www.v2ex.com/t/774311)
 
 ## 历史归档
 
