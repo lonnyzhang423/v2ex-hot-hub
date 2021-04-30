@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-04-30 12:08:10 +0800`
+ `更新时间：2021-04-30 13:11:13 +0800`
 
 ## 热议话题
 
 1. [快递员对我说：你以后别在 PDD 买东西了，还要送上门](https://www.v2ex.com/t/774119)
 1. [大佬们，求建议！目前我有一个口头 Offer，月薪 24, 000 港币](https://www.v2ex.com/t/774193)
-1. [原创！在文章中添加“文字指纹”，追踪盗版源头](https://www.v2ex.com/t/774059)
 1. [多少人愿意为了壁纸（无论 window， mac 还是 Linux 系统）持续付费买单？](https://www.v2ex.com/t/774099)
 1. [为什么那么多 web 系统使用 jwt token 来做身份认证](https://www.v2ex.com/t/774127)
 1. [自己搭了个聊天室](https://www.v2ex.com/t/774073)
 1. [百度搜索疯了! 搜索结果几十页全部都是百家号! 无一任何其他网站](https://www.v2ex.com/t/774118)
 1. [是否可以利用 14 天无理由体验 AirPods pro，适合退了再在其他平台入手](https://www.v2ex.com/t/774244)
+1. [夏天来了，你们都去哪家网店买 纯色 100%棉 无任何印花 的短袖的啊？](https://www.v2ex.com/t/774217)
 1. [怎么感觉现在随便一个软件就是 electron 写的](https://www.v2ex.com/t/774103)
 
 ## 历史归档
