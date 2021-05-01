@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-01 10:01:32 +0800`
+ `更新时间：2021-05-01 11:12:48 +0800`
 
 ## 热议话题
 
-1. [前两天看见有人用 react 写了个网页版 Ubuntu，迫于不会用 react，我用 vue 写了个网页版 Deepin](https://www.v2ex.com/t/774285)
-1. [[好奇🤔️] 大佬们平时都在早哪里看技术博客，免费、付费都可](https://www.v2ex.com/t/774306)
 1. [我做了一个区块链领域的 V2EX](https://www.v2ex.com/t/774318)
-1. [airtag 收到了,但是精确定位的距离也太弱鸡了..](https://www.v2ex.com/t/774311)
 1. [offer 比较 字节教育 / 美团大象 / 手机高德](https://www.v2ex.com/t/774349)
 1. [有幸抢到一台教育优惠+官翻 M1 MBP16+512，纠结要不要留下](https://www.v2ex.com/t/774323)
-1. [该不该预购 iPad pro 呢](https://www.v2ex.com/t/774282)
 1. [自动订阅 app 被拒了 理由太沙雕了](https://www.v2ex.com/t/774335)
-1. [更新了 ios 14.5 ,我在京东搜索了游戏手柄，网易新闻 app 中怎么还是马上就看到了相关的广告？](https://www.v2ex.com/t/774382)
 1. [花高价买了个好域名，没想到一个百度打破了幻想](https://www.v2ex.com/t/774384)
+1. [更新了 ios 14.5 ,我在京东搜索了游戏手柄，网易新闻 app 中怎么还是马上就看到了相关的广告？](https://www.v2ex.com/t/774382)
+1. [前端”程序媛“交流群，欢迎小姐姐加入](https://www.v2ex.com/t/774314)
+1. [sim 卡语音通话端对端加密有没有搞头呢](https://www.v2ex.com/t/774350)
+1. [今天遇到了一个 curl 的问题，感觉有点坑](https://www.v2ex.com/t/774403)
 
 ## 历史归档
 
