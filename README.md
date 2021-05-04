@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-04 09:56:26 +0800`
+ `更新时间：2021-05-04 10:37:41 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [假如 CPU 只有一个核心，使用 CAS 并发竞争的问题](https://www.v2ex.com/t/774722)
 1. [4k 屏相比 1080P 更护眼吗](https://www.v2ex.com/t/774776)
 1. [公司电脑屏幕太烂](https://www.v2ex.com/t/774733)
+1. [微软 Teams bug 很多啊](https://www.v2ex.com/t/774801)
 1. [开发了个 VS Code 插件，可以增强编辑器的背景，提高前端开发效率](https://www.v2ex.com/t/774735)
 1. [一部手机同时连接多个音响(10 个左右)，并且可以单独控制其中某个音响播放声音。能不能实现？](https://www.v2ex.com/t/774788)
-1. [iMac2019 内存占用爆炸, 64G 也扛不住!](https://www.v2ex.com/t/774791)
-1. [微软 Teams bug 很多啊](https://www.v2ex.com/t/774801)
+1. [事实证明，除了换路由器，换一个好点的光猫也能极大提升网络质量](https://www.v2ex.com/t/774765)
 
 ## 历史归档
 
