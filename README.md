@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-04 10:37:41 +0800`
+ `更新时间：2021-05-04 11:10:39 +0800`
 
 ## 热议话题
 
+1. [假如 CPU 只有一个核心，使用 CAS 并发竞争的问题](https://www.v2ex.com/t/774722)
 1. [51 上班被调休了,还有三倍工资吗?](https://www.v2ex.com/t/774721)
 1. [各位帅哥美女，现在买骁龙 865 的手机还够用吗？](https://www.v2ex.com/t/774754)
-1. [假如 CPU 只有一个核心，使用 CAS 并发竞争的问题](https://www.v2ex.com/t/774722)
 1. [4k 屏相比 1080P 更护眼吗](https://www.v2ex.com/t/774776)
 1. [公司电脑屏幕太烂](https://www.v2ex.com/t/774733)
 1. [微软 Teams bug 很多啊](https://www.v2ex.com/t/774801)
