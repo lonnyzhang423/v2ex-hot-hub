@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-05 18:03:53 +0800`
+ `更新时间：2021-05-05 19:03:19 +0800`
 
 ## 热议话题
 
-1. [为什么现在网络上的很多技术博客必须扫描关注才能看](https://www.v2ex.com/t/774882)
 1. [滴滴面试完被秒拒](https://www.v2ex.com/t/774958)
 1. [各位 AppleWatch 5 月挑战是什么？](https://www.v2ex.com/t/774912)
-1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949)
 1. [有多少人是放弃 react-native，转向原生了？](https://www.v2ex.com/t/774913)
+1. [迫于高铁没有站台票，可以买张短途票送老人上车后，然后自己下车出站吗？](https://www.v2ex.com/t/774949)
 1. [想听听 AirPods Max 的真实体验](https://www.v2ex.com/t/774955)
 1. [啊，不是，这个 airTag 根本不能用来找车啊](https://www.v2ex.com/t/774928)
+1. [公司提供 5k 的笔记本补助，现在开发用的一直是自己的本子，神舟战神 z7，不知道买什么比较合适](https://www.v2ex.com/t/774961)
 1. [神奇的 Javascript，谁能告诉我为什么](https://www.v2ex.com/t/774968)
 1. [我从 centos8.3 迁移到 AlmaLinux 8.3 安装宝塔一切正常](https://www.v2ex.com/t/774893)
 
