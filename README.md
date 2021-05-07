@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-07 21:15:20 +0800`
+ `更新时间：2021-05-07 22:04:17 +0800`
 
 ## 热议话题
 
 1. [同事和我借房产证…](https://www.v2ex.com/t/775403)
 1. [我是如何突围传统行业的？](https://www.v2ex.com/t/775334)
 1. [请教一下大城市该如何买房？](https://www.v2ex.com/t/775335)
-1. [刷了 1400 道力扣的开发，跪求广州前端岗位](https://www.v2ex.com/t/775284)
 1. [请问有什么恐怖电影可以推荐吗](https://www.v2ex.com/t/775377)
 1. [复式楼 1 楼没网线咋整？ 或者有没有信号很强 2 层楼都有信号的路由？](https://www.v2ex.com/t/775352)
 1. [我们学最新的技术和概念，写优雅的代码和注释是为了什么？](https://www.v2ex.com/t/775329)
 1. [VSCode 的这个叫做 Solarized Light 的配色主题很有 Notion 的感觉](https://www.v2ex.com/t/775399)
 1. [最近家里养猫咪的困扰](https://www.v2ex.com/t/775462)
+1. [开发同事说话总喜欢带个“吧”字，感觉被冒犯了！](https://www.v2ex.com/t/775483)
 
 ## 历史归档
 
