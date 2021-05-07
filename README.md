@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-07 14:04:35 +0800`
+ `更新时间：2021-05-07 15:08:51 +0800`
 
 ## 热议话题
 
-1. [为什么你们要选择 TypeScript？](https://www.v2ex.com/t/775169)
 1. [现在的程序员，这么简单的问题都能答错吗？](https://www.v2ex.com/t/775262)
-1. [明明工作强度不高，睡眠也充足，可为什么还是感觉累呢？](https://www.v2ex.com/t/775166)
-1. [各位买 nas 一般用来干嘛？](https://www.v2ex.com/t/775159)
+1. [同事和我借房产证…](https://www.v2ex.com/t/775403)
 1. [刷了 1400 道力扣的开发，跪求广州前端岗位](https://www.v2ex.com/t/775284)
-1. [DAO 层和 ORM，能区分，但又不完全能区分，我裂开了](https://www.v2ex.com/t/775162)
 1. [各位开发还在本机搭环境还是用 docker？](https://www.v2ex.com/t/775224)
 1. [请教一下大城市该如何买房？](https://www.v2ex.com/t/775335)
+1. [我是如何突围传统行业的？](https://www.v2ex.com/t/775334)
 1. [五月底准备和女票一起去武汉，有什么特别推荐的景点和美食吗？](https://www.v2ex.com/t/775200)
+1. [复式楼 1 楼没网线咋整？ 或者有没有信号很强 2 层楼都有信号的路由？](https://www.v2ex.com/t/775352)
+1. [2 年内会不会出蜂窝版 macbook](https://www.v2ex.com/t/775184)
 
 ## 历史归档
 
