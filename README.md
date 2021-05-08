@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-08 17:03:42 +0800`
+ `更新时间：2021-05-08 18:04:04 +0800`
 
 ## 热议话题
 
 1. [关于自由](https://www.v2ex.com/t/775584)
-1. [关于麦当劳小程序的吐槽](https://www.v2ex.com/t/775565)
 1. [毕业工作差不多一年，准备辞职出去旅游，请教一下](https://www.v2ex.com/t/775539)
+1. [关于麦当劳小程序的吐槽](https://www.v2ex.com/t/775565)
 1. [跟大家分享下我是如何省钱的](https://www.v2ex.com/t/775576)
 1. [阿里云盘是否存在增加一键转存百度云盘文件（或者其他云盘）的可能性？](https://www.v2ex.com/t/775566)
-1. [wslg 简单用用感觉还不错](https://www.v2ex.com/t/775471)
-1. [有人长途运输过显示器么，去问顺丰保价，包丢不包损](https://www.v2ex.com/t/775479)
-1. [迫于面试要求 Go，请教下各位 Javaer 是否有必要学习 Go，未来职场收益如何？](https://www.v2ex.com/t/775583)
 1. [Google Photo6 月就要关闭免费无限空间了，有好的替代方案吗？](https://www.v2ex.com/t/775605)
+1. [迫于面试要求 Go，请教下各位 Javaer 是否有必要学习 Go，未来职场收益如何？](https://www.v2ex.com/t/775583)
+1. [劝一个刚毕业工作不满一年的人不要裸辞去穷游一年，被人骂高高在上，指点人生，是资本的狗，是我多事了吗？](https://www.v2ex.com/t/775681)
+1. [用 React 写了个仿 macOS 界面的个人主页，风格大概介于 Big Sur 和 Catalina 之间？](https://www.v2ex.com/t/775582)
 
 ## 历史归档
 
