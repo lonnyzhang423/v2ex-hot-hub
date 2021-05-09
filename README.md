@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-09 16:04:08 +0800`
+ `更新时间：2021-05-09 17:03:50 +0800`
 
 ## 热议话题
 
-1. [JS 有什么手段可以判断一个函数是不是原生代码吗？](https://www.v2ex.com/t/775677)
 1. [生活在南方的朋友是不是都不怎么用触控板？](https://www.v2ex.com/t/775715)
 1. [Markdown 比起纯文本好像也没多大用处啊](https://www.v2ex.com/t/775706)
 1. [有哪些别人不告诉你，自己领悟出来的人生建议？](https://www.v2ex.com/t/775696)
 1. [《毛骗》新作来了，《城市的边缘》](https://www.v2ex.com/t/775785)
 1. [clash for windows 能否设置本地的规则以覆盖代理商那里来的规则？](https://www.v2ex.com/t/775773)
-1. [哎呀我去，没想到 Big Sur 下，我的黑苹果 X86 写入量也这么高？！ X86 架构， 16G 内存没用罗塞塔！](https://www.v2ex.com/t/775691)
-1. [五一自驾出游江浙皖路线完美结束，特来与大家分享。](https://www.v2ex.com/t/775679)
+1. [咨询 airpods pro 降噪功能](https://www.v2ex.com/t/775713)
+1. [golang http 请求也太恶心了把](https://www.v2ex.com/t/775745)
+1. [不懂就问 chia 的 plot 文件最终要怎么处理](https://www.v2ex.com/t/775778)
+1. [iptables 层面如何做到判断 header 来做反向代理?](https://www.v2ex.com/t/775751)
 
 ## 历史归档
 
