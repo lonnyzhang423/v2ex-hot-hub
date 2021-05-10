@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-10 07:03:58 +0800`
+ `更新时间：2021-05-10 08:11:41 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [不懂就问 chia 的 plot 文件最终要怎么处理](https://www.v2ex.com/t/775778)
 1. [信用卡忘还收到违约金，会有什么影响？](https://www.v2ex.com/t/775816)
 1. [[上海徐汇区] 大数据公司招聘 PHP 后端，会 yaf 优先， 1.5K～ 2K](https://www.v2ex.com/t/775798)
+1. [最近有什么因素导致显示器价格大涨么？总不能用显示器挖矿吧？](https://www.v2ex.com/t/775857)
 1. [clash for windows 能否设置本地的规则以覆盖代理商那里来的规则？](https://www.v2ex.com/t/775773)
 1. [买手机](https://www.v2ex.com/t/775855)
-1. [最近有什么因素导致显示器价格大涨么？总不能用显示器挖矿吧？](https://www.v2ex.com/t/775857)
+1. [Buzzing - 学英语利器，用中文浏览国外社交媒体热门讨论](https://www.v2ex.com/t/775782)
 
 ## 历史归档
 
