@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-12 19:04:48 +0800`
+ `更新时间：2021-05-12 20:08:25 +0800`
 
 ## 热议话题
 
 1. [中年男人的乐趣都有什么](https://www.v2ex.com/t/776398)
-1. [985 大三 工作 or 保研？](https://www.v2ex.com/t/776318)
 1. [我又被爱奇艺索赔了 100 万](https://www.v2ex.com/t/776461)
 1. [相互宝有必要继续开吗？](https://www.v2ex.com/t/776375)
-1. [房奴](https://www.v2ex.com/t/776467)
 1. [深圳有兄弟是联通卡吗？想问问手机信号如何。](https://www.v2ex.com/t/776326)
 1. [有清爽不油腻的防晒霜推荐吗？](https://www.v2ex.com/t/776445)
+1. [房奴](https://www.v2ex.com/t/776467)
+1. [牙疼是真要命](https://www.v2ex.com/t/776511)
 1. [家用台式电脑有推荐嘛？感谢！](https://www.v2ex.com/t/776369)
 1. [Github 如何创建一个隐藏的仓库并使用 Github Pages?](https://www.v2ex.com/t/776373)
 1. [需求加密货币方面的咨询（有偿）](https://www.v2ex.com/t/776408)
