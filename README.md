@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-15 11:16:21 +0800`
+ `更新时间：2021-05-15 12:12:36 +0800`
 
 ## 热议话题
 
-1. [友情联动：发支付宝口令红包，欢迎大家破解.](https://www.v2ex.com/t/776889)
 1. [走投无路，希望老哥出出主意，帮我保住手机号](https://www.v2ex.com/t/776991)
-1. [Python 终于决定要提升一下性能了](https://www.v2ex.com/t/776893)
 1. [[抽奖送码] 内网穿透工具 ddnsto 免费了三年，竟然要收费了](https://www.v2ex.com/t/776964)
 1. [看了 Windows 的 GUID 生成算法，惊掉我下巴。](https://www.v2ex.com/t/776972)
 1. [爱、死亡和机器人第 2 季，终于可以看了。](https://www.v2ex.com/t/776973)
 1. [有打工人一直住青旅吗](https://www.v2ex.com/t/776925)
-1. [我们的短信中台 1.0 上线了，说一说做它的初衷](https://www.v2ex.com/t/776890)
-1. [Java 面试官应该怎么考察一个面试者的能力？](https://www.v2ex.com/t/776891)
+1. [被 HR 伤透了心](https://www.v2ex.com/t/776906)
 1. [裸辞玩了 2 个月](https://www.v2ex.com/t/776907)
+1. [老哥们，真心求个建议！](https://www.v2ex.com/t/777011)
+1. [关于苹果区别对待开发者的文章](https://www.v2ex.com/t/776920)
+1. [日常中如何解决 Python 中字典是无序这一问题的](https://www.v2ex.com/t/776937)
 
 ## 历史归档
 
