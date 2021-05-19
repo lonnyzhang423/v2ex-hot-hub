@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-20 00:19:27 +0800`
+ `更新时间：2021-05-20 01:37:44 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [在“互联网世界版图”中找到了 v2ex](https://www.v2ex.com/t/777889)
 1. [本人前端开发，想提问：这是一个弱智的需求吗？](https://www.v2ex.com/t/777955)
 1. [消息称苹果 M2 MacBook Pro 最快今年夏天发布，最高 64GB 内存、10 核 CPU 芯片](https://www.v2ex.com/t/777817)
+1. [HUAWEI MateView 用来外接 Mac 如何？](https://www.v2ex.com/t/777946)
 1. [现在想要原价买到好的公版显卡是不是不可能了？](https://www.v2ex.com/t/777816)
-1. [V 站写字最好看的程序员........](https://www.v2ex.com/t/777897)
+1. [今天打开电脑，发现 win10 推送了 21H1](https://www.v2ex.com/t/777842)
 
 ## 历史归档
 
