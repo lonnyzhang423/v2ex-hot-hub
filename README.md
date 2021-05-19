@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-19 18:11:32 +0800`
+ `更新时间：2021-05-19 19:04:58 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [头秃，拿了个海外的 offer，下个月入职，签证&准入都下来了，时间规定的死死的，结果当地又爆发严重了](https://www.v2ex.com/t/777779)
 1. [刚入手一周的腾讯云香港轻量服务器出了点问题](https://www.v2ex.com/t/777843)
 1. [消息称苹果 M2 MacBook Pro 最快今年夏天发布，最高 64GB 内存、10 核 CPU 芯片](https://www.v2ex.com/t/777817)
-1. [在“互联网世界版图”中找到了 v2ex](https://www.v2ex.com/t/777889)
 1. [还没过试用期](https://www.v2ex.com/t/777910)
+1. [在“互联网世界版图”中找到了 v2ex](https://www.v2ex.com/t/777889)
 1. [NAS 7*24，求一个馒头药](https://www.v2ex.com/t/777849)
 1. [新恒结衣和星野源宣布结婚。](https://www.v2ex.com/t/777911)
 
