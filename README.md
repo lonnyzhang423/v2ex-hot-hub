@@ -11,13 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-22 05:05:29 +0800`
+ `更新时间：2021-05-22 06:06:21 +0800`
 
 ## 热议话题
 
 1. [迫于无聊，送 10 个微软 msdn e3 子账号，不出意外的话一直有效](https://www.v2ex.com/t/778274)
 1. [iPad Pro 2021 已到手](https://www.v2ex.com/t/778271)
-1. [2020 国家统计局工资数据 出炉](https://www.v2ex.com/t/778270)
 1. [狗东售后维修经历](https://www.v2ex.com/t/778343)
 1. [深圳移动的流量为啥还这么贵？](https://www.v2ex.com/t/778265)
 1. [关于低（零）代码平台的看法](https://www.v2ex.com/t/778356)
