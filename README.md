@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-22 16:07:00 +0800`
+ `更新时间：2021-05-22 17:07:07 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [现在入 M1 MBA 是不是 49 年入国军？](https://www.v2ex.com/t/778414)
 1. [如今米系的手机要解锁 bootloader 有非官方的/强制的方法了吗？](https://www.v2ex.com/t/778479)
 1. [今年招聘是不是特别难？](https://www.v2ex.com/t/778468)
-1. [iOS 上有什么好用的图片编辑工具？（排除 Adobe 家的产品）](https://www.v2ex.com/t/778490)
 1. [第二代 Apple TV 4K 支持音频回传了](https://www.v2ex.com/t/778429)
-1. [大家遇到过哪些看起来匪夷所思的 BUG 最后靠自己解决的](https://www.v2ex.com/t/778402)
+1. [iOS 上有什么好用的图片编辑工具？（排除 Adobe 家的产品）](https://www.v2ex.com/t/778490)
+1. [有点晦气，新到的 iPad Pro 开不开机](https://www.v2ex.com/t/778493)
 
 ## 历史归档
 
