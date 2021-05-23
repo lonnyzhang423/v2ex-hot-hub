@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-24 01:37:24 +0800`
+ `更新时间：2021-05-24 02:21:43 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [迫于买公路车（scultura king, 斯特拉 king, 斯特拉大王），请问 v 友意见，这两个配色/涂装你更喜欢哪个？](https://www.v2ex.com/t/778633)
 1. [求推荐 60%的键盘。题主程序员。](https://www.v2ex.com/t/778654)
 1. [我想维护一个大型字典，有没有什么省内存的方法](https://www.v2ex.com/t/778691)
-1. [大家怎么看待程序员脱单这件事？](https://www.v2ex.com/t/778639)
 1. [Google Photos 也太难用了吧](https://www.v2ex.com/t/778695)
+1. [大家怎么看待程序员脱单这件事？](https://www.v2ex.com/t/778639)
+1. [mac mini m1 有点绿啊。。。](https://www.v2ex.com/t/778692)
 
 ## 历史归档
 
