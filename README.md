@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-24 03:17:44 +0800`
+ `更新时间：2021-05-24 04:06:17 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [我想维护一个大型字典，有没有什么省内存的方法](https://www.v2ex.com/t/778691)
 1. [Google Photos 也太难用了吧](https://www.v2ex.com/t/778695)
 1. [大家怎么看待程序员脱单这件事？](https://www.v2ex.com/t/778639)
-1. [mac mini m1 有点绿啊。。。](https://www.v2ex.com/t/778692)
+1. [快 30 岁了，第一次体会到编程的快乐。](https://www.v2ex.com/t/778713)
 
 ## 历史归档
 
