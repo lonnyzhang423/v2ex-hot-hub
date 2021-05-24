@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-25 00:20:41 +0800`
+ `更新时间：2021-05-25 01:47:09 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [吐槽一下小爱同学](https://www.v2ex.com/t/778799)
 1. [求医于 V2EX](https://www.v2ex.com/t/778867)
 1. [五月相亲记](https://www.v2ex.com/t/778803)
-1. [iPhone 夜间耗电严重，且看不到耗电应用](https://www.v2ex.com/t/778753)
 1. [快 30 岁了，还有机会增高吗？](https://www.v2ex.com/t/778890)
+1. [iPhone 夜间耗电严重，且看不到耗电应用](https://www.v2ex.com/t/778753)
 
 ## 历史归档
 
