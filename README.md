@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-05-29 17:40:12 +0800`
+ `更新时间：2021-05-29 18:35:26 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [每月 8.5k 房贷，什么水平？](https://www.v2ex.com/t/779893)
 1. [云桌面问题](https://www.v2ex.com/t/779978)
 1. [之前一直想买 HomePod，谁知就停产了！](https://www.v2ex.com/t/779973)
-1. [想转行前端，面临 3 个选择，向大佬请教](https://www.v2ex.com/t/779994)
 1. [广州联通不给公网 IP](https://www.v2ex.com/t/779995)
+1. [想转行前端，面临 3 个选择，向大佬请教](https://www.v2ex.com/t/779994)
 1. [怎样看待面试带来的挫败感？](https://www.v2ex.com/t/779910)
+1. [对于 ios 老手来说，漂亮的界面是用 storyboard 做吗？还是直接 coding？](https://www.v2ex.com/t/780009)
 
 ## 历史归档
 
