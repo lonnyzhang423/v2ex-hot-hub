@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-01 18:46:56 +0800`
+ `更新时间：2021-06-01 19:44:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [如何看待百度工程师过度包装自己项目的行为](https://www.v2ex.com/t/780520)
 1. [国内为何很少有做结对编程呢？是确实不好还是属于中国特色？](https://www.v2ex.com/t/780511)
 1. [预测一波 今年 wwdc 发布 iPad 版的 final cut pro](https://www.v2ex.com/t/780495)
-1. [再来聊一聊 Mac 外接显示器](https://www.v2ex.com/t/780433)
+1. [迫于同学来成都玩，求推荐好吃的地方](https://www.v2ex.com/t/780615)
 
 ## 历史归档
 
