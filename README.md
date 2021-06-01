@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-01 17:11:27 +0800`
+ `更新时间：2021-06-01 18:46:56 +0800`
 
 ## 热议话题
 
-1. [[回复抽奖] 618 有准备入手 Switch 的吗？回复抽一个 Switch 收纳包套餐](https://www.v2ex.com/t/780414)
 1. [[水贴]被同事的变量名惊呆了](https://www.v2ex.com/t/780515)
-1. [求一款好用的浏览器？](https://www.v2ex.com/t/780465)
 1. [怎样维权告 Apple 售后？](https://www.v2ex.com/t/780565)
+1. [求一款好用的浏览器？](https://www.v2ex.com/t/780465)
 1. [怎么地铁又突然查健康码了？](https://www.v2ex.com/t/780486)
 1. [京东好活当赏。](https://www.v2ex.com/t/780518)
-1. [最近被安排了一个新项目的设计，需求恶心又复杂，一个人设计扛不住了，该怎么样向上级合理诉说](https://www.v2ex.com/t/780406)
 1. [如何看待百度工程师过度包装自己项目的行为](https://www.v2ex.com/t/780520)
+1. [国内为何很少有做结对编程呢？是确实不好还是属于中国特色？](https://www.v2ex.com/t/780511)
+1. [预测一波 今年 wwdc 发布 iPad 版的 final cut pro](https://www.v2ex.com/t/780495)
+1. [再来聊一聊 Mac 外接显示器](https://www.v2ex.com/t/780433)
 
 ## 历史归档
 
