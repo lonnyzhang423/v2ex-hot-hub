@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-03 16:17:03 +0800`
+ `更新时间：2021-06-03 17:46:50 +0800`
 
 ## 热议话题
 
 1. [是否有必要用 K8S](https://www.v2ex.com/t/780960)
-1. [又是想做近视手术的一天](https://www.v2ex.com/t/780925)
 1. [分享你的六月挑战](https://www.v2ex.com/t/781018)
-1. [银行迟迟不放款，认怂还是硬刚？](https://www.v2ex.com/t/781045)
+1. [又是想做近视手术的一天](https://www.v2ex.com/t/780925)
 1. [国企编制 vs 私企 怎么选？](https://www.v2ex.com/t/781021)
+1. [银行迟迟不放款，认怂还是硬刚？](https://www.v2ex.com/t/781045)
 1. [迫于没钱 iPhone 上的照片怎么存储](https://www.v2ex.com/t/781028)
 1. [现在入 Apple Watch 6 是不是 49 年入国军？](https://www.v2ex.com/t/781008)
 1. [用了 14 天不到还是准备把 M1 的 iPad Pro 退了](https://www.v2ex.com/t/780987)
