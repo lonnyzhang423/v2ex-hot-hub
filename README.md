@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-03 14:39:53 +0800`
+ `更新时间：2021-06-03 16:17:03 +0800`
 
 ## 热议话题
 
-1. [准备开一个啤酒公司，不知道起个啥名字比较好，问一下大家有没有啥想法，被采纳送价值 100 元的啤酒组合。](https://www.v2ex.com/t/780869)
 1. [是否有必要用 K8S](https://www.v2ex.com/t/780960)
 1. [又是想做近视手术的一天](https://www.v2ex.com/t/780925)
 1. [分享你的六月挑战](https://www.v2ex.com/t/781018)
 1. [银行迟迟不放款，认怂还是硬刚？](https://www.v2ex.com/t/781045)
-1. [下半年 Android 12 代码释出到 aosp 之后，鸿蒙需要 merge 代码吗？](https://www.v2ex.com/t/781088)
 1. [国企编制 vs 私企 怎么选？](https://www.v2ex.com/t/781021)
+1. [迫于没钱 iPhone 上的照片怎么存储](https://www.v2ex.com/t/781028)
+1. [现在入 Apple Watch 6 是不是 49 年入国军？](https://www.v2ex.com/t/781008)
+1. [用了 14 天不到还是准备把 M1 的 iPad Pro 退了](https://www.v2ex.com/t/780987)
 
 ## 历史归档
 
