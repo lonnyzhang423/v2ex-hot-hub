@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-04 07:40:41 +0800`
+ `更新时间：2021-06-04 09:04:07 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [迫于没钱 iPhone 上的照片怎么存储](https://www.v2ex.com/t/781028)
 1. [退回到了 Catalina，舒适](https://www.v2ex.com/t/781129)
 1. [关于 Dark Mode 和阅读，最近看到了这样的一篇文章](https://www.v2ex.com/t/781158)
+1. [有什么软件是你不常用但又得装，可是装了嫌弄脏电脑的？(Windows）](https://www.v2ex.com/t/781231)
 1. [今天刚知道 CF 的 1.1.1.1 还有个对应的域名 one.one.one.one,真牛逼](https://www.v2ex.com/t/781140)
 1. [请问存储百万条或者千万条抖音评论应该选用什么数据库？怎么设计？](https://www.v2ex.com/t/781032)
-1. [发了一本新书叫幻景时空，需要网友的建议](https://www.v2ex.com/t/781173)
 
 ## 历史归档
 
