@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-08 05:04:15 +0800`
+ `更新时间：2021-06-08 06:30:19 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [我给 apple 写了封邮件投诉 tx app 系列的隐私问题，要求从 appstore 下架 tx 全部 app](https://www.v2ex.com/t/781843)
 1. [WWDC2021](https://www.v2ex.com/t/781790)
 1. [求教各位 v 友，要如何向上管理领导？](https://www.v2ex.com/t/781782)
-1. [苹果调整国行 AppleCare+ 服务政策](https://www.v2ex.com/t/781791)
+1. [你知道「去背」不](https://www.v2ex.com/t/781921)
 
 ## 历史归档
 
