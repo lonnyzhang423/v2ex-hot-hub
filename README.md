@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-09 00:21:48 +0800`
+ `更新时间：2021-06-09 01:45:13 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [现在的人都喜欢看视频。大胆的预测一下，随着 IT 技术的发展，书籍可能成为历史的尘埃？](https://www.v2ex.com/t/782116)
 1. [爷爷八十岁了想带他去天安门（他也想去），家里人都因为年龄太大了不同意，有没有两全其美的方法](https://www.v2ex.com/t/782045)
 1. [不等了，准备冲 M1 了，请教两个问题](https://www.v2ex.com/t/782143)
-1. [大家平时在家里是如何各个电脑以及移动设备之间共享文档、视频等的](https://www.v2ex.com/t/782005)
 1. [macOS Monterey Universal Control 可以的](https://www.v2ex.com/t/782012)
-1. [iPad 对代码工作者依旧还是那个玩具](https://www.v2ex.com/t/782027)
 1. [iOS15 更新内容汇总](https://www.v2ex.com/t/782029)
+1. [iPad 对代码工作者依旧还是那个玩具](https://www.v2ex.com/t/782027)
 1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073)
+1. [ios 版微信为什么不做 消息通知点进去直接是对应的聊天?](https://www.v2ex.com/t/782047)
 
 ## 历史归档
 
