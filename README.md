@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-08 12:39:20 +0800`
+ `更新时间：2021-06-08 13:46:19 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [notepad_PP 发布 8.0](https://www.v2ex.com/t/781942)
 1. [爷爷八十岁了想带他去天安门（他也想去），家里人都因为年龄太大了不同意，有没有两全其美的方法](https://www.v2ex.com/t/782045)
 1. [大家有没有便宜的降噪耳机推荐？天天地铁上用 AirPods 太摧残听力。](https://www.v2ex.com/t/781930)
-1. [究竟什么东西能划伤一个从不出门的 iPad 的屏幕啊？](https://www.v2ex.com/t/781899)
-1. [limit mysql 取最后_分页场景（limit,offset）特别慢，有什么办法可以优化？](https://www.v2ex.com/t/781896)
 1. [大家平时在家里是如何各个电脑以及移动设备之间共享文档、视频等的](https://www.v2ex.com/t/782005)
+1. [究竟什么东西能划伤一个从不出门的 iPad 的屏幕啊？](https://www.v2ex.com/t/781899)
+1. [现在的人都喜欢看视频。大胆的预测一下，随着 IT 技术的发展，书籍可能成为历史的尘埃？](https://www.v2ex.com/t/782116)
 1. [macOS Monterey Universal Control 可以的](https://www.v2ex.com/t/782012)
 
 ## 历史归档
