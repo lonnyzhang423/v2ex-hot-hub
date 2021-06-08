@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-09 04:11:15 +0800`
+ `更新时间：2021-06-09 05:05:29 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [iPad 对代码工作者依旧还是那个玩具](https://www.v2ex.com/t/782027)
 1. [iOS 15 Dev Beta 版升级 Bug 收集贴](https://www.v2ex.com/t/782073)
 1. [ios 版微信为什么不做 消息通知点进去直接是对应的聊天?](https://www.v2ex.com/t/782047)
-1. [MacOS 12 beta 微信客户端 bug](https://www.v2ex.com/t/782124)
+1. [日经贴： 11 寸平板拿来看论文和看文档怎么样？](https://www.v2ex.com/t/782165)
 
 ## 历史归档
 
