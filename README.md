@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-11 08:18:42 +0800`
+ `更新时间：2021-06-11 09:57:07 +0800`
 
 ## 热议话题
 
-1. [再过三个月从厦门去深圳，各位热心的大佬有什么建议吗？](https://www.v2ex.com/t/782548)
-1. [各位 V 友，马上要上大学，预算 5K 左右有什么笔记本推荐的，可能选计算机相关专业~](https://www.v2ex.com/t/782549)
+1. [今天是我的生日🎂🎂🎂🍰🍰🍰](https://www.v2ex.com/t/782797)
+1. [银行已经在全面准备迁移到统信“国产操作系统”和国产 CPU 了](https://www.v2ex.com/t/782778)
 1. [印象笔记的广告推送是真的恶心](https://www.v2ex.com/t/782566)
 1. [迫于专科学历，想问问那种学历提升方式靠谱](https://www.v2ex.com/t/782568)
 1. [S20 换到 iPhone 12 Pro Max 半年了，再也回不去了](https://www.v2ex.com/t/782585)
 1. [找工作迷惑，怎么谈薪资？](https://www.v2ex.com/t/782592)
 1. [Apple Music 的杜比 Atmos 和无损 大家听出区别了吗](https://www.v2ex.com/t/782591)
-1. [V 站上用空气炸锅的小伙伴们，你们怎么清洗机器里面上方出风的那个地方的呀](https://www.v2ex.com/t/782597)
-1. [成年人的快乐](https://www.v2ex.com/t/782572)
 1. [我不买 iPhone 的理由，只因为不能通话录音](https://www.v2ex.com/t/782725)
+1. [V 站上用空气炸锅的小伙伴们，你们怎么清洗机器里面上方出风的那个地方的呀](https://www.v2ex.com/t/782597)
+1. [GitLab 国内版要来了，不香么](https://www.v2ex.com/t/782683)
 
 ## 历史归档
 
