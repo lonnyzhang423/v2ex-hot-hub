@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-11 07:04:49 +0800`
+ `更新时间：2021-06-11 08:18:42 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [找工作迷惑，怎么谈薪资？](https://www.v2ex.com/t/782592)
 1. [Apple Music 的杜比 Atmos 和无损 大家听出区别了吗](https://www.v2ex.com/t/782591)
 1. [V 站上用空气炸锅的小伙伴们，你们怎么清洗机器里面上方出风的那个地方的呀](https://www.v2ex.com/t/782597)
-1. [6s 升级到 iOS 15 丝般顺滑](https://www.v2ex.com/t/782545)
 1. [成年人的快乐](https://www.v2ex.com/t/782572)
+1. [我不买 iPhone 的理由，只因为不能通话录音](https://www.v2ex.com/t/782725)
 
 ## 历史归档
 
