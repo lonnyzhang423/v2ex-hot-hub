@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-14 05:03:47 +0800`
+ `更新时间：2021-06-14 06:04:31 +0800`
 
 ## 热议话题
 
-1. [2021 油管上有什么正向的值得订阅的管注推荐吗](https://www.v2ex.com/t/783183)
 1. [走路能减肥吗](https://www.v2ex.com/t/783227)
 1. [OnePlus 9 Pro 还是 Mi 11 pro？](https://www.v2ex.com/t/783185)
 1. [火绒的杀毒，比 win10 自带的要好么？可是，我只想要火绒的网络进程监控和控制，怎么办？](https://www.v2ex.com/t/783173)
