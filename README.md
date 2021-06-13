@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-14 00:10:27 +0800`
+ `更新时间：2021-06-14 01:20:58 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [OnePlus 9 Pro 还是 Mi 11 pro？](https://www.v2ex.com/t/783185)
 1. [火绒的杀毒，比 win10 自带的要好么？可是，我只想要火绒的网络进程监控和控制，怎么办？](https://www.v2ex.com/t/783173)
 1. [Mac 下有支持 Dolby Vision 的本地播放器么？](https://www.v2ex.com/t/783200)
-1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175)
 1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219)
+1. [现在还有纯 PC 版本的通讯（聊天）工具吗？](https://www.v2ex.com/t/783242)
+1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175)
 1. [iPad Pro 的妙控键盘（带触摸板的那款）实际的使用体验如何 ？](https://www.v2ex.com/t/783170)
 1. [为什么 mysql 要搞出 having where on 三个关键字？](https://www.v2ex.com/t/783215)
-1. [现在还有纯 PC 版本的通讯（聊天）工具吗？](https://www.v2ex.com/t/783242)
 
 ## 历史归档
 
