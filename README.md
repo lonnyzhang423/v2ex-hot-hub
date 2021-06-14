@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-15 02:07:39 +0800`
+ `更新时间：2021-06-15 03:06:14 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [美术太难了，想搞独立游戏，像素画不好](https://www.v2ex.com/t/783350)
 1. [彦祖们，写 CRUD 的时候会使用设计模式吗？](https://www.v2ex.com/t/783300)
 1. [youtube 的自动翻译功能哪儿去了？](https://www.v2ex.com/t/783273)
-1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333)
 1. [请问目前 iOS 15 DB1 可以日常使用了吗](https://www.v2ex.com/t/783346)
+1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333)
 1. [继运营商屏蔽后 Cloudflare Warp+ 被教育网也屏蔽了？](https://www.v2ex.com/t/783276)
 1. [2018 iPad Pro 12.9 键盘的选择](https://www.v2ex.com/t/783288)
 
