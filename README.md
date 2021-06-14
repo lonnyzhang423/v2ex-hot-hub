@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-14 10:31:04 +0800`
+ `更新时间：2021-06-14 11:08:55 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [Mac 下有支持 Dolby Vision 的本地播放器么？](https://www.v2ex.com/t/783200)
 1. [pip install 怎么都用不了](https://www.v2ex.com/t/783219)
 1. [自学 Python 可行性高吗](https://www.v2ex.com/t/783175)
-1. [iPad Pro 的妙控键盘（带触摸板的那款）实际的使用体验如何 ？](https://www.v2ex.com/t/783170)
+1. [如何远程帮助爸妈设置一个新的路由器](https://www.v2ex.com/t/783237)
 1. [为什么 mysql 要搞出 having where on 三个关键字？](https://www.v2ex.com/t/783215)
 
 ## 历史归档
