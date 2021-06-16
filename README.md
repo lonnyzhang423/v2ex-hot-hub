@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-16 19:03:56 +0800`
+ `更新时间：2021-06-16 20:07:45 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [想换小米 11pro，有用过的进来说说优缺点](https://www.v2ex.com/t/783663)
 1. [关于一段感情](https://www.v2ex.com/t/783620)
 1. [618 电信的宽带费用是真坚挺啊。续费 2 年居然是 1578](https://www.v2ex.com/t/783680)
-1. [实习生菜鸡， leader 总习惯在一针见血的回答我的小问题之后加"......"](https://www.v2ex.com/t/783612)
 1. [[抽码] Android 上一键管理维护 Linux 的 App](https://www.v2ex.com/t/783655)
+1. [实习生菜鸡， leader 总习惯在一针见血的回答我的小问题之后加"......"](https://www.v2ex.com/t/783612)
 1. [iOS 15 的 Live Text 非常厉害](https://www.v2ex.com/t/783622)
 1. [威联通突然断电文件丢失了怎么办~](https://www.v2ex.com/t/783590)
 1. [时至今日，还有没有玩 DNF 的？](https://www.v2ex.com/t/783723)
