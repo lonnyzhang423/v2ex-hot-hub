@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-19 12:06:03 +0800`
+ `更新时间：2021-06-19 13:09:08 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [M1 与 Intel](https://www.v2ex.com/t/784283)
 1. [求大佬们优化一下代码，屎山代码给孩子头皮想破了](https://www.v2ex.com/t/784284)
 1. [爽约](https://www.v2ex.com/t/784298)
-1. [迫于 618，帮朋友组装一台电脑](https://www.v2ex.com/t/784196)
 1. [腾讯视频 VIP 买一得五 128 有京东 PLUS 会员](https://www.v2ex.com/t/784285)
 1. [实习就快要结束了，想送个礼物给我师父，求 v2er 推荐](https://www.v2ex.com/t/784314)
+1. [Airpods Pro 带着耳朵疼，有什么好方法吗？](https://www.v2ex.com/t/784312)
+1. [感觉安卓手机还挺好用的](https://www.v2ex.com/t/784357)
 
 ## 历史归档
 
