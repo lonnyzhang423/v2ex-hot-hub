@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-20 21:17:15 +0800`
+ `更新时间：2021-06-20 22:03:58 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [有公网 IP，请问目前最好的公网访问家中 NAS 的办法是什么](https://www.v2ex.com/t/784557)
 1. [如何看待交易员声称从 1000 赚到 1000 万？](https://www.v2ex.com/t/784584)
 1. [安利一个类 Alfred 的软件——Raycast](https://www.v2ex.com/t/784576)
-1. [我理解有问题还是 backblaze 的对象存储就有这种漏洞？](https://www.v2ex.com/t/784561)
 1. [夏天了想学一下游泳，有 v 友分享一下学习心得吗](https://www.v2ex.com/t/784645)
+1. [我理解有问题还是 backblaze 的对象存储就有这种漏洞？](https://www.v2ex.com/t/784561)
 1. [Oracle Cloud 可能把测试版界面放上来了](https://www.v2ex.com/t/784552)
 1. [现在还是上车深圳的好时机吗](https://www.v2ex.com/t/784580)
-1. [如果有两个 AirPods Pro 其中一副 刚买的 上了 AC+ 那么另外一副没有 AC+ 的是否可以享受到 ac+的福利？](https://www.v2ex.com/t/784548)
+1. [知乎又开始迫害手机浏览器用户？](https://www.v2ex.com/t/784612)
 
 ## 历史归档
 
