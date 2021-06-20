@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-20 10:42:32 +0800`
+ `更新时间：2021-06-20 11:08:14 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [苹果通知的问题](https://www.v2ex.com/t/784441)
 1. [你们喜欢佛系 leader 吗？](https://www.v2ex.com/t/784455)
 1. [测试工程师的薪资天花板能到多少？](https://www.v2ex.com/t/784430)
+1. [Magic Trackpad 2 和笔记本上的 trackpad 是两种东西](https://www.v2ex.com/t/784555)
 1. [妙控板 2 深空灰官网已下架](https://www.v2ex.com/t/784465)
 
 ## 历史归档
