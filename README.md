@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-20 15:08:35 +0800`
+ `更新时间：2021-06-20 16:05:53 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [移动的宽带目前体验如何？](https://www.v2ex.com/t/784509)
 1. [Magic Trackpad 2 和笔记本上的 trackpad 是两种东西](https://www.v2ex.com/t/784555)
 1. [有公网 IP，请问目前最好的公网访问家中 NAS 的办法是什么](https://www.v2ex.com/t/784557)
-1. [天天摸鱼该不该离职？](https://www.v2ex.com/t/784479)
 1. [有没有遇到智能顶灯半夜自己亮起来的情况的朋友？](https://www.v2ex.com/t/784574)
+1. [天天摸鱼该不该离职？](https://www.v2ex.com/t/784479)
 1. [偶然发现了一个可以让 iPhone 稳定失去电池健康百分之一](https://www.v2ex.com/t/784484)
 1. [安利一个类 Alfred 的软件——Raycast](https://www.v2ex.com/t/784576)
 
