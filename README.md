@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-22 20:07:33 +0800`
+ `更新时间：2021-06-22 21:18:20 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [你们的项目启动时间是几秒?](https://www.v2ex.com/t/785066)
 1. [面对公司屎山，我内心毫无波澜，因为准备跑路了](https://www.v2ex.com/t/784953)
 1. [iPhone13 会出屏下指纹吗](https://www.v2ex.com/t/785091)
-1. [Rocky Linux 8.4 正式发布了](https://www.v2ex.com/t/785010)
 
 ## 历史归档
 
