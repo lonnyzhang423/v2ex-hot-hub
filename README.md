@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-23 00:15:19 +0800`
+ `更新时间：2021-06-23 01:21:07 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [公司要求使用个人身份证办理电话卡给业务部门做营销电话，如何应对？](https://www.v2ex.com/t/785080)
 1. [长时间敲代码，是浅色背景好还是深色背景好？](https://www.v2ex.com/t/785006)
 1. [你们的项目启动时间是几秒?](https://www.v2ex.com/t/785066)
-1. [Rocky Linux 8.4 正式发布了](https://www.v2ex.com/t/785010)
-1. [面对公司屎山，我内心毫无波澜，因为准备跑路了](https://www.v2ex.com/t/784953)
 1. [iPhone13 会出屏下指纹吗](https://www.v2ex.com/t/785091)
+1. [Rocky Linux 8.4 正式发布了](https://www.v2ex.com/t/785010)
+1. [亚马逊群晖 DS220+ 1591 元值得轻度用户入手吗？](https://www.v2ex.com/t/784971)
 
 ## 历史归档
 
