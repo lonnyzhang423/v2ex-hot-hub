@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-23 21:14:26 +0800`
+ `更新时间：2021-06-23 22:08:24 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [有没有比较安全、好用的纯净版 win7/win10 gho?](https://www.v2ex.com/t/785232)
 1. [是不是只有我对“阿里”这个词 PTSD 了.....](https://www.v2ex.com/t/785246)
 1. [有没有什么好的方法防止互联网隐私暴露给家人](https://www.v2ex.com/t/785253)
-1. [把原来 KPI 我的 HR 给怼了](https://www.v2ex.com/t/785262)
 1. [主打隐私的 brave 浏览器今天推出了他们的搜索引擎啦～](https://www.v2ex.com/t/785271)
+1. [把原来 KPI 我的 HR 给怼了](https://www.v2ex.com/t/785262)
 
 ## 历史归档
 
