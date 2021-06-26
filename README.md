@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-26 22:03:43 +0800`
+ `更新时间：2021-06-26 23:04:40 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907)
 1. [这些 211 的计算机和杭电计算机选哪个](https://www.v2ex.com/t/785919)
 1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875)
-1. [大家怎么保存 2FA 的 recovery key？](https://www.v2ex.com/t/785855)
-1. [无限 LTE 流量（不能开热点）的手机卡有什么玩法？](https://www.v2ex.com/t/785861)
 1. [我的需求是否需要买一个 apple watch](https://www.v2ex.com/t/785929)
-1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874)
+1. [无限 LTE 流量（不能开热点）的手机卡有什么玩法？](https://www.v2ex.com/t/785861)
 1. [网易云音乐网页端登录只能扫码登录了！](https://www.v2ex.com/t/785880)
 1. [App Store 充值 9 折优惠又来了 (6/26-7/2)](https://www.v2ex.com/t/785955)
+1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874)
+1. [2021 年 6 月 M1 Mackbook Big Sur 11.4：最新版的 Firefox、Edge 浏览器都比 Safair 快得多](https://www.v2ex.com/t/785915)
 
 ## 历史归档
 
