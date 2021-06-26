@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-26 18:05:13 +0800`
+ `更新时间：2021-06-26 19:03:47 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [无限 LTE 流量（不能开热点）的手机卡有什么玩法？](https://www.v2ex.com/t/785861)
 1. [千兆外网有多爽？](https://www.v2ex.com/t/785841)
 1. [大家怎么保存 2FA 的 recovery key？](https://www.v2ex.com/t/785855)
+1. [我的需求是否需要买一个 apple watch](https://www.v2ex.com/t/785929)
 1. [迫于学历压力，数学不太好，想问下如何捡起来。](https://www.v2ex.com/t/785874)
-1. [调查：国内互联网公司是不是 两步验证 没有支持 三方身份验证器（GA）的？](https://www.v2ex.com/t/785848)
 
 ## 历史归档
 
