@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-26 15:03:55 +0800`
+ `更新时间：2021-06-26 16:07:20 +0800`
 
 ## 热议话题
 
-1. [小公司都是怎么部署代码到生产环境服务器的？](https://www.v2ex.com/t/785777)
 1. [二本大学，学信息安全好还是计算机好？](https://www.v2ex.com/t/785811)
-1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901)
-1. [每个月需要多少流量能够 99%完全满足你所有设备的需求，甚至不用宽带？](https://www.v2ex.com/t/785780)
 1. [选择成电还是北邮的计算机？](https://www.v2ex.com/t/785907)
+1. [最近 Win11 很火，体验了一把](https://www.v2ex.com/t/785901)
 1. [不晓得这个问题该不该问..........](https://www.v2ex.com/t/785837)
 1. [官翻的 Macmini，选 256 还是 512G?](https://www.v2ex.com/t/785806)
-1. [都说 go 挺好使的，准备用 go 写几个接口](https://www.v2ex.com/t/785787)
 1. [抖音电脑版的设计越来越像 Youtube](https://www.v2ex.com/t/785875)
 1. [Mac OS 多任务切换程序 终极选择 Alt-Tab](https://www.v2ex.com/t/785807)
+1. [无限 LTE 流量（不能开热点）的手机卡有什么玩法？](https://www.v2ex.com/t/785861)
+1. [小米隐藏 chrome 的图标](https://www.v2ex.com/t/785791)
+1. [大家怎么保存 2FA 的 recovery key？](https://www.v2ex.com/t/785855)
 
 ## 历史归档
 
