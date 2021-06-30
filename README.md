@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-30 14:10:40 +0800`
+ `更新时间：2021-06-30 15:07:40 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [GitHub 官方发布了 AI 代码补全功能](https://www.v2ex.com/t/786567)
 1. [PUA 从面试开始](https://www.v2ex.com/t/786576)
 1. [bios 硬盘加密是不是很危险？](https://www.v2ex.com/t/786589)
-1. [玩了一会 Windows 11 首个预览版 有进步 不过设计上要补的课还是有好多好多](https://www.v2ex.com/t/786506)
+1. [电信充 50 送 120，数量有限](https://www.v2ex.com/t/786670)
 
 ## 历史归档
 
