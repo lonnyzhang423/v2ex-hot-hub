@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-06-30 07:05:07 +0800`
+ `更新时间：2021-06-30 08:17:13 +0800`
 
 ## 热议话题
 
 1. [咨询下已经买房的小伙伴，都是怎么存够首付的啊？](https://www.v2ex.com/t/786398)
 1. [diy nas 和商品 nas 大家怎么选](https://www.v2ex.com/t/786377)
 1. [鉴于 C# 正沦为"小众"语言，想向大家介绍一下它，各位想看点什么？](https://www.v2ex.com/t/786457)
-1. [“985”的名号究竟有多重要？](https://www.v2ex.com/t/786368)
 1. [前端转行做游戏，有什么需要注意？](https://www.v2ex.com/t/786371)
 1. [Manjaro 个人感觉是最好用的 Linux 系统](https://www.v2ex.com/t/786502)
+1. [群晖 DSM7.0 正式发布了](https://www.v2ex.com/t/786442)
 
 ## 历史归档
 
