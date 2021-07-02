@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-02 15:04:58 +0800`
+ `更新时间：2021-07-02 16:08:44 +0800`
 
 ## 热议话题
 
 1. [8g 内存 mbp 卡到炸起来](https://www.v2ex.com/t/787036)
-1. [分享一下你的 7 月挑战吧](https://www.v2ex.com/t/786935)
 1. [App Store 京东充值 8.5 折](https://www.v2ex.com/t/787048)
 1. [折腾许久，始终跑不满千兆](https://www.v2ex.com/t/787025)
 1. [作为一名技术主管，其他部门同事遇到技术问题直接跳过自己问下属或者其他人是什么心理？](https://www.v2ex.com/t/787072)
-1. [大佬们，能帮忙指导下简历吗，快 2 年的前端~](https://www.v2ex.com/t/786938)
 1. [在 Windows 11 上玩儿了一下游戏](https://www.v2ex.com/t/787004)
 1. [屏幕裂了，我也幵了](https://www.v2ex.com/t/787042)
 1. [笔记本推荐一下，预算 9k，已有 MBP 和 3090 PC](https://www.v2ex.com/t/787034)
+1. [我说一句群晖相册用于家庭共享很辣鸡，应该没人反对吧？](https://www.v2ex.com/t/787103)
 
 ## 历史归档
 
