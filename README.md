@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-02 13:04:13 +0800`
+ `更新时间：2021-07-02 14:05:39 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [App Store 京东充值 8.5 折](https://www.v2ex.com/t/787048)
 1. [有什么办法让 adb 命令能从电脑给国产手机装 apk 吗？](https://www.v2ex.com/t/786924)
 1. [折腾许久，始终跑不满千兆](https://www.v2ex.com/t/787025)
-1. [在 Windows 11 上玩儿了一下游戏](https://www.v2ex.com/t/787004)
 1. [大佬们，能帮忙指导下简历吗，快 2 年的前端~](https://www.v2ex.com/t/786938)
+1. [在 Windows 11 上玩儿了一下游戏](https://www.v2ex.com/t/787004)
+1. [作为一名技术主管，其他部门同事遇到技术问题直接跳过自己问下属或者其他人是什么心理？](https://www.v2ex.com/t/787072)
 1. [屏幕裂了，我也幵了](https://www.v2ex.com/t/787042)
 
 ## 历史归档
