@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-03 15:04:04 +0800`
+ `更新时间：2021-07-03 16:05:40 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [Firefox 染山霞主题](https://www.v2ex.com/t/787228)
 1. [请教一个服务器部署问题](https://www.v2ex.com/t/787220)
 1. [吐槽一下 iOS 的 Files 应用](https://www.v2ex.com/t/787243)
-1. [[北京/ Java ]自学到这个水平能得到一份实习工作嘛，各位前辈，求指导意见](https://www.v2ex.com/t/787162)
+1. [问个小白问题，如何让油猴脚本中的循环异步执行](https://www.v2ex.com/t/787256)
 
 ## 历史归档
 
