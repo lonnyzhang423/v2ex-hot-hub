@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-03 12:05:54 +0800`
+ `更新时间：2021-07-03 13:03:49 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [把大学同学删了之后感觉很糟糕](https://www.v2ex.com/t/787210)
 1. [中国平安跌倒 62.2 了 是不是能抄底了](https://www.v2ex.com/t/787150)
 1. [Firefox 染山霞主题](https://www.v2ex.com/t/787228)
-1. [怎么手动管理删除 ios 的 wifi 连接记录](https://www.v2ex.com/t/787114)
+1. [给期权的公司究竟要不要待下去](https://www.v2ex.com/t/787259)
 
 ## 历史归档
 
