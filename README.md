@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-05 05:03:54 +0800`
+ `更新时间：2021-07-05 06:04:35 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [求推荐声音比较清脆的机械键盘](https://www.v2ex.com/t/787400)
 1. [该不该离职？](https://www.v2ex.com/t/787457)
 1. [一直都比较浮躁，感觉生活很单调、无聊，大家进来聊聊吧](https://www.v2ex.com/t/787428)
-1. [突然发现淘宝开 app 广告没了](https://www.v2ex.com/t/787460)
 1. [2020 intel mbp 还是回到 catalina 舒适](https://www.v2ex.com/t/787412)
+1. [突然发现淘宝开 app 广告没了](https://www.v2ex.com/t/787460)
 
 ## 历史归档
 
