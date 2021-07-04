@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-04 19:03:35 +0800`
+ `更新时间：2021-07-04 20:07:04 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [来欣赏下知乎盐选付费内容的推广标题，不能再恶心了](https://www.v2ex.com/t/787416)
 1. [请问 Mac 有没有什么常驻观察网速的工具](https://www.v2ex.com/t/787391)
 1. [求推荐声音比较清脆的机械键盘](https://www.v2ex.com/t/787400)
-1. [2020 intel mbp 还是回到 catalina 舒适](https://www.v2ex.com/t/787412)
+1. [Win10 下最好用的看图软件是？](https://www.v2ex.com/t/787453)
 
 ## 历史归档
 
