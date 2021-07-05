@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-06 02:05:30 +0800`
+ `更新时间：2021-07-06 03:03:42 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [有没有人觉得电脑端的输入法都很难用?](https://www.v2ex.com/t/787592)
 1. [这 postman 启动速度比 IDE 还慢](https://www.v2ex.com/t/787560)
 1. [求推荐一个城市独居工作生活（国内国外都行）](https://www.v2ex.com/t/787601)
+1. [Windows Terminal 的性能有多烂](https://www.v2ex.com/t/787595)
 
 ## 历史归档
 
