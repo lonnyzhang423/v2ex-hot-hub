@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-07 00:11:21 +0800`
+ `更新时间：2021-07-07 01:17:22 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [iPhone 12 pro，电池已经 92%了。](https://www.v2ex.com/t/787765)
 1. [是继续呆在深圳还是到长沙找个 Java 开发的工作定居？](https://www.v2ex.com/t/787884)
 1. [两个人平时怎么解决饭后洗碗问题？租房，排除洗碗机](https://www.v2ex.com/t/787920)
+1. [做为程序员最近有点迷茫](https://www.v2ex.com/t/787786)
 1. [吹爆 Dell 售后！](https://www.v2ex.com/t/787805)
-1. [Steam 夏季促销还有 3 天就结束了，你买了些什么？](https://www.v2ex.com/t/787867)
 
 ## 历史归档
 
