@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-06 09:50:45 +0800`
+ `更新时间：2021-07-06 10:18:26 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [求推荐一个城市独居工作生活（国内国外都行）](https://www.v2ex.com/t/787601)
 1. [Windows Terminal 的性能有多烂](https://www.v2ex.com/t/787595)
 1. [为什么有些开源项目选择在 gitee 开源而不是 github？](https://www.v2ex.com/t/787745)
-1. [准备买个千元机给我妈用，有没推荐机型](https://www.v2ex.com/t/787534)
 
 ## 历史归档
 
