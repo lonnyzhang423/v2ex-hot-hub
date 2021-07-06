@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-06 10:18:26 +0800`
+ `更新时间：2021-07-06 11:05:46 +0800`
 
 ## 热议话题
 
-1. [吐槽罗技售后，所有产品过保一律不保修](https://www.v2ex.com/t/787561)
-1. [在国内环境下，用 iPhone 好还是安卓好，是不是可以盖棺了？](https://www.v2ex.com/t/787565)
 1. [有没有人觉得电脑端的输入法都很难用?](https://www.v2ex.com/t/787592)
-1. [这 postman 启动速度比 IDE 还慢](https://www.v2ex.com/t/787560)
 1. [求推荐一个城市独居工作生活（国内国外都行）](https://www.v2ex.com/t/787601)
 1. [Windows Terminal 的性能有多烂](https://www.v2ex.com/t/787595)
+1. [为什么你越来越不想玩抖音了？](https://www.v2ex.com/t/787774)
+1. ["那就把他干掉吧"](https://www.v2ex.com/t/787776)
 1. [为什么有些开源项目选择在 gitee 开源而不是 github？](https://www.v2ex.com/t/787745)
+1. [深夜提问，外卖平台的商品标价远高出堂食标价，定价真就可以这么任性？](https://www.v2ex.com/t/787747)
+1. [可以提前还房贷吗](https://www.v2ex.com/t/787588)
 
 ## 历史归档
 
