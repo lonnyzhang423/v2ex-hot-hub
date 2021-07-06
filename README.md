@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-06 18:10:29 +0800`
+ `更新时间：2021-07-06 19:04:43 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [ThinkPHP 是我用过（维护过）的最恶心的 PHP 框架，没有之一](https://www.v2ex.com/t/787809)
 1. [美亚买的 apple TV 4K 64G 到了](https://www.v2ex.com/t/787738)
 1. [iPhone 12 pro，电池已经 92%了。](https://www.v2ex.com/t/787765)
-1. [想用 NAS 替代 iCloud，可行吗？](https://www.v2ex.com/t/787706)
+1. [B 站新版的客户端对 iPad 的适配是哪个天才设计的](https://www.v2ex.com/t/787749)
 
 ## 历史归档
 
