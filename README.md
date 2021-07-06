@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-06 20:12:21 +0800`
+ `更新时间：2021-07-06 21:16:24 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [深夜提问，外卖平台的商品标价远高出堂食标价，定价真就可以这么任性？](https://www.v2ex.com/t/787747)
 1. [为什么有些开源项目选择在 gitee 开源而不是 github？](https://www.v2ex.com/t/787745)
 1. [流动资金 10 个有啥好的理财方式呢](https://www.v2ex.com/t/787779)
-1. [小米手机用户慎重升级 MIUI 12.5](https://www.v2ex.com/t/787752)
 1. [ThinkPHP 是我用过（维护过）的最恶心的 PHP 框架，没有之一](https://www.v2ex.com/t/787809)
+1. [小米手机用户慎重升级 MIUI 12.5](https://www.v2ex.com/t/787752)
 1. [iPhone 12 pro，电池已经 92%了。](https://www.v2ex.com/t/787765)
 1. [美亚买的 apple TV 4K 64G 到了](https://www.v2ex.com/t/787738)
 1. [是继续呆在深圳还是到长沙找个 Java 开发的工作定居？](https://www.v2ex.com/t/787884)
