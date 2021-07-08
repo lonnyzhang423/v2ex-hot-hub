@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-08 10:19:25 +0800`
+ `更新时间：2021-07-08 11:05:26 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [请问平时使用什么工具来进行简单的数学计算的？](https://www.v2ex.com/t/788166)
 1. [F**K，数据库被黑客删光了](https://www.v2ex.com/t/788046)
 1. [Linux 下程序开发的正确姿势是什么？想尽量接近 Windows 下 Visual Studio 和 TortoiseGit 这类工具的体验](https://www.v2ex.com/t/788078)
-1. [WSL 你们都怎么读？](https://www.v2ex.com/t/788068)
 1. [技术老大对开发闭源了基础库，打算自己写一套代替](https://www.v2ex.com/t/788087)
+1. [WSL 你们都怎么读？](https://www.v2ex.com/t/788068)
 1. [Windows 更换系统字体哪个更好看](https://www.v2ex.com/t/788061)
-1. [DNSPod Public DNS 专业版出来了](https://www.v2ex.com/t/788130)
 1. [终于完美解决了在 Vim 下写 C#的难题， Vim 永远的神](https://www.v2ex.com/t/788204)
+1. [DNSPod Public DNS 专业版出来了](https://www.v2ex.com/t/788130)
 
 ## 历史归档
 
