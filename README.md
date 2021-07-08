@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-08 12:06:13 +0800`
+ `更新时间：2021-07-08 13:04:10 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [Windows 更换系统字体哪个更好看](https://www.v2ex.com/t/788061)
 1. [终于完美解决了在 Vim 下写 C#的难题， Vim 永远的神](https://www.v2ex.com/t/788204)
 1. [DNSPod Public DNS 专业版出来了](https://www.v2ex.com/t/788130)
+1. [感觉市面上的 app 都太重了，想自己写个轻量的自己用用。请问这想法可行吗](https://www.v2ex.com/t/788237)
 1. [[社招][腾讯][QQ]我又来了，非常缺人，来者不拒直接转业务，快来投一个啊啊啊啊啊啊啊啊啊！](https://www.v2ex.com/t/788091)
 
 ## 历史归档
