@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-09 20:07:24 +0800`
+ `更新时间：2021-07-09 21:11:31 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495)
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435)
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523)
-1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434)
 1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455)
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434)
 
 ## 历史归档
 
