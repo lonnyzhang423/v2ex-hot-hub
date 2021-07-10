@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-10 20:06:40 +0800`
+ `更新时间：2021-07-10 21:09:49 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [阿里云盘支持分享功能了](https://www.v2ex.com/t/788653)
 1. [今天电信跨境似乎不太正常](https://www.v2ex.com/t/788719)
 1. [你们怎么看教师招聘取消专业限制，取消非师范生限制](https://www.v2ex.com/t/788621)
-1. [纯好奇，为什么天猫 APPLE 旗舰店发货速度很慢](https://www.v2ex.com/t/788726)
 1. [做一个家政原生小程序，良心价格是多少？](https://www.v2ex.com/t/788680)
-1. [node 怎么实现 工作队列？](https://www.v2ex.com/t/788690)
+1. [纯好奇，为什么天猫 APPLE 旗舰店发货速度很慢](https://www.v2ex.com/t/788726)
+1. [滴滴被下架后,很多 app 乖了,启动速读很快了](https://www.v2ex.com/t/788747)
 1. [腾讯轻量应用服务器 ifconfig 没有公网 IP](https://www.v2ex.com/t/788618)
 
 ## 历史归档
