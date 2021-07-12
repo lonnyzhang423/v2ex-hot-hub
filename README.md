@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-12 15:09:24 +0800`
+ `更新时间：2021-07-12 16:11:28 +0800`
 
 ## 热议话题
 
 1. [[年中赠书] 送 3 本高级前端程序员面试笔试宝典](https://www.v2ex.com/t/788917)
 1. [你们一般能接受多久的通勤时间](https://www.v2ex.com/t/788898)
 1. [早上五点起床如何？](https://www.v2ex.com/t/788874)
+1. [请问大家是如何看待公共厕所全部安装马桶的？](https://www.v2ex.com/t/788972)
 1. [能说说你当程序员最晚睡觉是几点吗？ 在做什么事情？](https://www.v2ex.com/t/788925)
 1. [有什么技术可以实现传输的数据只用于显示，禁止保存](https://www.v2ex.com/t/788887)
-1. [请问大家是如何看待公共厕所全部安装马桶的？](https://www.v2ex.com/t/788972)
 1. [关于家用 nas,请教一下](https://www.v2ex.com/t/788851)
-1. [拼多多 iOS 版冷启动为什么这么快？](https://www.v2ex.com/t/788942)
 1. [拼夕夕买 macbook 靠谱吗？](https://www.v2ex.com/t/788920)
-1. [上海租房现在啥行情](https://www.v2ex.com/t/788921)
+1. [七彩虹 b460i 主板无法识别 海康威视 c2000 pro](https://www.v2ex.com/t/788944)
+1. [拼多多 iOS 版冷启动为什么这么快？](https://www.v2ex.com/t/788942)
 
 ## 历史归档
 
