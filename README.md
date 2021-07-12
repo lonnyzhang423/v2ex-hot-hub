@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-12 22:09:24 +0800`
+ `更新时间：2021-07-12 23:09:21 +0800`
 
 ## 热议话题
 
 1. [[年中赠书] 送 3 本高级前端程序员面试笔试宝典](https://www.v2ex.com/t/788917)
 1. [请问大家是如何看待公共厕所全部安装马桶的？](https://www.v2ex.com/t/788972)
-1. [你们一般能接受多久的通勤时间](https://www.v2ex.com/t/788898)
 1. [工作中经常打开浏览器 50+个 Tab，这个坏习惯该怎么改？](https://www.v2ex.com/t/789057)
 1. [刚需 google play。请教现在市面上手机， LCD 党购买建议？](https://www.v2ex.com/t/788973)
 1. [拼夕夕买 macbook 靠谱吗？](https://www.v2ex.com/t/788920)
 1. [七彩虹 b460i 主板无法识别 海康威视 c2000 pro](https://www.v2ex.com/t/788944)
 1. [拼多多 iOS 版冷启动为什么这么快？](https://www.v2ex.com/t/788942)
+1. [golang 框架选择,单体小应用,服务端渲染,利于 seo,前后端个人开发,方便独立维护.选择哪种框架好呢?](https://www.v2ex.com/t/788971)
 
 ## 历史归档
 
