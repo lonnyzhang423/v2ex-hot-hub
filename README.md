@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-12 18:10:19 +0800`
+ `更新时间：2021-07-12 19:05:24 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [早上五点起床如何？](https://www.v2ex.com/t/788874)
 1. [有什么技术可以实现传输的数据只用于显示，禁止保存](https://www.v2ex.com/t/788887)
 1. [刚需 google play。请教现在市面上手机， LCD 党购买建议？](https://www.v2ex.com/t/788973)
-1. [七彩虹 b460i 主板无法识别 海康威视 c2000 pro](https://www.v2ex.com/t/788944)
+1. [工作中经常打开浏览器 50+个 Tab，这个坏习惯该怎么改？](https://www.v2ex.com/t/789057)
 1. [拼夕夕买 macbook 靠谱吗？](https://www.v2ex.com/t/788920)
-1. [拼多多 iOS 版冷启动为什么这么快？](https://www.v2ex.com/t/788942)
+1. [七彩虹 b460i 主板无法识别 海康威视 c2000 pro](https://www.v2ex.com/t/788944)
 
 ## 历史归档
 
