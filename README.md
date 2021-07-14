@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-14 10:16:42 +0800`
+ `更新时间：2021-07-14 11:05:39 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [2021 年了，数据存时间是用 utc 还是本地时间？](https://www.v2ex.com/t/789255)
 1. [请问 Google 账号被认作是中国账号了还有解决办法吗？](https://www.v2ex.com/t/789338)
 1. [DIY 了一台可能是有史以来最小的直插显卡机箱](https://www.v2ex.com/t/789310)
-1. [近期有多个苹果企业开发账号被取消，大家有遇到类似的情况么？](https://www.v2ex.com/t/789194)
-1. [大家好，发布了一个开源项目， SwiftUI 写的 Redis 客户端](https://www.v2ex.com/t/789198)
+1. [程序员到底该不该学习研究除本职以外得技术栈？](https://www.v2ex.com/t/789276)
 1. [请问大家是如何预防或摆脱职业病的？](https://www.v2ex.com/t/789221)
+1. [如果你自认熟悉 async...await，来猜一下这个代码的运行结果](https://www.v2ex.com/t/789253)
+1. [苹果出 MagSafe 外接电池了](https://www.v2ex.com/t/789390)
 
 ## 历史归档
 
