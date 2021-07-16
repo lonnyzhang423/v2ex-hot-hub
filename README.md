@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-16 18:05:46 +0800`
+ `更新时间：2021-07-16 19:03:54 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [2021 Apple 返校优惠开始了](https://www.v2ex.com/t/789816)
 1. [你们都有自己的 utils 吗？](https://www.v2ex.com/t/789875)
 1. [性价比高的 CPU 推荐下，目前看中 AMD 3600 散装](https://www.v2ex.com/t/789825)
-1. [最近 airpods pro 戴着走路会嘎滋滋滋响](https://www.v2ex.com/t/789818)
+1. [有没有办法让 YouTube 的登入和 Google 的登入分离？](https://www.v2ex.com/t/789857)
 
 ## 历史归档
 
