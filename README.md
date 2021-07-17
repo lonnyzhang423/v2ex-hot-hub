@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-17 11:04:56 +0800`
+ `更新时间：2021-07-17 12:06:10 +0800`
 
 ## 热议话题
 
-1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028)
-1. [你们都有自己的 utils 吗？](https://www.v2ex.com/t/789875)
-1. [Shopee 校招面试时，面试体验极差，疑似 discriminatory behavior，大家可以帮我分析下吗](https://www.v2ex.com/t/789996)
 1. [父母希望我给他们买房养老，我拒绝了](https://www.v2ex.com/t/790010)
+1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028)
+1. [Shopee 校招面试时，面试体验极差，疑似 discriminatory behavior，大家可以帮我分析下吗](https://www.v2ex.com/t/789996)
 1. [请问占用资源比较小的 Web 框架有哪些](https://www.v2ex.com/t/789883)
 1. [各位的公司准时发工资不？](https://www.v2ex.com/t/789932)
 1. [返校季分享下 iPad 12.9 和 11 寸的问题吧](https://www.v2ex.com/t/789986)
-1. [大佬们， win10 缩放的问题把我整懵了，可以帮我看看吗？](https://www.v2ex.com/t/789891)
 1. [苹果真的很好用啊](https://www.v2ex.com/t/789958)
+1. [大佬们， win10 缩放的问题把我整懵了，可以帮我看看吗？](https://www.v2ex.com/t/789891)
 1. [LOL 手游第二批公测开启了！](https://www.v2ex.com/t/789918)
+1. [2021 年了，还请推荐一个 U 盘](https://www.v2ex.com/t/789920)
 
 ## 历史归档
 
