@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-18 00:06:54 +0800`
+ `更新时间：2021-07-18 01:11:58 +0800`
 
 ## 热议话题
 
-1. [父母希望我给他们买房养老，我拒绝了](https://www.v2ex.com/t/790010)
 1. [[兑换码] zClock 桌面置顶时钟，倒计时，网速显示](https://www.v2ex.com/t/790028)
 1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050)
 1. [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029)
@@ -23,6 +22,7 @@
 1. [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053)
 1. [masOS 抹掉磁盘重新安装系统，装了几个小时还没好正常吗？？](https://www.v2ex.com/t/790017)
 1. [大数据还是 elm 卖数据？](https://www.v2ex.com/t/790031)
+1. [Sqlite 做的小站全站静态是否会更快？](https://www.v2ex.com/t/790096)
 
 ## 历史归档
 
