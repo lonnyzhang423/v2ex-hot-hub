@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-17 22:04:11 +0800`
+ `更新时间：2021-07-17 23:04:32 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [家用视频监控，大家用的什么方案？](https://www.v2ex.com/t/790029)
 1. [深圳 or 厦门](https://www.v2ex.com/t/790076)
 1. [为了集齐全家桶，有没有必要入 mac？](https://www.v2ex.com/t/790002)
-1. [masOS 抹掉磁盘重新安装系统，装了几个小时还没好正常吗？？](https://www.v2ex.com/t/790017)
 1. [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053)
-1. [父母什么时候尝试真的理解孩子吗？](https://www.v2ex.com/t/789998)
+1. [masOS 抹掉磁盘重新安装系统，装了几个小时还没好正常吗？？](https://www.v2ex.com/t/790017)
+1. [大数据还是 elm 卖数据？](https://www.v2ex.com/t/790031)
 
 ## 历史归档
 
