@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-19 01:11:23 +0800`
+ `更新时间：2021-07-19 02:06:08 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207)
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220)
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153)
-1. [Ubuntu 上面 Nginx 配置了 https，死活无法访问，不知道啥问题](https://www.v2ex.com/t/790169)
+1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170)
 
 ## 历史归档
 
