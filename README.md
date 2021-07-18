@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-18 12:06:09 +0800`
+ `更新时间：2021-07-18 13:03:53 +0800`
 
 ## 热议话题
 
-1. [程序员使用 M1 版的 macbook 的时候，风扇真的不会狂转吗？](https://www.v2ex.com/t/790050)
 1. [深圳 or 厦门](https://www.v2ex.com/t/790076)
-1. [为什么没有延迟低的入耳式无线耳机呢？](https://www.v2ex.com/t/790097)
-1. [请问目前 iOS15 DB3 可以日常使用了吗？](https://www.v2ex.com/t/790053)
 1. [上个班真累，动不动就被老员工摆一道](https://www.v2ex.com/t/790098)
+1. [为什么没有延迟低的入耳式无线耳机呢？](https://www.v2ex.com/t/790097)
 1. [IT 培训 能否攻下芯片领域这座山头？](https://www.v2ex.com/t/790142)
-1. [提醒一下大家，多抓鱼的二手书可能卖的比淘宝新书还贵](https://www.v2ex.com/t/790135)
 1. [上海联通自己改桥接，获取 PPPoE + 要公网 IP 实录](https://www.v2ex.com/t/790061)
+1. [提醒一下大家，多抓鱼的二手书可能卖的比淘宝新书还贵](https://www.v2ex.com/t/790135)
+1. [你知道 Flask 的 Logo 是什么吗？](https://www.v2ex.com/t/790094)
 
 ## 历史归档
 
