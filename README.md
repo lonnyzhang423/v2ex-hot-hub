@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-19 00:06:33 +0800`
+ `更新时间：2021-07-19 01:11:23 +0800`
 
 ## 热议话题
 
-1. [IT 培训 能否攻下芯片领域这座山头？](https://www.v2ex.com/t/790142)
 1. [游戏台式机有必要升级 Windows 11 吗？](https://www.v2ex.com/t/790184)
 1. [115 是故意限速的吧](https://www.v2ex.com/t/790160)
-1. [有没有格力空调智能远程控制开关方案](https://www.v2ex.com/t/790154)
 1. [求推荐一个好点的鼠标，适配 macBook，感觉 Apple 的鼠标太难用了](https://www.v2ex.com/t/790186)
+1. [有没有格力空调智能远程控制开关方案](https://www.v2ex.com/t/790154)
+1. [苹果审核 ipv6 的问题](https://www.v2ex.com/t/790224)
 1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199)
 1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207)
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220)
-1. [苹果审核 ipv6 的问题](https://www.v2ex.com/t/790224)
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153)
+1. [Ubuntu 上面 Nginx 配置了 https，死活无法访问，不知道啥问题](https://www.v2ex.com/t/790169)
 
 ## 历史归档
 
