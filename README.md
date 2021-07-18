@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-18 21:10:15 +0800`
+ `更新时间：2021-07-18 22:04:11 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [游戏台式机有必要升级 Windows 11 吗？](https://www.v2ex.com/t/790184)
 1. [有没有格力空调智能远程控制开关方案](https://www.v2ex.com/t/790154)
 1. [提醒一下大家，多抓鱼的二手书可能卖的比淘宝新书还贵](https://www.v2ex.com/t/790135)
-1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199)
 1. [求推荐一个好点的鼠标，适配 macBook，感觉 Apple 的鼠标太难用了](https://www.v2ex.com/t/790186)
+1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199)
+1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207)
 1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153)
 1. [[广州/佛山] 4 年多前端找 965 的工作](https://www.v2ex.com/t/790175)
-1. [Nodejs 之后， Python 在 Web 开发领域还有啥优势么？](https://www.v2ex.com/t/790207)
 
 ## 历史归档
 
