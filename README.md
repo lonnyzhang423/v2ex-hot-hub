@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-20 07:04:52 +0800`
+ `更新时间：2021-07-20 08:16:39 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [想知道大伙儿都抽什么烟](https://www.v2ex.com/t/790408)
 1. [你们用的播放器是 IINA 还 movist？](https://www.v2ex.com/t/790444)
 1. [windows 下安装命令行工具的正确姿势是怎样的？](https://www.v2ex.com/t/790320)
-1. [寻找重庆移动家庭宽带打开京东页面 403 的有缘人](https://www.v2ex.com/t/790297)
+1. [想 IT 移民日本，但是有点没底](https://www.v2ex.com/t/790483)
 
 ## 历史归档
 
