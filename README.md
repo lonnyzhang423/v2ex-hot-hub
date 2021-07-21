@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-22 06:04:40 +0800`
+ `更新时间：2021-07-22 07:04:47 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [国内的 iOS 会接入紧急通知系统吗？](https://www.v2ex.com/t/790747)
 1. [国区 app store 唯一的一个优点今天也没了。](https://www.v2ex.com/t/790738)
 1. [iOS 彩云天气 pro App 限免](https://www.v2ex.com/t/790868)
-1. [发现一个从官网下载 windows iso 的方法，包括老版本。](https://www.v2ex.com/t/790732)
+1. [小米 10，过保修期不到 20 天，坏了](https://www.v2ex.com/t/790761)
 
 ## 历史归档
 
