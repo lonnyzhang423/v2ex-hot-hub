@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-21 18:10:22 +0800`
+ `更新时间：2021-07-21 19:03:57 +0800`
 
 ## 热议话题
 
-1. [开着特斯拉从广州到苏州的小记](https://www.v2ex.com/t/790678)
 1. [适合写长文的键盘有什么推荐的？](https://www.v2ex.com/t/790741)
 1. [信号满格，但是上不了网，是运营商的问题还是苹果的问题？](https://www.v2ex.com/t/790750)
 1. [国区 app store 唯一的一个优点今天也没了。](https://www.v2ex.com/t/790738)
 1. [国内的 iOS 会接入紧急通知系统吗？](https://www.v2ex.com/t/790747)
 1. [更新了 14.7，感觉信号和流畅度提升明显](https://www.v2ex.com/t/790702)
 1. [发现一个从官网下载 windows iso 的方法，包括老版本。](https://www.v2ex.com/t/790732)
+1. [彩云天气 Pro 限时免费（原价 98），登录随便使用一个会员功能可以领一年 SVIP](https://www.v2ex.com/t/790877)
+1. [iOS 彩云天气 pro App 限免](https://www.v2ex.com/t/790868)
 
 ## 历史归档
 
