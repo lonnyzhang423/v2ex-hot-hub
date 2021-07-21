@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-21 10:22:03 +0800`
+ `更新时间：2021-07-21 11:05:36 +0800`
 
 ## 热议话题
 
-1. [专升本进大厂？](https://www.v2ex.com/t/790613)
 1. [开着特斯拉从广州到苏州的小记](https://www.v2ex.com/t/790678)
+1. [专升本进大厂？](https://www.v2ex.com/t/790613)
 1. [Magsafe 外接电池是我今年买过最垃圾的苹果产品](https://www.v2ex.com/t/790635)
 1. [[前端]年轻人第一次计划辞职，虽然工作了两年感觉自己毫无竞争力怎么办](https://www.v2ex.com/t/790577)
 1. [有 V 友使用 vs code 开发 Java 大型项目吗](https://www.v2ex.com/t/790624)
 1. [[闲聊] IT 人员外包(驻场开发)，在派遣人员与用人单位之间 ，外包公司到底从中抽了多少？](https://www.v2ex.com/t/790563)
 1. [不懂就问, mac 默认的 Terminal 能否当生产主力](https://www.v2ex.com/t/790612)
+1. [国区 app store 唯一的一个优点今天也没了。](https://www.v2ex.com/t/790738)
 
 ## 历史归档
 
