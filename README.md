@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-23 15:04:23 +0800`
+ `更新时间：2021-07-23 16:07:22 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [唉，突然感觉拉丁语系的开发人员不用切输入法太爽了](https://www.v2ex.com/t/791081)
 1. [关于 Java 和 go 高并发的话题](https://www.v2ex.com/t/791169)
 1. [哪个 app 可以实现扫码只识别网址但不去访问？](https://www.v2ex.com/t/791114)
-1. [最近折腾 hyper-v 的一些吐槽](https://www.v2ex.com/t/791142)
 1. [有质量可靠的指纹锁推荐吗？](https://www.v2ex.com/t/791192)
+1. [最近折腾 hyper-v 的一些吐槽](https://www.v2ex.com/t/791142)
 
 ## 历史归档
 
