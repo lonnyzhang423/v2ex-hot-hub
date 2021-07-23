@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-23 19:04:09 +0800`
+ `更新时间：2021-07-23 20:07:42 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [如何看待彩云天气 Pro 限免后，其 CEO 发表的解释说明？订阅制到底改变了什么？](https://www.v2ex.com/t/791275)
 1. [关于 Java 和 go 高并发的话题](https://www.v2ex.com/t/791169)
 1. [有质量可靠的指纹锁推荐吗？](https://www.v2ex.com/t/791192)
-1. [最近折腾 hyper-v 的一些吐槽](https://www.v2ex.com/t/791142)
 1. [A 股 21 年中回顾](https://www.v2ex.com/t/791271)
-1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225)
 1. [如何通过跳板机无缝连接需要跳转的服务器？](https://www.v2ex.com/t/791209)
+1. [今天 Google 首页的像素游戏挺有意思的](https://www.v2ex.com/t/791225)
+1. [等下，在苹果平台上，比如 MacOS 上发布应用需要支付 100 美金才能给你应用加入白名单，不然默认不给跑，我没理解错吧？？](https://www.v2ex.com/t/791227)
 
 ## 历史归档
 
