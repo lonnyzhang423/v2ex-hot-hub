@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-25 05:03:50 +0800`
+ `更新时间：2021-07-25 06:04:39 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [AC86U 路由器，这是被热死了还是寿终正寝了](https://www.v2ex.com/t/791460)
 1. [2T 的 iCloud 家庭共享满了怎么办](https://www.v2ex.com/t/791462)
 1. [广东电信良心发现，下乡扫村狂推 89 元 300M 宽带家庭套餐](https://www.v2ex.com/t/791454)
-1. [大概两年前号称不限速的曲奇云盘(quqi.com)还是倒了 速度上成功升级为百度云级别](https://www.v2ex.com/t/791450)
 1. [macOS 下有什么快速切换窗口的方法吗？](https://www.v2ex.com/t/791480)
+1. [QQ8.0 开始不适配 SiriKit](https://www.v2ex.com/t/791484)
 
 ## 历史归档
 
