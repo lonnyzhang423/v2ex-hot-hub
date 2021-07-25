@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-25 17:04:36 +0800`
+ `更新时间：2021-07-25 18:05:00 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [2021 年 7 月， M1 芯片还有办法安装没有上架 MAS 的应用吗](https://www.v2ex.com/t/791590)
 1. [在武汉 18k， 上海 28k 的 offer 去不去？](https://www.v2ex.com/t/791555)
 1. [Java 目前实现全异步的方式有哪些](https://www.v2ex.com/t/791594)
+1. [鼓励中年人继续学习的话有哪些](https://www.v2ex.com/t/791621)
 1. [防止 sql 注入的原理是什么？](https://www.v2ex.com/t/791577)
 1. [ubuntu 下的 sshd 是否具备抗暴力破解的拒绝服务功能？](https://www.v2ex.com/t/791578)
-1. [云服务器的那些坑之 刚购买的阿里云服务就不能用了](https://www.v2ex.com/t/791598)
 
 ## 历史归档
 
