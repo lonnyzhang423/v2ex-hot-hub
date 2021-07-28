@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-29 03:03:45 +0800`
+ `更新时间：2021-07-29 04:05:10 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [有没有感觉到，以前沉迷某一首歌，天天循环听，几年后再听到，就好像回到了那个时候，记忆犹新。](https://www.v2ex.com/t/792200)
 1. [家庭 10w 的车有推荐的吗](https://www.v2ex.com/t/792254)
 1. [Github 默认分支由 master 变更为 main](https://www.v2ex.com/t/792317)
-1. [你们产品经理会帮你们减少技术债务吗？](https://www.v2ex.com/t/792177)
 1. [新买的 M1 iPad Pro 到了，有没有推荐的 APP？](https://www.v2ex.com/t/792195)
+1. [你们产品经理会帮你们减少技术债务吗？](https://www.v2ex.com/t/792177)
 1. [IntelliJ IDEA 2021.2 发布了，快下载玩玩，我觉得这是最没有期待的发布](https://www.v2ex.com/t/792182)
 
 ## 历史归档
