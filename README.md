@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-07-30 00:12:20 +0800`
+ `更新时间：2021-07-30 01:14:15 +0800`
 
 ## 热议话题
 
 1. [小老弟相亲记](https://www.v2ex.com/t/792382)
-1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410)
 1. [了解了其他语言的和生态 开发工具的支持，我才知道 Java 生态 天下第一 YYDS](https://www.v2ex.com/t/792390)
+1. [真的有公司搞 devops 吗？成功了吗？](https://www.v2ex.com/t/792410)
 1. [请问各位老铁：颈椎疼怎么办？](https://www.v2ex.com/t/792481)
-1. [老牌 Markdown 编辑/笔记 软件 MWeb 4.0 macOS/iOS 测试版求测试用户！](https://www.v2ex.com/t/792372)
 1. [我仿佛突然理解了为啥新 iMac 有这么宽的下巴](https://www.v2ex.com/t/792490)
 1. [迫于这次水患，请大家推荐一款防水手机套/袋](https://www.v2ex.com/t/792456)
 1. [想买个自行车通勤](https://www.v2ex.com/t/792521)
+1. [如何优雅地使用国区 Apple Music？](https://www.v2ex.com/t/792374)
 
 ## 历史归档
 
