@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-02 03:06:18 +0800`
+ `更新时间：2021-08-02 04:05:56 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [工作原因必须连接公司 wifi，要求安装根证书](https://www.v2ex.com/t/792969)
 1. [拿了 Offer 又不去入职是不是不太好啊,问问大家怎么处理的](https://www.v2ex.com/t/792975)
 1. [项目在本地写了很久，没有 commit 过，今天打开的时候从很早之前的一个 commit 版本打开了，咋恢复](https://www.v2ex.com/t/793036)
-1. [这年头写个漫画爬虫都心力憔悴。](https://www.v2ex.com/t/792934)
 1. [都说 JD 上的薪水只看左区间端点就好了，各位的经历也是如此吗？](https://www.v2ex.com/t/792951)
 1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958)
 1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966)
