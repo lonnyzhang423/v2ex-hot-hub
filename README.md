@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-02 06:04:38 +0800`
+ `更新时间：2021-08-02 07:04:25 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [都说 JD 上的薪水只看左区间端点就好了，各位的经历也是如此吗？](https://www.v2ex.com/t/792951)
 1. [the little schemer 真是一本神书，相见很晚](https://www.v2ex.com/t/792958)
 1. [gitlab 不显示当天提交的记录、但是的确有提交](https://www.v2ex.com/t/792966)
+1. [请问广州哪里配蔡司眼镜便宜点的？](https://www.v2ex.com/t/792970)
 
 ## 历史归档
 
