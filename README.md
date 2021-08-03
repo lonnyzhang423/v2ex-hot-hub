@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-03 22:05:15 +0800`
+ `更新时间：2021-08-03 23:09:43 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [实名抵制 vue-admin-beautiful](https://www.v2ex.com/t/793276)
 1. [老婆产假结束即失业，焦虑求指导](https://www.v2ex.com/t/793351)
 1. [谷歌版微信 8.x 版本不能使用小程序](https://www.v2ex.com/t/793283)
-1. [JetBrains 公布了 2021 年的开发者调查结果](https://www.v2ex.com/t/793256)
+1. [Windows 365 初体验](https://www.v2ex.com/t/793286)
 
 ## 历史归档
 
