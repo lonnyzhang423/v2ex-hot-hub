@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-05 08:19:31 +0800`
+ `更新时间：2021-08-05 09:47:37 +0800`
 
 ## 热议话题
 
 1. [前女友要结婚了.](https://www.v2ex.com/t/793557)
 1. [一人三首歌，回味过往事，](https://www.v2ex.com/t/793543)
-1. [想辞职做独立开发了，各位觉得这个长期来看靠谱吗](https://www.v2ex.com/t/793509)
 1. [在工信部投诉家里电信信号差之后，上门安装了 4G 基站](https://www.v2ex.com/t/793653)
-1. [iPad pro 2021 刚到，求推荐 app](https://www.v2ex.com/t/793510)
 1. [MacOs11.5 BUG 较多, 建议别升级.](https://www.v2ex.com/t/793521)
 1. [关于作业辅导](https://www.v2ex.com/t/793515)
 1. [请问同事代码实在是烂到让人无法忍受怎么办](https://www.v2ex.com/t/793601)
+1. [有什么家庭内部可用的简单构建高速 NAS 的方案吗？包含商业产品，可以花一些钱](https://www.v2ex.com/t/793641)
+1. [乐播投屏到底是何方神圣？](https://www.v2ex.com/t/793532)
+1. [想做一个国内用的 APP，数据库选用什么比较好？](https://www.v2ex.com/t/793662)
 
 ## 历史归档
 
