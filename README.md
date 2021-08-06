@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-07 04:05:54 +0800`
+ `更新时间：2021-08-07 05:03:54 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [第二次被电信停网](https://www.v2ex.com/t/793999)
 1. [同事翘班半年 报班学算法 现在入职百度了](https://www.v2ex.com/t/794040)
 1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004)
-1. [关于自建 NAS 服务的，主板 CPU 平台选择](https://www.v2ex.com/t/793964)
 1. [未来会有什么格式会淘汰 json 吗？](https://www.v2ex.com/t/794059)
 1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988)
+1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193)
 
 ## 历史归档
 
