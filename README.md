@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-07 05:03:54 +0800`
+ `更新时间：2021-08-07 06:04:56 +0800`
 
 ## 热议话题
 
 1. [想了解一下有多少人写代码的时候是盲打的](https://www.v2ex.com/t/794079)
 1. [苹果的新 iOS 系统会主动扫描 iPhone 用户的手机相册里有无儿童色情图片](https://www.v2ex.com/t/793972)
-1. [Apple 将于今年内开始扫描储存在 iCloud Photos 里的图片 用于检测儿童色情犯罪](https://www.v2ex.com/t/793965)
 1. [如果中文圈每个人都能重视中文排版的格式，我们的网页浏览体验一定会变得更好](https://www.v2ex.com/t/793989)
 1. [第二次被电信停网](https://www.v2ex.com/t/793999)
 1. [同事翘班半年 报班学算法 现在入职百度了](https://www.v2ex.com/t/794040)
 1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004)
 1. [未来会有什么格式会淘汰 json 吗？](https://www.v2ex.com/t/794059)
 1. [win11 更新 22000.120 了](https://www.v2ex.com/t/793988)
+1. [万恶的 Lightening 什么时候被取缔，或者换成 TypeC](https://www.v2ex.com/t/794050)
 1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193)
 
 ## 历史归档
