@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-06 20:12:36 +0800`
+ `更新时间：2021-08-06 21:21:30 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,6 @@
 1. [同事翘班半年 报班学算法 现在入职百度了](https://www.v2ex.com/t/794040)
 1. [提交代码时 git commit message 是不是写的详细点比较好？](https://www.v2ex.com/t/794004)
 1. [关于自建 NAS 服务的，主板 CPU 平台选择](https://www.v2ex.com/t/793964)
-1. [MBP 16 的风扇声音真的太大了！](https://www.v2ex.com/t/793930)
 
 ## 历史归档
 
