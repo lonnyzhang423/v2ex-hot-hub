@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-07 15:04:14 +0800`
+ `更新时间：2021-08-07 16:05:57 +0800`
 
 ## 热议话题
 
 1. [逃离到 Linux 两周的感受](https://www.v2ex.com/t/794193)
-1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185)
 1. [苹果的硬件真的拉垮](https://www.v2ex.com/t/794200)
+1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！](https://www.v2ex.com/t/794185)
 1. [有人配过过机房用 nas 服务器么，差不多带 100 台服务器读写](https://www.v2ex.com/t/794138)
-1. [换了份工作，感觉适应不了该不该跑路](https://www.v2ex.com/t/794104)
 1. [各大云厂商提供的环境版本太低好难受](https://www.v2ex.com/t/794129)
 1. [尽管 v 站很多人者不屑于使用抖音，但它全球下载量已超过 FB](https://www.v2ex.com/t/794165)
 1. [教培行业凉凉了我该怎么办?](https://www.v2ex.com/t/794236)
+1. [iPhone 更换第三方电池的用户做个参考（品胜电池质量问题）](https://www.v2ex.com/t/794216)
 
 ## 历史归档
 
