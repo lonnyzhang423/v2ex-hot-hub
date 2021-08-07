@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-07 19:04:02 +0800`
+ `更新时间：2021-08-07 20:07:34 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [教培行业凉凉了我该怎么办?](https://www.v2ex.com/t/794236)
 1. [尽管 v 站很多人者不屑于使用抖音，但它全球下载量已超过 FB](https://www.v2ex.com/t/794165)
 1. [iPhone 更换第三方电池的用户做个参考（品胜电池质量问题）](https://www.v2ex.com/t/794216)
-1. [几个月前在官网上买的 macbook 不小心洒入了几滴豆浆到键盘里了](https://www.v2ex.com/t/794212)
 1. [反对 Apple 扫描手机内容行为的公开签名](https://www.v2ex.com/t/794268)
+1. [几个月前在官网上买的 macbook 不小心洒入了几滴豆浆到键盘里了](https://www.v2ex.com/t/794212)
 1. [寻找一款基于 Markdown 的笔记软件](https://www.v2ex.com/t/794167)
 1. [创办一家程序员公寓，这个想法如何？](https://www.v2ex.com/t/794277)
 
