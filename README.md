@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-09 11:05:30 +0800`
+ `更新时间：2021-08-09 12:06:43 +0800`
 
 ## 热议话题
 
 1. [关于用云闪付完全替代支付宝这件事儿](https://www.v2ex.com/t/794382)
-1. [想离开北京去杭州发展，请教 V 友](https://www.v2ex.com/t/794384)
 1. [Go 成功让我实现了人格分裂](https://www.v2ex.com/t/794480)
+1. [想离开北京去杭州发展，请教 V 友](https://www.v2ex.com/t/794384)
 1. [话说有没有人适应不了大公司的。。](https://www.v2ex.com/t/794392)
 1. [被静默推送了臭名昭著的 Chrome Privacy Sandbox，大家都关了吗？](https://www.v2ex.com/t/794424)
 1. [终于有证了](https://www.v2ex.com/t/794393)
