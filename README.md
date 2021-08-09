@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-09 12:06:43 +0800`
+ `更新时间：2021-08-09 13:04:15 +0800`
 
 ## 热议话题
 
-1. [关于用云闪付完全替代支付宝这件事儿](https://www.v2ex.com/t/794382)
 1. [Go 成功让我实现了人格分裂](https://www.v2ex.com/t/794480)
-1. [想离开北京去杭州发展，请教 V 友](https://www.v2ex.com/t/794384)
 1. [话说有没有人适应不了大公司的。。](https://www.v2ex.com/t/794392)
 1. [被静默推送了臭名昭著的 Chrome Privacy Sandbox，大家都关了吗？](https://www.v2ex.com/t/794424)
 1. [终于有证了](https://www.v2ex.com/t/794393)
 1. [接触到 Obsidian 有点相见恨晚的感慨](https://www.v2ex.com/t/794428)
+1. [JS 前端倒计时时间不准确如何解决?](https://www.v2ex.com/t/794514)
 1. [之前看 v 友的帖子，本想证明 centos 比 freebsd 弱不了多少，没想到引出 ubuntu server 20.04 成为黑马](https://www.v2ex.com/t/794443)
 1. [刚毕业小萌新，拒了去外包，收集一些看法](https://www.v2ex.com/t/794413)
+1. [Golang 写桌面 GUI 应用的体验](https://www.v2ex.com/t/794478)
 
 ## 历史归档
 
