@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-11 03:08:23 +0800`
+ `更新时间：2021-08-11 07:10:12 +0800`
 
 ## 热议话题
 
 1. [想做个专门给开发者用的搜索引擎，取个啥名好呢🤔](https://www.v2ex.com/t/794816)
 1. [两次从 Linux 逃离到 os x 又逃回来的感受](https://www.v2ex.com/t/794788)
 1. [港区 playstation 账号未来会限制下载游戏么， ps4， ps5](https://www.v2ex.com/t/794753)
-1. [小米手环 6 的睡眠检测感觉不准， Apple watch 的准吗？](https://www.v2ex.com/t/794747)
 1. [关于 Apple 扫描儿童色情照片的技术讨论](https://www.v2ex.com/t/794903)
-1. [Parallels Desktop 17 发布啦！速来围观新增功能](https://www.v2ex.com/t/794845)
 1. [讨论下，未来几年硬盘速度会超过内存速度吗？](https://www.v2ex.com/t/794868)
+1. [Parallels Desktop 17 发布啦！速来围观新增功能](https://www.v2ex.com/t/794845)
+1. [Intagram 无故被封](https://www.v2ex.com/t/794785)
 
 ## 历史归档
 
