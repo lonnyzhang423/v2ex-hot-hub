@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-12 21:18:22 +0800`
+ `更新时间：2021-08-12 22:10:25 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [1Password 8 用 Electron 重写了](https://www.v2ex.com/t/795282)
 1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228)
 1. [这个世界上存在切换中英输入法可以不把电脑卡死的 Mac 吗](https://www.v2ex.com/t/795259)
-1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283)
 1. [不好意思 请问下有没有男士用的洗面奶](https://www.v2ex.com/t/795353)
+1. [闲鱼和京东同一款产品该怎么选择](https://www.v2ex.com/t/795283)
 1. [成都现在还有偷自行车的吗？](https://www.v2ex.com/t/795295)
 1. [只想要一个手机号码，有没有能以最低代价持有的方式？](https://www.v2ex.com/t/795272)
 1. [大家 NAS 放在家里的哪里？](https://www.v2ex.com/t/795387)
