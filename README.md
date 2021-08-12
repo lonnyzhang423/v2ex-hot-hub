@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-12 11:06:08 +0800`
+ `更新时间：2021-08-12 12:06:45 +0800`
 
 ## 热议话题
 
-1. [拿到了小米 1 用户的 1999 感恩红包](https://www.v2ex.com/t/795036)
-1. [社保交了好多啊，我后悔了](https://www.v2ex.com/t/795073)
 1. [避坑 上海望繁信科技有限公司](https://www.v2ex.com/t/795109)
+1. [社保交了好多啊，我后悔了](https://www.v2ex.com/t/795073)
 1. [Chrome 用久了，但发现 Edge 可能更符合国人的使用习惯](https://www.v2ex.com/t/795225)
 1. [有没有快速降低电池健康度的方法](https://www.v2ex.com/t/795070)
-1. [低代码做的数字大屏，大家看炫不炫](https://www.v2ex.com/t/795043)
+1. [各位看电影都是用什么设备](https://www.v2ex.com/t/795228)
 1. [POI 如何快速导出千万级数据的 Excel](https://www.v2ex.com/t/795136)
+1. [软件系统一旦出现 bug，绝大多数情况下是 需求混乱导致的。](https://www.v2ex.com/t/795104)
 
 ## 历史归档
 
