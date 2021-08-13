@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-13 12:07:25 +0800`
+ `更新时间：2021-08-13 13:04:43 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [Windows 系统盘越用越大简直让人崩溃，都第三次分区了。。。](https://www.v2ex.com/t/795447)
 1. [大家 NAS 放在家里的哪里？](https://www.v2ex.com/t/795387)
 1. [MIUI 最近那个原子内存是什么原理？](https://www.v2ex.com/t/795335)
-1. [深夜 NAS 哔哔响，拿出 iPad 登不进去，艰难起床按 Reset，群晖支援狂甩锅。](https://www.v2ex.com/t/795308)
-1. [各位彦祖们，手里有个 1999 的小米红包，考虑要不要加点钱搞个 RedmiBook Pro15？](https://www.v2ex.com/t/795348)
 1. [今天科目三挂了](https://www.v2ex.com/t/795354)
-1. [下班路上去小米之家体验了 MIX4 和小米平板 5](https://www.v2ex.com/t/795415)
+1. [各位彦祖们，手里有个 1999 的小米红包，考虑要不要加点钱搞个 RedmiBook Pro15？](https://www.v2ex.com/t/795348)
 1. [Milkdown 中文文档](https://www.v2ex.com/t/795483)
+1. [下班路上去小米之家体验了 MIX4 和小米平板 5](https://www.v2ex.com/t/795415)
+1. [长久的加班和 oncall 直接透支你的 coding 生涯](https://www.v2ex.com/t/795436)
 
 ## 历史归档
 
