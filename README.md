@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-14 10:17:57 +0800`
+ `更新时间：2021-08-14 11:05:39 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [良心云又放大招了， 188 可以买一年 2H4G](https://www.v2ex.com/t/795527)
 1. [特定用户使用时系统关机](https://www.v2ex.com/t/795532)
 1. [访问 https 页面时，网管都能看见啥？](https://www.v2ex.com/t/795544)
-1. [gitlab 被攻击了！求大佬进来分析一下](https://www.v2ex.com/t/795606)
+1. [送一波 “时流记” App 兑换码](https://www.v2ex.com/t/795711)
 
 ## 历史归档
 
