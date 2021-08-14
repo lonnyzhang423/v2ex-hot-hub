@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-15 04:05:08 +0800`
+ `更新时间：2021-08-15 05:04:31 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [送一波 “时流记” App 兑换码](https://www.v2ex.com/t/795711)
 1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755)
 1. [求推荐一个日程管理、记录类软件](https://www.v2ex.com/t/795754)
-1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792)
 1. [现在入手 m1 MacBook Pro 合适吗](https://www.v2ex.com/t/795760)
+1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792)
 1. [一个疑惑：为啥很多初创公司不选择最主流的技术栈？](https://www.v2ex.com/t/795817)
 
 ## 历史归档
