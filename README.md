@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-15 13:04:09 +0800`
+ `更新时间：2021-08-15 14:06:29 +0800`
 
 ## 热议话题
 
 1. [想知道这个站里面的人如何看待同性恋群体](https://www.v2ex.com/t/795808)
 1. [一个疑惑：为啥很多初创公司不选择最主流的技术栈？](https://www.v2ex.com/t/795817)
+1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876)
 1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792)
-1. [求推荐一个日程管理、记录类软件](https://www.v2ex.com/t/795754)
-1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755)
-1. [现在入手 m1 MacBook Pro 合适吗](https://www.v2ex.com/t/795760)
 1. [不懂就问，现在想从 win 转到 Linux ，用什么发型版本好些，目前比较 centos 比较多一些](https://www.v2ex.com/t/795836)
 1. [给父母买手机求推荐](https://www.v2ex.com/t/795821)
 1. [编程语言为什么不把 leetcode 上面的一些常用的算法集成进内部呢，比如最长公共子序列啊，最长子串](https://www.v2ex.com/t/795830)
-1. [呼吁设立流浪猫狗救助基金](https://www.v2ex.com/t/795876)
+1. [有个词，是讲程序的抗异常能力](https://www.v2ex.com/t/795837)
+1. [现在大家玩外服游戏都用什么加速器呢？](https://www.v2ex.com/t/795771)
 
 ## 历史归档
 
