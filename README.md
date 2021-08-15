@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-15 08:19:26 +0800`
+ `更新时间：2021-08-15 09:46:12 +0800`
 
 ## 热议话题
 
-1. [不要购买 AC-86U，垃圾，太垃圾了。](https://www.v2ex.com/t/795716)
 1. [女朋友给的七夕礼物~分享一下，嘿嘿。](https://www.v2ex.com/t/795722)
-1. [前几天才夸过 APP 取消开屏广告，又来了](https://www.v2ex.com/t/795719)
 1. [我觉得技术公众号写技术文章就是个伪命题，一切都是为了割韭菜](https://www.v2ex.com/t/795733)
-1. [送一波 “时流记” App 兑换码](https://www.v2ex.com/t/795711)
 1. [固态硬盘 SSD 有什么牌子推荐么？是不是现在还是应首选 Samsung 或 Intel？](https://www.v2ex.com/t/795755)
 1. [求推荐一个日程管理、记录类软件](https://www.v2ex.com/t/795754)
 1. [来深圳半年的一些感悟](https://www.v2ex.com/t/795792)
-1. [现在入手 m1 MacBook Pro 合适吗](https://www.v2ex.com/t/795760)
 1. [一个疑惑：为啥很多初创公司不选择最主流的技术栈？](https://www.v2ex.com/t/795817)
+1. [现在入手 m1 MacBook Pro 合适吗](https://www.v2ex.com/t/795760)
+1. [想知道这个站里面的人如何看待同性恋群体](https://www.v2ex.com/t/795808)
+1. [给父母买手机求推荐](https://www.v2ex.com/t/795821)
+1. [越来越能理解在计算机中数据的重要性](https://www.v2ex.com/t/795726)
 
 ## 历史归档
 
