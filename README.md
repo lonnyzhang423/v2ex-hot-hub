@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-15 23:04:57 +0800`
+ `更新时间：2021-08-16 00:06:56 +0800`
 
 ## 热议话题
 
+1. [算了一笔账](https://www.v2ex.com/t/795924)
 1. [啥牌子电视无广告？](https://www.v2ex.com/t/795884)
 1. [编程语言为什么不把 leetcode 上面的一些常用的算法集成进内部呢，比如最长公共子序列啊，最长子串](https://www.v2ex.com/t/795830)
-1. [算了一笔账](https://www.v2ex.com/t/795924)
 1. [Debian 11 Bullseye 出了](https://www.v2ex.com/t/795840)
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888)
 1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881)
