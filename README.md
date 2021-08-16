@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-16 10:16:50 +0800`
+ `更新时间：2021-08-16 11:06:11 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [现在点外卖超时是常态吗](https://www.v2ex.com/t/795914)
 1. [Why do so many people become Java haters?](https://www.v2ex.com/t/795881)
 1. [有没有比“正则表达式” 更简单直观的匹配技术？](https://www.v2ex.com/t/795888)
-1. [百度网盘文件全被清空？救命！没找到客服](https://www.v2ex.com/t/795851)
+1. [简单干净彻底禁用 Windows defender 和 windows update](https://www.v2ex.com/t/795860)
 
 ## 历史归档
 
