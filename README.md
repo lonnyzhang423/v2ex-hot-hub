@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-18 09:46:00 +0800`
+ `更新时间：2021-08-18 10:16:14 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,9 @@
 1. [离职请喝奶茶乱象](https://www.v2ex.com/t/796321)
 1. [要购买倍思（Baseus）品牌的同学请三思](https://www.v2ex.com/t/796338)
 1. [golang 有什么 TCP 框架?](https://www.v2ex.com/t/796420)
-1. [现在带公司内 Go 的开发工具中 VSC 和 Goland 哪个更流行呢?](https://www.v2ex.com/t/796251)
 1. [如何优雅的保存网页到本地，就算原网页失效了，依然不影响我查看这个网页](https://www.v2ex.com/t/796366)
+1. [现在带公司内 Go 的开发工具中 VSC 和 Goland 哪个更流行呢?](https://www.v2ex.com/t/796251)
 1. [请问有没有好用的 clash for Linux GUI 客户端阿，求推荐一下](https://www.v2ex.com/t/796320)
-1. [迫于搞不明白，查资料无头绪，咨询一下：路由器（192.168.1.1）上能访问的 IP（10.89.19.2），电脑（192.168.1.100）连接路由后为啥不能访问？](https://www.v2ex.com/t/796296)
 
 ## 历史归档
 
