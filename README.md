@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-19 12:06:35 +0800`
+ `更新时间：2021-08-19 13:04:29 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [关于新款 MBP。。](https://www.v2ex.com/t/796627)
 1. [关于开发人员离职 服务器和数据库密码修改问题](https://www.v2ex.com/t/796552)
 1. [google voice 如何保持正常使用？](https://www.v2ex.com/t/796544)
-1. [用 iPad 看 pdf 或其他电子书体验如何](https://www.v2ex.com/t/796523)
 1. [92 年运维辞职创业给点建议](https://www.v2ex.com/t/796531)
+1. [小孩子学了两年母语程度，而我们学了 20 年英语还是达不到，这是为什么呢？](https://www.v2ex.com/t/796682)
 
 ## 历史归档
 
