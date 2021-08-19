@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-20 01:17:10 +0800`
+ `更新时间：2021-08-20 02:11:31 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [终极 MacBook Pro 散热降温方式？](https://www.v2ex.com/t/796702)
 1. [如何合理的最大化的利用国际精品网？](https://www.v2ex.com/t/796699)
 1. [熬不住了，学不下去](https://www.v2ex.com/t/796707)
-1. [电脑桌下如何理线？](https://www.v2ex.com/t/796671)
 1. [Google 如何不使用 www.google.com.hk？](https://www.v2ex.com/t/796816)
+1. [电脑桌下如何理线？](https://www.v2ex.com/t/796671)
 
 ## 历史归档
 
