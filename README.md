@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-20 18:08:11 +0800`
+ `更新时间：2021-08-20 19:04:16 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [RSS 客户端应该像一个流一样](https://www.v2ex.com/t/796897)
 1. [想问下现在 2021 年 8 月还有人在用 WINDOWS 7 吗？](https://www.v2ex.com/t/796874)
 1. [我为了创业而出道成为偶像了，求一键三连](https://www.v2ex.com/t/796910)
-1. [关于拖着不给办离职的问题](https://www.v2ex.com/t/796927)
+1. [Windows 一分钟使用 C++ 发送 Http 请求](https://www.v2ex.com/t/796981)
 
 ## 历史归档
 
