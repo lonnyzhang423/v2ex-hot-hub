@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-23 12:07:56 +0800`
+ `更新时间：2021-08-23 13:04:32 +0800`
 
 ## 热议话题
 
 1. [各位老哥，快奔三了，我也来聊聊要不要回老家的事](https://www.v2ex.com/t/797356)
 1. [如何不让淘宝给我推荐女性内衣内裤类商品？](https://www.v2ex.com/t/797308)
-1. [大家刚毕业那会儿怎么存钱的？收获了什么？](https://www.v2ex.com/t/797315)
 1. [鉴于 github 在国内的网络情况，你们会选择哪个代码托管平台作为替换， gitee、coding 还是 bitbucket？](https://www.v2ex.com/t/797399)
+1. [大家刚毕业那会儿怎么存钱的？收获了什么？](https://www.v2ex.com/t/797315)
 1. [请推荐几个类似 Joplin 的个人笔记软件，要选一个终身使用](https://www.v2ex.com/t/797372)
 1. [外企/留学求起个合适英文名](https://www.v2ex.com/t/797368)
-1. [Spring 应对 IO 密集 的 web 业务系统有什么成熟的做法](https://www.v2ex.com/t/797281)
 1. [2021.08.22 M1 MacBook Type-C 拓展坞选择 ?](https://www.v2ex.com/t/797320)
+1. [不用数据库， PHP 每 10 分钟内生成一个恒定随机数，该怎样实现？](https://www.v2ex.com/t/797408)
 1. [最近研究‘微信小程序’底层代码，发现漏洞，获取一部分私有 api](https://www.v2ex.com/t/797401)
-1. [如何跳过综艺节目中的植入性广告？](https://www.v2ex.com/t/797274)
+1. [有没有什么方法可以实时检测 mysql 数据库中某个值是否发生改变？](https://www.v2ex.com/t/797361)
 
 ## 历史归档
 
