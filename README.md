@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-24 09:42:49 +0800`
+ `更新时间：2021-08-24 10:15:23 +0800`
 
 ## 热议话题
 
-1. [鉴于 github 在国内的网络情况，你们会选择哪个代码托管平台作为替换， gitee、coding 还是 bitbucket？](https://www.v2ex.com/t/797399)
 1. [肉翻党，认真的考虑回国工作，求一个收入估计](https://www.v2ex.com/t/797548)
-1. [想流量变现的，请谨慎加入万维广告，各种理由扣量，¥1000 多直接扣掉只剩 100 多](https://www.v2ex.com/t/797391)
-1. [在 V2EX 上写小说是否合适？](https://www.v2ex.com/t/797396)
+1. [老婆怀孕期间被辞退](https://www.v2ex.com/t/797565)
 1. [求推荐本地的 markdown 编辑器](https://www.v2ex.com/t/797452)
 1. [不用数据库， PHP 每 10 分钟内生成一个恒定随机数，该怎样实现？](https://www.v2ex.com/t/797408)
-1. [程序员们，身体会出现那些病症？](https://www.v2ex.com/t/797397)
-1. [老婆怀孕期间被辞退](https://www.v2ex.com/t/797565)
-1. [为什么感觉同样的软件 在 mac 上使用比 win 上使用要慢或者卡顿？](https://www.v2ex.com/t/797439)
 1. [感冒医生说要忌辛辣，那么四川、重庆的朋友改吃清淡的？](https://www.v2ex.com/t/797490)
+1. [为什么感觉同样的软件 在 mac 上使用比 win 上使用要慢或者卡顿？](https://www.v2ex.com/t/797439)
+1. [Linux 运维，真的很累吗？](https://www.v2ex.com/t/797445)
+1. [有做过银行收款系统对接的业务吗？问了 5 家银行，都被客服小妹拒绝了](https://www.v2ex.com/t/797530)
+1. [有没有人觉得 Python Flask 写后端很难用？](https://www.v2ex.com/t/797493)
+1. [应届毕业生，即将去北京找工作，我能拿 30K 以上吗？来打醒我](https://www.v2ex.com/t/797586)
 
 ## 历史归档
 
