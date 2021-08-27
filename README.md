@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-27 15:09:38 +0800`
+ `更新时间：2021-08-27 16:11:24 +0800`
 
 ## 热议话题
 
 1. [准备参加公司的开发者大赛，帮忙起一个名字吧](https://www.v2ex.com/t/798281)
 1. [问下 免压水晶头 = 免打模块 + 成品网线？](https://www.v2ex.com/t/798266)
-1. [树莓派](https://www.v2ex.com/t/798219)
 1. [越来越搞不明白 Micro$oft 是想干什么了](https://www.v2ex.com/t/798220)
+1. [树莓派](https://www.v2ex.com/t/798219)
 1. [CNNIC 报告显示中国网站数量逐年下降，微信公众号应该「居功至伟」](https://www.v2ex.com/t/798288)
-1. [公司开发一年多的项目废了，老板想辞退 5 人，作为部门负责人的人提离职被拒绝了](https://www.v2ex.com/t/798163)
-1. [请问下大家，上海目前中级 Java 的薪资水平](https://www.v2ex.com/t/798212)
+1. [队伍里的小伙子这样设计表，应该怎么评价](https://www.v2ex.com/t/798305)
 1. [FaceTime & 微信视频 谁更强？](https://www.v2ex.com/t/798310)
+1. [请问下大家，上海目前中级 Java 的薪资水平](https://www.v2ex.com/t/798212)
 
 ## 历史归档
 
