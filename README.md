@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-28 10:17:46 +0800`
+ `更新时间：2021-08-28 11:05:42 +0800`
 
 ## 热议话题
 
-1. [准备参加公司的开发者大赛，帮忙起一个名字吧](https://www.v2ex.com/t/798281)
 1. [队伍里的小伙子这样设计表，应该怎么评价](https://www.v2ex.com/t/798305)
 1. [厦门互联网公司黑名单有人发出来了，直接在线编辑 500 余人，战况激励](https://www.v2ex.com/t/798356)
-1. [FaceTime & 微信视频 谁更强？](https://www.v2ex.com/t/798310)
-1. [CNNIC 报告显示中国网站数量逐年下降，微信公众号应该「居功至伟」](https://www.v2ex.com/t/798288)
 1. [不背单词，遇见单词](https://www.v2ex.com/t/798373)
-1. [真的很喜欢这种复古风格的日记软件](https://www.v2ex.com/t/798289)
-1. [XDM 求个猫猫名字，另外美短起司两个月小母猫大概多少钱？](https://www.v2ex.com/t/798294)
+1. [FaceTime & 微信视频 谁更强？](https://www.v2ex.com/t/798310)
 1. [关于 ios 游戏充值](https://www.v2ex.com/t/798359)
+1. [用 vscode 的朋友，你们的 user-data\User\workspaceStorage 文件夹有多大？](https://www.v2ex.com/t/798343)
+1. [创建一个 base 在上海的 v 友群](https://www.v2ex.com/t/798409)
+1. [国内微信可以切换到海外 WeChat 了？](https://www.v2ex.com/t/798441)
 
 ## 历史归档
 
