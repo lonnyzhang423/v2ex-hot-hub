@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-28 12:06:31 +0800`
+ `更新时间：2021-08-28 13:04:19 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [关于 ios 游戏充值](https://www.v2ex.com/t/798359)
 1. [用 vscode 的朋友，你们的 user-data\User\workspaceStorage 文件夹有多大？](https://www.v2ex.com/t/798343)
 1. [国内微信可以切换到海外 WeChat 了？](https://www.v2ex.com/t/798441)
+1. [万能的彦祖们，买个什么样的电动牙刷好呢？](https://www.v2ex.com/t/798459)
 1. [三年 Python web 方向经验，一年 Java 经验，半年 ios Swift 经验，但是我还是想转前端，有没有人生导师开导下我](https://www.v2ex.com/t/798341)
-1. [请教虚拟机网络 nat 和桥接的区别](https://www.v2ex.com/t/798316)
-1. [像 快团团 这样的小程序是怎么想到完全不维护消费者的](https://www.v2ex.com/t/798340)
+1. [微信健康码小程序 URL Scheme 已失效](https://www.v2ex.com/t/798362)
 
 ## 历史归档
 
