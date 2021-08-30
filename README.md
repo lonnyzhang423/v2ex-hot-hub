@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-08-30 12:07:06 +0800`
+ `更新时间：2021-08-30 13:04:48 +0800`
 
 ## 热议话题
 
 1. [想问一下大家觉得体制内工作好在那里](https://www.v2ex.com/t/798641)
-1. [macos 对开发友好在哪里?](https://www.v2ex.com/t/798620)
 1. [头条、网易新闻什么的变味了，大家现在用什么 app 看新闻？国内/外的 app 都行](https://www.v2ex.com/t/798636)
 1. [看到体制内工作好在哪儿话题有感](https://www.v2ex.com/t/798726)
-1. [考公 or 入职？](https://www.v2ex.com/t/798669)
 1. [选宽带上面的一些困扰](https://www.v2ex.com/t/798675)
+1. [考公 or 入职？](https://www.v2ex.com/t/798669)
 1. [手持 iphoneX， 2021 年 9 月该换什么手机？](https://www.v2ex.com/t/798768)
 1. [关于 fish shell 的一个误操作坑](https://www.v2ex.com/t/798635)
+1. [为什么苹果不出一款小屏幕的全面屏 se，用大电池](https://www.v2ex.com/t/798677)
 
 ## 历史归档
 
