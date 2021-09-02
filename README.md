@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-02 11:05:57 +0800`
+ `更新时间：2021-09-02 12:06:47 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [想组建一个做副业的团队](https://www.v2ex.com/t/799366)
 1. [8 月份吃饭只花了 600 多](https://www.v2ex.com/t/799270)
 1. [有没有家宽做 DDNS 被要求整改的？](https://www.v2ex.com/t/799340)
-1. [听说纯纯写作 App 的作者，财富和人身都自由了](https://www.v2ex.com/t/799356)
 1. [对生活越来越迷茫](https://www.v2ex.com/t/799245)
+1. [听说纯纯写作 App 的作者，财富和人身都自由了](https://www.v2ex.com/t/799356)
 1. [改掉晚睡的习惯有什么好的办法？](https://www.v2ex.com/t/799370)
 1. [Shield TV 还是攒钱上 HTPC？](https://www.v2ex.com/t/799280)
-1. [如何通过一台电脑远程共享另一台电脑的 Wifi?](https://www.v2ex.com/t/799242)
+1. [到底什么情况下需要使用 MySQL 事务？](https://www.v2ex.com/t/799323)
 
 ## 历史归档
 
