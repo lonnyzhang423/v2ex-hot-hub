@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-03 00:12:36 +0800`
+ `更新时间：2021-09-03 01:14:19 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [双非研究生，去学校逛了一圈，想退学。大家怎么看?](https://www.v2ex.com/t/799360)
 1. [中文名有了，帮朋友公司征个英文名](https://www.v2ex.com/t/799400)
 1. [面临买房， v 友们给点经验](https://www.v2ex.com/t/799444)
+1. [Gmail 开始屏蔽🇨🇳号码注册邮箱了吗？](https://www.v2ex.com/t/799435)
 1. [什么笔记本像 mac 一样续航安静有 bigger](https://www.v2ex.com/t/799472)
 1. [macOS 似乎并没有解决 M1 机器 SSD 过度写入的问题](https://www.v2ex.com/t/799384)
-1. [Gmail 开始屏蔽🇨🇳号码注册邮箱了吗？](https://www.v2ex.com/t/799435)
+1. [有什么推荐的国货鞋品牌么？](https://www.v2ex.com/t/799396)
 
 ## 历史归档
 
