@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-05 11:05:46 +0800`
+ `更新时间：2021-09-05 12:06:48 +0800`
 
 ## 热议话题
 
 1. [广告与监听](https://www.v2ex.com/t/799831)
-1. [硕士未能毕业，以后的路该怎么走](https://www.v2ex.com/t/799819)
 1. [为什么你要用 Linux 当桌面呢？](https://www.v2ex.com/t/799886)
 1. [关于外键，为什么国内基本都不推荐使用，国外基本都推荐使用？](https://www.v2ex.com/t/799876)
 1. [微信拟推出聊天记录付费云存储服务](https://www.v2ex.com/t/799839)
@@ -24,7 +23,8 @@
 1. [诸位猜猜看，我的隐私是如何泄露的](https://www.v2ex.com/t/799868)
 1. [转 Go 的新人写了个功能被组里老大哥不打招呼重写了，我该怎么办](https://www.v2ex.com/t/799838)
 1. [求类似老高的频道推荐？](https://www.v2ex.com/t/799857)
-1. [安装 centos7 直接黑屏](https://www.v2ex.com/t/799812)
+1. [1Password 免费续杯 6 个月](https://www.v2ex.com/t/799854)
+1. [想买一个纯的 usb 3.1 typec hub 但在某宝某东没有找到，是不是这世界上不存在 usb typec hub 这种东西啊？](https://www.v2ex.com/t/799880)
 
 ## 历史归档
 
