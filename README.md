@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-06 00:07:10 +0800`
+ `更新时间：2021-09-06 01:11:13 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [2021 年 9 月，携号转网现在还有什么坑吗？](https://www.v2ex.com/t/799926)
 1. [给某个程序断网](https://www.v2ex.com/t/799940)
 1. [一线土著+大厂败犬对职业方向的迷茫。](https://www.v2ex.com/t/799945)
-1. [M1 8G 内存对 Java 开发够用吗？](https://www.v2ex.com/t/799988)
 1. [微信迁移 wechat 的朋友注意了， 转到 wechat 就无法登录网页版微信了， fuck](https://www.v2ex.com/t/799959)
+1. [M1 8G 内存对 Java 开发够用吗？](https://www.v2ex.com/t/799988)
 1. [请教，路由器 WAN 口获取了 ipv6 地址，但是无法通过 ipv6 测试](https://www.v2ex.com/t/799927)
 1. [我又来了提问了，大家浏览器收藏夹是怎么分类的](https://www.v2ex.com/t/799936)
 
