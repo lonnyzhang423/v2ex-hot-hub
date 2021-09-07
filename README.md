@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-07 22:05:00 +0800`
+ `更新时间：2021-09-07 23:06:27 +0800`
 
 ## 热议话题
 
 1. [2021 陕西翠香猕猴桃 满 100 箱送 V 友 5 箱 满 200 箱送 V 友 10 箱](https://www.v2ex.com/t/800328)
 1. [b 站大会员+京东 plus 联合会员一年，最低 153](https://www.v2ex.com/t/800357)
 1. [手持 iPhone XS，实在受不了信号差的问题了，来问问大家是接着换 iPhone 还是换安卓。](https://www.v2ex.com/t/800290)
-1. [mac 版 QQ bug 已经没人管了吗?](https://www.v2ex.com/t/800298)
 1. [从汽车礼让行人是否能看出一座城市是否有温度，听说北京最近很多人被开了未礼让行人的罚单](https://www.v2ex.com/t/800435)
+1. [mac 版 QQ bug 已经没人管了吗?](https://www.v2ex.com/t/800298)
 1. [如果在一二线城市买婚房了彩礼还要什么咋办](https://www.v2ex.com/t/800338)
 1. [国内以竞赛为最终目的的计算机学习圈子到底是啥样](https://www.v2ex.com/t/800469)
 
