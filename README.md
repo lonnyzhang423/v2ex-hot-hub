@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-07 14:07:12 +0800`
+ `更新时间：2021-09-07 15:09:14 +0800`
 
 ## 热议话题
 
 1. [CentOS 要停止维护了，下一个要选择哪个发行版本？ Debian 还是 Ubuntu?还是国产？](https://www.v2ex.com/t/800189)
 1. [家落座在了一块偏僻的菜地里，如何让这个地方通上宽带，太难了，，求只招](https://www.v2ex.com/t/800197)
-1. [上海 Java 苦逼内卷-初入职场程序媛](https://www.v2ex.com/t/800379)
+1. [2021 陕西翠香猕猴桃 满 100 箱送 V 友 5 箱 满 200 箱送 V 友 10 箱](https://www.v2ex.com/t/800328)
 1. [最近 Linux 桌面很火，晒一晒自己日常办公的 Ubuntu 系统](https://www.v2ex.com/t/800206)
-1. [read:// 有谁知道的?关于无障碍这块,老外走得是真快](https://www.v2ex.com/t/800156)
 1. [开发了一个查房价的小程序](https://www.v2ex.com/t/800175)
-1. [aws s3 国内的使用体验如何？](https://www.v2ex.com/t/800186)
 1. [mac 版 QQ bug 已经没人管了吗?](https://www.v2ex.com/t/800298)
+1. [aws s3 国内的使用体验如何？](https://www.v2ex.com/t/800186)
 
 ## 历史归档
 
