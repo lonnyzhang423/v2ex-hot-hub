@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-09 15:10:10 +0800`
+ `更新时间：2021-09-09 16:06:53 +0800`
 
 ## 热议话题
 
 1. [我给大家送猕猴桃🥝来了，欢迎分子。](https://www.v2ex.com/t/800684)
-1. [既用 MacOS 又用 Windows 的朋友，我对任务栏有点困惑，想了解一下你们是怎么解决的](https://www.v2ex.com/t/800648)
 1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773)
 1. [Apple Music 周杰伦《晴天》歌词](https://www.v2ex.com/t/800720)
 1. [自己配的 5200 的集显游戏机，请 V 友给些建议。](https://www.v2ex.com/t/800708)
@@ -24,6 +23,7 @@
 1. [程序员想提高英语 进外企，大家有什么 英语学习方法推荐吗？谢谢了](https://www.v2ex.com/t/800746)
 1. [AdGuard Home 搭在腾讯云上，一天被封·······](https://www.v2ex.com/t/800740)
 1. [看到有大佬分享故障排查的过程，就觉得紧张刺激](https://www.v2ex.com/t/800709)
+1. [VScode 配置 c 语言环境求助](https://www.v2ex.com/t/800734)
 
 ## 历史归档
 
