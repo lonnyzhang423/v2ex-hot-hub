@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-10 00:07:56 +0800`
+ `更新时间：2021-09-10 01:12:31 +0800`
 
 ## 热议话题
 
-1. [你有什么小众爱好没?](https://www.v2ex.com/t/800848)
 1. [发布会前，求大神分析下 MacOS 和 win11 的优劣势](https://www.v2ex.com/t/800773)
 1. [记录一个诡异的线上宕机事故，大佬们帮忙排查一下问题呀](https://www.v2ex.com/t/800791)
 1. [VScode 配置 c 语言环境求助](https://www.v2ex.com/t/800734)
