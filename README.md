@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-12 00:07:05 +0800`
+ `更新时间：2021-09-12 01:10:37 +0800`
 
 ## 热议话题
 
 1. [最近发现一款不错的 SSH 客户端 WindTerm](https://www.v2ex.com/t/801168)
 1. [go web 和 Java spring 比优势在哪里？](https://www.v2ex.com/t/801212)
 1. [免费领 2 年爱企查会员](https://www.v2ex.com/t/801229)
-1. [你们的 win 本贴摄像头吗？](https://www.v2ex.com/t/801152)
-1. [关于标题党，我有点新的想说。](https://www.v2ex.com/t/801183)
 1. [迫于北上广租房都贵，兄弟们来分享自己家乡低廉的租房价格吧！](https://www.v2ex.com/t/801194)
+1. [关于标题党，我有点新的想说。](https://www.v2ex.com/t/801183)
 1. [低效能程序员的行为与思维，共勉](https://www.v2ex.com/t/801228)
+1. [还有三天就 JDK17 了，大家还在用 8 吗](https://www.v2ex.com/t/801237)
 1. [迫于 92 的姥姥想学微信，求推荐合适的设备](https://www.v2ex.com/t/801206)
 1. [想了解一下运维同行的现状与职业规划，虽然工作五年，但觉得自己是个菜鸡.......](https://www.v2ex.com/t/801191)
 
