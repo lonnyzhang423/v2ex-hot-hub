@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-12 14:06:58 +0800`
+ `更新时间：2021-09-12 15:05:39 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [还有三天就 JDK17 了，大家还在用 8 吗](https://www.v2ex.com/t/801237)
 1. [不要再拿 Golang 与 Java 作比较](https://www.v2ex.com/t/801337)
 1. [跪求推荐一款机器做家用服务器！](https://www.v2ex.com/t/801306)
-1. [你们的手机贴摄像头吗](https://www.v2ex.com/t/801222)
+1. [被高德地图整的暴躁了](https://www.v2ex.com/t/801330)
 1. [想不明白我到底输在哪里](https://www.v2ex.com/t/801277)
+1. [开启 shadowrocket 时微信连接缓慢](https://www.v2ex.com/t/801289)
 
 ## 历史归档
 
