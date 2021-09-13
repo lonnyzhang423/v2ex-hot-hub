@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-13 10:19:15 +0800`
+ `更新时间：2021-09-13 11:06:04 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [有很多木板，拿来做什么比较好。](https://www.v2ex.com/t/801328)
 1. [京东更换 iPhone 原厂电池](https://www.v2ex.com/t/801369)
 1. [github 什么时候偷偷把主干分支从 master 改成了 main?](https://www.v2ex.com/t/801415)
+1. [Homepod mini 音质值 650 块钱吗？](https://www.v2ex.com/t/801366)
 1. [远程面试时各种作弊](https://www.v2ex.com/t/801363)
-1. [www.v2ex.com 域名被和谐了？](https://www.v2ex.com/t/801382)
 
 ## 历史归档
 
