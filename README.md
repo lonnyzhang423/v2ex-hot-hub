@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-14 14:10:45 +0800`
+ `更新时间：2021-09-14 15:06:05 +0800`
 
 ## 热议话题
 
 1. [因为投诉快递不送上门，快递员让我准备好身份证，晚上 12 点来敲我家门](https://www.v2ex.com/t/801603)
-1. [洗碗机买西门子还是美的？](https://www.v2ex.com/t/801556)
 1. [想拥有人生第一台 macbook pro，我是买 2020 款还是等 2021 款？](https://www.v2ex.com/t/801689)
 1. [买电车无法说服家人](https://www.v2ex.com/t/801685)
-1. [求推荐南京十一旅游攻略~](https://www.v2ex.com/t/801666)
 1. [因 iPhone 无法通过 Apple Care 保修把 Apple 给告了！（问题已解决）](https://www.v2ex.com/t/801625)
+1. [求推荐南京十一旅游攻略~](https://www.v2ex.com/t/801666)
 1. [预算 1～ 2 W，配置一台什么样的主机？](https://www.v2ex.com/t/801675)
 1. [有推荐运维用的笔记本嘛](https://www.v2ex.com/t/801676)
 1. [华擎粉转黑](https://www.v2ex.com/t/801680)
+1. [有什么小众的语言或框架,是值得学习 ?](https://www.v2ex.com/t/801642)
+1. [2021 年 iPhone13 秋季发布会讨论汇总帖](https://www.v2ex.com/t/801665)
 
 ## 历史归档
 
