@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-15 13:05:13 +0800`
+ `更新时间：2021-09-15 14:06:51 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,8 @@
 1. [手持 watch S6 成了最惨过渡品](https://www.v2ex.com/t/801879)
 1. [在京东购买 iPhone13 送一年 apple care+](https://www.v2ex.com/t/801902)
 1. [有没有坚果云的大佬，求助～～](https://www.v2ex.com/t/801937)
+1. [iPhone 13 mini 还是发布了， nice，之前一众媒体唱衰 mini 系列，幸好没砍](https://www.v2ex.com/t/801887)
+1. [家人手持 6 个人的 11 准备给家人用了 自己准备换 13pro 24 期 每期 333](https://www.v2ex.com/t/801914)
 
 ## 历史归档
 
