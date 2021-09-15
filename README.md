@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-15 22:05:21 +0800`
+ `更新时间：2021-09-15 23:05:43 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [在京东购买 iPhone13 送一年 apple care+](https://www.v2ex.com/t/801902)
 1. [iPhone 啥时候换 type-c 接口](https://www.v2ex.com/t/801918)
 1. [iPhone 13 mini 还是发布了， nice，之前一众媒体唱衰 mini 系列，幸好没砍](https://www.v2ex.com/t/801887)
-1. [js 怎么判断用户关闭了浏览器](https://www.v2ex.com/t/801913)
+1. [📱 13 不香， 12 暴降，存量 12 用户或最受伤？手持 12 的铁汁们还换不换？](https://www.v2ex.com/t/802011)
 
 ## 历史归档
 
