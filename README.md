@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-15 08:19:56 +0800`
+ `更新时间：2021-09-15 09:49:03 +0800`
 
 ## 热议话题
 
 1. [买电车无法说服家人](https://www.v2ex.com/t/801685)
 1. [想拥有人生第一台 macbook pro，我是买 2020 款还是等 2021 款？](https://www.v2ex.com/t/801689)
-1. [2021 年 iPhone13 秋季发布会讨论汇总帖](https://www.v2ex.com/t/801665)
-1. [求推荐南京十一旅游攻略~](https://www.v2ex.com/t/801666)
-1. [预算 1～ 2 W，配置一台什么样的主机？](https://www.v2ex.com/t/801675)
-1. [有推荐运维用的笔记本嘛](https://www.v2ex.com/t/801676)
+1. [我买的不是手机吗…](https://www.v2ex.com/t/801877)
 1. [最近你们都在看什么新的前沿的技术？](https://www.v2ex.com/t/801721)
 1. [华擎粉转黑](https://www.v2ex.com/t/801680)
-1. [我买的不是手机吗…](https://www.v2ex.com/t/801877)
+1. [女方强行将一年级的女儿转学到老家了，我好像什么都做不了？](https://www.v2ex.com/t/801773)
+1. [看到现在，最水的一次发布会，都是些啥玩意](https://www.v2ex.com/t/801876)
+1. [求推荐双人玩的游戏，最近闲的无聊](https://www.v2ex.com/t/801688)
 
 ## 历史归档
 
