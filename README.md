@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-17 02:06:20 +0800`
+ `更新时间：2021-09-17 03:03:57 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [继续抽奖送猕猴桃🥝，欢迎分子，冲冲冲...](https://www.v2ex.com/t/802233)
 1. [公司或者项目组就一个前端，你会怎么办？](https://www.v2ex.com/t/802206)
 1. [选车的时候才觉得，有钱真好](https://www.v2ex.com/t/802307)
-1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200)
 1. [买最新款 iPhone 对你来说意味着什么？](https://www.v2ex.com/t/802318)
+1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200)
 1. [想知道彦祖们是怎么上的 v 站](https://www.v2ex.com/t/802184)
 1. [问下安卓如何防止 root 下抓包， app 接口请求并没有做加密措施](https://www.v2ex.com/t/802359)
 
