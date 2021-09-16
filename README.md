@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-16 18:06:08 +0800`
+ `更新时间：2021-09-16 19:04:33 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [model 3 开了两万公里后简单聊一点个人感受](https://www.v2ex.com/t/802133)
 1. [想写个高性能版 Nextcloud 后端，用 Rust 还是 Java 好？](https://www.v2ex.com/t/802154)
 1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200)
-1. [A15 Geekbench 5 出炉， CPU 提频， Metal 提升 55%， Pro 内存仍为 6G](https://www.v2ex.com/t/802173)
 1. [想知道彦祖们是怎么上的 v 站](https://www.v2ex.com/t/802184)
+1. [A15 Geekbench 5 出炉， CPU 提频， Metal 提升 55%， Pro 内存仍为 6G](https://www.v2ex.com/t/802173)
 
 ## 历史归档
 
