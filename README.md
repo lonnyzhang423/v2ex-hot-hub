@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-16 22:05:51 +0800`
+ `更新时间：2021-09-16 23:05:50 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [想写个高性能版 Nextcloud 后端，用 Rust 还是 Java 好？](https://www.v2ex.com/t/802154)
 1. [Oracle JDK 并没有“真”免费](https://www.v2ex.com/t/802200)
 1. [想知道彦祖们是怎么上的 v 站](https://www.v2ex.com/t/802184)
-1. [问下安卓如何防止 root 下抓包， app 接口请求并没有做加密措施](https://www.v2ex.com/t/802359)
+1. [买最新款 iPhone 对你来说意味着什么？](https://www.v2ex.com/t/802318)
 
 ## 历史归档
 
