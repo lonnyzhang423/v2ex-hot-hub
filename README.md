@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-17 12:06:56 +0800`
+ `更新时间：2021-09-17 13:04:36 +0800`
 
 ## 热议话题
 
-1. [选车的时候才觉得，有钱真好](https://www.v2ex.com/t/802307)
 1. [婚纱照是不是智商税？](https://www.v2ex.com/t/802367)
+1. [选车的时候才觉得，有钱真好](https://www.v2ex.com/t/802307)
 1. [买最新款 iPhone 对你来说意味着什么？](https://www.v2ex.com/t/802318)
 1. [问下安卓如何防止 root 下抓包， app 接口请求并没有做加密措施](https://www.v2ex.com/t/802359)
 1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447)
