@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-18 22:03:56 +0800`
+ `更新时间：2021-09-18 23:04:59 +0800`
 
 ## 热议话题
 
 1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674)
-1. [大家的官网订单现在什么状态](https://www.v2ex.com/t/802632)
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718)
 1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673)
 1. [找到了 iOS 被怀疑淘宝窃听的可能原因](https://www.v2ex.com/t/802660)
@@ -24,6 +23,7 @@
 1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727)
 1. [为什么要抢购新手机呢？](https://www.v2ex.com/t/802780)
 1. [拼多多官方处理问题跟京东真的没法比](https://www.v2ex.com/t/802798)
+1. [百度输入法 VS 搜狗输入法](https://www.v2ex.com/t/802683)
 
 ## 历史归档
 
