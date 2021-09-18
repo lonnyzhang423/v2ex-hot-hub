@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-18 07:05:51 +0800`
+ `更新时间：2021-09-18 08:18:47 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [今天,微信等 app 要支持合法外链了!](https://www.v2ex.com/t/802447)
 1. [大家预售都抢到了吗？](https://www.v2ex.com/t/802615)
 1. [同价位， iPad Pro 11 寸 2020 版比新 mini 强多了](https://www.v2ex.com/t/802507)
-1. [编译原理大家是怎么学习的？](https://www.v2ex.com/t/802520)
 1. [[Apple] 今晚预售，你会选择什么配色？](https://www.v2ex.com/t/802537)
+1. [编译原理大家是怎么学习的？](https://www.v2ex.com/t/802520)
 
 ## 历史归档
 
