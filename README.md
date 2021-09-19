@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-20 06:05:10 +0800`
+ `更新时间：2021-09-20 07:05:10 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [QQ 音乐会员官方活动，免费领一个月会员](https://www.v2ex.com/t/802913)
 1. [有锁机怎么买](https://www.v2ex.com/t/802894)
 1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957)
-1. [软件工程考研问题相关](https://www.v2ex.com/t/802883)
+1. [拼多多抢 iPhone 13 Pro Max 实在抢不到](https://www.v2ex.com/t/802960)
 
 ## 历史归档
 
