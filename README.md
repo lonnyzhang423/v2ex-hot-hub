@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-20 07:05:10 +0800`
+ `更新时间：2021-09-20 08:21:57 +0800`
 
 ## 热议话题
 
-1. [父亲过生日给他买什么手机？预算五千以内](https://www.v2ex.com/t/802881)
 1. [2021 年 9 月 19 日 请问朋友们，现在哪些手机自带谷歌框架。哪些可以后期安装（非 root、解 BL 锁）](https://www.v2ex.com/t/802897)
 1. [彦祖们，头戴式降噪耳机（如索尼 WH-1000XM3 等），里面再塞 3M 耳塞，能屏蔽工地比较尖的声音吗？](https://www.v2ex.com/t/802922)
 1. [想要买个笔记本 Thinkpad X1 Carbon 怎样，懂的来说说](https://www.v2ex.com/t/802887)
@@ -25,6 +24,7 @@
 1. [有锁机怎么买](https://www.v2ex.com/t/802894)
 1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957)
 1. [拼多多抢 iPhone 13 Pro Max 实在抢不到](https://www.v2ex.com/t/802960)
+1. [软件工程考研问题相关](https://www.v2ex.com/t/802883)
 
 ## 历史归档
 
