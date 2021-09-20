@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-20 19:04:19 +0800`
+ `更新时间：2021-09-20 20:08:51 +0800`
 
 ## 热议话题
 
 1. [如何从逻辑角度解释蛋生鸡、鸡生蛋问题？](https://www.v2ex.com/t/803030)
-1. [美区 Apple Id 被封了](https://www.v2ex.com/t/803008)
-1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957)
 1. [iPad pro2021 怎么让它成为生产力工具啊！](https://www.v2ex.com/t/803056)
-1. [顺丰收件还需要拍证件么？](https://www.v2ex.com/t/803019)
-1. [我这属于是翻车了么？](https://www.v2ex.com/t/803034)
+1. [美区 Apple Id 被封了](https://www.v2ex.com/t/803008)
 1. [准备组个 nas， CPU 和主板合适么？](https://www.v2ex.com/t/802961)
+1. [我这属于是翻车了么？](https://www.v2ex.com/t/803034)
+1. [顺丰收件还需要拍证件么？](https://www.v2ex.com/t/803019)
 1. [拼多多抢 iPhone 13 Pro Max 实在抢不到](https://www.v2ex.com/t/802960)
 1. [北上广深的兄弟们可以用旧的 iPhone 充电器可以免费换努比亚的小黄人充电器了](https://www.v2ex.com/t/803023)
 1. [市面上支持苹果设备的 wifi 设备有哪些？](https://www.v2ex.com/t/803007)
+1. [电信的国际出口是做了恶意的限速吗？](https://www.v2ex.com/t/802964)
 
 ## 历史归档
 
