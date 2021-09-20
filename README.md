@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-20 12:06:56 +0800`
+ `更新时间：2021-09-20 13:05:27 +0800`
 
 ## 热议话题
 
 1. [彦祖们，头戴式降噪耳机（如索尼 WH-1000XM3 等），里面再塞 3M 耳塞，能屏蔽工地比较尖的声音吗？](https://www.v2ex.com/t/802922)
-1. [有什么快速方法让 google 和 ytb 识别 us 的 ip 为大陆？](https://www.v2ex.com/t/802908)
 1. [QQ 音乐会员官方活动，免费领一个月会员](https://www.v2ex.com/t/802913)
 1. [拼多多抢 iPhone 13 Pro Max 实在抢不到](https://www.v2ex.com/t/802960)
 1. [13 系列是外挂 5G 吗？](https://www.v2ex.com/t/802957)
-1. [广州哪里有适合写代码的地方](https://www.v2ex.com/t/802925)
-1. [电信的国际出口是做了恶意的限速吗？](https://www.v2ex.com/t/802964)
-1. [准备组个 nas， CPU 和主板合适么？](https://www.v2ex.com/t/802961)
 1. [美区 Apple Id 被封了](https://www.v2ex.com/t/803008)
-1. [备份大量代码仓库的正确姿势是什么？](https://www.v2ex.com/t/802911)
+1. [广州哪里有适合写代码的地方](https://www.v2ex.com/t/802925)
+1. [准备组个 nas， CPU 和主板合适么？](https://www.v2ex.com/t/802961)
+1. [电信的国际出口是做了恶意的限速吗？](https://www.v2ex.com/t/802964)
+1. [顺丰收件还需要拍证件么？](https://www.v2ex.com/t/803019)
+1. [市面上支持苹果设备的 wifi 设备有哪些？](https://www.v2ex.com/t/803007)
 
 ## 历史归档
 
