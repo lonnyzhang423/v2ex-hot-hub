@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-21 12:07:07 +0800`
+ `更新时间：2021-09-21 13:05:58 +0800`
 
 ## 热议话题
 
-1. [如何从逻辑角度解释蛋生鸡、鸡生蛋问题？](https://www.v2ex.com/t/803030)
 1. [iPad pro2021 怎么让它成为生产力工具啊！](https://www.v2ex.com/t/803056)
 1. [上海的 LGBT 交流群（生活、交友、聚会）](https://www.v2ex.com/t/803038)
 1. [iOS 15 正式版现已推送升级](https://www.v2ex.com/t/803122)
@@ -24,7 +23,8 @@
 1. [高铁有余票，买不到 DF 座怎么办](https://www.v2ex.com/t/803133)
 1. [想要变得酷酷的，有没有什么快捷的办法？](https://www.v2ex.com/t/803103)
 1. [U 盘不靠谱, 活捉一个损坏文件的瞬间](https://www.v2ex.com/t/803043)
-1. [求推荐万兆网卡](https://www.v2ex.com/t/803032)
+1. [iOS15 延期的功能真不少](https://www.v2ex.com/t/803125)
+1. [公司给报销 5000 学习基金，请推荐](https://www.v2ex.com/t/803078)
 
 ## 历史归档
 
