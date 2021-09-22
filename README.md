@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-22 21:14:28 +0800`
+ `更新时间：2021-09-22 22:05:15 +0800`
 
 ## 热议话题
 
-1. [钟文泽已经发 13 pro 实测视频了](https://www.v2ex.com/t/803232)
 1. [楼上扰民，还真没办法了吗？](https://www.v2ex.com/t/803299)
 1. [何时疫情才能平息](https://www.v2ex.com/t/803300)
 1. [汇总几个 iphone13 的首发测评，小屏党表示有点绷不住了，续航有点香](https://www.v2ex.com/t/803266)
@@ -25,6 +24,7 @@
 1. [2021 年了， Apple 生态上最好的日记 App 是啥？](https://www.v2ex.com/t/803289)
 1. [支持 4K @ 60 HZ 的亮机卡性价比最高的是哪个？](https://www.v2ex.com/t/803357)
 1. [宠物医院到底能不能治病？](https://www.v2ex.com/t/803284)
+1. [迫于 OKR 要做一次技术分享，求推荐](https://www.v2ex.com/t/803296)
 
 ## 历史归档
 
