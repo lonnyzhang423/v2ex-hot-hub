@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-24 22:05:05 +0800`
+ `更新时间：2021-09-24 23:05:22 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [MIUI 是现在小米最大的败笔！](https://www.v2ex.com/t/803858)
 1. [30W 以内的新能源 SUV 选途观 L 2022 插电混动款怎么样？](https://www.v2ex.com/t/803815)
 1. [win11 你们会升级么？](https://www.v2ex.com/t/803945)
-1. [13Pro 远峰蓝](https://www.v2ex.com/t/803797)
+1. [怎么样区分努力和内卷](https://www.v2ex.com/t/803900)
 
 ## 历史归档
 
