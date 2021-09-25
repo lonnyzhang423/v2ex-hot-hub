@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-25 22:05:22 +0800`
+ `更新时间：2021-09-25 23:04:52 +0800`
 
 ## 热议话题
 
-1. [深圳益田假日广场店，我一定要用 14 天退了，从此果黑](https://www.v2ex.com/t/804032)
 1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121)
 1. [新版 Safari 真漂亮，浏览器本该如此](https://www.v2ex.com/t/804062)
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097)
@@ -23,6 +22,7 @@
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135)
 1. [请教到底如何真的掌握“正则表达式”以及人和人的认知差距真的会有这么大吗？](https://www.v2ex.com/t/804050)
 1. [请问一下，单奔一个火绒安全软件平时使用足够了么？](https://www.v2ex.com/t/804088)
+1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148)
 
 ## 历史归档
 
