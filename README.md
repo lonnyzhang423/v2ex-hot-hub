@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-26 04:06:06 +0800`
+ `更新时间：2021-09-26 05:04:36 +0800`
 
 ## 热议话题
 
-1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121)
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097)
 1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129)
 1. [iPhone 13 mini 使用双卡的方案？](https://www.v2ex.com/t/804135)
