@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-25 17:05:08 +0800`
+ `更新时间：2021-09-25 18:05:27 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121)
 1. [新版 Safari 真漂亮，浏览器本该如此](https://www.v2ex.com/t/804062)
 1. [续航出来了，感觉 iPhone 13 mini 好顶](https://www.v2ex.com/t/804015)
-1. [腾讯云轻量云送服务器了，帐号有实例赶紧看看，免费领](https://www.v2ex.com/t/803981)
 1. [CTO 是做 Java 的，然而技术选项却选了 rails](https://www.v2ex.com/t/804097)
+1. [后悔买 13 pro max 了，续航溢出+实在太重](https://www.v2ex.com/t/804129)
 1. [请教到底如何真的掌握“正则表达式”以及人和人的认知差距真的会有这么大吗？](https://www.v2ex.com/t/804050)
 
 ## 历史归档
