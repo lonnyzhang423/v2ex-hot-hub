@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-25 13:05:39 +0800`
+ `更新时间：2021-09-25 14:06:36 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [深圳益田假日广场店，我一定要用 14 天退了，从此果黑](https://www.v2ex.com/t/804032)
 1. [画风突变呀，突然都说 13 对眼睛不好了 这是咋回事？还没到手呢 要不要退呀？](https://www.v2ex.com/t/804002)
 1. [win11 你们会升级么？](https://www.v2ex.com/t/803945)
-1. [怎么样区分努力和内卷](https://www.v2ex.com/t/803900)
-1. [适合跑 Linux 的小主机推荐](https://www.v2ex.com/t/803899)
-1. [收到 iPhone 13 Pro 的帅哥美女们，高刷新率感知明显吗](https://www.v2ex.com/t/803905)
-1. [续航出来了，感觉 iPhone 13 mini 好顶](https://www.v2ex.com/t/804015)
 1. [新版 Safari 真漂亮，浏览器本该如此](https://www.v2ex.com/t/804062)
+1. [续航出来了，感觉 iPhone 13 mini 好顶](https://www.v2ex.com/t/804015)
+1. [微信好像并没有完全放开竞争对手的链接，只放开了部分链接应付](https://www.v2ex.com/t/803911)
+1. [突然发现 VSCode 完全比不上 Jetbrain 全家桶](https://www.v2ex.com/t/804121)
+1. [终于知道 PDD 为何能火起来了](https://www.v2ex.com/t/803909)
 
 ## 历史归档
 
