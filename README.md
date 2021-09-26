@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-26 14:06:36 +0800`
+ `更新时间：2021-09-26 15:07:15 +0800`
 
 ## 热议话题
 
-1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175)
 1. [本人胆小，准备撤了，币圈的各位江湖再见了](https://www.v2ex.com/t/804237)
-1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242)
+1. [大家平时自学也都是在自己房间学嘛(IT，闲暇时间的充电)](https://www.v2ex.com/t/804175)
 1. [抖音重新发明了电视](https://www.v2ex.com/t/804156)
+1. [兄弟们，问一件汇率的事](https://www.v2ex.com/t/804242)
 1. [写了一个基于 DirectX 的 Ethereum 挖矿程序， 可以部署到 XBox Series X/S 上, 求 star~](https://www.v2ex.com/t/804173)
 1. [iPhone13 mini 续航超越 iPhone12，这次可以冲了](https://www.v2ex.com/t/804252)
-1. [[讨论] 预约 13 很难吗？](https://www.v2ex.com/t/804148)
 1. [问一个群晖数据恢复问题~](https://www.v2ex.com/t/804212)
+1. [3 年前端的求助](https://www.v2ex.com/t/804264)
 1. [京东 iPhone13promax，镜头出现杂质。翻车吗](https://www.v2ex.com/t/804244)
 
 ## 历史归档
