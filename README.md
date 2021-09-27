@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-27 19:04:36 +0800`
+ `更新时间：2021-09-27 20:09:09 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [iPhone13 系列大家用什么钢化膜呢？](https://www.v2ex.com/t/804503)
 1. [迫于老婆侄子（男孩 12 岁）生日快到了，老婆让我给选择生日礼物，该买什么啊！](https://www.v2ex.com/t/804558)
 1. [讲真的， iPhone13Pro Max 的信号爆棚](https://www.v2ex.com/t/804456)
-1. [目前 mac 有强大的媒体播放器么？](https://www.v2ex.com/t/804443)
 1. [分享一下自用的小工具 Bark ,给你的 iPhone 发自定义推送。](https://www.v2ex.com/t/804506)
 1. [为什么个人开发者会收到很多类似遵守协议的意见或请求？](https://www.v2ex.com/t/804545)
+1. [你手机的 dock 栏中还有电话和短信吗](https://www.v2ex.com/t/804652)
 
 ## 历史归档
 
