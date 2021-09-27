@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-27 10:20:20 +0800`
+ `更新时间：2021-09-27 11:05:58 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [Java 加一个字段很难吗?](https://www.v2ex.com/t/804422)
 1. [大家抢到国庆回家的票了吗](https://www.v2ex.com/t/804368)
 1. [关于 iPhone 13 全系的 PWM 频闪问题](https://www.v2ex.com/t/804386)
+1. [没想到前几天吐槽公司大楼停供冷，这几天东北拉闸民用电上热搜了](https://www.v2ex.com/t/804536)
+1. [iPhone13 系列大家用什么钢化膜呢？](https://www.v2ex.com/t/804503)
 1. [有加班处理个保法整改的老哥吗？你们方案是怎样的？](https://www.v2ex.com/t/804438)
 1. [目前 mac 有强大的媒体播放器么？](https://www.v2ex.com/t/804443)
-1. [iPhone13 系列大家用什么钢化膜呢？](https://www.v2ex.com/t/804503)
-1. [讲真的， iPhone13Pro Max 的信号爆棚](https://www.v2ex.com/t/804456)
 
 ## 历史归档
 
