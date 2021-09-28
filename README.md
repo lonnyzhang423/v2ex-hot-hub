@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-28 16:07:29 +0800`
+ `更新时间：2021-09-28 17:06:33 +0800`
 
 ## 热议话题
 
-1. [开发了一个生成 Notion 风格头像的在线工具](https://www.v2ex.com/t/804653)
-1. [安徽好像没有一个地方有 Apple Store](https://www.v2ex.com/t/804793)
-1. [iPhone13 夜景果然没让我失望](https://www.v2ex.com/t/804707)
 1. [养了它都 10 年了，还是照样咬主人。唉...](https://www.v2ex.com/t/804867)
+1. [安徽好像没有一个地方有 Apple Store](https://www.v2ex.com/t/804793)
 1. [近期通勤有关于路上自行车越来越少的感悟](https://www.v2ex.com/t/804816)
-1. [想咨询下群里的大佬 关于虾皮的信息](https://www.v2ex.com/t/804676)
-1. [官网买的 iPhone 13 发货日期会提前吗？](https://www.v2ex.com/t/804668)
+1. [iPhone13 夜景果然没让我失望](https://www.v2ex.com/t/804707)
 1. [我初中没有毕业， 30 岁了，想考个学历，大家有啥经验分享吗？](https://www.v2ex.com/t/804765)
+1. [想咨询下群里的大佬 关于虾皮的信息](https://www.v2ex.com/t/804676)
+1. [有国庆回郑州的顺风车嘛，车票太难买了，但是又不得不回去。。。](https://www.v2ex.com/t/804775)
+1. [官网买的 iPhone 13 发货日期会提前吗？](https://www.v2ex.com/t/804668)
+1. [阿里云的大陆服务器网络咋那么差？？后悔买了](https://www.v2ex.com/t/804822)
 1. [[APPLE ID] 美区 id 被锁解封经历](https://www.v2ex.com/t/804799)
 
 ## 历史归档
