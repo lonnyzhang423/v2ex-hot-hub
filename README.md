@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-09-29 22:05:17 +0800`
+ `更新时间：2021-09-29 23:06:21 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [苹果称“果冻屏”是正常现象](https://www.v2ex.com/t/805029)
 1. [掘金上居然有文章教人怎么给开源软件提 typo issue](https://www.v2ex.com/t/805079)
 1. [试用期未过，有经济补偿吗？哪位大佬能解答一下。](https://www.v2ex.com/t/805030)
-1. [你们见过这样的产品经理吗？](https://www.v2ex.com/t/805005)
 1. [For 国庆和其他假期来青岛玩的 V 友们，本人作为青岛土著总结的吃喝玩乐攻略一组——美食篇、景点篇、小贴士](https://www.v2ex.com/t/805136)
 1. [分享最近阅读的书藉清单(二)](https://www.v2ex.com/t/805027)
-1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132)
 1. [迫于 iPad mini6 是 A15. 特来问问，买 m1 11 寸 ipadPro 还是 mini6](https://www.v2ex.com/t/805048)
+1. [M1X 马上要来了, 美区 Apple Store 的 96W Mac 充电器已经全面推迟 2-3 月发货, 线下取货全部下架,](https://www.v2ex.com/t/805132)
+1. [Onedrive 的同步功能中，在本地显示云上文件，双击直接下载运行，是不是没有替代品了？](https://www.v2ex.com/t/805073)
 
 ## 历史归档
 
