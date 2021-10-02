@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-02 09:48:42 +0800`
+ `更新时间：2021-10-02 10:20:57 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [怎么回怼“有收费功能就是吃相难看、有违开源精神”的说法？](https://www.v2ex.com/t/805544)
 1. [越来越不喜欢手机拍照](https://www.v2ex.com/t/805531)
 1. [iPhone x 更换 13pro 使用体验](https://www.v2ex.com/t/805550)
-1. [iPhone 联通卡只打电话，每个月被收流量费](https://www.v2ex.com/t/805563)
 1. [跟下风，反编译一个国旗头像程序来玩玩](https://www.v2ex.com/t/805551)
-1. [国庆需要加班的兄弟们来这里报道一下吧](https://www.v2ex.com/t/805529)
+1. [iPhone 联通卡只打电话，每个月被收流量费](https://www.v2ex.com/t/805563)
 1. [iPad 可以插 u 盾转账吗？](https://www.v2ex.com/t/805556)
+1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583)
 1. [iPad air 有可能出 12.9 寸吗(做个梦](https://www.v2ex.com/t/805547)
 
 ## 历史归档
