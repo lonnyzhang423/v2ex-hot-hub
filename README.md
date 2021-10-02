@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-02 18:05:54 +0800`
+ `更新时间：2021-10-02 19:04:40 +0800`
 
 ## 热议话题
 
 1. [你的 iPhone 默认浏览器是哪个？](https://www.v2ex.com/t/805634)
-1. [想送女朋友一个抱枕，好兄弟们能推荐一个性价比高的吗？](https://www.v2ex.com/t/805593)
-1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583)
 1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635)
+1. [想送女朋友一个抱枕，好兄弟们能推荐一个性价比高的吗？](https://www.v2ex.com/t/805593)
 1. [速度上， Notion 官方送 1750 刀活动，能用 30 年](https://www.v2ex.com/t/805597)
 1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637)
 1. [Notion 兑换 1500 美元兑换码](https://www.v2ex.com/t/805590)
-1. [毕业一年，隐瞒一份 2 个月的工作经历，背调会被查出来吗](https://www.v2ex.com/t/805585)
+1. [说说湖南电信和联通](https://www.v2ex.com/t/805617)
+1. [k8s 系真的是 qps 杀手](https://www.v2ex.com/t/805677)
 1. [联通卡从不用流量每个月被扣流量费](https://www.v2ex.com/t/805587)
 
 ## 历史归档
