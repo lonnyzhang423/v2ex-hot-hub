@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-02 14:07:13 +0800`
+ `更新时间：2021-10-02 15:05:39 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [Vite：下一代前端开发与构建工具？大伙使用效果如何？](https://www.v2ex.com/t/805583)
 1. [速度上， Notion 官方送 1750 刀活动，能用 30 年](https://www.v2ex.com/t/805597)
 1. [想送女朋友一个抱枕，好兄弟们能推荐一个性价比高的吗？](https://www.v2ex.com/t/805593)
+1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635)
 1. [Notion 兑换 1500 美元兑换码](https://www.v2ex.com/t/805590)
 1. [LOL 这 B 游戏真难玩](https://www.v2ex.com/t/805572)
-1. [大家帮忙推荐个电视](https://www.v2ex.com/t/805635)
+1. [求推荐适合 iPad 的便携轻便蓝牙键盘](https://www.v2ex.com/t/805637)
 
 ## 历史归档
 
