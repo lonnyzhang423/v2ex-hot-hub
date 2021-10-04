@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-04 19:04:36 +0800`
+ `更新时间：2021-10-04 20:09:33 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [uwp 和 win32 桥是不是彻底凉了？](https://www.v2ex.com/t/805810)
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850)
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856)
-1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831)
 1. [最近彻底爱上了《涛声依旧》这首歌](https://www.v2ex.com/t/805789)
+1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831)
 1. [大家在用什么样的车载充气泵？我买的总是容易过热停机。](https://www.v2ex.com/t/805797)
 
 ## 历史归档
