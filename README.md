@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-04 21:13:11 +0800`
+ `更新时间：2021-10-04 22:06:26 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850)
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856)
 1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831)
-1. [大家在用什么样的车载充气泵？我买的总是容易过热停机。](https://www.v2ex.com/t/805797)
 1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833)
+1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848)
 
 ## 历史归档
 
