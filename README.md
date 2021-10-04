@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-04 22:06:26 +0800`
+ `更新时间：2021-10-04 23:10:31 +0800`
 
 ## 热议话题
 
 1. [有多少当年认为的“神作”，现在完全看不下去，又有多少现在依然可以无限循环？](https://www.v2ex.com/t/805834)
 1. [13pro 实在太重了…](https://www.v2ex.com/t/805830)
 1. [除了迅雷还有哪些下载工具推荐？](https://www.v2ex.com/t/805824)
-1. [使用 redis 作为数据库（非缓存），有什么建议吗？](https://www.v2ex.com/t/805802)
-1. [uwp 和 win32 桥是不是彻底凉了？](https://www.v2ex.com/t/805810)
 1. [如何能避免人云亦云，培养独立思考问题的能力？](https://www.v2ex.com/t/805850)
+1. [uwp 和 win32 桥是不是彻底凉了？](https://www.v2ex.com/t/805810)
 1. [微软验证器 microsoft authenticator 弄丢了我所有的 2fa](https://www.v2ex.com/t/805856)
-1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831)
-1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833)
 1. [13PM 到货了，有什么膜和壳推荐？](https://www.v2ex.com/t/805848)
+1. [Windows 上有什么好点的开源的代理软件吗？](https://www.v2ex.com/t/805833)
+1. [mbp 带 apple care 保修，授权服务商说因为外观磕碰无法免费更换电池](https://www.v2ex.com/t/805831)
+1. [校园网能否通过 dns 的方式审查学生流量记录？](https://www.v2ex.com/t/805825)
 
 ## 历史归档
 
