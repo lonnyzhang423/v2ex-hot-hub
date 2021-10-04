@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-04 09:56:57 +0800`
+ `更新时间：2021-10-04 10:27:03 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [iOS 15 麦克风“语音凸显”和“宽谱”当前不可用------Apple 官方回复：大陆地区还没上线](https://www.v2ex.com/t/805723)
 1. [Notion 回收了大部分活动奖励金额](https://www.v2ex.com/t/805769)
 1. [求助 iOS 15 联通卡激活 iMessage 和 FaceTime 一直提示激活出错](https://www.v2ex.com/t/805765)
-1. [最近彻底爱上了《涛声依旧》这首歌](https://www.v2ex.com/t/805789)
 1. [决赛圈了， 2021 下半年求开发笔记本推荐](https://www.v2ex.com/t/805751)
+1. [最近彻底爱上了《涛声依旧》这首歌](https://www.v2ex.com/t/805789)
 
 ## 历史归档
 
