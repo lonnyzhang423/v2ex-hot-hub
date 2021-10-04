@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-04 08:23:48 +0800`
+ `更新时间：2021-10-04 09:56:57 +0800`
 
 ## 热议话题
 
-1. [不懂中文的外国人，通常通过哪些渠道比较容易在中国找到工作？](https://www.v2ex.com/t/805716)
 1. [求方案：大量相片视频分享给亲友在线观看](https://www.v2ex.com/t/805779)
 1. [Notion 羊毛被回收了](https://www.v2ex.com/t/805770)
 1. [服务器被攻击，上了 CDN 但源站 IP 还是会被很快知道，求问可能是哪个环节出了问题？](https://www.v2ex.com/t/805757)
 1. [英语里的连读是不是只能靠积累，如果遇到一个刚好没有积累过的连读句子，是不是哪怕美国人也会听不懂](https://www.v2ex.com/t/805780)
-1. [有人骑摩托车吗，防盗 GPS 的问题如何解决](https://www.v2ex.com/t/805715)
-1. [iOS 15 麦克风“语音凸显”和“宽谱”当前不可用------Apple 官方回复：大陆地区还没上线](https://www.v2ex.com/t/805723)
 1. [Apple ID 由中国大陆转到美国，数据是否会迁移出云上贵州？](https://www.v2ex.com/t/805727)
-1. [求助 iOS 15 联通卡激活 iMessage 和 FaceTime 一直提示激活出错](https://www.v2ex.com/t/805765)
+1. [iOS 15 麦克风“语音凸显”和“宽谱”当前不可用------Apple 官方回复：大陆地区还没上线](https://www.v2ex.com/t/805723)
 1. [Notion 回收了大部分活动奖励金额](https://www.v2ex.com/t/805769)
+1. [求助 iOS 15 联通卡激活 iMessage 和 FaceTime 一直提示激活出错](https://www.v2ex.com/t/805765)
+1. [最近彻底爱上了《涛声依旧》这首歌](https://www.v2ex.com/t/805789)
+1. [决赛圈了， 2021 下半年求开发笔记本推荐](https://www.v2ex.com/t/805751)
 
 ## 历史归档
 
