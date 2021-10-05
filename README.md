@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-06 01:12:05 +0800`
+ `更新时间：2021-10-06 02:06:44 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [开始更新 Win11](https://www.v2ex.com/t/805927)
 1. [机顶盒求推荐...](https://www.v2ex.com/t/805916)
 1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951)
-1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003)
 1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963)
+1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003)
 
 ## 历史归档
 
