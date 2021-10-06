@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-06 15:06:16 +0800`
+ `更新时间：2021-10-06 16:07:31 +0800`
 
 ## 热议话题
 
 1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976)
 1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003)
-1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963)
-1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965)
 1. [关于 apple watch 7 是在进入大规模生产前一周发现有致命缺陷, 现在的方案是几周时间临时拼凑出来的传言, 以及总结的几个关键线索.](https://www.v2ex.com/t/806039)
 1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975)
 1. [关于 iPhone 13 pro 的频闪是否伤眼问题](https://www.v2ex.com/t/806067)
 1. [如果阉割掉国内用不到的东西，可以便宜一些的话，大家会怎么选？](https://www.v2ex.com/t/806052)
+1. [关于青岛前几天我个人信息被青岛某公司曝光并恶意中伤的一些声明](https://www.v2ex.com/t/806072)
+1. [请问在 google 搜索时，频繁遇到小 X 知识网等内容农场式结果，怎么办？](https://www.v2ex.com/t/806025)
 1. [好像长了脂肪瘤](https://www.v2ex.com/t/806038)
 1. [现在买个 2017 款的 iMac 还能用几年](https://www.v2ex.com/t/805993)
 
