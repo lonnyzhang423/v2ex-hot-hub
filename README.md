@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-06 11:06:20 +0800`
+ `更新时间：2021-10-06 12:07:52 +0800`
 
 ## 热议话题
 
 1. [iPhone 13 频闪真的不假 打算买 iPhone11 了](https://www.v2ex.com/t/805976)
-1. [win11 正式版今日推出，开发者你们的主力机都更新了吗？](https://www.v2ex.com/t/805929)
 1. [为什么网上 go 写的产品这么少](https://www.v2ex.com/t/806003)
 1. [机械硬盘，如何愉快用 Windows？](https://www.v2ex.com/t/805963)
 1. [拍照后模糊，过一段时间才清晰。12/12mini 都遇到过](https://www.v2ex.com/t/805965)
-1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938)
 1. [2021 下半年安卓手机求推荐](https://www.v2ex.com/t/805951)
+1. [上午升级到了 11，终于用上 wsl-gpu 和 wslg 了，舒服了~~](https://www.v2ex.com/t/805938)
 1. [Win11 推送说不满足最低要求。。。。](https://www.v2ex.com/t/805975)
-1. [现在的旗舰机真是越来越厚重了～](https://www.v2ex.com/t/805935)
+1. [请教下老哥们，服务器安全问题](https://www.v2ex.com/t/805940)
 1. [现在买个 2017 款的 iMac 还能用几年](https://www.v2ex.com/t/805993)
+1. [关于 apple watch 7 是在进入大规模生产前一周发现有致命缺陷, 现在的方案是几周时间临时拼凑出来的传言, 以及总结的几个关键线索.](https://www.v2ex.com/t/806039)
 
 ## 历史归档
 
