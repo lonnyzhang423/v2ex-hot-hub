@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-08 19:06:29 +0800`
+ `更新时间：2021-10-08 20:08:48 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [(安卓)淘宝将手机里的照片视频复制到私有目录下(转)](https://www.v2ex.com/t/806351)
 1. [Windows 用来检测网络连通性的 IP 似乎被劫持了](https://www.v2ex.com/t/806309)
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372)
-1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314)
 1. [朋友们 有在工作中用眼动仪进行辅助写代码的吗](https://www.v2ex.com/t/806326)
-1. [继[其实对老家很失望]后续](https://www.v2ex.com/t/806329)
+1. [保持警惕：多个国产 APP 滥用相册权限(转)](https://www.v2ex.com/t/806442)
+1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314)
 
 ## 历史归档
 
