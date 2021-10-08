@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-08 09:55:46 +0800`
+ `更新时间：2021-10-08 10:24:50 +0800`
 
 ## 热议话题
 
 1. [吐槽， Apple TV 4K 21 用了两天感觉真的蛮一般的，不值得入手](https://www.v2ex.com/t/806189)
-1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211)
 1. [听说不会有 iPhone 14 mini 了？](https://www.v2ex.com/t/806210)
+1. [怎么防止用户自己调用网站 API 发送 POST 请求篡改数据](https://www.v2ex.com/t/806211)
 1. [升级 iOS15 之后淘宝、闲鱼、阿里云盘等多个 APP，打开后提示异常退出之类的，要清理或者修复 APP](https://www.v2ex.com/t/806185)
-1. [前 leader 借钱不还应该怎么办?](https://www.v2ex.com/t/806212)
 1. [临近而立之年，心慌的很，这假期又白过了？](https://www.v2ex.com/t/806276)
-1. [手腕疼痛，疑似腱鞘炎，大家有什么好方法吗？](https://www.v2ex.com/t/806191)
+1. [前 leader 借钱不还应该怎么办?](https://www.v2ex.com/t/806212)
 1. [实现一个电梯摄像头识别有电动车推进来就报警的功能有搞头吗？](https://www.v2ex.com/t/806220)
+1. [手腕疼痛，疑似腱鞘炎，大家有什么好方法吗？](https://www.v2ex.com/t/806191)
+1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327)
 1. [macOS 用户表示很喜欢 Windows11](https://www.v2ex.com/t/806201)
-1. [下载 HTTPS 文件更消耗 cpu 吗？](https://www.v2ex.com/t/806236)
 
 ## 历史归档
 
