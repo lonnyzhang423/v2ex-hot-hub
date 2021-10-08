@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-09 04:06:17 +0800`
+ `更新时间：2021-10-09 05:04:59 +0800`
 
 ## 热议话题
 
 1. [开车的乐趣是什么?](https://www.v2ex.com/t/806327)
 1. [Windows 用来检测网络连通性的 IP 似乎被劫持了](https://www.v2ex.com/t/806309)
-1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404)
 1. [保持警惕：多个国产 APP 滥用相册权限(转)](https://www.v2ex.com/t/806442)
+1. [人生无非一场别离(长假回家有感)](https://www.v2ex.com/t/806404)
 1. [Python 在 3.10.0 发布之际登上 TIOBE 榜首](https://www.v2ex.com/t/806314)
 1. [今晚 8 点， apple watch 7 可以预约了](https://www.v2ex.com/t/806372)
 1. [建议大家早早的拔掉智齿](https://www.v2ex.com/t/806452)
