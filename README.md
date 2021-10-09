@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-09 18:06:21 +0800`
+ `更新时间：2021-10-09 19:04:09 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [“知乎”和“百度贴吧”APP 是我用过体验最差的。](https://www.v2ex.com/t/806624)
 1. [口罩影响 Face ID，我有一计给苹果](https://www.v2ex.com/t/806566)
 1. [watch 7 系列 +800 上蜂窝版有必要吗？](https://www.v2ex.com/t/806595)
-1. [实习 offer 选择 苹果 vs 字节](https://www.v2ex.com/t/806503)
+1. [在线文档需要防止被截图，防止下载，但是能直接打印，前后端需要怎么设计？](https://www.v2ex.com/t/806677)
 1. [20W 左右预算买豪华品牌 SUV，选择宝马 X1 2021 款 改款 sDrive20Li 时尚型，怎么样？](https://www.v2ex.com/t/806608)
 
 ## 历史归档
