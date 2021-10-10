@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-11 00:07:24 +0800`
+ `更新时间：2021-10-11 01:09:41 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [求推荐 原生 Android 迷你手机](https://www.v2ex.com/t/806788)
 1. [喜大普奔， c 语言二进制输出](https://www.v2ex.com/t/806816)
 1. [大家在办公室用啥键盘鼠标？](https://www.v2ex.com/t/806808)
-1. [安卓上最好的浏览器是 Firefox Nightly](https://www.v2ex.com/t/806872)
+1. [在什么情况下，你会加入一个初创团队？](https://www.v2ex.com/t/806815)
 
 ## 历史归档
 
