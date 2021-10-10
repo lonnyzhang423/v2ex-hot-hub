@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-10 16:07:22 +0800`
+ `更新时间：2021-10-10 17:05:54 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819)
 1. [笔记本硬盘快满了，准备外挂一个 SSD 来扩展用。](https://www.v2ex.com/t/806729)
 1. [一种无 HTTPS 的安全通信方式](https://www.v2ex.com/t/806753)
-1. [求推荐 原生 Android 迷你手机](https://www.v2ex.com/t/806788)
-1. [请教下大家，现在婴幼儿奶粉用哪个牌子比较好呀？](https://www.v2ex.com/t/806746)
 1. [有一个闲置的 iPhone 8，可以用来做什么呢？](https://www.v2ex.com/t/806777)
+1. [请教下大家，现在婴幼儿奶粉用哪个牌子比较好呀？](https://www.v2ex.com/t/806746)
+1. [求推荐 原生 Android 迷你手机](https://www.v2ex.com/t/806788)
 
 ## 历史归档
 
