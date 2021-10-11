@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-11 11:07:01 +0800`
+ `更新时间：2021-10-11 12:07:13 +0800`
 
 ## 热议话题
 
-1. [有必要再续费大会员吗？](https://www.v2ex.com/t/806822)
 1. [各位觉得有必要买社保吗？](https://www.v2ex.com/t/806939)
-1. [由于 infuse 搜索公益服影片太慢，故购买了影音宝，但体验不佳，苹果拒绝退款怎么办？](https://www.v2ex.com/t/806819)
 1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890)
 1. [各位大佬 微信转账被骗怎么追回钱款呀！](https://www.v2ex.com/t/806931)
-1. [小米 yeelight 吸顶灯有人用过吗？](https://www.v2ex.com/t/806887)
+1. [打算注册个公司，求赐一个名](https://www.v2ex.com/t/806941)
 1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858)
+1. [小米 yeelight 吸顶灯有人用过吗？](https://www.v2ex.com/t/806887)
 1. [iOS 的后台应用刷新到底有啥用](https://www.v2ex.com/t/806896)
+1. [弱弱的说一句: Windows 11 的一些设计降低了工作效率](https://www.v2ex.com/t/806925)
 
 ## 历史归档
 
