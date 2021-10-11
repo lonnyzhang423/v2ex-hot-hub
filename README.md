@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-12 06:05:12 +0800`
+ `更新时间：2021-10-12 07:05:42 +0800`
 
 ## 热议话题
 
 1. [MIUI 的手机目前有啥推荐的吗？ k30s 至尊纪念版、k40、还是即将要发布的 k40s？](https://www.v2ex.com/t/806981)
-1. [打算注册个公司，求赐一个名](https://www.v2ex.com/t/806941)
 1. [1password 太烂了，为何这么多人开车？](https://www.v2ex.com/t/806965)
+1. [打算注册个公司，求赐一个名](https://www.v2ex.com/t/806941)
 1. [如何不让猫用沙发磨抓？](https://www.v2ex.com/t/806972)
 1. [各位大佬 微信转账被骗怎么追回钱款呀！](https://www.v2ex.com/t/806931)
 1. [差价 1300，买 watch7 不锈钢版有必要吗？](https://www.v2ex.com/t/806940)
