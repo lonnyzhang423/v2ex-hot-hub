@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-11 16:08:40 +0800`
+ `更新时间：2021-10-11 17:06:29 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [1password 太烂了，为何这么多人开车？](https://www.v2ex.com/t/806965)
 1. [你们升级的 Windows 11 卡吗？](https://www.v2ex.com/t/806890)
 1. [各位大佬 微信转账被骗怎么追回钱款呀！](https://www.v2ex.com/t/806931)
-1. [差价 1300，买 watch7 不锈钢版有必要吗？](https://www.v2ex.com/t/806940)
-1. [m1x 顶配 32g 2tb？](https://www.v2ex.com/t/806858)
 1. [如何不让猫用沙发磨抓？](https://www.v2ex.com/t/806972)
+1. [差价 1300，买 watch7 不锈钢版有必要吗？](https://www.v2ex.com/t/806940)
 1. [小米 yeelight 吸顶灯有人用过吗？](https://www.v2ex.com/t/806887)
+1. [iOS 的后台应用刷新到底有啥用](https://www.v2ex.com/t/806896)
 
 ## 历史归档
 
