@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-12 12:06:59 +0800`
+ `更新时间：2021-10-12 13:05:48 +0800`
 
 ## 热议话题
 
 1. [我想逃避现实](https://www.v2ex.com/t/807189)
 1. [很好奇啊， LOL 手游这种，跟 LOL 端游代码有多少能复用的。。难道手机端代码从 0 开始写吗](https://www.v2ex.com/t/807036)
-1. [应不应该离职](https://www.v2ex.com/t/807016)
+1. [虚拟定位用于钉钉打卡被判刑](https://www.v2ex.com/t/807144)
 1. [「回复抽奖」和朋友一起做的 Widget 合集 App · 小纸盒 今天上架啦](https://www.v2ex.com/t/807126)
 1. [用了 11 年的美区 id 被封了](https://www.v2ex.com/t/807152)
-1. [虚拟定位用于钉钉打卡被判刑](https://www.v2ex.com/t/807144)
 1. [🎉🎉「小搭百科网」g.penzai.com 终于关站了。中文搜索会好起来吗](https://www.v2ex.com/t/807150)
 1. [树莓派啥时候回到正常点的价格呀](https://www.v2ex.com/t/807024)
 1. [iPhone 短信怎么拦截垃圾短信啊](https://www.v2ex.com/t/807026)
-1. [Github 周边购买 YubiKey 好像可以邮政小包到中国，有人试过吗？](https://www.v2ex.com/t/807004)
+1. [各位老哥们工作日调休都会做什么事情呢？](https://www.v2ex.com/t/807020)
+1. [怎么国内没人模仿个 Jira 呢 ？](https://www.v2ex.com/t/807084)
 
 ## 历史归档
 
