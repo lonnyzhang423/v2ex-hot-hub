@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-12 21:17:26 +0800`
+ `更新时间：2021-10-12 22:05:53 +0800`
 
 ## 热议话题
 
 1. [我想逃避现实](https://www.v2ex.com/t/807189)
 1. [生活琐事贴：老爹想买辆 13 万的 SUV 油车和我的一些想法](https://www.v2ex.com/t/807299)
-1. [用了 11 年的美区 id 被封了](https://www.v2ex.com/t/807152)
 1. [分享最近北京直营店 ac+使用经历](https://www.v2ex.com/t/807236)
-1. [🎉🎉「小搭百科网」g.penzai.com 终于关站了。中文搜索会好起来吗](https://www.v2ex.com/t/807150)
 1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267)
 1. [深海的危险比得上火星吗](https://www.v2ex.com/t/807210)
 1. [目前大厂外包，年入 35W。有没有办法更进一步？](https://www.v2ex.com/t/807238)
 1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282)
 1. [朋友的数据库被删了，有点揪心...](https://www.v2ex.com/t/807226)
+1. [看了小白测评的 13pro 的续航后瞬间觉得 13pro 不香了](https://www.v2ex.com/t/807290)
+1. [家里放个低功耗 CPU 足够体积不大且安静的服务器， mac mini 是不是符合条件？](https://www.v2ex.com/t/807240)
 
 ## 历史归档
 
