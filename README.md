@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-13 12:07:10 +0800`
+ `更新时间：2021-10-13 13:06:24 +0800`
 
 ## 热议话题
 
 1. [生活琐事贴：老爹想买辆 13 万的 SUV 油车和我的一些想法](https://www.v2ex.com/t/807299)
 1. [发布会来了， 10.18](https://www.v2ex.com/t/807432)
-1. [同事有一台 macbook pro 16 打算出给我，大佬们看看划算吗，](https://www.v2ex.com/t/807267)
 1. [为什么明知道违法， HR 还能泰然自若正义凛然地站在公司的一边？](https://www.v2ex.com/t/807450)
+1. [右手网出品]上手体验两周后，我决定用回 iPhone 12 Pro Max： iPhone 13 Pro/Max 上手体验评测-信号，屏幕，白平衡，影像实力](https://www.v2ex.com/t/807411)
 1. [看了小白测评的 13pro 的续航后瞬间觉得 13pro 不香了](https://www.v2ex.com/t/807290)
 1. [想请教一下你们怎么管理苹果相册](https://www.v2ex.com/t/807317)
 1. [一个人，想养一只狗，都需要做哪些准备，日常开销大吗](https://www.v2ex.com/t/807465)
 1. [27 寸买 2K 还是 4K？只用 WIn11+写代码、看 YouTube+不玩游戏](https://www.v2ex.com/t/807282)
 1. [各位升级到 windows11 之后使用体验如何？我快被 windows defender 逼疯了(╬◣д◢)！](https://www.v2ex.com/t/807331)
-1. [右手网出品]上手体验两周后，我决定用回 iPhone 12 Pro Max： iPhone 13 Pro/Max 上手体验评测-信号，屏幕，白平衡，影像实力](https://www.v2ex.com/t/807411)
+1. [有没有懂信用卡的朋友，刚毕业入职半年，额度主要和什么有关？招行还是交行更合适？](https://www.v2ex.com/t/807473)
 
 ## 历史归档
 
