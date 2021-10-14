@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-14 16:11:35 +0800`
+ `更新时间：2021-10-14 17:07:29 +0800`
 
 ## 热议话题
 
 1. [是选择两地分居，媳妇回家带孩子？还是继续和我一起留着北京？](https://www.v2ex.com/t/807695)
 1. [今年中国队最有可能夺冠的就是 LGD 了吧!](https://www.v2ex.com/t/807699)
-1. [现在做 PHP 的这么少吗？招不到人。](https://www.v2ex.com/t/807608)
 1. [想换手机了，麻烦 v 友帮忙选一下](https://www.v2ex.com/t/807723)
+1. [现在做 PHP 的这么少吗？招不到人。](https://www.v2ex.com/t/807608)
 1. [app 不小心内购，退款被拒之后内心复杂](https://www.v2ex.com/t/807632)
-1. [话说即将出的 m1x 大家准备通过什么渠道购买](https://www.v2ex.com/t/807701)
 1. [看到热榜问养狗的，我想问问养猫的问题](https://www.v2ex.com/t/807702)
+1. [话说即将出的 m1x 大家准备通过什么渠道购买](https://www.v2ex.com/t/807701)
 1. [iPhone13Pro 抢到了，这几天研究的抢货手段给大家一些经验](https://www.v2ex.com/t/807729)
+1. [除湿机使用感受很明显吗？](https://www.v2ex.com/t/807708)
 1. [想问下大家 iOS 15 的 Live Text 效果如何？](https://www.v2ex.com/t/807671)
 
 ## 历史归档
