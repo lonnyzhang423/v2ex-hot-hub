@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-15 19:04:47 +0800`
+ `更新时间：2021-10-15 20:09:06 +0800`
 
 ## 热议话题
 
 1. [我们告阿里巴巴不当竞争赢了](https://www.v2ex.com/t/807933)
 1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940)
+1. [微信更新后的条款已经说得这么赤裸裸了吗？](https://www.v2ex.com/t/807971)
 1. [大家还记得之前把离职员工简历放到官网的那家公司吗？他们联系我了。](https://www.v2ex.com/t/807968)
 1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922)
-1. [微信更新后的条款已经说得这么赤裸裸了吗？](https://www.v2ex.com/t/807971)
 1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964)
 1. [得了干眼症基本就告别开发这行了](https://www.v2ex.com/t/807886)
-1. [来猜新 mbp14/16 起售价](https://www.v2ex.com/t/807876)
 1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942)
+1. [双十一 1080 有必要换 3080ti 吗，如果换合适的价位是多少？](https://www.v2ex.com/t/808007)
 
 ## 历史归档
 
