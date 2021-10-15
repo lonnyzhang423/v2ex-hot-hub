@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-16 02:06:37 +0800`
+ `更新时间：2021-10-16 03:04:25 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [M1X MacBook Pro 配置细节曝光，诚意满满](https://www.v2ex.com/t/807940)
 1. [不太想把垃圾扔到垃圾站](https://www.v2ex.com/t/807922)
 1. [iPhone 12 给对象用，用了一天他跟我抱怨说续航太垃圾了。](https://www.v2ex.com/t/807964)
-1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942)
 1. [求一个 Apple Music 使用逻辑指南](https://www.v2ex.com/t/808026)
+1. [折腾了一晚上，终于成功用上 Windows11 了](https://www.v2ex.com/t/807942)
 1. [微信卸载重装就不能支付了？](https://www.v2ex.com/t/807960)
 
 ## 历史归档
