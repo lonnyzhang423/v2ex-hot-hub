@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-17 12:07:22 +0800`
+ `更新时间：2021-10-17 13:05:40 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [iPhone 13 pro max 的网络信号比 iPhone 8 plus 的还差我是没想到的](https://www.v2ex.com/t/808286)
 1. [96 年，在事业单位工作 4 年，想自学前端去省城工作，年龄合适吗？](https://www.v2ex.com/t/808228)
 1. [求推荐便宜又美味的酒精摄入渠道](https://www.v2ex.com/t/808243)
-1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217)
 1. [推断新 mbp 有刘海传闻是真消息](https://www.v2ex.com/t/808280)
+1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217)
 
 ## 历史归档
 
