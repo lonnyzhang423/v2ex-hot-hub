@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-18 01:10:28 +0800`
+ `更新时间：2021-10-18 02:06:04 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [实在找不到资料，请问 iPad 加视频采集卡，能当显示器用吗](https://www.v2ex.com/t/808321)
 1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330)
 1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324)
-1. [音箱小白求问下这款音响怎么样](https://www.v2ex.com/t/808289)
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334)
+1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388)
 1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305)
 
 ## 历史归档
