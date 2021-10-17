@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-17 15:06:05 +0800`
+ `更新时间：2021-10-17 16:06:52 +0800`
 
 ## 热议话题
 
 1. [新的站群已经出现~](https://www.v2ex.com/t/808259)
 1. [iPhone 13 pro max 的网络信号比 iPhone 8 plus 的还差我是没想到的](https://www.v2ex.com/t/808286)
-1. [求推荐便宜又美味的酒精摄入渠道](https://www.v2ex.com/t/808243)
 1. [推断新 mbp 有刘海传闻是真消息](https://www.v2ex.com/t/808280)
-1. [96 年，在事业单位工作 4 年，想自学前端去省城工作，年龄合适吗？](https://www.v2ex.com/t/808228)
 1. [又到了百家争鸣、百花齐放的时刻了。求推荐一款笔记本，需求内详~](https://www.v2ex.com/t/808313)
+1. [求推荐便宜又美味的酒精摄入渠道](https://www.v2ex.com/t/808243)
+1. [96 年，在事业单位工作 4 年，想自学前端去省城工作，年龄合适吗？](https://www.v2ex.com/t/808228)
 1. [iPhone 能实现每月固定日期的闹钟吗？](https://www.v2ex.com/t/808217)
-1. [见一个网站，现在哪里购买域名、ssl 证书，空间呢？](https://www.v2ex.com/t/808214)
+1. [卧槽了 TypeScript 真不是一般人能完全驾驭的，太微妙了，这里的写法搞不懂有什么不对的](https://www.v2ex.com/t/808330)
 
 ## 历史归档
 
