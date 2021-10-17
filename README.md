@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-18 04:05:53 +0800`
+ `更新时间：2021-10-18 05:04:18 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [学校的对称带宽还是比家里舒服](https://www.v2ex.com/t/808324)
 1. [Apple Watch Hermès Series 7 开箱](https://www.v2ex.com/t/808334)
 1. [麻烦各位推荐下支持 HomeKit 的摄像头](https://www.v2ex.com/t/808388)
-1. [你会买仙剑 7 吗](https://www.v2ex.com/t/808305)
+1. [工作机会比较，大佬来指导下工作](https://www.v2ex.com/t/808381)
 
 ## 历史归档
 
