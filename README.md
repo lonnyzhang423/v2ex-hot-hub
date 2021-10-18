@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-18 21:18:34 +0800`
+ `更新时间：2021-10-18 22:08:58 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [Ti10 开心吗？](https://www.v2ex.com/t/808415)
 1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435)
 1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481)
-1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601)
+1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
 1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
 
 ## 历史归档
