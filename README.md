@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-18 15:06:32 +0800`
+ `更新时间：2021-10-18 16:08:39 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [分享一个关于官网购买 Gift Card 的奇特的经历](https://www.v2ex.com/t/808408)
 1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
 1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481)
-1. [工作机会比较，大佬来指导下工作](https://www.v2ex.com/t/808381)
 1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494)
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
 
 ## 历史归档
 
