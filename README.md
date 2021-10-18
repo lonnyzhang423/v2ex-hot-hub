@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-18 16:08:39 +0800`
+ `更新时间：2021-10-18 17:11:31 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435)
 1. [请问，何同学的这个视频都用到了哪些技术？](https://www.v2ex.com/t/808412)
 1. [分享一个关于官网购买 Gift Card 的奇特的经历](https://www.v2ex.com/t/808408)
-1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
 1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481)
-1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494)
+1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
 1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
+1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494)
 
 ## 历史归档
 
