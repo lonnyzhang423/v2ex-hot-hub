@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-19 22:10:27 +0800`
+ `更新时间：2021-10-19 23:10:39 +0800`
 
 ## 热议话题
 
-1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718)
 1. [传 送 门 3](https://www.v2ex.com/t/808904)
 1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752)
 1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681)
