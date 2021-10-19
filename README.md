@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-20 04:06:20 +0800`
+ `更新时间：2021-10-20 05:04:30 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714)
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810)
 1. [新米下来了，帮家里卖正宗五常稻花香大米](https://www.v2ex.com/t/808759)
-1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737)
 1. [刘海屏事实上是增加了显示面积](https://www.v2ex.com/t/808911)
+1. [决定再等等，明年的刘海一定有 Face ID](https://www.v2ex.com/t/808737)
 
 ## 历史归档
 
