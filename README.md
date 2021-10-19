@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-19 11:06:25 +0800`
+ `更新时间：2021-10-19 12:07:34 +0800`
 
 ## 热议话题
 
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601)
 1. [赶在发布会之前最后分析一波，坐等打脸](https://www.v2ex.com/t/808537)
-1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548)
-1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681)
 1. [苹果不是开倒车吗？当初抛弃的接口都重新加回来？](https://www.v2ex.com/t/808718)
-1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
+1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681)
 1. [电信将不再免费提供家宽 ipv4 公网 ip](https://www.v2ex.com/t/808536)
-1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490)
-1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494)
+1. [新款 m1 pro 码农怎么选配置](https://www.v2ex.com/t/808752)
+1. [个人观点： 14 寸和 16 寸定价高但合理，没有明确需求买 M1 即可](https://www.v2ex.com/t/808683)
+1. [从来没见过任何一届 Apple 发布会让人如此期待](https://www.v2ex.com/t/808652)
 
 ## 历史归档
 
