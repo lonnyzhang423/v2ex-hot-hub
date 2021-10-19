@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-19 09:53:47 +0800`
+ `更新时间：2021-10-19 10:23:28 +0800`
 
 ## 热议话题
 
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601)
 1. [杭州买房求老哥们给点建议](https://www.v2ex.com/t/808481)
-1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548)
 1. [赶在发布会之前最后分析一波，坐等打脸](https://www.v2ex.com/t/808537)
-1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
+1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548)
 1. [那么，地表最强 MBP 买哪款呢？](https://www.v2ex.com/t/808681)
-1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490)
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
 1. [电信将不再免费提供家宽 ipv4 公网 ip](https://www.v2ex.com/t/808536)
+1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490)
 1. [继续待上海还是回成都？](https://www.v2ex.com/t/808494)
 
 ## 历史归档
