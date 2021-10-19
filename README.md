@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-19 21:18:28 +0800`
+ `更新时间：2021-10-19 22:10:27 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [谷歌就这样放任小 x 知识网](https://www.v2ex.com/t/808755)
 1. [Macbook Pro 大家准备下单什么配置呢？最好附上你的使用场景](https://www.v2ex.com/t/808777)
 1. [mbp 有必要买个 ac＋吗](https://www.v2ex.com/t/808714)
-1. [关于 M1 Pro/Max GPU 的使用场景和意义（和一个 mbp13 m1 用户对于 14 寸的吐槽）](https://www.v2ex.com/t/808699)
 1. [苹果 Unleashed 观后感](https://www.v2ex.com/t/808810)
+1. [关于 M1 Pro/Max GPU 的使用场景和意义（和一个 mbp13 m1 用户对于 14 寸的吐槽）](https://www.v2ex.com/t/808699)
 
 ## 历史归档
 
