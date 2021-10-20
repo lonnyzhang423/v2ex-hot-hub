@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-21 02:07:28 +0800`
+ `更新时间：2021-10-21 03:04:34 +0800`
 
 ## 热议话题
 
-1. [新 MacBook Pro 可以下单了](https://www.v2ex.com/t/809064)
 1. [不太明白为什么苹果加个 16G 内存需要加 3000 块](https://www.v2ex.com/t/809174)
+1. [新 MacBook Pro 可以下单了](https://www.v2ex.com/t/809064)
 1. [真的有不少年轻人选择躺平么？](https://www.v2ex.com/t/809069)
 1. [难道只有我觉着刘海挺好的吗？](https://www.v2ex.com/t/809060)
 1. [家里配台高性能台式机，笔记本远程连接做开发的方案，体验一段时间了，回来说说感受](https://www.v2ex.com/t/809259)
