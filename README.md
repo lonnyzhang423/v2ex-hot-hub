@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-22 03:04:46 +0800`
+ `更新时间：2021-10-22 04:06:33 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474)
 1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476)
 1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484)
-1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397)
 1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557)
+1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397)
 1. [Windows Subsystem for Android 来了](https://www.v2ex.com/t/809386)
 1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422)
 
