@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-21 19:09:38 +0800`
+ `更新时间：2021-10-21 20:13:49 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [关于手机移动套餐，大家的话费多少，套餐内容是啥，我感觉我有点亏](https://www.v2ex.com/t/809441)
 1. [WSL 2 拳打 macOS，脚踢 Ubuntu ？](https://www.v2ex.com/t/809474)
 1. [大家准备 1024 程序员节给自己买点啥?](https://www.v2ex.com/t/809476)
-1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397)
 1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484)
-1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422)
+1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397)
 1. [问一下关于[鸡场]的问题, 价格不敏感, 稳定和速度敏感](https://www.v2ex.com/t/809349)
+1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422)
 1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565)
 
 ## 历史归档
