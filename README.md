@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-22 07:05:25 +0800`
+ `更新时间：2021-10-22 08:24:33 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [有多少人因为刘海屏而没下单的](https://www.v2ex.com/t/809484)
 1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557)
 1. [定制 14 寸，走的经销商，兄弟们有经验不](https://www.v2ex.com/t/809397)
-1. [Windows Subsystem for Android 来了](https://www.v2ex.com/t/809386)
 1. [新 AirPods Pro 的充电盒换了](https://www.v2ex.com/t/809422)
+1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565)
 
 ## 历史归档
 
