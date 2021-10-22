@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-22 16:08:11 +0800`
+ `更新时间：2021-10-22 17:07:09 +0800`
 
 ## 热议话题
 
-1. [为什么没有一种万能且通用的编程语言呢？](https://www.v2ex.com/t/809557)
 1. [炒股对抗失业第三年 202109 续](https://www.v2ex.com/t/809594)
 1. [有多少人会经常用到笔记本的前置摄像头](https://www.v2ex.com/t/809694)
 1. [下班总是忘打卡怎么破](https://www.v2ex.com/t/809691)
-1. [iPhone 宣传的隐私保护或许就是个笑话](https://www.v2ex.com/t/809565)
 1. [大家双十一都买了啥，我先说](https://www.v2ex.com/t/809661)
 1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799)
-1. [不想用 iPhone 的大陆区了。大家一般用哪个区呢？](https://www.v2ex.com/t/809570)
+1. [求指路淘宝爬虫姿势](https://www.v2ex.com/t/809639)
+1. [一个大约 89 折方案给大家， 4500 买 75 折的资格，越顶配越便宜](https://www.v2ex.com/t/809635)
+1. [有多少人从英特尔的 16 寸 MBP 这次要换到 M1 的 16 寸 MBP 的？](https://www.v2ex.com/t/809660)
 
 ## 历史归档
 
