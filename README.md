@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-23 10:26:18 +0800`
+ `更新时间：2021-10-23 11:06:11 +0800`
 
 ## 热议话题
 
 1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868)
 1. [只有我觉得新 Macbook Pro 圆润的机身很丑吗？](https://www.v2ex.com/t/809799)
-1. [准备换个 4k 显示器，求推荐](https://www.v2ex.com/t/809715)
 1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837)
 1. [数据库的业务表如何设计？有什么方法论吗？各位有什么资料让我学习一下，谢谢！](https://www.v2ex.com/t/809758)
-1. [Watch 7 续航感人？](https://www.v2ex.com/t/809775)
 1. [口粮茶推荐](https://www.v2ex.com/t/809741)
+1. [Watch 7 续航感人？](https://www.v2ex.com/t/809775)
 1. [撸代码，求轻薄本推荐？](https://www.v2ex.com/t/809791)
+1. [千万别看沙丘](https://www.v2ex.com/t/809939)
 1. [2021 了, 趁双 11 搞台电脑, 预算 3000 求个英雄联盟 pc 配置](https://www.v2ex.com/t/809770)
 1. [不懂就问：不玩（或者说玩不了）3A，高刷有什么意义？](https://www.v2ex.com/t/809884)
 
