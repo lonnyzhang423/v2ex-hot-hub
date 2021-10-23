@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-24 01:10:25 +0800`
+ `更新时间：2021-10-24 02:06:24 +0800`
 
 ## 热议话题
 
 1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961)
 1. [新款 MacBook M1 Pro 16 真机上手视频](https://www.v2ex.com/t/810038)
 1. [程序获取手机指定号码的短信](https://www.v2ex.com/t/809973)
-1. [Genius Bar 极为离谱的工作失误](https://www.v2ex.com/t/809944)
 1. [不知道明年三月份会不会发布新的 mac air，现在买是不是 49 年入国军呀](https://www.v2ex.com/t/809982)
 1. [小米 11pro 8+256 3799 怎么说 值得入手么](https://www.v2ex.com/t/809960)
 1. [对帖子的补充与终结 [现在在 github 开源项目上不回答别人的问题，都是错了么]](https://www.v2ex.com/t/809972)
 1. [程序员 5 年坚持制作免费教程造福百万学生](https://www.v2ex.com/t/810045)
 1. [有趣的问题： iPhone 年年丐版 trade in 和顶配用三年的折旧？](https://www.v2ex.com/t/809947)
+1. [各位平时文件同步用哪个？](https://www.v2ex.com/t/810009)
 
 ## 历史归档
 
