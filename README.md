@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-23 15:06:05 +0800`
+ `更新时间：2021-10-23 16:06:57 +0800`
 
 ## 热议话题
 
 1. [[开撕] 现在在 github 开源项目上不回答别人的问题，都是错了么？并且还是错的很严重的那种么？](https://www.v2ex.com/t/809868)
 1. [新 MacBook pro 开箱](https://www.v2ex.com/t/809961)
 1. [千万别看沙丘](https://www.v2ex.com/t/809939)
-1. [爆料说 M2 AIR 的屏幕边框是白色的，这也太丑了吧](https://www.v2ex.com/t/809837)
 1. [不懂就问：不玩（或者说玩不了）3A，高刷有什么意义？](https://www.v2ex.com/t/809884)
 1. [Genius Bar 极为离谱的工作失误](https://www.v2ex.com/t/809944)
 1. [你对 Apple Pencil 有什么想法？](https://www.v2ex.com/t/809863)
 1. [内存纠结帝来了](https://www.v2ex.com/t/809880)
+1. [程序获取手机指定号码的短信](https://www.v2ex.com/t/809973)
 
 ## 历史归档
 
