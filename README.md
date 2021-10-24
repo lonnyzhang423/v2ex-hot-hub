@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-24 18:06:19 +0800`
+ `更新时间：2021-10-24 19:04:44 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [macOS 有必要用 4K 显示器吗？](https://www.v2ex.com/t/810100)
 1. [微信支付 X App Store 限时充值特惠 (10/22-10/24)](https://www.v2ex.com/t/810089)
 1. [M1 MacBook Pro 13 16GB 1TB 有必要 Trade in 升级 M1 Max Macbook 16 64GB 1TB 吗？](https://www.v2ex.com/t/810073)
-1. [一个小白想法， Python 为什么不通过命令行开关切换两种 GIL 模式？](https://www.v2ex.com/t/810078)
-1. [Mac 版 Safari 有个很不苹果的细节](https://www.v2ex.com/t/810092)
+1. [建议美团取消评价功能--差评后商家电话、上门要求更改评价](https://www.v2ex.com/t/810159)
+1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120)
 
 ## 历史归档
 
