@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-25 02:06:16 +0800`
+ `更新时间：2021-10-25 03:04:24 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [你们真的需要换新的 MacBook Pro 么？](https://www.v2ex.com/t/810193)
 1. [macOS 有必要用 4K 显示器吗？](https://www.v2ex.com/t/810100)
 1. [请问在这里发帖怎么不能贴图片啊](https://www.v2ex.com/t/810127)
-1. [有办湖南电信 1000M 的朋友吗 ，实测效果不佳，坐标湘潭](https://www.v2ex.com/t/810098)
 1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120)
+1. [我坦白，我是一个假程序员](https://www.v2ex.com/t/810156)
 
 ## 历史归档
 
