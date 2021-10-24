@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-25 06:05:09 +0800`
+ `更新时间：2021-10-25 07:06:03 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [建议美团取消评价功能--差评后商家电话、上门要求更改评价](https://www.v2ex.com/t/810159)
 1. [看到 Go 与 MongoDB 的交互方式，我想放弃 Go 了](https://www.v2ex.com/t/810126)
 1. [为什么不大力发展无线传输](https://www.v2ex.com/t/810104)
-1. [i9-12900HK Geekbench5 单核和多核跑分超 M1 max](https://www.v2ex.com/t/810190)
 1. [你们真的需要换新的 MacBook Pro 么？](https://www.v2ex.com/t/810193)
+1. [i9-12900HK Geekbench5 单核和多核跑分超 M1 max](https://www.v2ex.com/t/810190)
 1. [请问在这里发帖怎么不能贴图片啊](https://www.v2ex.com/t/810127)
 1. [微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 1. [国内 mbp 已经准备发货啦](https://www.v2ex.com/t/810120)
