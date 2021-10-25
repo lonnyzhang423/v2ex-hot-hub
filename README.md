@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-25 21:18:32 +0800`
+ `更新时间：2021-10-25 22:10:39 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [PDF Expert 要出 Windows 版本了](https://www.v2ex.com/t/810229)
 1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330)
 1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247)
+1. [索尼（SONY）XR-65X90J 65 英寸 全面屏 4K 超高清 HDR XR 认知芯片 这款电视如何](https://www.v2ex.com/t/810302)
 1. [macOS Monterey 正式版将在 PDT 时间 10 月 25 日 10:00 AM / CST 时间 10 月 26 日 01:00 AM 发布](https://www.v2ex.com/t/810315)
-1. [如果我想配置某个产品库存为无限的话，值设置为 -1 好吗？](https://www.v2ex.com/t/810199)
 
 ## 历史归档
 
