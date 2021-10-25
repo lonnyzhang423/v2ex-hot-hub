@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-25 17:11:34 +0800`
+ `更新时间：2021-10-25 18:11:47 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [AC86U 凡是有无线连接问题的，可以进来看看了。](https://www.v2ex.com/t/810238)
 1. [MacBook 系列为什么不考虑屏下摄像头呢？](https://www.v2ex.com/t/810249)
 1. [求一款轻薄的手机](https://www.v2ex.com/t/810297)
-1. [如果我想配置某个产品库存为无限的话，值设置为 -1 好吗？](https://www.v2ex.com/t/810199)
 1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247)
+1. [如果我想配置某个产品库存为无限的话，值设置为 -1 好吗？](https://www.v2ex.com/t/810199)
 1. [PDF Expert 要出 Windows 版本了](https://www.v2ex.com/t/810229)
 
 ## 历史归档
