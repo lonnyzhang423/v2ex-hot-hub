@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-26 00:12:32 +0800`
+ `更新时间：2021-10-26 01:12:20 +0800`
 
 ## 热议话题
 
-1. [微博把我们抄成这样，还在法庭上睁眼说瞎话！](https://www.v2ex.com/t/810217)
 1. [记录一下定投虚拟币半年来的坎坷经历](https://www.v2ex.com/t/810271)
 1. [AC86U 凡是有无线连接问题的，可以进来看看了。](https://www.v2ex.com/t/810238)
 1. [MacBook 系列为什么不考虑屏下摄像头呢？](https://www.v2ex.com/t/810249)
@@ -25,6 +24,7 @@
 1. [索尼（SONY）XR-65X90J 65 英寸 全面屏 4K 超高清 HDR XR 认知芯片 这款电视如何](https://www.v2ex.com/t/810302)
 1. [iPhone 13 PM 的屏闪真的会伤眼睛](https://www.v2ex.com/t/810330)
 1. [我的 Mac 高级抹布已经发货了 SF 的快递单号都有了,预计明天到手](https://www.v2ex.com/t/810247)
+1. [早上又又忘记打卡了。IOS 有办法实现 GPS 定位，自动调出类似钉钉打卡的功能么？](https://www.v2ex.com/t/810256)
 
 ## 历史归档
 
