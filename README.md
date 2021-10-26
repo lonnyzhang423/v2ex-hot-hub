@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-26 22:10:38 +0800`
+ `更新时间：2021-10-26 23:11:27 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [梳理新款 macbook pro 14/16 争议点，劝一劝那些看了评测想买新款 macbook 的站友。](https://www.v2ex.com/t/810502)
 1. [iOS15.1 的「指南针」疑似关闭了中国大陆用户查看坐标和海拔的功能](https://www.v2ex.com/t/810587)
 1. [带哥们求推荐一款笔记本，目前选了几款很纠结](https://www.v2ex.com/t/810519)
-1. [开车撞到鹿的思考](https://www.v2ex.com/t/810505)
-1. [Apple Notes 更新后， Bear 还有存在的意义吗？](https://www.v2ex.com/t/810546)
 1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578)
+1. [开车撞到鹿的思考](https://www.v2ex.com/t/810505)
+1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622)
 
 ## 历史归档
 
