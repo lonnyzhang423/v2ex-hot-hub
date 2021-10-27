@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-28 01:16:52 +0800`
+ `更新时间：2021-10-28 02:07:15 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851)
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814)
 1. [HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039)
-1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828)
+1. [新版 14/16 MBP 有人测试过 Java IDEA 开发编译速度么，和 M1 对比提升有多大](https://www.v2ex.com/t/810990)
 
 ## 历史归档
 
