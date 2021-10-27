@@ -11,16 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-27 11:06:34 +0800`
+ `更新时间：2021-10-27 12:07:31 +0800`
 
 ## 热议话题
 
-1. [新的 mbp 到手的感觉，丑，厚的莫名其妙](https://www.v2ex.com/t/810583)
-1. [升级 macOS Monterey 后显示器 Type-c 无法供电，有返乡供电的显示器的谨慎升级](https://www.v2ex.com/t/810578)
 1. [更新到 Monterey 正式版之后的 BUG](https://www.v2ex.com/t/810622)
-1. [发现字节开源了一个 Semi Design，这是要对标 Ant Design?](https://www.v2ex.com/t/810618)
+1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855)
 1. [还是上车了](https://www.v2ex.com/t/810631)
+1. [发现字节开源了一个 Semi Design，这是要对标 Ant Design?](https://www.v2ex.com/t/810618)
 1. [马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802)
+1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849)
+1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851)
 1. [看了几个开箱，发现刘海是真的不能忍](https://www.v2ex.com/t/810609)
 1. [有朋友用过 Windows 11 小修精简版吗？](https://www.v2ex.com/t/810728)
 1. [2021 快双十一了，想换个容易刷机的安卓手机，有没有懂的大佬推荐一下](https://www.v2ex.com/t/810644)
