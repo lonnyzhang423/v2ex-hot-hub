@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-28 00:12:39 +0800`
+ `更新时间：2021-10-28 01:16:52 +0800`
 
 ## 热议话题
 
 1. [来测测你的电影阅片量](https://www.v2ex.com/t/810849)
 1. [[送码] KfExplorer -- 一款 Apche Kafka 管理工具(现已上架 AppStore)](https://www.v2ex.com/t/810855)
 1. [大家买的等待最久的东西是什么](https://www.v2ex.com/t/810844)
+1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842)
 1. [感觉程序员越来越像当代的绣娘了。](https://www.v2ex.com/t/810841)
 1. [有人举报过公司 996 吗](https://www.v2ex.com/t/810923)
-1. [国外很多媒体人都说：苹果逐渐由设计优先切换到实用优先了](https://www.v2ex.com/t/810842)
 1. [昨天深圳小汽车指标摇号中了，没钱买新车的前提下如何保住这个指标？](https://www.v2ex.com/t/810851)
-1. [马后炮而论， M1 Macbook Air 是否成为一代经典？](https://www.v2ex.com/t/810802)
 1. [有刘海 Macbook 在菜单栏很多选项的情况下的表现🤣](https://www.v2ex.com/t/810814)
 1. [HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039)
+1. [ios 和 MacOS 升级到最新，均踩雷，以后再也不敢了。](https://www.v2ex.com/t/810828)
 
 ## 历史归档
 
