@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-28 21:18:33 +0800`
+ `更新时间：2021-10-28 22:10:41 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [为什么程序员到一定年纪开始关注管理相关的内容，不再在技术上深入下去？](https://www.v2ex.com/t/811237)
 1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123)
 1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201)
+1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 1. [听闻微信开发者文档很差](https://www.v2ex.com/t/811162)
 1. [MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
-1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 
 ## 历史归档
 
