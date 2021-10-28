@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-28 13:05:27 +0800`
+ `更新时间：2021-10-28 14:07:35 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [教育优惠时凑热闹买的 iPad pro，发现除了看视频真的用不上](https://www.v2ex.com/t/811128)
 1. [疑问贴：大佬们在什么情况下，会考虑数据库字段存 json](https://www.v2ex.com/t/810973)
 1. [App Store 审核说我的 App 山寨抄袭我开源代码的 App 并拒绝了版本更新](https://www.v2ex.com/t/811123)
-1. [最近选购路由器，原本 ax86u 都觉得贵的老婆，因为颜值看中了威联通 QHora-301W。。。](https://www.v2ex.com/t/810943)
+1. [csdn 是真的恶心](https://www.v2ex.com/t/810991)
 
 ## 历史归档
 
