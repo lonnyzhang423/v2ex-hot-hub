@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-29 02:11:26 +0800`
+ `更新时间：2021-10-29 03:05:15 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [听闻微信开发者文档很差](https://www.v2ex.com/t/811162)
 1. [Jetbrains 对标 vscode 的远程开发功能来了](https://www.v2ex.com/t/811333)
 1. [apple watch 提前一周发货了](https://www.v2ex.com/t/811144)
-1. [想买一个空气炸锅](https://www.v2ex.com/t/811255)
+1. [有在某宝定制 MacbookPro2021 已经发货的吗?](https://www.v2ex.com/t/811130)
 
 ## 历史归档
 
