@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-29 22:10:35 +0800`
+ `更新时间：2021-10-29 23:11:23 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [观望了好长时间，有点想买 m1 air, 果然还是看脸](https://www.v2ex.com/t/811452)
 1. [MacBook Pro14 背包推荐](https://www.v2ex.com/t/811397)
 1. [我觉得有一个判断低端廉价笔记本的简单方法...](https://www.v2ex.com/t/811451)
+1. [偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？](https://www.v2ex.com/t/811415)
 1. [程序员 M1 Pro 10+14 和 10+16 怎么选？差价 1000](https://www.v2ex.com/t/811391)
 1. [周末计划去丹阳眼镜城配几个眼镜，各位有没有啥建议](https://www.v2ex.com/t/811411)
-1. [偶尔可能用 Mac 玩玩游戏，这 24GPU 和 32GPU 怎么选？](https://www.v2ex.com/t/811415)
 1. [大家公司对提交代码都有什么限制要求，好奇了解下？](https://www.v2ex.com/t/811425)
 1. [收到条阿里云的告警，看不懂是做什么用的，请教一下](https://www.v2ex.com/t/811424)
 1. [Macbook Pro 16 寸丐版 16G 内存 [极限] 测试](https://www.v2ex.com/t/811461)
