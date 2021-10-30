@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-31 00:07:31 +0800`
+ `更新时间：2021-10-31 01:10:53 +0800`
 
 ## 热议话题
 
 1. [京东会员现在开通只要 99，可以选择开卡礼品，如果选择 30 红包相当于 69 开卡一年，还可以冲啊](https://www.v2ex.com/t/811702)
-1. [会计专业 2022 毕业，自学 Java 能找到多少 K 工作](https://www.v2ex.com/t/811654)
 1. [被 google drive 恶心到了，竟然无法移除存储在共享云端硬盘中的文件](https://www.v2ex.com/t/811703)
 1. [2021 年 10 月，在 Ubuntu Linux 上如何使用微信 ？](https://www.v2ex.com/t/811705)
 1. [win11 推送了，现在 win11 好用吗？可以更新吗？](https://www.v2ex.com/t/811676)
-1. [请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678)
-1. [新的 MBP14/16 的外接显示器有必要也高刷吗](https://www.v2ex.com/t/811650)
 1. [似乎 16 寸 Max 比 Pro 的续航要少很多呀](https://www.v2ex.com/t/811666)
+1. [请各位老哥不要再宣传所谓的 google voice 永久保号了，误人子弟](https://www.v2ex.com/t/811678)
+1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722)
 1. [用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了](https://www.v2ex.com/t/811724)
+1. [apple watch 更新到 8.1 后洗手监测失效？](https://www.v2ex.com/t/811669)
 
 ## 历史归档
 
