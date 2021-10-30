@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-30 09:46:11 +0800`
+ `更新时间：2021-10-30 10:20:30 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [Macbook Pro 16 寸丐版 16G 内存 [极限] 测试](https://www.v2ex.com/t/811461)
 1. [有鉴别矿卡的路子吗？](https://www.v2ex.com/t/811557)
 1. [facebook 重命名为 META 了？](https://www.v2ex.com/t/811463)
-1. [Python 格式化数字，最多保留两位小数点，小数点末尾为 0 则删除，怎么写好？](https://www.v2ex.com/t/811433)
 1. [手持 XR 的兄弟卡不卡](https://www.v2ex.com/t/811531)
 1. [做了一个自建文件服务器](https://www.v2ex.com/t/811490)
+1. [目前发现刘海屏唯一不好的地方，菜单栏很多图标不显示了。](https://www.v2ex.com/t/811469)
 
 ## 历史归档
 
