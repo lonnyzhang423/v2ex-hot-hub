@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-01 06:05:21 +0800`
+ `更新时间：2021-11-01 07:05:43 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
 1. [跨设备复制文本的鼠标有哪些？(最好是不走局域网的，存在鼠标内的)](https://www.v2ex.com/t/811853)
 1. [想给 Mac Mini 买个 24 寸 4K 屏，想请各位老哥推荐](https://www.v2ex.com/t/811863)
-1. [IPLC 是啥意思？](https://www.v2ex.com/t/811891)
+1. [如何正确的给 13pm 充电。](https://www.v2ex.com/t/811907)
 
 ## 历史归档
 
