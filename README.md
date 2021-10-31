@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-10-31 13:06:09 +0800`
+ `更新时间：2021-10-31 14:07:15 +0800`
 
 ## 热议话题
 
 1. [觉得沙丘不好看](https://www.v2ex.com/t/811829)
-1. [欧盟的 wechat 已经开始出现广告](https://www.v2ex.com/t/811722)
 1. [四盘位硬盘盒，有推荐的吗？](https://www.v2ex.com/t/811753)
-1. [用 SwitchResX 选择一个 16:10 的分辨率，就可以完全屏蔽刘海儿了](https://www.v2ex.com/t/811724)
 1. [升级 Monterey 之后电脑变卡了](https://www.v2ex.com/t/811744)
 1. [大佬们 别抢 翻新 air 了。穷 b 一直蹲都蹲不到了](https://www.v2ex.com/t/811762)
 1. [IPFS 技术有人了解吗？](https://www.v2ex.com/t/811843)
+1. [跨国公司配的远程 win10 电脑如何压榨一下](https://www.v2ex.com/t/811861)
 1. [zinit 作者出于未知原因清空了其 GitHub 账号的绝大部份仓库,建议另寻其他框架使用](https://www.v2ex.com/t/811747)
+1. [offer 决赛圈，都开奖了](https://www.v2ex.com/t/811836)
 
 ## 历史归档
 
