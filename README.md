@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-02 15:06:36 +0800`
+ `更新时间：2021-11-02 16:07:34 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [Mac 下有什么还用的 ssh 工具吗](https://www.v2ex.com/t/812272)
 1. [Parallels Desktop 17 双十一 7 折抢先购！](https://www.v2ex.com/t/812284)
 1. [无废话 Docker 快速上手教程](https://www.v2ex.com/t/812315)
-1. [新 MBP， 16 gb 与 32 gb 内存真的区别不大吗？](https://www.v2ex.com/t/812160)
 1. [终于找到了 macos 切换程序的最佳方式](https://www.v2ex.com/t/812330)
 1. [2021 年末，如何证明自己当前不是生活在元宇宙当中？](https://www.v2ex.com/t/812310)
+1. [马斯克发了个《七步诗》的推](https://www.v2ex.com/t/812326)
 
 ## 历史归档
 
