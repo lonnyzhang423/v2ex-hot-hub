@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-03 12:07:28 +0800`
+ `更新时间：2021-11-03 13:06:19 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [各位大佬上雅阁纯油还是雅阁混动？](https://www.v2ex.com/t/812614)
 1. [Notability 投降了，老用户 lifetime access](https://www.v2ex.com/t/812598)
 1. [关于中央空调还是普通空调的选择问题](https://www.v2ex.com/t/812468)
+1. [有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 1. [Notability 无耻之极，老用户的一年订阅也是“假”订阅](https://www.v2ex.com/t/812518)
 1. [百度网盘会员 178/年](https://www.v2ex.com/t/812433)
-1. [有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 1. [给大学时自己的忠告建议?](https://www.v2ex.com/t/812588)
 
 ## 历史归档
