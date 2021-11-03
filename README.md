@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-03 22:10:25 +0800`
+ `更新时间：2021-11-03 23:10:48 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [有感于 Notability 改订阅制行为，你的 APP 年费有多少？](https://www.v2ex.com/t/812575)
 1. [小米手机忘记锁屏密码了，还有得救吗？](https://www.v2ex.com/t/812599)
 1. [Notability 投降了，老用户 lifetime access](https://www.v2ex.com/t/812598)
-1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642)
 1. [AirPods Pro 降噪效果变差，要不要一起起诉 Apple？](https://www.v2ex.com/t/812705)
+1. [校招 Offer 决赛圈，求指点](https://www.v2ex.com/t/812642)
 1. [[降价了 Goodnote] 25 块（3.99 刀）的 goodnote 它来了！](https://www.v2ex.com/t/812691)
 1. [Notability surrendered.](https://www.v2ex.com/t/812618)
 1. [昨天把股票全清了](https://www.v2ex.com/t/812639)
