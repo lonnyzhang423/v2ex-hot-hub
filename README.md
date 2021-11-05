@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-05 09:49:45 +0800`
+ `更新时间：2021-11-05 10:21:32 +0800`
 
 ## 热议话题
 
 1. [盲选自己看得顺眼的编程字体](https://www.v2ex.com/t/812961)
-1. [再次见识到阿里的无底线](https://www.v2ex.com/t/812921)
-1. [16 寸， 32 内存款，啥时候能有货呢？](https://www.v2ex.com/t/812920)
 1. [裸辞三个月的一些感想](https://www.v2ex.com/t/813107)
 1. [年底了，每人留下一条反内卷指南吧](https://www.v2ex.com/t/813011)
-1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939)
 1. [老哥们，跟大家求个事儿，关于裁员的问题](https://www.v2ex.com/t/812985)
+1. [未 root 的安卓 11 系统，有哪些好用的去广告软件，或者是类似 QuantumultX](https://www.v2ex.com/t/812939)
 1. [给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951)
 1. [为什么现在的电梯广告特别喜欢找个人（通常是年轻女性）对着屏幕外面大吼大叫？](https://www.v2ex.com/t/813033)
 1. [有定制版的 MBP 变态（发货）吗？](https://www.v2ex.com/t/813016)
+1. [广州 CBD 区域电信 1000M 宽带还会限制 50 终端数，多了会掉线？](https://www.v2ex.com/t/812966)
+1. [单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
 
 ## 历史归档
 
