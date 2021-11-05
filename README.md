@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-05 20:09:15 +0800`
+ `更新时间：2021-11-05 21:13:36 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,8 @@
 1. [感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
 1. [分享一下我的家庭网络拓扑](https://www.v2ex.com/t/813150)
 1. [M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
-1. [Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275)
 1. [aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
-1. [大家觉得，前端领域 vscode 现在超越 webstorm（包括 idea 全家桶）了吗？](https://www.v2ex.com/t/813253)
+1. [Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275)
 
 ## 历史归档
 
