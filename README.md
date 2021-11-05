@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-05 15:06:29 +0800`
+ `更新时间：2021-11-05 16:07:15 +0800`
 
 ## 热议话题
 
 1. [裸辞三个月的一些感想](https://www.v2ex.com/t/813107)
 1. [前端是否有点卷？](https://www.v2ex.com/t/813069)
-1. [单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
-1. [感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
-1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186)
 1. [我是公司信息部运维，有些工作是要远程同事的电脑处理问题。
 昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。
 聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228)
+1. [单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
+1. [感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
+1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186)
 1. [AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066)
 1. [XS 感觉在 iOS15 后有些力不从心了](https://www.v2ex.com/t/813080)
 
