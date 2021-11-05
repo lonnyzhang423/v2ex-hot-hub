@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-05 21:13:36 +0800`
+ `更新时间：2021-11-05 22:10:39 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 昨天远程 A 同事的电脑时，无意间看到 B 同事在企业微信跟 A 聊天，指名道姓说我天天没事干偷窥别人。
 聊天记录已截图，请问我该怎么办？经理说让我大度点，算了。](https://www.v2ex.com/t/813228)
 1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186)
-1. [感觉 Intel 的 12 代真是把牙膏挤爆了](https://www.v2ex.com/t/813143)
 1. [分享一下我的家庭网络拓扑](https://www.v2ex.com/t/813150)
-1. [M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
 1. [aw7 刚刚收到，求推荐睡眠监测软件](https://www.v2ex.com/t/813235)
+1. [M1 Max 对比 M1 Pro 电池续航对比的详细评测出来了](https://www.v2ex.com/t/813173)
 1. [Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275)
+1. [朋友们，一年了，终于想起买 AirPods Max，有劝退的吗](https://www.v2ex.com/t/813277)
+1. [请问各位是怎么申请到 copilot 的？](https://www.v2ex.com/t/813188)
 
 ## 历史归档
 
