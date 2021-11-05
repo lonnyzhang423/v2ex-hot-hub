@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-05 11:06:17 +0800`
+ `更新时间：2021-11-05 12:07:22 +0800`
 
 ## 热议话题
 
-1. [盲选自己看得顺眼的编程字体](https://www.v2ex.com/t/812961)
 1. [裸辞三个月的一些感想](https://www.v2ex.com/t/813107)
 1. [年底了，每人留下一条反内卷指南吧](https://www.v2ex.com/t/813011)
 1. [为什么现在的电梯广告特别喜欢找个人（通常是年轻女性）对着屏幕外面大吼大叫？](https://www.v2ex.com/t/813033)
-1. [老哥们，跟大家求个事儿，关于裁员的问题](https://www.v2ex.com/t/812985)
 1. [有定制版的 MBP 变态（发货）吗？](https://www.v2ex.com/t/813016)
-1. [给家里老人买 iphone13 性价比高吗？](https://www.v2ex.com/t/812951)
+1. [老哥们，跟大家求个事儿，关于裁员的问题](https://www.v2ex.com/t/812985)
 1. [单踏板真香，尤其堵车的时候](https://www.v2ex.com/t/813084)
-1. [广州 CBD 区域电信 1000M 宽带还会限制 50 终端数，多了会掉线？](https://www.v2ex.com/t/812966)
+1. [前端是否有点卷？](https://www.v2ex.com/t/813069)
+1. [AirPods3 vs AirPro 选哪个](https://www.v2ex.com/t/813066)
+1. [为什么 iPhone 不做主题商店？](https://www.v2ex.com/t/813186)
 
 ## 历史归档
 
