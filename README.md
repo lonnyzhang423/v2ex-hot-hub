@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-06 12:07:35 +0800`
+ `更新时间：2021-11-06 13:06:15 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [还有三周离职，老板叫我开发个新项目](https://www.v2ex.com/t/813262)
 1. [火狐也开始摆烂了](https://www.v2ex.com/t/813358)
 1. [M1 有啥好用的 PDF 阅读器](https://www.v2ex.com/t/813270)
-1. [为啥 Teams 这么难用](https://www.v2ex.com/t/813322)
-1. [网易词典我都付费了还尼玛要给我营销？](https://www.v2ex.com/t/813430)
 1. [想买手表了，想知道买完有后悔的么](https://www.v2ex.com/t/813433)
+1. [网易词典我都付费了还尼玛要给我营销？](https://www.v2ex.com/t/813430)
+1. [为啥 Teams 这么难用](https://www.v2ex.com/t/813322)
+1. [谣传 iPad mini 6 要上高刷屏，在等蜂窝版的兄弟们 hold 住啊！](https://www.v2ex.com/t/813402)
 
 ## 历史归档
 
