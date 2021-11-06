@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-06 09:44:35 +0800`
+ `更新时间：2021-11-06 10:20:09 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,8 @@
 1. [Redis 到底应该怎么存储使用?](https://www.v2ex.com/t/813275)
 1. [还有三周离职，老板叫我开发个新项目](https://www.v2ex.com/t/813262)
 1. [火狐也开始摆烂了](https://www.v2ex.com/t/813358)
-1. [是不是应该把浏览器也看做操作系统？](https://www.v2ex.com/t/813203)
+1. [M1 有啥好用的 PDF 阅读器](https://www.v2ex.com/t/813270)
+1. [为啥 Teams 这么难用](https://www.v2ex.com/t/813322)
 
 ## 历史归档
 
