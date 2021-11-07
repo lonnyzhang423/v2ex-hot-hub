@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-08 04:06:40 +0800`
+ `更新时间：2021-11-08 05:05:25 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [误操作 Apple Play 导致银行卡被锁定😭](https://www.v2ex.com/t/813701)
 1. [iOS 15.1 屏蔽指南针 GNSS 经纬高信息有感](https://www.v2ex.com/t/813715)
 1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632)
-1. [发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化](https://www.v2ex.com/t/813575)
 1. [没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655)
+1. [关于站立办公我的一些探索](https://www.v2ex.com/t/813660)
 
 ## 历史归档
 
