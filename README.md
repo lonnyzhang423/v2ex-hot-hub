@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-09 14:07:28 +0800`
+ `更新时间：2021-11-09 15:06:33 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [windows 11 难以忍受之处汇总](https://www.v2ex.com/t/813979)
 1. [GZ 南方医院看病有感](https://www.v2ex.com/t/813991)
 1. [提前还房贷请教](https://www.v2ex.com/t/814034)
-1. [章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
 1. [.NET 6 正式版了](https://www.v2ex.com/t/814028)
+1. [章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
 1. [大家一般买苹果数据线都在哪里买，推荐下](https://www.v2ex.com/t/813892)
 1. [iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894)
 1. [macbook 16 intel 版本真的那么拉吗](https://www.v2ex.com/t/813888)
+1. [求教魔法上网速度慢问题。](https://www.v2ex.com/t/813929)
 
 ## 历史归档
 
