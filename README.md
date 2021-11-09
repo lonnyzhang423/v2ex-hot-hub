@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-09 15:06:33 +0800`
+ `更新时间：2021-11-09 16:12:39 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [提前还房贷请教](https://www.v2ex.com/t/814034)
 1. [.NET 6 正式版了](https://www.v2ex.com/t/814028)
 1. [章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
-1. [大家一般买苹果数据线都在哪里买，推荐下](https://www.v2ex.com/t/813892)
-1. [iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894)
-1. [macbook 16 intel 版本真的那么拉吗](https://www.v2ex.com/t/813888)
+1. [分享一张我精心修改调整的 M42 猎户座大星云(Orion Nebula)壁纸。用了非常多年，首次分享出来，能和 MBP 2021 新屏幕和谐相处。](https://www.v2ex.com/t/814025)
 1. [求教魔法上网速度慢问题。](https://www.v2ex.com/t/813929)
+1. [领导给了 app 注册账号的任务，注册需要手机号注册，需要 800 个！？这种一般咋解决](https://www.v2ex.com/t/814065)
+1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085)
 
 ## 历史归档
 
