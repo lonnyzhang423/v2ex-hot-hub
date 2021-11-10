@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-10 08:21:55 +0800`
+ `更新时间：2021-11-10 09:48:19 +0800`
 
 ## 热议话题
 
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028)
-1. [提前还房贷请教](https://www.v2ex.com/t/814034)
-1. [再来吹一波 Golang](https://www.v2ex.com/t/814129)
-1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136)
-1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187)
 1. [有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240)
+1. [再来吹一波 Golang](https://www.v2ex.com/t/814129)
+1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187)
+1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136)
+1. [想起几年前因为二胎跟父亲大吵一架](https://www.v2ex.com/t/814248)
 1. [14 寸的定制 MacBook Pro 大家都没动静吗？](https://www.v2ex.com/t/814085)
 1. [可能是月经贴： Android vs iOS，到底选哪个？](https://www.v2ex.com/t/814131)
+1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135)
+1. [放弃 Gmail 像恋爱分手一样，有点痛](https://www.v2ex.com/t/814212)
 
 ## 历史归档
 
