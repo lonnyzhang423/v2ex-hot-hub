@@ -11,13 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-10 12:07:36 +0800`
+ `更新时间：2021-11-10 13:05:26 +0800`
 
 ## 热议话题
 
 1. [有什么不烂尾的美剧值得推荐的吗](https://www.v2ex.com/t/814240)
 1. [想起几年前因为二胎跟父亲大吵一架](https://www.v2ex.com/t/814248)
-1. [感觉 Apple Store 直营店相关的体验越来越差](https://www.v2ex.com/t/814187)
 1. [再来吹一波 Golang](https://www.v2ex.com/t/814129)
 1. [迫于教育优惠入了 iPad Pro 2021 12.9 + 闲鱼 1800 淘了个妙控键盘，感觉省了一个 Macbook Air 的钱，问下大家平时都拿 iPad Pro 干啥？](https://www.v2ex.com/t/814136)
 1. [迫于装修买电器，小米电视 6 至尊版 75 寸怎么样？](https://www.v2ex.com/t/814135)
