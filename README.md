@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-11 06:06:24 +0800`
+ `更新时间：2021-11-11 07:05:55 +0800`
 
 ## 热议话题
 
 1. [库克：想用 Sideload APP 的用户可以去用安卓](https://www.v2ex.com/t/814382)
-1. [大家怎么看待 5G 消息？是否有取代微信的可能？](https://www.v2ex.com/t/814304)
 1. [我这样直接辞职有没有风险？](https://www.v2ex.com/t/814338)
 1. [找寻独立原创博客的价值](https://www.v2ex.com/t/814316)
 1. [含泪，出 Macbook Pro 2021 14 寸 32G+AC，￥ 18299（定制版￥ 19747）](https://www.v2ex.com/t/814332)
@@ -25,6 +24,7 @@
 1. [办不了的深圳居住证](https://www.v2ex.com/t/814362)
 1. [单纯的想吐槽一句 生活太难了](https://www.v2ex.com/t/814406)
 1. [双十一好像越来越没感觉了？你双十一买了啥](https://www.v2ex.com/t/814437)
+1. [关于升级路由器](https://www.v2ex.com/t/814311)
 
 ## 历史归档
 
