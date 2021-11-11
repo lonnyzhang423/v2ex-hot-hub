@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-12 02:07:04 +0800`
+ `更新时间：2021-11-12 03:05:20 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [Apple Pencil 值得买吗？](https://www.v2ex.com/t/814587)
 1. [GitHub Copilot 可以写帮我写中文文章了](https://www.v2ex.com/t/814689)
 1. [VUE 跨域问题](https://www.v2ex.com/t/814698)
-1. [要换电池的可以看看， JD 今天换原厂电池只要 359](https://www.v2ex.com/t/814676)
+1. [没学历以后该怎么走](https://www.v2ex.com/t/814574)
 
 ## 历史归档
 
