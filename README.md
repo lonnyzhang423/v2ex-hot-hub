@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-14 04:06:07 +0800`
+ `更新时间：2021-11-14 05:04:46 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [新 mac 配件大家会买啥](https://www.v2ex.com/t/815158)
 1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107)
 1. [windows 11 依然遵循着隔代好的传统？](https://www.v2ex.com/t/815150)
-1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090)
 1. [不懂就问之 TSLa 相比国产卖的贵十来万的底气是什么](https://www.v2ex.com/t/815191)
+1. [让运营商折磨得生不如死，老哥们给出出主意](https://www.v2ex.com/t/815090)
 1. [自家种的赣南脐橙给 V 友的福利只有 200 斤，抽奖 3 箱](https://www.v2ex.com/t/815182)
 
 ## 历史归档
