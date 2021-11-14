@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-14 11:06:09 +0800`
+ `更新时间：2021-11-14 12:07:23 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [Apple Music 曲库很多歌都突然不能听了](https://www.v2ex.com/t/815140)
 1. [30 岁工科转行 Java](https://www.v2ex.com/t/815118)
 1. [windows 11 依然遵循着隔代好的传统？](https://www.v2ex.com/t/815150)
-1. [iPad air 64g 是否够用](https://www.v2ex.com/t/815107)
 1. [新 mac 配件大家会买啥](https://www.v2ex.com/t/815158)
 1. [一些观点：针对 Obsidian 内测新功能「所见即所得」，本地 + 双链 + 第三方同步 + 友善的中文搜索，未来可能要占据笔记软件的半壁江山](https://www.v2ex.com/t/815143)
 1. [利用 GitHub action 写了个生日提醒服务](https://www.v2ex.com/t/815160)
+1. [大家 M1 芯片的 Mac 输入法卡顿嘛？](https://www.v2ex.com/t/815139)
 
 ## 历史归档
 
