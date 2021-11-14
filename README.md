@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-15 01:11:27 +0800`
+ `更新时间：2021-11-15 02:06:38 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [我们离像乐高积木那样编程还有多远？](https://www.v2ex.com/t/815228)
 1. [胡说八道之思考性本善与性本恶](https://www.v2ex.com/t/815248)
 1. [油管 youtube 屏蔽了 mac 用户浏览器观看 hdr 视频的功能](https://www.v2ex.com/t/815311)
-1. [mini 6 一个月使用体验： iPad 对我来说是真没用](https://www.v2ex.com/t/815317)
 1. [Windows 下 HEVC H.265 视频，除了自带的"电影和电视"外，还有能用的播放器吗？](https://www.v2ex.com/t/815363)
+1. [mini 6 一个月使用体验： iPad 对我来说是真没用](https://www.v2ex.com/t/815317)
 1. [腾讯轻量云怎么安装其他系统，例如 Fedora？](https://www.v2ex.com/t/815277)
-1. [MacBook Pro M1 Pro 似乎无法通过 iStat Menus 监控设备总功耗？](https://www.v2ex.com/t/815264)
+1. [14 寸 Macbook Pro M1 Max 续航确实不太行](https://www.v2ex.com/t/815283)
 
 ## 历史归档
 
