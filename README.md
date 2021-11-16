@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-17 01:09:22 +0800`
+ `更新时间：2021-11-17 02:07:28 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [使用 vim 写程序](https://www.v2ex.com/t/815810)
 1. [战地 2042：已退款，全面退步。](https://www.v2ex.com/t/815695)
 1. [求助：.NET Core WebAPI 框架自动生成的 Controller 中的 get 全部对象的方法执行太慢](https://www.v2ex.com/t/815708)
-1. [父母年龄大了，买什么保险合适](https://www.v2ex.com/t/815713)
+1. [macOS Mojave 被 homebrew 嫌弃了！](https://www.v2ex.com/t/815746)
 
 ## 历史归档
 
