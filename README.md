@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-17 09:48:53 +0800`
+ `更新时间：2021-11-17 10:21:15 +0800`
 
 ## 热议话题
 
-1. [V 友这么多，真的有自己或者认识的朋友中体彩福彩大奖的吗？](https://www.v2ex.com/t/815685)
 1. [现在做开源太难了，就因为没及时回答别人的问题被喷了！](https://www.v2ex.com/t/815817)
 1. [昨天提车，今天就刮蹭……](https://www.v2ex.com/t/815717)
+1. [突然感觉压力好大](https://www.v2ex.com/t/815866)
 1. [天气冷了， M1 冻手怎么办？](https://www.v2ex.com/t/815733)
 1. [开闭原则（open/closed principle）到底是啥意思？](https://www.v2ex.com/t/815704)
-1. [突然感觉压力好大](https://www.v2ex.com/t/815866)
 1. [使用 vim 写程序](https://www.v2ex.com/t/815810)
-1. [战地 2042：已退款，全面退步。](https://www.v2ex.com/t/815695)
-1. [求助：.NET Core WebAPI 框架自动生成的 Controller 中的 get 全部对象的方法执行太慢](https://www.v2ex.com/t/815708)
+1. [公司有什么技术手段能监测到员工是否在摸鱼？](https://www.v2ex.com/t/815845)
 1. [公司要求每周五搞个分享，原则上每个人都要有一次，大佬们有什么好的建议么？](https://www.v2ex.com/t/815876)
+1. [求助：.NET Core WebAPI 框架自动生成的 Controller 中的 get 全部对象的方法执行太慢](https://www.v2ex.com/t/815708)
+1. [这个双十一，大家的京东快递都送货上门了吗](https://www.v2ex.com/t/815800)
 
 ## 历史归档
 
