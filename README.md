@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-19 09:49:02 +0800`
+ `更新时间：2021-11-19 10:22:01 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [昨天第一次尝试褪黑素, 效果拔群](https://www.v2ex.com/t/816240)
 1. [第一次去未来丈母娘家，带点什么东西好？](https://www.v2ex.com/t/816324)
 1. [提一下 DELL U2720QM 的两个坑，顺便问下有没有更好的选择？](https://www.v2ex.com/t/816252)
+1. [Huawei Card 大家觉得怎么样](https://www.v2ex.com/t/816383)
 1. [iPhone 备份有什么好的软件推荐](https://www.v2ex.com/t/816307)
-1. [Ubuntu（20.04.3 LTS）频繁卡死，是我的版本错了么？大家都用的什么版本呢？稳定吗？](https://www.v2ex.com/t/816294)
 
 ## 历史归档
 
