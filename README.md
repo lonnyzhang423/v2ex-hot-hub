@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-20 05:05:23 +0800`
+ `更新时间：2021-11-20 06:06:18 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [当得知有一笔亿计数的美元遗产...](https://www.v2ex.com/t/816553)
 1. [求问：已经连续 3 个季度绩效是 A 了，公司只给涨了 2k，还有必要待下去吗](https://www.v2ex.com/t/816516)
 1. [V 友们帮忙看看现实中哪里有这种地形?](https://www.v2ex.com/t/816450)
-1. [我把我的域名从 namecheap 搬家到 cloudflare 了。CF 号称域名批发价，我看了一下我的域名在 NC 续费一年 AUD23，在 CF 是 AUD18，貌似还行](https://www.v2ex.com/t/816431)
+1. [[挤爆] Intel Core i7-12700H](https://www.v2ex.com/t/816600)
 
 ## 历史归档
 
