@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-20 14:07:15 +0800`
+ `更新时间：2021-11-20 15:06:02 +0800`
 
 ## 热议话题
 
-1. [大家平时在家里或者公司都是怎么泡咖啡的？☕](https://www.v2ex.com/t/816524)
 1. [curl 创始人发文“质问”苹果：靠开源年赚数十亿，却把开发者当免费'工具人'](https://www.v2ex.com/t/816680)
 1. [当得知有一笔亿计数的美元遗产...](https://www.v2ex.com/t/816553)
-1. [[挤爆] Intel Core i7-12700H](https://www.v2ex.com/t/816600)
 1. [大家平时都用 iPad 干什么？来分享一下啊](https://www.v2ex.com/t/816609)
-1. [开 DDNS 会被停宽带吗？](https://www.v2ex.com/t/816539)
-1. [服务器 CPU 长期保持在 80%以上，会有什么影响？](https://www.v2ex.com/t/816523)
-1. [做安卓客户端多年了，比较迷茫，想转行后台](https://www.v2ex.com/t/816554)
+1. [[挤爆] Intel Core i7-12700H](https://www.v2ex.com/t/816600)
 1. [切实的感到经济不行](https://www.v2ex.com/t/816678)
-1. [Model 3 涨价了](https://www.v2ex.com/t/816522)
+1. [做安卓客户端多年了，比较迷茫，想转行后台](https://www.v2ex.com/t/816554)
+1. [du 命令报告的文件大小错误，这种情况是 u 盘坏了还是 du 命令的问题？](https://www.v2ex.com/t/816648)
+1. [北美一年一度的苹果礼卡打折上线了.100 反 15](https://www.v2ex.com/t/816682)
+1. [哪款安卓模拟器支持 M1 ?](https://www.v2ex.com/t/816545)
 
 ## 历史归档
 
