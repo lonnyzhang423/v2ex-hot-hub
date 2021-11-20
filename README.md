@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-20 08:21:23 +0800`
+ `更新时间：2021-11-20 09:46:27 +0800`
 
 ## 热议话题
 
-1. [咖啡上瘾，每天最期待的事情居然是早上的第一杯咖啡](https://www.v2ex.com/t/816443)
-1. [三年过去了，那个叫 uTools 的怎么样了](https://www.v2ex.com/t/816446)
 1. [为啥好多面试 Python 的连魔法函数都不知道？](https://www.v2ex.com/t/816468)
-1. [拖 v 站后腿了，毕业 5 年月薪终于一狗了👻！](https://www.v2ex.com/t/816435)
-1. [做了个不需要邀请码的开放 Reddit「炒饭」](https://www.v2ex.com/t/816444)
 1. [大家平时在家里或者公司都是怎么泡咖啡的？☕](https://www.v2ex.com/t/816524)
 1. [当得知有一笔亿计数的美元遗产...](https://www.v2ex.com/t/816553)
 1. [求问：已经连续 3 个季度绩效是 A 了，公司只给涨了 2k，还有必要待下去吗](https://www.v2ex.com/t/816516)
-1. [V 友们帮忙看看现实中哪里有这种地形?](https://www.v2ex.com/t/816450)
 1. [[挤爆] Intel Core i7-12700H](https://www.v2ex.com/t/816600)
+1. [开 DDNS 会被停宽带吗？](https://www.v2ex.com/t/816539)
+1. [服务器 CPU 长期保持在 80%以上，会有什么影响？](https://www.v2ex.com/t/816523)
+1. [最近体检说有结石,目前不疼,有过来人传授点经验么?](https://www.v2ex.com/t/816481)
+1. [上海电信官宣 2000M 宽带](https://www.v2ex.com/t/816457)
+1. [大家平时都用 iPad 干什么？来分享一下啊](https://www.v2ex.com/t/816609)
 
 ## 历史归档
 
