@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-21 12:07:22 +0800`
+ `更新时间：2021-11-21 13:05:39 +0800`
 
 ## 热议话题
 
 1. [M1 的兼容性可能没你想的那么好](https://www.v2ex.com/t/816760)
 1. [真正有知识的人从来不看新闻](https://www.v2ex.com/t/816886)
-1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810)
 1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808)
+1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810)
 1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823)
 1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772)
 1. [澳门 iPhone 13 Pro 加美版 AC+](https://www.v2ex.com/t/816830)
-1. [有没有什么浏览器扩展，可以整合管理 chrome、edge、firefox 浏览器的收藏夹？由于工作原因，目前我用了三种浏览器，每个浏览器都有各自的收藏夹，不能同步管理，很是崩溃。](https://www.v2ex.com/t/816762)
 1. [中年人的 offer 求建议](https://www.v2ex.com/t/816861)
+1. [关于 asyncio 执行 IO 密集型操作的不解](https://www.v2ex.com/t/816841)
 
 ## 历史归档
 
