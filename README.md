@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-22 02:06:24 +0800`
+ `更新时间：2021-11-22 03:04:12 +0800`
 
 ## 热议话题
 
-1. [心脏跳得厉害，一下午没睡着](https://www.v2ex.com/t/816944)
 1. [2021 年底了，高德地图和百度地图谁更胜一筹？](https://www.v2ex.com/t/816887)
+1. [心脏跳得厉害，一下午没睡着](https://www.v2ex.com/t/816944)
 1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891)
 1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893)
 1. [这次苹果官网购买 MacBook Pro，快递外包装这么简单，不怕运输过程中被摔坏么](https://www.v2ex.com/t/816933)
