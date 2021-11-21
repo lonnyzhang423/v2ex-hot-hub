@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-21 16:07:21 +0800`
+ `更新时间：2021-11-21 17:06:07 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893)
 1. [中年人的 offer 求建议](https://www.v2ex.com/t/816861)
 1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892)
-1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891)
+1. [官网 trade in 被刀](https://www.v2ex.com/t/816890)
 
 ## 历史归档
 
