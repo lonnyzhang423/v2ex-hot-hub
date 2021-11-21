@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-21 15:06:34 +0800`
+ `更新时间：2021-11-21 16:07:21 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [荐输入法-百度输入法 [MacOS Big Sur 11.6.1 (20G224) +MacBook Pro (13-inch, M1, 2020) 验证 OK]](https://www.v2ex.com/t/816808)
 1. [传闻阿里要裁员两万人](https://www.v2ex.com/t/816810)
 1. [关于“百度网盘” 我有话要说…](https://www.v2ex.com/t/816823)
-1. [好奇大家平躺床上看视频 iPad 是如何放的](https://www.v2ex.com/t/816772)
 1. [澳门 iPhone 13 Pro 加美版 AC+](https://www.v2ex.com/t/816830)
 1. [关于 asyncio 执行 IO 密集型操作的不解](https://www.v2ex.com/t/816841)
 1. [iPhone 12 续航渐崩……](https://www.v2ex.com/t/816893)
 1. [中年人的 offer 求建议](https://www.v2ex.com/t/816861)
+1. [阿里小号快到期，寻求替代方案](https://www.v2ex.com/t/816892)
+1. [做一个好的音乐推荐算法有那么难吗…](https://www.v2ex.com/t/816891)
 
 ## 历史归档
 
