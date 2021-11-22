@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-22 16:07:43 +0800`
+ `更新时间：2021-11-22 17:11:40 +0800`
 
 ## 热议话题
 
 1. [从程序员到经营温泉度假酒店](https://www.v2ex.com/t/817022)
-1. [离谱， o 不念“喔”，改成念“欧”了，最离谱的是，单念的时候念“欧”，和其他字母拼的时候还念“喔”。](https://www.v2ex.com/t/816955)
-1. [心脏跳得厉害，一下午没睡着](https://www.v2ex.com/t/816944)
 1. [从今天开始， 使用自带输入法，而且还是 26 键](https://www.v2ex.com/t/817021)
 1. [纯电车该怎么选？](https://www.v2ex.com/t/817033)
-1. [程序员与蚕丝被制作艺术](https://www.v2ex.com/t/816946)
 1. [大家有没有觉得 [换被套] 特别麻烦，有啥好方案吗](https://www.v2ex.com/t/816993)
 1. [离职了，准备躺到过年](https://www.v2ex.com/t/817041)
 1. [大家的旧 iPad 还在吗，还在发光发热吗](https://www.v2ex.com/t/816978)
+1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092)
+1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104)
+1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035)
+1. [SO 只用了 9 台 Web 服务器](https://www.v2ex.com/t/817121)
 
 ## 历史归档
 
