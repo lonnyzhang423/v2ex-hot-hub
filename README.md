@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-22 18:11:39 +0800`
+ `更新时间：2021-11-22 19:09:28 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [大家的旧 iPad 还在吗，还在发光发热吗](https://www.v2ex.com/t/816978)
 1. [各位的有效工时是多少啊？](https://www.v2ex.com/t/817092)
 1. [notion 和 wolai 选哪个？](https://www.v2ex.com/t/817134)
+1. [MBP 的屏幕该用什么擦拭啊](https://www.v2ex.com/t/817104)
 1. [SO 只用了 9 台 Web 服务器](https://www.v2ex.com/t/817121)
-1. [MacBookPro 2017 年款主板坏掉，苹果质量不行](https://www.v2ex.com/t/817035)
 
 ## 历史归档
 
