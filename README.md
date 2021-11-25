@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-25 11:06:34 +0800`
+ `更新时间：2021-11-25 12:07:40 +0800`
 
 ## 热议话题
 
 1. [在虾皮做业务被 go 恶心到了。](https://www.v2ex.com/t/817707)
-1. [好希望 iOS 支持左右侧边滑动返回](https://www.v2ex.com/t/817651)
 1. [从程序员到经营温泉度假酒店（三）- 我和我的前女友们](https://www.v2ex.com/t/817810)
+1. [好希望 iOS 支持左右侧边滑动返回](https://www.v2ex.com/t/817651)
 1. [我们做一个新的搜索引擎, 「F Search | F 搜」, 希望能给大家除了百度和搜狗以外不同的选择 - V2EX 首发](https://www.v2ex.com/t/817678)
 1. [当前在证券，拿到了微软的 offer，不知道该不该去](https://www.v2ex.com/t/817697)
-1. [老生常谈~程序员的出路](https://www.v2ex.com/t/817624)
-1. [[bilibili 国际版招聘]想和我们一起前往星辰大海吗](https://www.v2ex.com/t/817629)
 1. [V2er iOS 首个 TestFlight 测试版发布了](https://www.v2ex.com/t/817735)
+1. [[bilibili 国际版招聘]想和我们一起前往星辰大海吗](https://www.v2ex.com/t/817629)
 1. [日经贴，你的 mbp 发货了吗](https://www.v2ex.com/t/817665)
 1. [不想上班，还在床上，怎么办？](https://www.v2ex.com/t/817798)
+1. [macOS 工具 iStat Menus 黑五促销 1 人装 2.99 刀 6 人装 3.75 刀](https://www.v2ex.com/t/817720)
 
 ## 历史归档
 
