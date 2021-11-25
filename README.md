@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-25 14:07:49 +0800`
+ `更新时间：2021-11-25 15:11:50 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,8 @@
 1. [当前在证券，拿到了微软的 offer，不知道该不该去](https://www.v2ex.com/t/817697)
 1. [V2er iOS 首个 TestFlight 测试版发布了](https://www.v2ex.com/t/817735)
 1. [不想上班，还在床上，怎么办？](https://www.v2ex.com/t/817798)
-1. [日经贴，你的 mbp 发货了吗](https://www.v2ex.com/t/817665)
 1. [macOS 工具 iStat Menus 黑五促销 1 人装 2.99 刀 6 人装 3.75 刀](https://www.v2ex.com/t/817720)
 1. [明年春节后想去深圳找工作，裸辞压力大吗](https://www.v2ex.com/t/817751)
-1. [一加氧设置里 Google 歪了](https://www.v2ex.com/t/817710)
 
 ## 历史归档
 
