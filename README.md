@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-26 15:06:30 +0800`
+ `更新时间：2021-11-26 16:07:45 +0800`
 
 ## 热议话题
 
 1. [周 5 了，大家周六周日有啥打算？有啥兴趣爱好](https://www.v2ex.com/t/818055)
 1. [关于技术，造谣和 vup](https://www.v2ex.com/t/818099)
-1. [[自己的文章搬运] 2021 年，我为什么还在坚持拒绝音乐订阅制](https://www.v2ex.com/t/817931)
-1. [桌面端技术选型求指导](https://www.v2ex.com/t/817940)
-1. [Windows 系统间歇性卡顿，声音鬼畜。](https://www.v2ex.com/t/818084)
 1. [公司上线了抢车位系统，怎样才能快人一手抢到车位？](https://www.v2ex.com/t/818046)
-1. [mbp 买块移动硬盘做 time machine 求推荐](https://www.v2ex.com/t/817926)
+1. [Windows 系统间歇性卡顿，声音鬼畜。](https://www.v2ex.com/t/818084)
 1. [论 Java 工程师学习 go](https://www.v2ex.com/t/817992)
+1. [薅羊毛买的腾讯云阿里云轻量级服务器真的性能很差吗？实测腾讯云轻量级 VS 搬瓦工的处理器跑分性能](https://www.v2ex.com/t/818105)
+1. [老破小，有必要装新风系统么？](https://www.v2ex.com/t/817961)
+1. [Windows11 开机一段时间后变得超级卡顿](https://www.v2ex.com/t/818089)
 
 ## 历史归档
 
