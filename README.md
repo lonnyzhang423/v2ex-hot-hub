@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-27 13:05:07 +0800`
+ `更新时间：2021-11-27 14:07:28 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [Mac 2021 款的最大问题不是丑么](https://www.v2ex.com/t/818198)
 1. [属性名不让用 is 开头，应该用什么？](https://www.v2ex.com/t/818150)
 1. [go 语言提高 web 生产力](https://www.v2ex.com/t/818157)
-1. [调研高端羽绒服市场](https://www.v2ex.com/t/818137)
 1. [发现了一个 EMOJI 制作网站，蛮有意思的](https://www.v2ex.com/t/818180)
 1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234)
 1. [typora 进入 1.0 时代，开启收费](https://www.v2ex.com/t/818221)
