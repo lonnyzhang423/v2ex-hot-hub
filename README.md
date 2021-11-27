@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-28 00:07:43 +0800`
+ `更新时间：2021-11-28 01:12:04 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303)
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336)
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301)
-1. [发现 IINA 目前并不支持 HDR 视频的播放](https://www.v2ex.com/t/818282)
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365)
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321)
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325)
