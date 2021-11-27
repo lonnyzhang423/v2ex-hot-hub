@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-27 21:12:05 +0800`
+ `更新时间：2021-11-27 22:04:48 +0800`
 
 ## 热议话题
 
 1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326)
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303)
-1. [求 1500-2000 元之间，送领导的礼物推荐](https://www.v2ex.com/t/818276)
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336)
-1. [发现 IINA 目前并不支持 HDR 视频的播放](https://www.v2ex.com/t/818282)
+1. [求 1500-2000 元之间，送领导的礼物推荐](https://www.v2ex.com/t/818276)
 1. [14 寸 M1 Max 退货成功](https://www.v2ex.com/t/818301)
+1. [发现 IINA 目前并不支持 HDR 视频的播放](https://www.v2ex.com/t/818282)
 1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321)
-1. [SMR 叠瓦盘究竟在什么情况下会显著掉速？](https://www.v2ex.com/t/818254)
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325)
+1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365)
+1. [关于 iOS 的轻点背面，感觉很难触发](https://www.v2ex.com/t/818327)
 
 ## 历史归档
 
