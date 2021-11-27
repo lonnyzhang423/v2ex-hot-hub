@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-27 10:22:14 +0800`
+ `更新时间：2021-11-27 11:06:22 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [薅羊毛买的腾讯云阿里云轻量级服务器真的性能很差吗？实测腾讯云轻量级 VS 搬瓦工的处理器跑分性能](https://www.v2ex.com/t/818105)
 1. [属性名不让用 is 开头，应该用什么？](https://www.v2ex.com/t/818150)
 1. [go 语言提高 web 生产力](https://www.v2ex.com/t/818157)
-1. [Windows11 开机一段时间后变得超级卡顿](https://www.v2ex.com/t/818089)
-1. [Emby 也来黑五优惠了 仅需 $99](https://www.v2ex.com/t/818092)
 1. [调研高端羽绒服市场](https://www.v2ex.com/t/818137)
+1. [typora 进入 1.0 时代，开启收费](https://www.v2ex.com/t/818221)
+1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234)
 
 ## 历史归档
 
