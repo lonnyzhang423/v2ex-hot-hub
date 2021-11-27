@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-28 03:04:23 +0800`
+ `更新时间：2021-11-28 04:06:06 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325)
 1. [关于 iOS 的轻点背面，感觉很难触发](https://www.v2ex.com/t/818327)
 1. [想搞个低功耗的 x86 作为 All In One 主机](https://www.v2ex.com/t/818363)
+1. [记一次上海华山医院的就诊经历，希望对爆痘的同学有所帮助](https://www.v2ex.com/t/818398)
 
 ## 历史归档
 
