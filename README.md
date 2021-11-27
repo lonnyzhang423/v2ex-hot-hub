@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-27 16:07:30 +0800`
+ `更新时间：2021-11-27 17:06:13 +0800`
 
 ## 热议话题
 
 1. [谷歌翻译是完全没法用了](https://www.v2ex.com/t/818213)
 1. [Mac 2021 款的最大问题不是丑么](https://www.v2ex.com/t/818198)
-1. [发现了一个 EMOJI 制作网站，蛮有意思的](https://www.v2ex.com/t/818180)
 1. [Typora 1.0 发布正式收费， 15 刀 3 设备](https://www.v2ex.com/t/818236)
 1. [Mac 下 Typora V1.0.0 开始收费，没更新的建议别更新。](https://www.v2ex.com/t/818303)
 1. [typora 进入 1.0 时代，开启收费](https://www.v2ex.com/t/818221)
 1. [请求推荐 apple 上好用的浏览器](https://www.v2ex.com/t/818234)
 1. [求 1500-2000 元之间，送领导的礼物推荐](https://www.v2ex.com/t/818276)
+1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326)
 
 ## 历史归档
 
