@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-28 11:06:17 +0800`
+ `更新时间：2021-11-28 12:07:14 +0800`
 
 ## 热议话题
 
-1. [iPhone 上有什么方法能优雅的使用谷*歌搜索吗？](https://www.v2ex.com/t/818326)
 1. [大家花呗升级了没有？区别仅仅是征信上报？](https://www.v2ex.com/t/818336)
 1. [给大家看一个我上了当的 Steam 诈骗网站](https://www.v2ex.com/t/818457)
 1. [记一次上海华山医院的就诊经历，希望对爆痘的同学有所帮助](https://www.v2ex.com/t/818398)
-1. [vs 中如何解决 C++的“常量中有换行符”](https://www.v2ex.com/t/818321)
 1. [学习，应该是一辈子的事情](https://www.v2ex.com/t/818365)
-1. [显示器配 m1 max 二选一求推荐～ PG32UQ 和 LG34WK95U 预算 1.5w 以下](https://www.v2ex.com/t/818325)
 1. [为什么从来没见过有人推荐 G502 作为 mac 的鼠标?](https://www.v2ex.com/t/818418)
-1. [关于 iOS 的轻点背面，感觉很难触发](https://www.v2ex.com/t/818327)
 1. [想搞个低功耗的 x86 作为 All In One 主机](https://www.v2ex.com/t/818363)
+1. [想找可以用来托管订阅/配置的服务 QAQ](https://www.v2ex.com/t/818427)
+1. [新买的 sony 电视无法看 Netflix](https://www.v2ex.com/t/818437)
+1. [请教一下关于桌面应用的 GUI 制作](https://www.v2ex.com/t/818337)
 
 ## 历史归档
 
