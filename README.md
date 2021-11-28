@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-28 14:07:23 +0800`
+ `更新时间：2021-11-28 15:06:18 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [想找可以用来托管订阅/配置的服务 QAQ](https://www.v2ex.com/t/818427)
 1. [新买的 sony 电视无法看 Netflix](https://www.v2ex.com/t/818437)
 1. [微信支付宝现在有什么免手续费的提现方式](https://www.v2ex.com/t/818482)
-1. [普通人的 offer 选择，求大家指点](https://www.v2ex.com/t/818376)
+1. [弯引号是「正统」，直引号是「异端」](https://www.v2ex.com/t/818465)
 
 ## 历史归档
 
