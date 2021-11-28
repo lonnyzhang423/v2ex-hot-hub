@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-11-29 01:12:00 +0800`
+ `更新时间：2021-11-29 02:06:50 +0800`
 
 ## 热议话题
 
-1. [给大家看一个我上了当的 Steam 诈骗网站](https://www.v2ex.com/t/818457)
 1. [爱发电(afdian.net)不受理出售淫秽色情信息的举报](https://www.v2ex.com/t/818534)
 1. [微信支付宝现在有什么免手续费的提现方式](https://www.v2ex.com/t/818482)
 1. [老生常谈的问题，按揭贷款是否越久越好？](https://www.v2ex.com/t/818508)
@@ -24,6 +23,7 @@
 1. [弯引号是「正统」，直引号是「异端」](https://www.v2ex.com/t/818465)
 1. [nodejs 有哪些好用的增删改查框架？](https://www.v2ex.com/t/818494)
 1. [ddos 攻击现在少了吗？](https://www.v2ex.com/t/818461)
+1. [有靠谱些的水晶头工具吗](https://www.v2ex.com/t/818472)
 
 ## 历史归档
 
