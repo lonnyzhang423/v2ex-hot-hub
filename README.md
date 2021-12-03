@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-03 07:07:11 +0800`
+ `更新时间：2021-12-03 08:22:29 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [准备买 MacBook Air， M1，求用过的人建议](https://www.v2ex.com/t/819511)
 1. [快圣诞节了，大家有什么小众好玩的礼物推荐](https://www.v2ex.com/t/819498)
 1. [小组长让我一小时提交一次代码](https://www.v2ex.com/t/819582)
-1. [爱奇艺是要凉了吧，裁员+违反会员协议](https://www.v2ex.com/t/819518)
 1. [城市里有哪些适合安静独处的地方?](https://www.v2ex.com/t/819455)
 1. [看了一段 LOL 老视频，突然好想回到过去。](https://www.v2ex.com/t/819525)
 1. [4G 套餐用 5G 限速 300Mbps，与 5G 套餐 500、1000Mbps 差异有多大？](https://www.v2ex.com/t/819505)
