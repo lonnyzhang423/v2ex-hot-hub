@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-04 13:07:07 +0800`
+ `更新时间：2021-12-04 14:07:52 +0800`
 
 ## 热议话题
 
 1. [有每看必哭的电影吗？](https://www.v2ex.com/t/819830)
-1. [我搞了一个 V2EX 类某乎的主题，支持亮色与暗色🌙☀️](https://www.v2ex.com/t/819780)
-1. [公司从 SVN 切换到 Git 的那些坑](https://www.v2ex.com/t/819771)
 1. [看到“葬礼歌单”的帖子，想问有多少人像我一样，准备死后把骨灰撒海里的？](https://www.v2ex.com/t/819826)
-1. [养殖场被偷了 求监控方案](https://www.v2ex.com/t/819772)
 1. [程序员不想卷了去考公真的是好的选择吗？](https://www.v2ex.com/t/819829)
-1. [对于"辣"的一点讨论](https://www.v2ex.com/t/819778)
 1. [关于 “1Password 家庭版订阅到期账户被删” 事件的致歉、复盘与相关声明](https://www.v2ex.com/t/819853)
 1. [公司恶心人，请大家出出主意](https://www.v2ex.com/t/819842)
 1. [还有还没考驾照的朋友吗？](https://www.v2ex.com/t/819787)
+1. [求助啊 每天 996](https://www.v2ex.com/t/819786)
+1. [mac 下有哪些效率工具推荐？](https://www.v2ex.com/t/819885)
+1. [中概股还有救吗](https://www.v2ex.com/t/819926)
+1. [迫于 emo 希望重新热爱生活，希望大家推荐几个爱好](https://www.v2ex.com/t/819796)
 
 ## 历史归档
 
