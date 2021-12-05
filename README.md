@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-05 21:12:56 +0800`
+ `更新时间：2021-12-05 22:05:07 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [有没有长期把 Hyper-V 当做主力机用的？](https://www.v2ex.com/t/820178)
 1. [发个小帖子-喷墨打印机真好玩](https://www.v2ex.com/t/820185)
 1. [黑五整了个 Synology DS220+ 怎么配置最简单易上手？](https://www.v2ex.com/t/820101)
-1. [MBP 16 寸 64G 屏幕翻车](https://www.v2ex.com/t/820105)
+1. [以前的鹅厂还是有一些设计感的，看首版 QQ For Mac 有感](https://www.v2ex.com/t/820143)
 
 ## 历史归档
 
