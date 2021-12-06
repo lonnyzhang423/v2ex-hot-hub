@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-06 10:25:18 +0800`
+ `更新时间：2021-12-06 11:06:37 +0800`
 
 ## 热议话题
 
 1. [深圳城中村房东真无良，不让自己拉宽带。](https://www.v2ex.com/t/820158)
 1. [Python 识别图片文字的效果是不是很差？](https://www.v2ex.com/t/820234)
-1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132)
 1. [因为不忍别人触碰我的 Mac 屏幕，我写了一段话，打算明天打印出来，并贴在我的电脑旁](https://www.v2ex.com/t/820231)
+1. [请教 CentOS Stream 8 和 Rocky Linux 的使用体验。](https://www.v2ex.com/t/820132)
 1. [迫于 QQ 音乐至今不支持 M1，这几天发现 Apple Music 在 Mac 上真难用](https://www.v2ex.com/t/820232)
 1. [6 位数纯数字 gmail 邮箱有价吗？](https://www.v2ex.com/t/820134)
 1. [回老家国企已上班接近 2 月，来聊聊感受](https://www.v2ex.com/t/820224)
