@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-08 18:07:23 +0800`
+ `更新时间：2021-12-08 19:06:21 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787)
 1. [git CLI 设计太烂](https://www.v2ex.com/t/820770)
 1. [使用 git，既要用「命令行」也要用「UI」](https://www.v2ex.com/t/820776)
+1. [想买个移动硬盘长久保存美剧、电影、相片等](https://www.v2ex.com/t/820777)
 1. [分享一下自己的小鱼缸](https://www.v2ex.com/t/820827)
-1. [小米新出的 4k 显示器怎么样](https://www.v2ex.com/t/820795)
 
 ## 历史归档
 
