@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-09 06:06:26 +0800`
+ `更新时间：2021-12-09 07:06:18 +0800`
 
 ## 热议话题
 
-1. [90 后该何去何从](https://www.v2ex.com/t/820774)
 1. [被同事 pua 怎么办？](https://www.v2ex.com/t/820803)
 1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799)
 1. [海外定居要如何处理父母养老问题？](https://www.v2ex.com/t/820773)
