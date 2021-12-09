@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-09 09:52:43 +0800`
+ `更新时间：2021-12-09 10:25:28 +0800`
 
 ## 热议话题
 
-1. [被同事 pua 怎么办？](https://www.v2ex.com/t/820803)
-1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799)
 1. [父母对我唯一的心愿--我找到对象](https://www.v2ex.com/t/820907)
-1. [小米新出的 4k 显示器怎么样](https://www.v2ex.com/t/820795)
+1. [有意收购多家 100 人以内的外包公司，有意向可以细聊。](https://www.v2ex.com/t/820813)
 1. [分享一下自己的小鱼缸](https://www.v2ex.com/t/820827)
 1. [你是如何定义「躺平」的？](https://www.v2ex.com/t/820822)
-1. [有意收购多家 100 人以内的外包公司，有意向可以细聊。](https://www.v2ex.com/t/820813)
-1. [关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854)
 1. [租房合同上写提前退租，不返回已付租金和押金，我是不是要不回来了](https://www.v2ex.com/t/820875)
+1. [关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854)
 1. [AirPods Max 和 Oculus Quest 2 二选一买哪个好呢？](https://www.v2ex.com/t/820894)
+1. [第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装 Linux 和家用电脑装 windows 系统差不多么..选择 u 盘启动然后 直接安装？](https://www.v2ex.com/t/820945)
+1. [Oneplus 8T 刷机玩](https://www.v2ex.com/t/820825)
 
 ## 历史归档
 
