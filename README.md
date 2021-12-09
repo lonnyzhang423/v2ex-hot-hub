@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-10 06:06:03 +0800`
+ `更新时间：2021-12-10 07:05:56 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [请问怎么样才能愉快的前后端进行对接](https://www.v2ex.com/t/821032)
 1. [这感觉，来了](https://www.v2ex.com/t/821138)
 1. [你们会因为对方改变很多吗](https://www.v2ex.com/t/821076)
+1. [提桶跑路半年异国故事分享](https://www.v2ex.com/t/821216)
 1. [带 Airpods 入耳又又又发炎了，现在值不值得入 Max🎧，还是再等等？](https://www.v2ex.com/t/821082)
 1. [WindowServer 占用内存高达 98GB](https://www.v2ex.com/t/821049)
-1. [提桶跑路半年异国故事分享](https://www.v2ex.com/t/821216)
 
 ## 历史归档
 
