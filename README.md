@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-09 07:06:18 +0800`
+ `更新时间：2021-12-09 08:22:45 +0800`
 
 ## 热议话题
 
 1. [被同事 pua 怎么办？](https://www.v2ex.com/t/820803)
 1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799)
-1. [海外定居要如何处理父母养老问题？](https://www.v2ex.com/t/820773)
 1. [苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787)
-1. [git CLI 设计太烂](https://www.v2ex.com/t/820770)
 1. [使用 git，既要用「命令行」也要用「UI」](https://www.v2ex.com/t/820776)
 1. [想买个移动硬盘长久保存美剧、电影、相片等](https://www.v2ex.com/t/820777)
 1. [分享一下自己的小鱼缸](https://www.v2ex.com/t/820827)
 1. [小米新出的 4k 显示器怎么样](https://www.v2ex.com/t/820795)
+1. [你是如何定义「躺平」的？](https://www.v2ex.com/t/820822)
+1. [关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854)
 
 ## 历史归档
 
