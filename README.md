@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-09 11:06:29 +0800`
+ `更新时间：2021-12-09 12:07:51 +0800`
 
 ## 热议话题
 
 1. [父母对我唯一的心愿--我找到对象](https://www.v2ex.com/t/820907)
-1. [分享一下自己的小鱼缸](https://www.v2ex.com/t/820827)
-1. [你是如何定义「躺平」的？](https://www.v2ex.com/t/820822)
+1. [第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装 Linux 和家用电脑装 windows 系统差不多么..选择 u 盘启动然后 直接安装？](https://www.v2ex.com/t/820945)
 1. [租房合同上写提前退租，不返回已付租金和押金，我是不是要不回来了](https://www.v2ex.com/t/820875)
 1. [关于我对「无线充电伤电池」问题的一点研究](https://www.v2ex.com/t/820854)
-1. [第一次去现场服务器装系统,以前没装过,有什么需要注意的梗吗，服务器装 Linux 和家用电脑装 windows 系统差不多么..选择 u 盘启动然后 直接安装？](https://www.v2ex.com/t/820945)
 1. [AirPods Max 和 Oculus Quest 2 二选一买哪个好呢？](https://www.v2ex.com/t/820894)
-1. [Oneplus 8T 刷机玩](https://www.v2ex.com/t/820825)
 1. [大家能保持全神贯注 coding 的最长工作时间是多久](https://www.v2ex.com/t/820853)
+1. [M1 Pro 上各浏览器 B 站视频功耗最高差 3 倍，背后原因令人暖心](https://www.v2ex.com/t/820840)
+1. [[求推荐] 适合 Mac 系统的 5K 显示屏](https://www.v2ex.com/t/820906)
+1. [请问怎么样才能愉快的前后端进行对接](https://www.v2ex.com/t/821032)
 
 ## 历史归档
 
