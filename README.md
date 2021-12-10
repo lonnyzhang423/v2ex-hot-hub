@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-10 10:22:28 +0800`
+ `更新时间：2021-12-10 11:06:40 +0800`
 
 ## 热议话题
 
-1. [iPhone 13 Pro 几天使用体验倒苦水](https://www.v2ex.com/t/821098)
 1. [提桶跑路半年异国故事分享](https://www.v2ex.com/t/821216)
+1. [iPhone 13 Pro 几天使用体验倒苦水](https://www.v2ex.com/t/821098)
 1. [大家帮我看看，这代码是水平。。](https://www.v2ex.com/t/821118)
 1. [弄了个免费即用即走的工具站，体验拉满！](https://www.v2ex.com/t/821078)
 1. [接上次被同事恶心后续，硬刚之后开心多了](https://www.v2ex.com/t/821072)
 1. [这感觉，来了](https://www.v2ex.com/t/821138)
 1. [你们会因为对方改变很多吗](https://www.v2ex.com/t/821076)
 1. [带 Airpods 入耳又又又发炎了，现在值不值得入 Max🎧，还是再等等？](https://www.v2ex.com/t/821082)
+1. [颤抖吧 Javaer， log4j 史诗级漏洞](https://www.v2ex.com/t/821241)
 1. [人在重庆，冬天几乎晒不到太阳，想换到南方二三线城市，有什么推荐。](https://www.v2ex.com/t/821187)
-1. [VX 有些操作真的很迷啊，今天被群资料双击头像拍一拍功能社死了一波](https://www.v2ex.com/t/821130)
 
 ## 历史归档
 
