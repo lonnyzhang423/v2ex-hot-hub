@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-13 19:06:36 +0800`
+ `更新时间：2021-12-13 20:11:44 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [怎么提高自身休养?](https://www.v2ex.com/t/821764)
 1. [问一个协程方面的问题](https://www.v2ex.com/t/821871)
 1. [一个后端程序员对前端技术的彩虹屁](https://www.v2ex.com/t/821809)
-1. [也谈跑到二线城市之后的生活](https://www.v2ex.com/t/821689)
-1. [Apple Music 用了两年了，想换 QQ 音乐了，最近有联合会员卖的吗？](https://www.v2ex.com/t/821767)
+1. [来个投票，多少人还在用自带输入法？？](https://www.v2ex.com/t/821922)
 1. [现在还有哪些 RSS 阅读软件？](https://www.v2ex.com/t/821718)
+1. [Apple Music 用了两年了，想换 QQ 音乐了，最近有联合会员卖的吗？](https://www.v2ex.com/t/821767)
 1. [火币关了，还有哪个平台考虑可以法币？](https://www.v2ex.com/t/821757)
 
 ## 历史归档
