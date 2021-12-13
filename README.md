@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-13 12:07:54 +0800`
+ `更新时间：2021-12-13 13:06:18 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [跑路苏北 18 线小县城三年生活](https://www.v2ex.com/t/821635)
 1. [M1 Max 使用一周开发体验分享](https://www.v2ex.com/t/821665)
 1. [现在还有哪些 RSS 阅读软件？](https://www.v2ex.com/t/821718)
-1. [YY 想法：一款 APP 可以收集到好几个 APP 内容](https://www.v2ex.com/t/821632)
+1. [也谈跑到二线城市之后的生活](https://www.v2ex.com/t/821689)
 
 ## 历史归档
 
