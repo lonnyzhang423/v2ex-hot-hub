@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-13 22:08:50 +0800`
+ `更新时间：2021-12-13 23:11:43 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [一个后端程序员对前端技术的彩虹屁](https://www.v2ex.com/t/821809)
 1. [Apple Music 用了两年了，想换 QQ 音乐了，最近有联合会员卖的吗？](https://www.v2ex.com/t/821767)
 1. [火币关了，还有哪个平台考虑可以法币？](https://www.v2ex.com/t/821757)
-1. [iPhone 13 pro max 已经 panic 5 次了](https://www.v2ex.com/t/821797)
 1. [现在前端技术真的太方便了](https://www.v2ex.com/t/821768)
+1. [iPhone 13 pro max 已经 panic 5 次了](https://www.v2ex.com/t/821797)
 
 ## 历史归档
 
