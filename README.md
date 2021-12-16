@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-16 15:06:51 +0800`
+ `更新时间：2021-12-16 16:12:50 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [第二台 mbp 2021 16 寸 已经退货](https://www.v2ex.com/t/822517)
 1. [你呢？今年最大的改变是什么？](https://www.v2ex.com/t/822553)
 1. [nodejs 前后端一把梭的优势在哪？](https://www.v2ex.com/t/822487)
+1. [有什么致郁片推荐吗？痛哭流涕的那种](https://www.v2ex.com/t/822587)
 1. [4 岁的儿子很爱搭积木，有必要带他学乐高班吗？](https://www.v2ex.com/t/822507)
 1. [有没有什么好的在 Finder 当前文件夹下打开 VSCode/iTerm/PyCharm 的方案](https://www.v2ex.com/t/822413)
 
