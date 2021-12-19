@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-19 07:05:59 +0800`
+ `更新时间：2021-12-19 08:25:43 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [尝试了下用树莓派推流到 b 站直播](https://www.v2ex.com/t/822941)
 1. [旧 mbp 怎么处理](https://www.v2ex.com/t/822969)
 1. [Skim 更新 1.6.7，优化了上一版的暗黑模式， macOS 下终于有了满意的 PDF 阅读器！](https://www.v2ex.com/t/823002)
-1. [新 Mac，触摸板顶部中间很容易被按下去，所有都是这样的吗](https://www.v2ex.com/t/822948)
 1. [我现在感觉 Java 有点底层了](https://www.v2ex.com/t/823011)
+1. [[前端][求职][简历修改&有前端 leader 岗招人吗]](https://www.v2ex.com/t/823018)
 
 ## 历史归档
 
