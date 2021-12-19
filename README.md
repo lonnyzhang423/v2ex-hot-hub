@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-19 19:04:40 +0800`
+ `更新时间：2021-12-19 20:09:40 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [各位大佬服务器被攻击咋解决啊](https://www.v2ex.com/t/823080)
 1. [现在买 MacBook Air 合适吗？明年会发布第二代吗](https://www.v2ex.com/t/823055)
 1. [彭于晏们平时接私活吗](https://www.v2ex.com/t/823062)
-1. [云服务器的 CPU 性能水分很大啊](https://www.v2ex.com/t/823064)
 1. [XD 们， 4S 店砍价，一般哪些项有机会砍下来？](https://www.v2ex.com/t/823078)
+1. [云服务器的 CPU 性能水分很大啊](https://www.v2ex.com/t/823064)
 1. [关于 youtube-dl 的两个问题](https://www.v2ex.com/t/823085)
 1. [PHP5 太强了](https://www.v2ex.com/t/823054)
 
