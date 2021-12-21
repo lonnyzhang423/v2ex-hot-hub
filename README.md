@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-21 16:08:11 +0800`
+ `更新时间：2021-12-21 17:06:51 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [12306app 已经上 arm64 几大银行的 app 仍在坚守 armeabi](https://www.v2ex.com/t/823445)
 1. [关于给父母生活费](https://www.v2ex.com/t/823465)
 1. [马上 2022 了, 都在用哪些知识管理软件](https://www.v2ex.com/t/823484)
-1. [你们的 MacBook 要关机吗？](https://www.v2ex.com/t/823406)
 1. [坐标上海，家里小朋友（两岁 2 个月）被电动车撞了，关于定责问题求助。](https://www.v2ex.com/t/823360)
+1. [你们的 MacBook 要关机吗？](https://www.v2ex.com/t/823406)
+1. [距离试用期结束 11 天被通知 能力不足不能给我转正 让我自行离职](https://www.v2ex.com/t/823405)
 
 ## 历史归档
 
