@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-22 15:06:45 +0800`
+ `更新时间：2021-12-22 16:08:22 +0800`
 
 ## 热议话题
 
 1. [与其关注"的地得", 大家不如先摒弃使用"进行"](https://www.v2ex.com/t/823581)
-1. [请问各位无论书写还是打字还会关注 [的地得] 吗？](https://www.v2ex.com/t/823547)
-1. [房车使用两周，简单聊下体验](https://www.v2ex.com/t/823657)
 1. [Flutter 现在生态如何了？](https://www.v2ex.com/t/823650)
-1. [恕我愚钝，到现在也没搞清楚某些缩写到底是什么职位](https://www.v2ex.com/t/823553)
+1. [房车使用两周，简单聊下体验](https://www.v2ex.com/t/823657)
 1. [安卓 7.0 有没有永久死机的 bug，给我妈买了个 iPhone 13,她一定要华为……](https://www.v2ex.com/t/823643)
+1. [想深入钻研一门语言 请大家出出主意](https://www.v2ex.com/t/823731)
+1. [小米手机真的不行吗](https://www.v2ex.com/t/823739)
 1. [DoHome 9.9 元 国标插座，支持 homekit](https://www.v2ex.com/t/823689)
-1. [时至二〇二一，有哪些适合在校大学生用于美区 App Store 消费的信用卡？](https://www.v2ex.com/t/823540)
 
 ## 历史归档
 
