@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-24 17:07:01 +0800`
+ `更新时间：2021-12-24 18:07:03 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [这个月买的小电车到了。说说使用体验。](https://www.v2ex.com/t/824140)
 1. [小米 10 安装 youtube advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148)
 1. [相亲了，以后还想谈恋爱咋办](https://www.v2ex.com/t/824087)
-1. [看到这个。。。QQ jietu plugin](https://www.v2ex.com/t/824156)
 1. [手机微信占用 7.7G，具体是什么文件会这么大？](https://www.v2ex.com/t/824174)
+1. [看到这个。。。QQ jietu plugin](https://www.v2ex.com/t/824156)
+1. [Steam 冬促开始了，大家准备买些什么呢？](https://www.v2ex.com/t/824197)
 
 ## 历史归档
 
