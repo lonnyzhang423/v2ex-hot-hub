@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-26 09:58:22 +0800`
+ `更新时间：2021-12-26 10:35:51 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [刚买的 air 不能开机](https://www.v2ex.com/t/824372)
 1. [m1 air 2720qm netflix 无法 4k 正常么？](https://www.v2ex.com/t/824376)
 1. [百度密码限制最长 14 位，差评一下！](https://www.v2ex.com/t/824424)
-1. [有 v 友用 wsl 来做 3d 图形或 AI 训练的吗？](https://www.v2ex.com/t/824356)
 
 ## 历史归档
 
