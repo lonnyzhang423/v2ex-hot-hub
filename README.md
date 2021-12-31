@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2021-12-31 15:06:27 +0800`
+ `更新时间：2021-12-31 16:08:05 +0800`
 
 ## 热议话题
 
-1. [闪极 90W 电源搞崩了我的 Mac](https://www.v2ex.com/t/825435)
 1. [给女朋友出了个年度报告](https://www.v2ex.com/t/825404)
-1. [现在国内的安卓环境为何如此恶劣](https://www.v2ex.com/t/825332)
 1. [在一年的最后一天 emo 下，突然觉得生活好累](https://www.v2ex.com/t/825441)
-1. [找到了真正喜欢的工作](https://www.v2ex.com/t/825328)
-1. [腾讯出了 Linux 版微信~](https://www.v2ex.com/t/825417)
+1. [现在国内的安卓环境为何如此恶劣](https://www.v2ex.com/t/825332)
 1. [求推荐一个小白入手的 Linux 桌面版](https://www.v2ex.com/t/825471)
+1. [腾讯出了 Linux 版微信~](https://www.v2ex.com/t/825417)
+1. [新来的老大对我说很难听的话，我打算离开这家待了 4 年的公司](https://www.v2ex.com/t/825511)
 1. [小弟写了一个 keepass 的 iOS 客户端](https://www.v2ex.com/t/825428)
-1. [V 友们，租房中介要求我元旦之前搬走](https://www.v2ex.com/t/825310)
+1. [免费云数据库拉新抽奖（百分百中奖那种）= switch/纸质书/超大马克杯/T 恤/数据线 任你选](https://www.v2ex.com/t/825427)
 
 ## 历史归档
 
