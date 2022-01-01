@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-01 08:25:07 +0800`
+ `更新时间：2022-01-01 09:57:49 +0800`
 
 ## 热议话题
 
-1. [给女朋友出了个年度报告](https://www.v2ex.com/t/825404)
 1. [在一年的最后一天 emo 下，突然觉得生活好累](https://www.v2ex.com/t/825441)
 1. [求推荐一个小白入手的 Linux 桌面版](https://www.v2ex.com/t/825471)
 1. [新来的老大对我说很难听的话，我打算离开这家待了 4 年的公司](https://www.v2ex.com/t/825511)
-1. [免费云数据库拉新抽奖（百分百中奖那种）= switch/纸质书/超大马克杯/T 恤/数据线 任你选](https://www.v2ex.com/t/825427)
-1. [腾讯出了 Linux 版微信~](https://www.v2ex.com/t/825417)
 1. [小弟写了一个 keepass 的 iOS 客户端](https://www.v2ex.com/t/825428)
 1. [Java 中，一个 final 的 List 变量，被往里加了元素，算不算违反了 final 这个关键词在这里暗示的约定？](https://www.v2ex.com/t/825448)
+1. [原生安卓系统的平板在国内有市场吗？](https://www.v2ex.com/t/825474)
+1. [沉默寡言的人怎么带技术团队？](https://www.v2ex.com/t/825500)
+1. [年底积分清零，赶紧兑换！](https://www.v2ex.com/t/825550)
+1. [2021 年股市收盘了，大家今年的股票和基金收益情况怎么样？](https://www.v2ex.com/t/825526)
 
 ## 历史归档
 
