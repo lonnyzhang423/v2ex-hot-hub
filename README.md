@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-02 07:07:37 +0800`
+ `更新时间：2022-01-02 08:25:31 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [赴女多男少的饭局，需要注意什么](https://www.v2ex.com/t/825624)
 1. [Linux 下有什么杀毒软件?](https://www.v2ex.com/t/825630)
 1. [2021 跑步总结](https://www.v2ex.com/t/825662)
-1. [今天有去公司加班的兄弟吗？](https://www.v2ex.com/t/825620)
 1. [第一次去女朋友家应该跟她父母聊些什么话题呢？](https://www.v2ex.com/t/825678)
 1. [程序员的未来](https://www.v2ex.com/t/825675)
 1. [怎么通过 VS2019 看 strlen()的源码？](https://www.v2ex.com/t/825671)
+1. [都 2022 年了， Android 程序员的路在何方](https://www.v2ex.com/t/825672)
 
 ## 历史归档
 
