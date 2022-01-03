@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-03 09:55:55 +0800`
+ `更新时间：2022-01-03 10:30:17 +0800`
 
 ## 热议话题
 
-1. [22 年想买车了, 是买混动还是纯电](https://www.v2ex.com/t/825745)
 1. [想在公司电脑上架个 openvpn 然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806)
 1. [小米 12 上手了，有个问题？](https://www.v2ex.com/t/825795)
 1. [小米 10s 值得买吗？买过的说下，想换手机](https://www.v2ex.com/t/825839)
@@ -24,7 +23,8 @@
 1. [吐槽最近带的一个"新人"](https://www.v2ex.com/t/825849)
 1. [4000-5000 的女生用开发机推荐](https://www.v2ex.com/t/825766)
 1. [Apple Home 天天接到澳门威尼斯邀请，有啥办法屏蔽吗？](https://www.v2ex.com/t/825794)
-1. [请教下 MacBook Pro 14/16 上面观看杜比视界/HDR 的时候亮度为什么不是自动？](https://www.v2ex.com/t/825802)
+1. [揭秘一个黑心的装修公司，单纯的人总是容易受伤](https://www.v2ex.com/t/825830)
+1. [老生常谈了， macOS 为啥越来越慢。Windows 也这样吗？](https://www.v2ex.com/t/825865)
 
 ## 历史归档
 
