@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-04 01:17:12 +0800`
+ `更新时间：2022-01-04 02:07:33 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919)
 1. [老生常谈了， macOS 为啥越来越慢。Windows 也这样吗？](https://www.v2ex.com/t/825865)
 1. [歌单推荐](https://www.v2ex.com/t/825877)
-1. [老生常谈了， iOS 到底有没有后台](https://www.v2ex.com/t/825863)
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915)
+1. [老生常谈了， iOS 到底有没有后台](https://www.v2ex.com/t/825863)
 1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909)
 1. [广东电信降速套餐有人遇到过吗？](https://www.v2ex.com/t/825940)
 
