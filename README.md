@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-04 04:06:57 +0800`
+ `更新时间：2022-01-04 05:06:09 +0800`
 
 ## 热议话题
 
 1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875)
-1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894)
 1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917)
+1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894)
 1. [眼睛好难受啊！这显示器我无语啦！](https://www.v2ex.com/t/825919)
-1. [老生常谈了， macOS 为啥越来越慢。Windows 也这样吗？](https://www.v2ex.com/t/825865)
 1. [歌单推荐](https://www.v2ex.com/t/825877)
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915)
 1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909)
 1. [广东电信降速套餐有人遇到过吗？](https://www.v2ex.com/t/825940)
 1. [老哥们，看看我这 3080 装机配置是否合适](https://www.v2ex.com/t/825946)
+1. [[送码] MarkGit, 一个简单好用的 iOS git 客户端和代码编辑器](https://www.v2ex.com/t/825900)
 
 ## 历史归档
 
