@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-03 20:10:30 +0800`
+ `更新时间：2022-01-03 21:16:14 +0800`
 
 ## 热议话题
 
 1. [吐槽最近带的一个"新人"](https://www.v2ex.com/t/825849)
 1. [小米 10s 值得买吗？买过的说下，想换手机](https://www.v2ex.com/t/825839)
-1. [揭秘一个黑心的装修公司，单纯的人总是容易受伤](https://www.v2ex.com/t/825830)
+1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875)
 1. [对京东的售后服务“非常失望”](https://www.v2ex.com/t/825838)
 1. [老生常谈了， macOS 为啥越来越慢。Windows 也这样吗？](https://www.v2ex.com/t/825865)
 1. [歌单推荐](https://www.v2ex.com/t/825877)
-1. [求有趣的中文 podcast（播客）推荐？](https://www.v2ex.com/t/825875)
 1. [真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894)
 1. [🎉 MenubarX for macOS 正式发布啦！一款强大的 Mac 菜单栏浏览器](https://www.v2ex.com/t/825917)
 1. [老生常谈了， iOS 到底有没有后台](https://www.v2ex.com/t/825863)
+1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909)
 
 ## 历史归档
 
