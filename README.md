@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-05 01:16:53 +0800`
+ `更新时间：2022-01-05 02:07:21 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [网易云音乐是如何存活下来的?](https://www.v2ex.com/t/826105)
 1. [wps 可以取代 office 吗？](https://www.v2ex.com/t/826087)
 1. [工作第一年，过年给家人带什么礼物？](https://www.v2ex.com/t/826001)
-1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002)
 1. [请教下用 iPhone SE 做主力机的各位](https://www.v2ex.com/t/826005)
+1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002)
 1. [公司网络限制访问 Google](https://www.v2ex.com/t/825993)
 
 ## 历史归档
