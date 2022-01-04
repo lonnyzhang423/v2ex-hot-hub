@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-05 04:07:14 +0800`
+ `更新时间：2022-01-05 05:05:13 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [工作第一年，过年给家人带什么礼物？](https://www.v2ex.com/t/826001)
 1. [请教下用 iPhone SE 做主力机的各位](https://www.v2ex.com/t/826005)
 1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002)
-1. [公司网络限制访问 Google](https://www.v2ex.com/t/825993)
+1. [数字人民币钱包（试点版）上架了](https://www.v2ex.com/t/826053)
 
 ## 历史归档
 
