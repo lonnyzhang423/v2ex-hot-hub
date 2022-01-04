@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-04 14:08:06 +0800`
+ `更新时间：2022-01-04 15:06:45 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [工作第一年，过年给家人带什么礼物？](https://www.v2ex.com/t/826001)
 1. [公司网络限制访问 Google](https://www.v2ex.com/t/825993)
 1. [为什么小红书、拼多多、淘宝等没有发布适配 M1 macOS 的 app 呢？](https://www.v2ex.com/t/825915)
-1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909)
 1. [gitee 为何如此拉夸，动不动就 502](https://www.v2ex.com/t/826002)
+1. [在 github 仓库 指出潜在的安全隐患后 被删 issue](https://www.v2ex.com/t/825909)
 
 ## 历史归档
 
