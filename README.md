@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-05 23:06:40 +0800`
+ `更新时间：2022-01-06 00:09:16 +0800`
 
 ## 热议话题
 
 1. [没有"外挂"好累](https://www.v2ex.com/t/826242)
-1. [所以数字人民币究竟在什么场景下是刚需？](https://www.v2ex.com/t/826333)
 1. [WPS 竟然比 Excel 快？](https://www.v2ex.com/t/826298)
 1. [有没有人觉得选择前端职业，很难成长为一个真正的程序员？](https://www.v2ex.com/t/826311)
 1. [Apple watch 有必要贴膜吗?](https://www.v2ex.com/t/826280)
