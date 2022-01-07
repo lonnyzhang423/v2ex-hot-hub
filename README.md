@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-07 07:06:49 +0800`
+ `更新时间：2022-01-07 08:26:00 +0800`
 
 ## 热议话题
 
-1. [租房退房后一直不给退押金怎么办](https://www.v2ex.com/t/826511)
 1. [faker.js 作者删除了所有的代码](https://www.v2ex.com/t/826515)
+1. [租房退房后一直不给退押金怎么办](https://www.v2ex.com/t/826511)
 1. [昨天大晚上出去送了个外卖](https://www.v2ex.com/t/826500)
 1. [2022 年， Alfred 比 Spotlight 好用吗？](https://www.v2ex.com/t/826521)
 1. [新房即将入住，该买些什么](https://www.v2ex.com/t/826574)
