@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-07 19:05:23 +0800`
+ `更新时间：2022-01-07 20:10:47 +0800`
 
 ## 热议话题
 
 1. [2021 年至今你看过「最好」和「最烂」的电影或电视剧是？不限上映时间。](https://www.v2ex.com/t/826710)
 1. [有人用过 Keychron 不，吹的 Mac 最友好键盘](https://www.v2ex.com/t/826707)
-1. [现在还有写 Blog 的小伙伴吗？](https://www.v2ex.com/t/826665)
 1. [如果你不想天天被 bug 气到，就不要买 Mac](https://www.v2ex.com/t/826753)
+1. [现在还有写 Blog 的小伙伴吗？](https://www.v2ex.com/t/826665)
 1. [QQ 现在在 iOS 上的安装包都在这么大了吗？ 879M。](https://www.v2ex.com/t/826683)
 1. [感觉这个世界已经进入一个无聊的大停滞时代了。](https://www.v2ex.com/t/826801)
 1. [一个洋插队者的 2020 到 2021，在困难中笑着前行。](https://www.v2ex.com/t/826718)
