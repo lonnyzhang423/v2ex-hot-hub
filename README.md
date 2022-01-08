@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-08 09:56:17 +0800`
+ `更新时间：2022-01-08 10:33:45 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,11 @@
 1. [聊聊 esxi 和 pve 家用场景哪个更有优势](https://www.v2ex.com/t/826802)
 1. [新装修后如何除甲醛效果最显著？](https://www.v2ex.com/t/826770)
 1. [水一个~ IDEA 支持中文了](https://www.v2ex.com/t/826774)
-1. [老哥们，我觉得我做不了码农这行了](https://www.v2ex.com/t/826743)
 1. [V 友们，想买一个路由器，有什么推荐的品牌型号么？（小米、360 啥的先不考虑了。。。](https://www.v2ex.com/t/826813)
-1. [有做过 smlie 全飞秒的老哥吗？](https://www.v2ex.com/t/826747)
+1. [为什么在中国访问 Google， Google 栏里没有 Gmail？](https://www.v2ex.com/t/826929)
 1. [富平流心柿饼回帖就有机会品尝咯](https://www.v2ex.com/t/826793)
+1. [领导刚面试完一个人，直接对我说“技术跟我差不多，就会百度，不打算用”](https://www.v2ex.com/t/826861)
+1. [英特尔挖走苹果 M1 首席芯片设计师 Jeff Wilcox](https://www.v2ex.com/t/826759)
 
 ## 历史归档
 
