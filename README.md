@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-08 19:04:59 +0800`
+ `更新时间：2022-01-08 20:09:48 +0800`
 
 ## 热议话题
 
 1. [7 年塔罗占卜经历的 U3D 前端，可以提供一对一塔罗占卜](https://www.v2ex.com/t/826948)
 1. [去美国的面签，如何才能面签失败？](https://www.v2ex.com/t/826977)
 1. [为什么在中国访问 Google， Google 栏里没有 Gmail？](https://www.v2ex.com/t/826929)
-1. [作为一个开发，你能接受测试教你改 bug 吗](https://www.v2ex.com/t/826909)
 1. [屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954)
-1. [如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953)
 1. [iPad mini6 值不值得买？](https://www.v2ex.com/t/826917)
-1. [买正版 IntelliJ IDEA 全家桶有坑吗](https://www.v2ex.com/t/826908)
-1. [再来水一帖：分享改变生活习惯的物品](https://www.v2ex.com/t/826902)
+1. [如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953)
+1. [想支教山区，有个不成熟的想法各位老哥帮忙指点下](https://www.v2ex.com/t/826968)
+1. [还是决定出国读博](https://www.v2ex.com/t/826918)
+1. [所以现在有在 Windows 下安全使用 QQ 微信的方法吗](https://www.v2ex.com/t/826921)
 
 ## 历史归档
 
