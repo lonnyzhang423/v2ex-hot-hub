@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-08 17:06:43 +0800`
+ `更新时间：2022-01-08 18:06:36 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [为什么在中国访问 Google， Google 栏里没有 Gmail？](https://www.v2ex.com/t/826929)
 1. [作为一个开发，你能接受测试教你改 bug 吗](https://www.v2ex.com/t/826909)
 1. [如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953)
-1. [各位大佬，现在有啥新闻 app 推荐吗](https://www.v2ex.com/t/826880)
+1. [iPad mini6 值不值得买？](https://www.v2ex.com/t/826917)
 1. [屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954)
 1. [买正版 IntelliJ IDEA 全家桶有坑吗](https://www.v2ex.com/t/826908)
-1. [iPad mini6 值不值得买？](https://www.v2ex.com/t/826917)
+1. [再来水一帖：分享改变生活习惯的物品](https://www.v2ex.com/t/826902)
 
 ## 历史归档
 
