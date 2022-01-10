@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-11 01:20:39 +0800`
+ `更新时间：2022-01-11 02:08:51 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [V 友们， iPhone 如何双开微信](https://www.v2ex.com/t/827238)
 1. [以后的电脑有没有可能干掉内存？](https://www.v2ex.com/t/827298)
 1. [2022 求推荐路由器](https://www.v2ex.com/t/827212)
-1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
 1. [不想上班怎么办](https://www.v2ex.com/t/827233)
+1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
 
 ## 历史归档
 
