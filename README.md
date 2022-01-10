@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-11 00:14:29 +0800`
+ `更新时间：2022-01-11 01:20:39 +0800`
 
 ## 热议话题
 
-1. [到新加坡打工两个月的经历分享](https://www.v2ex.com/t/827199)
 1. [用过 Colors 和 Faker.js 的今天不要更新项目依赖](https://www.v2ex.com/t/827224)
 1. [Win 下大家用什么输入法？](https://www.v2ex.com/t/827232)
 1. [迫于 2022 年到了，给父母买手机推荐哪家强呢？](https://www.v2ex.com/t/827237)
@@ -25,6 +24,7 @@
 1. [以后的电脑有没有可能干掉内存？](https://www.v2ex.com/t/827298)
 1. [2022 求推荐路由器](https://www.v2ex.com/t/827212)
 1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
+1. [不想上班怎么办](https://www.v2ex.com/t/827233)
 
 ## 历史归档
 
