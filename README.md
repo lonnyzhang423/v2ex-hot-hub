@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-11 08:26:32 +0800`
+ `更新时间：2022-01-11 09:58:41 +0800`
 
 ## 热议话题
 
-1. [用过 Colors 和 Faker.js 的今天不要更新项目依赖](https://www.v2ex.com/t/827224)
-1. [Win 下大家用什么输入法？](https://www.v2ex.com/t/827232)
 1. [迫于 2022 年到了，给父母买手机推荐哪家强呢？](https://www.v2ex.com/t/827237)
 1. [在国企的运维，感觉干不下去了](https://www.v2ex.com/t/827241)
-1. [V 友们， iPhone 如何双开微信](https://www.v2ex.com/t/827238)
 1. [以后的电脑有没有可能干掉内存？](https://www.v2ex.com/t/827298)
-1. [2022 求推荐路由器](https://www.v2ex.com/t/827212)
+1. [V 友们， iPhone 如何双开微信](https://www.v2ex.com/t/827238)
+1. [看见大家在鄙视 QQ 的软件大小，有没有人记得夸克浏览器呢](https://www.v2ex.com/t/827235)
 1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
-1. [不想上班怎么办](https://www.v2ex.com/t/827233)
 1. [开源，是否是一门生意？](https://www.v2ex.com/t/827256)
+1. [可否把钱长期存放在以太坊上？](https://www.v2ex.com/t/827392)
+1. [拼多多没有购物车，购物车是伪需求吗](https://www.v2ex.com/t/827246)
+1. [好烦啊， Mac 为什么没有一个完美的浏览器？](https://www.v2ex.com/t/827395)
 
 ## 历史归档
 
