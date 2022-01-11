@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-11 18:11:33 +0800`
+ `更新时间：2022-01-11 19:10:29 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,11 @@
 1. [我就不明白了 大冷天一到公司开窗户的是什么心里](https://www.v2ex.com/t/827466)
 1. [迫于公司团建滑雪，过来求教大佬们新手第一次去滑雪的建议](https://www.v2ex.com/t/827478)
 1. [人在重庆，是否要去一线城市挣钱？](https://www.v2ex.com/t/827471)
-1. [好烦啊， Mac 为什么没有一个完美的浏览器？](https://www.v2ex.com/t/827395)
-1. [可否把钱长期存放在以太坊上？](https://www.v2ex.com/t/827392)
 1. [如何说服老婆买特斯拉？](https://www.v2ex.com/t/827602)
-1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
 1. [给女票选生日礼物，有什么建议？](https://www.v2ex.com/t/827418)
+1. [React HTTP 请求问题](https://www.v2ex.com/t/827424)
 1. [大家的软路由是当主路由还是旁路由](https://www.v2ex.com/t/827496)
+1. [Norton 杀毒软件开始自带挖矿工具](https://www.v2ex.com/t/827461)
 
 ## 历史归档
 
