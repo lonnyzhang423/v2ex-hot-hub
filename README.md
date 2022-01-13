@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-13 12:08:38 +0800`
+ `更新时间：2022-01-13 13:08:52 +0800`
 
 ## 热议话题
 
 1. [2022 PHPer 路在何方？](https://www.v2ex.com/t/827820)
 1. [请教各位电视和路由器购买推荐](https://www.v2ex.com/t/827842)
 1. [罗技 MX Master3 和妙控板，你更推荐哪一个？](https://www.v2ex.com/t/827923)
-1. [关于 MacBook Pro 电池鼓胀问题，如果你也同样出现过这个问题](https://www.v2ex.com/t/827801)
-1. [2021 年的副业尝试，多做点有长期价值的事](https://www.v2ex.com/t/827785)
 1. [凌晨四点 海棠花未眠](https://www.v2ex.com/t/827935)
+1. [关于 MacBook Pro 电池鼓胀问题，如果你也同样出现过这个问题](https://www.v2ex.com/t/827801)
 1. [node 在前端当中的重要性，是否每个前端都应该学习](https://www.v2ex.com/t/827800)
 1. [为什么安卓阵营都抛弃了弹出式摄像头](https://www.v2ex.com/t/827922)
 1. [后端程序员转前端，有什么推荐吗](https://www.v2ex.com/t/827797)
+1. [2000 预算，给老爸换个手机，求推荐](https://www.v2ex.com/t/827791)
 
 ## 历史归档
 
