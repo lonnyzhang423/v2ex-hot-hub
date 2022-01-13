@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-14 04:07:14 +0800`
+ `更新时间：2022-01-14 05:06:01 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,6 @@
 1. [类似 dto、vo、bo 这些类的命名后缀是大写还是驼峰？比如： UserDto 或者 UserDTO？](https://www.v2ex.com/t/827939)
 1. [求一波摸鱼网站，中英文都可。](https://www.v2ex.com/t/827938)
 1. [公司让员工自费办理指定运营商的手机卡，公司给报销话费，这算正常吗？](https://www.v2ex.com/t/827967)
-1. [有 Apple Care+的情况下，如何比较稳的换新？](https://www.v2ex.com/t/828015)
 
 ## 历史归档
 
