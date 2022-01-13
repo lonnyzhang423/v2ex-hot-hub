@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-13 21:17:17 +0800`
+ `更新时间：2022-01-13 22:11:23 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [独立开发，小有收获](https://www.v2ex.com/t/827946)
 1. [被同事恶心到了，大家有啥建议](https://www.v2ex.com/t/828054)
 1. [15.2.1 正式版更新推送了](https://www.v2ex.com/t/827955)
-1. [类似 dto、vo、bo 这些类的命名后缀是大写还是驼峰？比如： UserDto 或者 UserDTO？](https://www.v2ex.com/t/827939)
 1. [求一波摸鱼网站，中英文都可。](https://www.v2ex.com/t/827938)
+1. [类似 dto、vo、bo 这些类的命名后缀是大写还是驼峰？比如： UserDto 或者 UserDTO？](https://www.v2ex.com/t/827939)
 
 ## 历史归档
 
