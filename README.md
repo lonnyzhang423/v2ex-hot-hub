@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-16 00:08:20 +0800`
+ `更新时间：2022-01-16 01:15:19 +0800`
 
 ## 热议话题
 
 1. [上班路上骑小毛驴差点出事](https://www.v2ex.com/t/828376)
 1. [知乎早期的那批创作者都去哪里了呢？](https://www.v2ex.com/t/828425)
 1. [谁能知道这是什么面?](https://www.v2ex.com/t/828427)
-1. [大家使用 M1 感受如何？](https://www.v2ex.com/t/828420)
 1. [家里 R2S 老是断网，有没有补救措施？](https://www.v2ex.com/t/828450)
+1. [大家使用 M1 感受如何？](https://www.v2ex.com/t/828420)
+1. [《我来》什么狗屎注重用户隐私，根本就是狗屁！](https://www.v2ex.com/t/828503)
 1. [有没有中文或英文的 IT 类杂志（纸）](https://www.v2ex.com/t/828383)
 1. [微信输入框被键盘遮挡（Pixel 系列， Android 12）](https://www.v2ex.com/t/828401)
 1. [请教独立开发者们， app 的 UI 也是自己思考画出来的吗](https://www.v2ex.com/t/828398)
-1. [有什么简易的(物理)输入混淆工具吗？](https://www.v2ex.com/t/828424)
 
 ## 历史归档
 
