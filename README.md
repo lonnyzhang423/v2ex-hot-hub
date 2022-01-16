@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-16 14:07:53 +0800`
+ `更新时间：2022-01-16 15:07:38 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [typec 接口也分安卓和苹果了吗](https://www.v2ex.com/t/828528)
 1. [用了多年的 17 年 MBP，想等明年 M2 的 MBA。](https://www.v2ex.com/t/828464)
 1. [PowerShell 竟然强悍如斯！](https://www.v2ex.com/t/828462)
-1. [Genius Bar 更换 TopCase 结果电池没换...](https://www.v2ex.com/t/828490)
 1. [阿里云已经成为全世界最大的中文内容农场](https://www.v2ex.com/t/828447)
+1. [Genius Bar 更换 TopCase 结果电池没换...](https://www.v2ex.com/t/828490)
 
 ## 历史归档
 
