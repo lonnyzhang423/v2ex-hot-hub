@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-16 19:04:57 +0800`
+ `更新时间：2022-01-16 20:09:43 +0800`
 
 ## 热议话题
 
 1. [typec 接口也分安卓和苹果了吗](https://www.v2ex.com/t/828528)
 1. [为啥国内优质公司(不是指营收)那么少？](https://www.v2ex.com/t/828562)
-1. [求问现在哪里还有修自行车的。。](https://www.v2ex.com/t/828532)
 1. [从 win11 重装回 win10，整个人都获得了新生](https://www.v2ex.com/t/828569)
+1. [求问现在哪里还有修自行车的。。](https://www.v2ex.com/t/828532)
 1. [Genius Bar 更换 TopCase 结果电池没换...](https://www.v2ex.com/t/828490)
-1. [软路由+AP 下 apple tv 和 iPhone 无法通信](https://www.v2ex.com/t/828469)
 1. [突发奇想，做了个虎年对联的 NFT](https://www.v2ex.com/t/828531)
+1. [有什么有趣的 side project 可以做？](https://www.v2ex.com/t/828551)
 
 ## 历史归档
 
