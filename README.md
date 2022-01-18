@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-18 13:09:45 +0800`
+ `更新时间：2022-01-18 14:08:05 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [春节期间想找个网游玩玩](https://www.v2ex.com/t/828767)
 1. [阿里小号 恢复新购号码了,20 元/1 年](https://www.v2ex.com/t/828848)
 1. [大家对未来几年的经济怎么看？](https://www.v2ex.com/t/828853)
+1. [想玩点主机游戏，求推荐。](https://www.v2ex.com/t/828894)
 1. [有哪些相对保值的爱好？](https://www.v2ex.com/t/828859)
 1. [给老人换手机推荐 省心一些的](https://www.v2ex.com/t/828778)
-1. [想玩点主机游戏，求推荐。](https://www.v2ex.com/t/828894)
 1. [你们在 git 提交的时候会用 emoji 么。做了个 git emoji 的网站](https://www.v2ex.com/t/828792)
 1. [求大佬帮我安排一下 gen10 plus](https://www.v2ex.com/t/828883)
 
