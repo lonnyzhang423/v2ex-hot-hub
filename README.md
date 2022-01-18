@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-18 16:08:53 +0800`
+ `更新时间：2022-01-18 17:11:29 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [有哪些相对保值的爱好？](https://www.v2ex.com/t/828859)
 1. [想玩点主机游戏，求推荐。](https://www.v2ex.com/t/828894)
 1. [本人开发了一个简历 PDF 生成下载的的网站，永久免费！](https://www.v2ex.com/t/828933)
-1. [求大佬帮我安排一下 gen10 plus](https://www.v2ex.com/t/828883)
 1. [enpass 和 1password 各位大佬们用的是那个？](https://www.v2ex.com/t/828943)
+1. [区块链就是: 手上拿着锤子，看啥都想锤两下? 除了发币到底还能解决什么问题?](https://www.v2ex.com/t/829011)
+1. [求大佬帮我安排一下 gen10 plus](https://www.v2ex.com/t/828883)
 
 ## 历史归档
 
