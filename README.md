@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-21 08:22:32 +0800`
+ `更新时间：2022-01-21 09:49:55 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [年会活动 哪些才是程序员真的喜欢的](https://www.v2ex.com/t/829390)
 1. [计算机专业女生电脑求推荐](https://www.v2ex.com/t/829426)
 1. [21 年到现在亏出翔了](https://www.v2ex.com/t/829400)
-1. [List list=new ArrayList 写法的意义是什么](https://www.v2ex.com/t/829411)
 1. [企微 vs 钉钉 vs 飞书](https://www.v2ex.com/t/829398)
-1. [G Suite 免费版没了！](https://www.v2ex.com/t/829376)
+1. [List list=new ArrayList 写法的意义是什么](https://www.v2ex.com/t/829411)
 1. [NFT，击鼓传花的泡沫](https://www.v2ex.com/t/829500)
+1. [G Suite 免费版没了！](https://www.v2ex.com/t/829376)
 
 ## 历史归档
 
