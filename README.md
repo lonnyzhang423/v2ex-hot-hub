@@ -11,16 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-22 10:20:31 +0800`
+ `更新时间：2022-01-22 11:06:06 +0800`
 
 ## 热议话题
 
 1. [Javaer 用了一下 Go web 开发，感觉开发体验倒退了](https://www.v2ex.com/t/829692)
-1. [关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633)
 1. [订单成功状态应该用 succeed、success 还是 successful ?](https://www.v2ex.com/t/829748)
 1. [越来越高的社保](https://www.v2ex.com/t/829675)
 1. [论脱单](https://www.v2ex.com/t/829705)
 1. [没钱还不愿意工作的诗人是怎么想的？](https://www.v2ex.com/t/829736)
+1. [昨天看了一个很有意思的视频，讲的是 WEB 后台开发， WASM 一统天下的故事。](https://www.v2ex.com/t/829706)
+1. [大家规定的工作时长是多少？就我是满满 8 小时么？](https://www.v2ex.com/t/829680)
 
 ## 历史归档
 
