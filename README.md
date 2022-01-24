@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-24 21:11:30 +0800`
+ `更新时间：2022-01-24 22:08:19 +0800`
 
 ## 热议话题
 
-1. [你人生中的第一辆车是什么？](https://www.v2ex.com/t/830133)
 1. [2022 年最适合写业务代码的编程语言是哪个？](https://www.v2ex.com/t/830159)
 1. [求推荐奶飞好剧](https://www.v2ex.com/t/830193)
 1. [高层, 不封阳台, 可以养猫猫么?](https://www.v2ex.com/t/830181)
 1. [说说我教女票编程的失败经历](https://www.v2ex.com/t/830163)
 1. [低代码程序媛我该不该离职](https://www.v2ex.com/t/830271)
 1. [2022 年 1 月， windows 轻薄商务本中最能打的是不是就是 matebook 了](https://www.v2ex.com/t/830186)
-1. [22 日凌晨外祖父走了](https://www.v2ex.com/t/830139)
+1. [我的房车终于上好牌照了](https://www.v2ex.com/t/830162)
+1. [每小时 100W+的请求量，该怎么向黑产大哥们求饶啊？](https://www.v2ex.com/t/830286)
 
 ## 历史归档
 
