@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-26 07:07:17 +0800`
+ `更新时间：2022-01-26 08:24:58 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [各位春节放假通知下来了吗？](https://www.v2ex.com/t/830408)
 1. [各位年终奖发了没？](https://www.v2ex.com/t/830431)
 1. [Windows 怎么开发配置环境来着， WSL 好像没啥用啊](https://www.v2ex.com/t/830414)
+1. [国产安卓机的系统怎么用得下手的啊...](https://www.v2ex.com/t/830589)
 1. [“娶妻生子真的是必须的吗”](https://www.v2ex.com/t/830449)
 1. [13 Pro Max 续航真的是刚](https://www.v2ex.com/t/830388)
-1. [国产安卓机的系统怎么用得下手的啊...](https://www.v2ex.com/t/830589)
 
 ## 历史归档
 
