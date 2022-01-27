@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-27 12:07:32 +0800`
+ `更新时间：2022-01-27 13:06:13 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [1 岁 4 个月的小孩喜欢玩手机，有什么好的办法和建议吗？](https://www.v2ex.com/t/830744)
 1. [一面的大头兵（非 leader）问我当前薪资和期望薪资](https://www.v2ex.com/t/830762)
 1. [v 友们都戴什么手表/手环？有推荐的购买么？](https://www.v2ex.com/t/830787)
-1. [看来 MacBook pro 14 还是不要一直插着电用](https://www.v2ex.com/t/830773)
 1. [老编辑锐评 [腾讯应届生公司大群怒怼管理层]](https://www.v2ex.com/t/830794)
+1. [看来 MacBook pro 14 还是不要一直插着电用](https://www.v2ex.com/t/830773)
+1. [[起名贴] 给小朋友起名犯愁了，看看大家有没有好想法](https://www.v2ex.com/t/830873)
 1. [日本代购 Pixel 6 被税](https://www.v2ex.com/t/830728)
 
 ## 历史归档
