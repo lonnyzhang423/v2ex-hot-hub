@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-27 14:07:35 +0800`
+ `更新时间：2022-01-27 15:06:30 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [看来 MacBook pro 14 还是不要一直插着电用](https://www.v2ex.com/t/830773)
 1. [做了一个用于登录 SSH 的 USB Key，成本低至 9.9 元](https://www.v2ex.com/t/830808)
 1. [iOS 15.3 来了](https://www.v2ex.com/t/830839)
-1. [日本代购 Pixel 6 被税](https://www.v2ex.com/t/830728)
+1. [过年了求推荐好看的网文小说](https://www.v2ex.com/t/830836)
 
 ## 历史归档
 
