@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-28 22:07:25 +0800`
+ `更新时间：2022-01-28 23:09:11 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [不堪回首的 2020，曙光重现的 2021](https://www.v2ex.com/t/831067)
 1. [ios15.4 将支持戴口罩面部解锁。](https://www.v2ex.com/t/831059)
 1. [Java 的缺点就是啰嗦 Java 的好处也就是这里了吧？](https://www.v2ex.com/t/831086)
-1. [微信 App Store 充值 9 折优惠又来了 (2022/1/28-2/3)](https://www.v2ex.com/t/831039)
 1. [如何举报公司不允许回家过年？](https://www.v2ex.com/t/831129)
+1. [微信 App Store 充值 9 折优惠又来了 (2022/1/28-2/3)](https://www.v2ex.com/t/831039)
 1. [2022 年 wifi 路由推荐](https://www.v2ex.com/t/831065)
 
 ## 历史归档
