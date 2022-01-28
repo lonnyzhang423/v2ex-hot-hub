@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-28 13:05:42 +0800`
+ `更新时间：2022-01-28 14:07:49 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [ios15.4 将支持戴口罩面部解锁。](https://www.v2ex.com/t/831059)
 1. [耳鸣，说明五脏六腑，至少有一脏腑出现衰退或者其他问题。是身体自我求救。是警示信号。](https://www.v2ex.com/t/831015)
 1. [10 年前的笔记本还能卖掉吗？放在家里吃灰感觉挺可惜](https://www.v2ex.com/t/830918)
-1. [Docker Desktop 要收费了，大家用什么替代？](https://www.v2ex.com/t/830915)
 1. [微信 App Store 充值 9 折优惠又来了 (2022/1/28-2/3)](https://www.v2ex.com/t/831039)
-1. [临近放假无心工作，有没有同样想法的朋友](https://www.v2ex.com/t/830955)
+1. [Docker Desktop 要收费了，大家用什么替代？](https://www.v2ex.com/t/830915)
+1. [人生第一次使用 FaceTime，赞！](https://www.v2ex.com/t/831012)
 
 ## 历史归档
 
