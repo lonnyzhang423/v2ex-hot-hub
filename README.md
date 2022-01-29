@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-29 14:08:31 +0800`
+ `更新时间：2022-01-29 15:06:16 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [因 watch 升级，深刻感受到了 your device is not your's](https://www.v2ex.com/t/831156)
 1. [2021 自宅创业 10 个月总结，我会再次挑战](https://www.v2ex.com/t/831128)
 1. [idea2021 可以更新吗？](https://www.v2ex.com/t/831192)
-1. [JetBrains 家的微信红包封面～](https://www.v2ex.com/t/831233)
+1. [送大家 10000 个红包封面](https://www.v2ex.com/t/831223)
 
 ## 历史归档
 
