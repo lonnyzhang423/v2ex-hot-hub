@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-01-31 04:07:12 +0800`
+ `更新时间：2022-01-31 05:04:40 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [程序员专属红包封面，喜欢的可以领一个，无需关注扫码直接领～](https://www.v2ex.com/t/831363)
 1. [调查一下：买 iPad 的妙控键盘的用户，为何不怕下一代苹果换设计？](https://www.v2ex.com/t/831367)
 1. [中文版的 wordle 来了](https://www.v2ex.com/t/831375)
+1. [Mac 算 PC 吗？为什么](https://www.v2ex.com/t/831434)
 1. [个人弄企业邮箱现在用哪个方便](https://www.v2ex.com/t/831369)
 1. [摸鱼研究了下北京积分落户，请教些问题](https://www.v2ex.com/t/831378)
-1. [Mac 算 PC 吗？为什么](https://www.v2ex.com/t/831434)
 1. [突然发现联通云盘不错哎](https://www.v2ex.com/t/831382)
 
 ## 历史归档
