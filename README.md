@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-02 05:05:08 +0800`
+ `更新时间：2022-02-02 06:05:43 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [bootcdn 挂了](https://www.v2ex.com/t/831578)
 1. [我看现在有很多国产第三方的 Apple Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599)
 1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568)
+1. [走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623)
 
 ## 历史归档
 
