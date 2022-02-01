@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-01 22:10:30 +0800`
+ `更新时间：2022-02-01 23:10:28 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [2022 年了，如果想开发 macOS 简单的工具 app 考虑用(学)什么技术？](https://www.v2ex.com/t/831556)
 1. [20220201 午夜俱乐部](https://www.v2ex.com/t/831557)
 1. [用 PVE 和 Win10 下开 vbox 或者 hyper-v 相比的优势在哪里？](https://www.v2ex.com/t/831564)
-1. [GSuite 邮箱中邮件导出或下载问题](https://www.v2ex.com/t/831559)
+1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568)
 
 ## 历史归档
 
