@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-02 03:10:36 +0800`
+ `更新时间：2022-02-02 04:07:32 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [帮忙推荐净水和软路由](https://www.v2ex.com/t/831590)
 1. [用 PVE 和 Win10 下开 vbox 或者 hyper-v 相比的优势在哪里？](https://www.v2ex.com/t/831564)
 1. [bootcdn 挂了](https://www.v2ex.com/t/831578)
-1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568)
 1. [我看现在有很多国产第三方的 Apple Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599)
+1. [诗词版 wordle 来啦，顺祝新春快乐](https://www.v2ex.com/t/831568)
 
 ## 历史归档
 
