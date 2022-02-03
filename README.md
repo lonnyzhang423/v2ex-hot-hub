@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-03 17:08:09 +0800`
+ `更新时间：2022-02-03 18:07:20 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [27 寸 4K 接 Mac 显示效果到底怎么样呢？](https://www.v2ex.com/t/831684)
 1. [境外银行卡在国内怎么消费](https://www.v2ex.com/t/831758)
 1. [最近讨论键盘输入法挺多的，我想推荐一下手机输入法里的 14 键](https://www.v2ex.com/t/831710)
-1. [MacBook Pro 16 M1 Pro 到手感受](https://www.v2ex.com/t/831734)
 1. [你们的电脑版微信还能正常同步消息吗？](https://www.v2ex.com/t/831742)
+1. [MacBook Pro 16 M1 Pro 到手感受](https://www.v2ex.com/t/831734)
 
 ## 历史归档
 
