@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-04 17:04:33 +0800`
+ `更新时间：2022-02-04 18:06:26 +0800`
 
 ## 热议话题
 
-1. [滔博运动官方旗舰店，太恶心了](https://www.v2ex.com/t/831782)
-1. [是否存在这样一种设备 / 方案（自建小型 NAS？）](https://www.v2ex.com/t/831783)
 1. [关于 iPhone SE3](https://www.v2ex.com/t/831826)
 1. [用不上 IPv6，救救我。](https://www.v2ex.com/t/831839)
-1. [入手 iPhone ，怎么选](https://www.v2ex.com/t/831780)
 1. [记一次跟未来岳父岳母的对话](https://www.v2ex.com/t/831798)
 1. [有用过 ToDesk 的吗](https://www.v2ex.com/t/831784)
 1. [谁能解释一下这段代码为什么在别的浏览器能工作但在 Safari 下不能工作吗？太离奇了](https://www.v2ex.com/t/831846)
+1. [明明公司 21 年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847)
 1. [想问一下笔记本插一根 32G 内存条好还是 2 根 16G 的好？](https://www.v2ex.com/t/831829)
+1. [程序员肉翻德国 FAQ](https://www.v2ex.com/t/831831)
+1. [NTFS3 性能真强](https://www.v2ex.com/t/831844)
 
 ## 历史归档
 
