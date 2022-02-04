@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-05 04:05:28 +0800`
+ `更新时间：2022-02-05 05:04:59 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [用不上 IPv6，救救我。](https://www.v2ex.com/t/831839)
 1. [程序员肉翻德国 FAQ](https://www.v2ex.com/t/831831)
 1. [home pod 现在值得买吗？](https://www.v2ex.com/t/831891)
-1. [最近几年的喜剧题材作品是不是质量下降了](https://www.v2ex.com/t/831901)
 1. [NTFS3 性能真强](https://www.v2ex.com/t/831844)
 1. [单指可以缩放 google maps？不会的进来学习下](https://www.v2ex.com/t/831832)
 
