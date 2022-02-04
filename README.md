@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-04 07:05:19 +0800`
+ `更新时间：2022-02-04 08:23:40 +0800`
 
 ## 热议话题
 
 1. [最近几年](https://www.v2ex.com/t/831756)
-1. [密码管理软件它最强吗？](https://www.v2ex.com/t/831755)
 1. [2022 年 2 月，两步验证登录 app，哪个好用？（Microsoft / Google Authenticator / Authy / …… ）](https://www.v2ex.com/t/831772)
-1. [境外银行卡在国内怎么消费](https://www.v2ex.com/t/831758)
+1. [密码管理软件它最强吗？](https://www.v2ex.com/t/831755)
 1. [滔博运动官方旗舰店，太恶心了](https://www.v2ex.com/t/831782)
 1. [是否存在这样一种设备 / 方案（自建小型 NAS？）](https://www.v2ex.com/t/831783)
 1. [你们的电脑版微信还能正常同步消息吗？](https://www.v2ex.com/t/831742)
