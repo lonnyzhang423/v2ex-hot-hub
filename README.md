@@ -11,13 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-06 03:03:53 +0800`
+ `更新时间：2022-02-06 04:04:36 +0800`
 
 ## 热议话题
 
 1. [心态有点绷不住](https://www.v2ex.com/t/831937)
 1. [再次迷茫了 遭遇大事还是顶住了](https://www.v2ex.com/t/831970)
-1. [公务员申请外币卡](https://www.v2ex.com/t/831963)
 1. [程序员该 run 去新加坡吗](https://www.v2ex.com/t/831971)
 1. [隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996)
 1. [第一次见到苹果拉的专线](https://www.v2ex.com/t/831950)
