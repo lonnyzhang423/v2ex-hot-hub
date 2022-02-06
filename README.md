@@ -11,12 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-06 16:06:51 +0800`
+ `更新时间：2022-02-06 17:06:08 +0800`
 
 ## 热议话题
 
-1. [再次迷茫了 遭遇大事还是顶住了](https://www.v2ex.com/t/831970)
-1. [程序员该 run 去新加坡吗](https://www.v2ex.com/t/831971)
 1. [隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996)
 1. [多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981)
 1. [请教一个 Python 浮点数的小问题](https://www.v2ex.com/t/832021)
@@ -24,6 +22,8 @@
 1. [发现桌面太乱了， 2022 年了，大家都用什么插线板？](https://www.v2ex.com/t/832005)
 1. [2022 年，求一款预装迅飞(百度)输入法的手机品牌？](https://www.v2ex.com/t/832018)
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037)
+1. [如何提升编写文档能力](https://www.v2ex.com/t/832014)
+1. [换新手机了 但有好有坏（K40）](https://www.v2ex.com/t/832025)
 
 ## 历史归档
 
