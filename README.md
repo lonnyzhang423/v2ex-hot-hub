@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-06 07:10:39 +0800`
+ `更新时间：2022-02-06 08:28:44 +0800`
 
 ## 热议话题
 
 1. [心态有点绷不住](https://www.v2ex.com/t/831937)
 1. [再次迷茫了 遭遇大事还是顶住了](https://www.v2ex.com/t/831970)
 1. [程序员该 run 去新加坡吗](https://www.v2ex.com/t/831971)
-1. [隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996)
 1. [第一次见到苹果拉的专线](https://www.v2ex.com/t/831950)
+1. [隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996)
 1. [吃饭的时候头顶拼命冒汗是什么病？](https://www.v2ex.com/t/831954)
 1. [求推荐显示器？](https://www.v2ex.com/t/831942)
 1. [做复古方面的线上网站还有前景吗](https://www.v2ex.com/t/831953)
