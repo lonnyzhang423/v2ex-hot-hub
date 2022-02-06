@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-06 18:06:15 +0800`
+ `更新时间：2022-02-06 19:04:15 +0800`
 
 ## 热议话题
 
 1. [隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996)
 1. [发现在限制小孩玩手机这方面 安卓真的干不过 iOS](https://www.v2ex.com/t/832064)
 1. [请教一个 Python 浮点数的小问题](https://www.v2ex.com/t/832021)
+1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072)
 1. [发现桌面太乱了， 2022 年了，大家都用什么插线板？](https://www.v2ex.com/t/832005)
+1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037)
 1. [如何提升编写文档能力](https://www.v2ex.com/t/832014)
 1. [2022 年，求一款预装迅飞(百度)输入法的手机品牌？](https://www.v2ex.com/t/832018)
-1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037)
-1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072)
-1. [换新手机了 但有好有坏（K40）](https://www.v2ex.com/t/832025)
+1. [有人 25 岁靠自己出首付的吗？](https://www.v2ex.com/t/832027)
 
 ## 历史归档
 
