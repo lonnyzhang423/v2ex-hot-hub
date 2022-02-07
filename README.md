@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-07 07:05:43 +0800`
+ `更新时间：2022-02-07 08:23:52 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [这里让求机场么？让的话求一个](https://www.v2ex.com/t/832099)
 1. [果子 11 做主力还值得入手吗](https://www.v2ex.com/t/832072)
 1. [挑个笔记本有点难啊](https://www.v2ex.com/t/832105)
-1. [有人 25 岁靠自己出首付的吗？](https://www.v2ex.com/t/832027)
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037)
 1. [提高编程效率的方法，抛砖引玉](https://www.v2ex.com/t/832061)
 1. [求软路由推荐](https://www.v2ex.com/t/832092)
