@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-07 09:49:20 +0800`
+ `更新时间：2022-02-07 10:21:03 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [挑个笔记本有点难啊](https://www.v2ex.com/t/832105)
 1. [2022 年了， React Native 和 Flutter、uni-app 怎么选？](https://www.v2ex.com/t/832037)
 1. [提高编程效率的方法，抛砖引玉](https://www.v2ex.com/t/832061)
-1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043)
 1. [求软路由推荐](https://www.v2ex.com/t/832092)
 1. [v 友们， 100 ~ 200 块左右，可以买到用起来还行的“机械键盘”有哪些呢？](https://www.v2ex.com/t/832109)
+1. [突然 Paypal 收到了来自 DigitalOcean 的$5 汇入，啥情况？](https://www.v2ex.com/t/832043)
 
 ## 历史归档
 
