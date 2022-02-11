@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-11 16:09:18 +0800`
+ `更新时间：2022-02-11 17:06:53 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [租房的人会为了提升生活品质买大件吗？](https://www.v2ex.com/t/833000)
 1. [积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100)
 1. [分享一下你今年的书单](https://www.v2ex.com/t/833095)
+1. [银行总部和互联网 Offer 该怎么选](https://www.v2ex.com/t/833168)
 1. [连外包都做不好，我还能做什么，，](https://www.v2ex.com/t/833004)
 1. [小几百预算推荐给哪几个开源组织或工程捐款？](https://www.v2ex.com/t/833079)
-1. [银行总部和互联网 Offer 该怎么选](https://www.v2ex.com/t/833168)
 1. [Safari 和 Webkit 团队终于承认错误并开始征求反馈](https://www.v2ex.com/t/833117)
 1. [喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092)
 
