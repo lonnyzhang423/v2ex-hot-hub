@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-12 01:10:25 +0800`
+ `更新时间：2022-02-12 02:07:11 +0800`
 
 ## 热议话题
 
 1. [公众号 码农翻身 也开始贩卖焦虑了。赚钱又很多种方式，这种最垃圾。](https://www.v2ex.com/t/833115)
 1. [积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100)
-1. [银行总部和互联网 Offer 该怎么选](https://www.v2ex.com/t/833168)
 1. [分享一下你今年的书单](https://www.v2ex.com/t/833095)
+1. [银行总部和互联网 Offer 该怎么选](https://www.v2ex.com/t/833168)
 1. [Safari 和 Webkit 团队终于承认错误并开始征求反馈](https://www.v2ex.com/t/833117)
 1. [喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092)
 1. [大佬，分享你们网站给我看看吧。](https://www.v2ex.com/t/833200)
