@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-12 16:07:39 +0800`
+ `更新时间：2022-02-12 17:06:46 +0800`
 
 ## 热议话题
 
 1. [一个人（公司摸鱼+业余时间）开发了五年的开源项目：可用于自建 Git 服务，自带看板和 CI/CD，可替代 GitHub/GitLab（功能级的替代，而非小而美）](https://www.v2ex.com/t/833320)
 1. [在大城市，年龄越大越发觉得孤独，该怎么缓解这种情绪。](https://www.v2ex.com/t/833351)
 1. [小区还可以这样管？真的被震撼到了。](https://www.v2ex.com/t/833300)
-1. [请教大家如何起诉微软？](https://www.v2ex.com/t/833298)
 1. [下雨天，笔记本应该怎么防水？](https://www.v2ex.com/t/833311)
+1. [请教大家如何起诉微软？](https://www.v2ex.com/t/833298)
 1. [北京海淀怎么租房啊](https://www.v2ex.com/t/833260)
 1. [如何应对京东金融的频繁骚扰？](https://www.v2ex.com/t/833343)
 1. [bitwarden 炸了](https://www.v2ex.com/t/833284)
 1. [联通营销客服 到底是什么样的存在？](https://www.v2ex.com/t/833259)
+1. [多个 Apple ID 切换不用每次双重认证的好办法。](https://www.v2ex.com/t/833395)
 
 ## 历史归档
 
