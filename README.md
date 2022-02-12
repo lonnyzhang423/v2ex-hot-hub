@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-12 18:06:15 +0800`
+ `更新时间：2022-02-12 19:04:40 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [下雨天，笔记本应该怎么防水？](https://www.v2ex.com/t/833311)
 1. [请教大家如何起诉微软？](https://www.v2ex.com/t/833298)
 1. [如何应对京东金融的频繁骚扰？](https://www.v2ex.com/t/833343)
-1. [bitwarden 炸了](https://www.v2ex.com/t/833284)
 1. [多个 Apple ID 切换不用每次双重认证的好办法。](https://www.v2ex.com/t/833395)
 1. [Apple Watch 有换过电池的吗？健康度 80 了](https://www.v2ex.com/t/833347)
 1. [请问下 google drive 2t 有什么优惠的购买渠道](https://www.v2ex.com/t/833348)
+1. [折腾的意义？](https://www.v2ex.com/t/833303)
 
 ## 历史归档
 
