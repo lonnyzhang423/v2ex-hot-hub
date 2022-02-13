@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-14 02:06:42 +0800`
+ `更新时间：2022-02-14 03:04:11 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [学用 vim 中，发现小键盘尤其困难啊？](https://www.v2ex.com/t/833502)
 1. [深圳电信突然访问不了 translate.google.cn，导致 chrome 网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520)
 1. [看 Hacker News 有感](https://www.v2ex.com/t/833538)
-1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512)
 1. [大金空调实际使用体验](https://www.v2ex.com/t/833540)
+1. [今天有要去看电影的么？招商银行 40 元无门槛优惠券免费送](https://www.v2ex.com/t/833512)
 1. [大家 iPhone 有没有碰到过,wifi 处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516)
-1. [求问大家如何整理和管理自己的照片和视频](https://www.v2ex.com/t/833546)
+1. [iOS 上第三方输入法纠结](https://www.v2ex.com/t/833535)
 
 ## 历史归档
 
