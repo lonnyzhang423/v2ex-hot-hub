@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-15 18:11:42 +0800`
+ `更新时间：2022-02-15 19:09:32 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [今年上海电信变向涨价啊，一线城市开倒车](https://www.v2ex.com/t/833877)
 1. [又到了道理我都懂，就是迈不开第一步的境地。](https://www.v2ex.com/t/833887)
 1. [关于 wolai 和 notion 的关系](https://www.v2ex.com/t/833867)
+1. [口头禅](https://www.v2ex.com/t/833957)
 1. [关于 Web3.0 的问题](https://www.v2ex.com/t/833901)
 1. [HKD ------> CNY](https://www.v2ex.com/t/833854)
-1. [口头禅](https://www.v2ex.com/t/833957)
 1. [也在考虑车， V 友给给建议](https://www.v2ex.com/t/833885)
 1. [小公司办公文件服务器，偶尔外网访问，什么方案好？](https://www.v2ex.com/t/833882)
 
