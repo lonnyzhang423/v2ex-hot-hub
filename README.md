@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-17 09:44:18 +0800`
+ `更新时间：2022-02-17 10:16:37 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [精力差怎么办, 一直想睡觉](https://www.v2ex.com/t/834217)
 1. [求 3K 左右电动自行车推荐](https://www.v2ex.com/t/834158)
 1. [今天去重医附二院洗了牙。](https://www.v2ex.com/t/834202)
-1. [PHP 大神？ GO 大神？](https://www.v2ex.com/t/834151)
 1. [关于 Java 中的 DO、DTO、BO、AO、VO、POJO 有没有人能用一个接口的例子通俗的解释一下？](https://www.v2ex.com/t/834173)
+1. [假如每个人知道自己的寿命](https://www.v2ex.com/t/834157)
 
 ## 历史归档
 
