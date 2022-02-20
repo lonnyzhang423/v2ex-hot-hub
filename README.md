@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-20 07:06:21 +0800`
+ `更新时间：2022-02-20 08:32:16 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [悲报，某丁代理 Microsoft 365 了。不想给引流，就不放链接了](https://www.v2ex.com/t/834964)
 1. [mitmproxy 太慢了，有没有性能更好的替代品？](https://www.v2ex.com/t/835061)
 1. [AirPods 运动传感器妙用，可以用来识别跳绳计数](https://www.v2ex.com/t/834969)
+1. [Snell 协议 GG 了](https://www.v2ex.com/t/835007)
 1. [有没有替人问诊的跑腿服务？](https://www.v2ex.com/t/835041)
-1. [机场安检要把电脑从内胆包里拿出来吗](https://www.v2ex.com/t/835013)
 1. [Hacki - 用 Flutter 写的 Hacker News 客户端](https://www.v2ex.com/t/834989)
 
 ## 历史归档
