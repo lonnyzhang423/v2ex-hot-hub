@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-24 07:07:25 +0800`
+ `更新时间：2022-02-24 08:28:56 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [[阿里爬虫] 如何应对反爬？](https://www.v2ex.com/t/835907)
 1. [不让用 windows，除了 macos，免费的 Linux 桌面操作系统哪个好用？](https://www.v2ex.com/t/835960)
 1. [iOS 开发， M1 Air 够用吗？还是要上 pro](https://www.v2ex.com/t/835859)
+1. [终于说动公司切 Git 了，现调研阶段，求 GitLab + Jenkins 类似的技术方案推荐。](https://www.v2ex.com/t/835915)
 
 ## 历史归档
 
