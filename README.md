@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-25 19:05:52 +0800`
+ `更新时间：2022-02-25 20:11:09 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [[由于] 来深圳这么久，依然没有找到女朋友，在此问问各位 V 友女朋友在哪找的](https://www.v2ex.com/t/836301)
 1. [给老家的父母配台 iPhone 吧](https://www.v2ex.com/t/836317)
 1. [企业微信虚拟定位打卡失败了，恶意的软件打卡行为将被记录](https://www.v2ex.com/t/836255)
-1. [急着转行程序员的人别学 Python 和 C++](https://www.v2ex.com/t/836242)
 1. [有用 Apple Music 的朋友吗，王婆卖瓜一款软件](https://www.v2ex.com/t/836309)
 1. [大佬们,平时都选择什么方式健身?](https://www.v2ex.com/t/836306)
 1. [同志们，怎么选择 offer，请给建议](https://www.v2ex.com/t/836300)
+1. [Bilibili 现在视频码率是闹呢？](https://www.v2ex.com/t/836308)
 
 ## 历史归档
 
