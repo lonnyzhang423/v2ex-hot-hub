@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-02-26 18:07:09 +0800`
+ `更新时间：2022-02-26 19:05:54 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [关于女朋友看网上鸡汤感动的哭了问题 我直接怼回去](https://www.v2ex.com/t/836583)
 1. [手里还有小几十万，搞点啥。。](https://www.v2ex.com/t/836548)
 1. [LG Ultrafine 4K、Dell U2723QE 体验感受](https://www.v2ex.com/t/836529)
+1. [怎么用一句话证明你用的是什么语言开发?](https://www.v2ex.com/t/836593)
 1. [2022 年 2 月， nuc8 还值得购买吗？](https://www.v2ex.com/t/836469)
 1. [求助 Java 大佬 synchronized 的问题](https://www.v2ex.com/t/836521)
-1. [IOS15.3.1 京喜和拼多多、不上滑杀掉 APP、这俩一直在后台运行.](https://www.v2ex.com/t/836462)
-1. [刚发现 DNSPod 上线 IP DoH/DoT 了](https://www.v2ex.com/t/836489)
 1. [连续三个周末泡图书馆了](https://www.v2ex.com/t/836585)
+1. [刚发现 DNSPod 上线 IP DoH/DoT 了](https://www.v2ex.com/t/836489)
 1. [Mac book pro 配置选择，请教各位](https://www.v2ex.com/t/836532)
 
 ## 历史归档
