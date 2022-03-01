@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-02 05:06:43 +0800`
+ `更新时间：2022-03-02 06:06:48 +0800`
 
 ## 热议话题
 
 1. [大家的三月挑战是什么](https://www.v2ex.com/t/837055)
 1. [每年辞职三个月，专门在家打游戏，玩腻了就出去工作](https://www.v2ex.com/t/837188)
 1. [开坑 我准备开发一个可以在线养鱼钓鱼的地方](https://www.v2ex.com/t/837070)
-1. [垃圾 M1 Max 连一台 4k 显示器（dell u3223qe）都带不起，求解决方案](https://www.v2ex.com/t/837082)
 1. [国外大厂做这么多无法带来直接收益的项目的出发点是什么？](https://www.v2ex.com/t/837145)
+1. [垃圾 M1 Max 连一台 4k 显示器（dell u3223qe）都带不起，求解决方案](https://www.v2ex.com/t/837082)
 1. [开源程序该如何维护版权？！](https://www.v2ex.com/t/837176)
 1. [中年人的一哆嗦](https://www.v2ex.com/t/837161)
 1. [推荐通勤自行车](https://www.v2ex.com/t/837087)
