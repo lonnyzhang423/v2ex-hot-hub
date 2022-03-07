@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-07 22:08:52 +0800`
+ `更新时间：2022-03-07 23:11:36 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [各位程序员们，工作中有用妙控板代替鼠标的吗？](https://www.v2ex.com/t/838551)
 1. [想逃离开发行业了！](https://www.v2ex.com/t/838623)
 1. [iPhone 值的买吗](https://www.v2ex.com/t/838642)
+1. [分享某个 QQ 群友写的 DISS 雷鸟电视的文章](https://www.v2ex.com/t/838480)
 1. [一直搞不懂，资产 1kw 和纯流动现金 1kw，有啥区别？](https://www.v2ex.com/t/838513)
 
 ## 历史归档
