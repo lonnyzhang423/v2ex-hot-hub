@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-08 20:12:34 +0800`
+ `更新时间：2022-03-08 21:19:26 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [这里能讨论 TAX 吗。昨天补缴 2000 多。原地裂开](https://www.v2ex.com/t/838781)
 1. [你们手机会贴膜/戴手机壳么](https://www.v2ex.com/t/838754)
 1. [switch oled 游戏求推荐！](https://www.v2ex.com/t/838774)
+1. [我真的好喜欢 iPhone 13 mini](https://www.v2ex.com/t/838881)
 1. [腾讯电脑管家的软件管理出了个会员](https://www.v2ex.com/t/838800)
 1. [为知笔记是凉了吗？还是跑路了？](https://www.v2ex.com/t/838793)
-1. [今晚要发 se3 了，有啥期待吗？](https://www.v2ex.com/t/838859)
 
 ## 历史归档
 
