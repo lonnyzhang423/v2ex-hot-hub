@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-08 08:29:51 +0800`
+ `更新时间：2022-03-08 10:02:18 +0800`
 
 ## 热议话题
 
-1. [27 岁的程序员，还能 gap 一年吗？](https://www.v2ex.com/t/838481)
 1. [迫于女友压力，如何选购高性价比的订婚戒指？](https://www.v2ex.com/t/838582)
-1. [个人独立开发者要不要自己主动交税？](https://www.v2ex.com/t/838496)
 1. [iPhone 值的买吗](https://www.v2ex.com/t/838642)
 1. [各位程序员们，工作中有用妙控板代替鼠标的吗？](https://www.v2ex.com/t/838551)
-1. [想逃离开发行业了！](https://www.v2ex.com/t/838623)
 1. [大家都是怎么开始逐渐放弃自己的兴趣爱好的](https://www.v2ex.com/t/838599)
+1. [想逃离开发行业了！](https://www.v2ex.com/t/838623)
+1. [MIUI 通过硬编码内置了 DNS？](https://www.v2ex.com/t/838579)
 1. [一直搞不懂，资产 1kw 和纯流动现金 1kw，有啥区别？](https://www.v2ex.com/t/838513)
-1. [分享某个 QQ 群友写的 DISS 雷鸟电视的文章](https://www.v2ex.com/t/838480)
+1. [家人们，娃四个月，被湿疹折磨得不行](https://www.v2ex.com/t/838731)
 
 ## 历史归档
 
