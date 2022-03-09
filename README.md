@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-09 14:10:09 +0800`
+ `更新时间：2022-03-09 15:07:27 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [今天凌晨的苹果发布会有没有你心动的地方？](https://www.v2ex.com/t/839002)
 1. [我真的好喜欢 iPhone 13 mini](https://www.v2ex.com/t/838881)
 1. [电动车充电器被偷了，有监控，报警有用没](https://www.v2ex.com/t/839012)
+1. [最近一年大家基金、股票盈利情况](https://www.v2ex.com/t/839064)
 1. [毕业第一次租房就踩坑。。。](https://www.v2ex.com/t/838890)
 1. [2022 年， 0 基础想做 Android 应用开发者是否可以从 Kotlin 直接学起？](https://www.v2ex.com/t/838956)
-1. [今晚要发 se3 了，有啥期待吗？](https://www.v2ex.com/t/838859)
 1. [不经意间了解到 MIUI 欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899)
 1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991)
-1. [最近一年大家基金、股票盈利情况](https://www.v2ex.com/t/839064)
+1. [求推荐电饭锅](https://www.v2ex.com/t/839023)
 
 ## 历史归档
 
