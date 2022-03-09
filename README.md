@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-10 02:13:27 +0800`
+ `更新时间：2022-03-10 03:06:38 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [求助！上个月用了 437 度电 现在怎么办？](https://www.v2ex.com/t/839095)
 1. [B 站登录原理](https://www.v2ex.com/t/839140)
 1. [苹果新显示器 Apple Studio Display](https://www.v2ex.com/t/838999)
-1. [苹果发布 M1 Ultra](https://www.v2ex.com/t/838991)
 1. [高并发下订单状态更新](https://www.v2ex.com/t/839046)
+1. [求推荐电饭锅](https://www.v2ex.com/t/839023)
 
 ## 历史归档
 
