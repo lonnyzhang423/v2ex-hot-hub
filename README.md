@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-10 12:09:02 +0800`
+ `更新时间：2022-03-10 13:07:19 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,11 @@
 1. [B 站登录原理](https://www.v2ex.com/t/839140)
 1. [买房维权真难，真心希望能取消期房](https://www.v2ex.com/t/839312)
 1. [Apple 这个数据线价格会不会稍微有点夸张](https://www.v2ex.com/t/839205)
-1. [吐槽 为啥 Java 的一些库起名都这么奇怪？](https://www.v2ex.com/t/839275)
 1. [糖尿病太恐怖了赶紧扔掉了手中的可乐](https://www.v2ex.com/t/839307)
-1. [各位都是咋省钱的，今天算了下账，每个月根本省不下来](https://www.v2ex.com/t/839103)
+1. [吐槽 为啥 Java 的一些库起名都这么奇怪？](https://www.v2ex.com/t/839275)
 1. [稳定复现，看我几行代码搞崩 Chrome](https://www.v2ex.com/t/839328)
+1. [新人需要注意的去日本做外包工作的一些坑](https://www.v2ex.com/t/839303)
+1. [想起 N 年前很多人都在说 Android 手机“性能过剩”](https://www.v2ex.com/t/839274)
 
 ## 历史归档
 
