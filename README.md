@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-10 16:08:57 +0800`
+ `更新时间：2022-03-10 17:12:38 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [大哥们，如果出现交通事故后对方打你，要如何应对](https://www.v2ex.com/t/839351)
 1. [稳定复现，看我几行代码搞崩 Chrome](https://www.v2ex.com/t/839328)
 1. [新人需要注意的去日本做外包工作的一些坑](https://www.v2ex.com/t/839303)
+1. [语雀免费领取 3 个月 VIP，新老用户都可以](https://www.v2ex.com/t/839357)
 1. [想起 N 年前很多人都在说 Android 手机“性能过剩”](https://www.v2ex.com/t/839274)
-1. [事到如今只能买 MacBook Air M1 了，发布会有点失望](https://www.v2ex.com/t/839214)
 
 ## 历史归档
 
