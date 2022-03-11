@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-11 08:33:48 +0800`
+ `更新时间：2022-03-11 10:07:26 +0800`
 
 ## 热议话题
 
-1. [糖尿病太恐怖了赶紧扔掉了手中的可乐](https://www.v2ex.com/t/839307)
 1. [稳定复现，看我几行代码搞崩 Chrome](https://www.v2ex.com/t/839328)
 1. [大哥们，如果出现交通事故后对方打你，要如何应对](https://www.v2ex.com/t/839351)
 1. [小米的米家驱蚊器有效果吗？还是智商税](https://www.v2ex.com/t/839362)
-1. [新人需要注意的去日本做外包工作的一些坑](https://www.v2ex.com/t/839303)
-1. [如何购买 DeepL API?](https://www.v2ex.com/t/839286)
-1. [求推荐一款家用路由器, 预算 1500 以内, 稳定 速度快 主要用于局域网](https://www.v2ex.com/t/839354)
 1. [腾讯云直接删服务器吞域名，国内服务商太可怕了，躲远点吧。](https://www.v2ex.com/t/839500)
+1. [求推荐一款家用路由器, 预算 1500 以内, 稳定 速度快 主要用于局域网](https://www.v2ex.com/t/839354)
+1. [今天有个小公司的 offer, 感觉好坑, 不敢去](https://www.v2ex.com/t/839453)
+1. [读 rocketmq 文档有感](https://www.v2ex.com/t/839337)
+1. [5K 以内 windows 笔记本推荐](https://www.v2ex.com/t/839412)
+1. [美区 app store 无限加载](https://www.v2ex.com/t/839445)
 
 ## 历史归档
 
