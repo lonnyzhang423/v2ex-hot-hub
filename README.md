@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-11 16:12:24 +0800`
+ `更新时间：2022-03-11 17:12:34 +0800`
 
 ## 热议话题
 
 1. [yuque vip 活动可以领到 1 年的](https://www.v2ex.com/t/839578)
 1. [异想天开：有这样的午睡场所提供吗？](https://www.v2ex.com/t/839585)
-1. [腾讯云直接删服务器吞域名，国内服务商太可怕了，躲远点吧。](https://www.v2ex.com/t/839500)
 1. [哪部电影，你看完久久不能释怀？](https://www.v2ex.com/t/839674)
+1. [腾讯云直接删服务器吞域名，国内服务商太可怕了，躲远点吧。](https://www.v2ex.com/t/839500)
 1. [不当程序员了，改行当了书法老师，工资低了但更快乐了](https://www.v2ex.com/t/839599)
-1. [今天有个小公司的 offer, 感觉好坑, 不敢去](https://www.v2ex.com/t/839453)
-1. [前端的核心竞争力还是在 css 这块](https://www.v2ex.com/t/839655)
 1. [你们用什么浏览器？](https://www.v2ex.com/t/839498)
-1. [为什么现在没有校内社交网站了呢](https://www.v2ex.com/t/839527)
+1. [前端的核心竞争力还是在 css 这块](https://www.v2ex.com/t/839655)
 1. [2022 年 chrome 内核的 windows 浏览器哪个值得推荐？](https://www.v2ex.com/t/839613)
+1. [为什么现在没有校内社交网站了呢](https://www.v2ex.com/t/839527)
+1. [独立开发，创业是不是做前端比单纯后端更容易些](https://www.v2ex.com/t/839573)
 
 ## 历史归档
 
