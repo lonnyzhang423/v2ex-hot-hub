@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-14 16:12:26 +0800`
+ `更新时间：2022-03-14 17:12:30 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,8 @@
 1. [各位 v 友啊，请问一下对于 notion、语雀、wolai、印象笔记等这些你们是什么看法或者有什么可以推荐？](https://www.v2ex.com/t/840045)
 1. [iPhone 13Pro 屏幕好多划痕，心里特别膈应，怎么办](https://www.v2ex.com/t/840121)
 1. [你以为 Studio Display 贵，可能这是未来最便宜的苹果显示器了](https://www.v2ex.com/t/840131)
-1. [一张证书引发的噱案](https://www.v2ex.com/t/840034)
 1. [讲个微软/Win11 笑话](https://www.v2ex.com/t/840161)
-1. [为什么欧美二次元游戏厂商这么少？](https://www.v2ex.com/t/840101)
+1. [Windows11 把我逼到 MacOS 了](https://www.v2ex.com/t/840183)
 
 ## 历史归档
 
