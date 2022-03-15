@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-16 06:08:26 +0800`
+ `更新时间：2022-03-16 07:07:35 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [公司网络不给听歌，怎么过？](https://www.v2ex.com/t/840502)
 1. [中国会梧桐台湾吗， 23 届应届毕业生在思考自己的出路](https://www.v2ex.com/t/840587)
 1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379)
-1. [Apple 新显示器的芯片有什么用？](https://www.v2ex.com/t/840389)
+1. [关于 win 和 mac 的同步方案](https://www.v2ex.com/t/840381)
 
 ## 历史归档
 
