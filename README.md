@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-15 17:07:57 +0800`
+ `更新时间：2022-03-15 18:08:30 +0800`
 
 ## 热议话题
 
 1. [b 站有哪些 up 主是值得一看的？](https://www.v2ex.com/t/840328)
 1. [Mac Studio 到底贵不贵, 写代码是否需要 Mac Studio](https://www.v2ex.com/t/840350)
-1. [15.4 发布了](https://www.v2ex.com/t/840360)
 1. [二郎腿戒断法](https://www.v2ex.com/t/840397)
+1. [15.4 发布了](https://www.v2ex.com/t/840360)
 1. [关于远程工作，最后不给结算工资的问题。](https://www.v2ex.com/t/840465)
 1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379)
-1. [关于 win 和 mac 的同步方案](https://www.v2ex.com/t/840381)
+1. [Apple 新显示器的芯片有什么用？](https://www.v2ex.com/t/840389)
 
 ## 历史归档
 
