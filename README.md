@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-15 23:12:31 +0800`
+ `更新时间：2022-03-16 00:14:38 +0800`
 
 ## 热议话题
 
-1. [Mac Studio 到底贵不贵, 写代码是否需要 Mac Studio](https://www.v2ex.com/t/840350)
 1. [关于远程工作，最后不给结算工资的问题。](https://www.v2ex.com/t/840465)
 1. [作为开发者，写代码你离不开什么？](https://www.v2ex.com/t/840469)
 1. [2022 大家难吗？](https://www.v2ex.com/t/840501)
@@ -23,6 +22,7 @@
 1. [15.4 发布了](https://www.v2ex.com/t/840360)
 1. [公司网络不给听歌，怎么过？](https://www.v2ex.com/t/840502)
 1. [中国会梧桐台湾吗， 23 届应届毕业生在思考自己的出路](https://www.v2ex.com/t/840587)
+1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379)
 
 ## 历史归档
 
