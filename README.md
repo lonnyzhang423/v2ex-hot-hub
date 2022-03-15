@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-15 14:09:18 +0800`
+ `更新时间：2022-03-15 15:07:50 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,7 @@
 1. [Mac Studio 到底贵不贵, 写代码是否需要 Mac Studio](https://www.v2ex.com/t/840350)
 1. [15.4 发布了](https://www.v2ex.com/t/840360)
 1. [二郎腿戒断法](https://www.v2ex.com/t/840397)
-1. [[送码] 开发了一个物品记录与管理的 app (ios 端)，欢迎大家体验](https://www.v2ex.com/t/840380)
+1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379)
 
 ## 历史归档
 
