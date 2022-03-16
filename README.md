@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-16 22:11:34 +0800`
+ `更新时间：2022-03-16 23:11:51 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [阿里小号恢复新购号码了,5 元/1 月， 30 元/6 月， 45/年](https://www.v2ex.com/t/840722)
 1. [315 曝光的浏览网页就能获取用户手机号是怎么做到的？](https://www.v2ex.com/t/840643)
 1. [想组装一台 AMD R5 R5600G 的主机](https://www.v2ex.com/t/840651)
-1. [我想从买一台 MacBook Air，有几个关于 macOS 问题想要请教一下大家。](https://www.v2ex.com/t/840648)
 1. [再提个醒，贵重物品尽量不要到闲鱼交易，最近骗子很多](https://www.v2ex.com/t/840726)
+1. [我想从买一台 MacBook Air，有几个关于 macOS 问题想要请教一下大家。](https://www.v2ex.com/t/840648)
 1. [哇靠,1.18 release!](https://www.v2ex.com/t/840640)
-1. [macOS 12.3 貌似修复了 16 寸 intel mac 发热的问题](https://www.v2ex.com/t/840617)
+1. [昨天抄底的兄弟今天起飞了么？](https://www.v2ex.com/t/840757)
 
 ## 历史归档
 
