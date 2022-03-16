@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-17 01:13:13 +0800`
+ `更新时间：2022-03-17 02:08:54 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [想组装一台 AMD R5 R5600G 的主机](https://www.v2ex.com/t/840651)
 1. [再提个醒，贵重物品尽量不要到闲鱼交易，最近骗子很多](https://www.v2ex.com/t/840726)
 1. [我想从买一台 MacBook Air，有几个关于 macOS 问题想要请教一下大家。](https://www.v2ex.com/t/840648)
-1. [哇靠,1.18 release!](https://www.v2ex.com/t/840640)
+1. [宾馆隔离 可以煮开水 可以买什么吃的自己吃呢？](https://www.v2ex.com/t/840863)
 1. [昨天抄底的兄弟今天起飞了么？](https://www.v2ex.com/t/840757)
 
 ## 历史归档
