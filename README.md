@@ -11,18 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-16 07:07:35 +0800`
+ `更新时间：2022-03-16 08:31:10 +0800`
 
 ## 热议话题
 
 1. [作为开发者，写代码你离不开什么？](https://www.v2ex.com/t/840469)
 1. [关于远程工作，最后不给结算工资的问题。](https://www.v2ex.com/t/840465)
-1. [2022 大家难吗？](https://www.v2ex.com/t/840501)
 1. [二郎腿戒断法](https://www.v2ex.com/t/840397)
 1. [公司网络不给听歌，怎么过？](https://www.v2ex.com/t/840502)
-1. [中国会梧桐台湾吗， 23 届应届毕业生在思考自己的出路](https://www.v2ex.com/t/840587)
 1. [macOS 12.3 正式版发布](https://www.v2ex.com/t/840379)
-1. [关于 win 和 mac 的同步方案](https://www.v2ex.com/t/840381)
+1. [《C++ Primer》关于 reference 和 pointer 部分看的人“生气”](https://www.v2ex.com/t/840451)
 
 ## 历史归档
 
