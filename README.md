@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-18 11:11:07 +0800`
+ `更新时间：2022-03-18 12:08:52 +0800`
 
 ## 热议话题
 
 1. [驰骋互联网 20 年，因为劝我妈响应号召生 3tai，第一次被永封（微信）](https://www.v2ex.com/t/841177)
 1. [“我这都是为了你好啊！”](https://www.v2ex.com/t/841054)
-1. [神机 Redmi AX6 重新上架小米有品](https://www.v2ex.com/t/841070)
-1. [最近 PC 有什么好玩游戏吗](https://www.v2ex.com/t/840994)
 1. [如何看待小牛提速被点名？](https://www.v2ex.com/t/841169)
-1. [后端程序员想要学习一下前端，有无比较好的学习路线推荐](https://www.v2ex.com/t/840973)
-1. [疑问：为什么很多医院的内网服务器都是 windows？](https://www.v2ex.com/t/840965)
+1. [最近 PC 有什么好玩游戏吗](https://www.v2ex.com/t/840994)
+1. [神机 Redmi AX6 重新上架小米有品](https://www.v2ex.com/t/841070)
 1. [做了一个中国法律手册的 app](https://www.v2ex.com/t/841041)
 1. [对于天气 App，我们能期待什么?](https://www.v2ex.com/t/841058)
+1. [坐骑（ji）还是 坐骑（qi）](https://www.v2ex.com/t/841179)
+1. [各位兄弟，早餐都吃的啥？](https://www.v2ex.com/t/841202)
 1. [安卓如何关闭视频彩铃功能，连拨打电话都有广告太烦了](https://www.v2ex.com/t/841003)
 
 ## 历史归档
