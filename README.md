@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-20 00:09:07 +0800`
+ `更新时间：2022-03-20 01:07:33 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [真的有农村做酸菜用脚踩的吗？](https://www.v2ex.com/t/841413)
 1. [怎么理解 NFT 的价值](https://www.v2ex.com/t/841416)
 1. [有什么适合家里老人用的，但是可以刷 OpenWrt 的路由（2022 年上半年）](https://www.v2ex.com/t/841405)
-1. [作为后端程序员，如果前端对你写的接口提了合理修改建议，会修改嘛？](https://www.v2ex.com/t/841387)
 1. [每次 OnCall 过后都掉一层皮](https://www.v2ex.com/t/841452)
 1. [微信这是逼人申请小号啊](https://www.v2ex.com/t/841468)
 1. [最后我买了 13mini...](https://www.v2ex.com/t/841471)
