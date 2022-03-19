@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-20 02:09:55 +0800`
+ `更新时间：2022-03-20 03:05:18 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [微信这是逼人申请小号啊](https://www.v2ex.com/t/841468)
 1. [最后我买了 13mini...](https://www.v2ex.com/t/841471)
 1. [Mac Studio 能够自己升级加硬盘](https://www.v2ex.com/t/841412)
+1. [C++ 和 C# 哪个容易开发出用户体验好（占用资源小&好看&稳定&反应快）的跨 macOS/Windows 平台的桌面程序？](https://www.v2ex.com/t/841554)
 
 ## 历史归档
 
