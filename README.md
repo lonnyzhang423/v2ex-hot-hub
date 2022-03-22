@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-22 08:32:14 +0800`
+ `更新时间：2022-03-22 10:19:34 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [[送码] Gotcha HTTP Client， MacOS 上优雅简洁的 HTTP 接口测试工具，赠送永久兑换码。](https://www.v2ex.com/t/841834)
 1. [apipost 炸了，为什么也没有个公告啥的](https://www.v2ex.com/t/841775)
 1. [升降桌椅 的确可以改善健康状况 分享一下我的 workspace](https://www.v2ex.com/t/841821)
+1. [买了 PS5，大佬们说说有啥游戏好玩啊？](https://www.v2ex.com/t/841817)
 
 ## 历史归档
 
