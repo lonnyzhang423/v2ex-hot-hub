@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-23 01:14:55 +0800`
+ `更新时间：2022-03-23 02:13:36 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [iOS 15.4 的口罩解锁用的我血压上升](https://www.v2ex.com/t/842144)
 1. [现在 Java 转 go 有希望吗？](https://www.v2ex.com/t/842037)
 1. [关于 Electron 有个想法](https://www.v2ex.com/t/842001)
-1. [如何对 Android APP 抓取 HTTPS 包？](https://www.v2ex.com/t/842130)
+1. [现在 GO 语言面试这么难吗？](https://www.v2ex.com/t/842175)
 
 ## 历史归档
 
