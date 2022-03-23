@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-23 11:20:31 +0800`
+ `更新时间：2022-03-23 12:08:42 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [现在 GO 语言面试这么难吗？](https://www.v2ex.com/t/842175)
 1. [原神抽卡可能存在区别对待吗？](https://www.v2ex.com/t/842083)
 1. [有没有好剧推荐？](https://www.v2ex.com/t/842179)
+1. [这是我见过最好的游戏 Bundle](https://www.v2ex.com/t/842232)
 1. [如何对 Android APP 抓取 HTTPS 包？](https://www.v2ex.com/t/842130)
-1. [怎么避免裸辞陷入焦虑](https://www.v2ex.com/t/842061)
 1. [不敢用腾讯云了](https://www.v2ex.com/t/842172)
 
 ## 历史归档
