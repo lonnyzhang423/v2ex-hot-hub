@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-26 05:07:14 +0800`
+ `更新时间：2022-03-26 06:07:30 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [tg 的国内独立版本技术上有可能实现吗？](https://www.v2ex.com/t/842799)
 1. [对于一个专业的程序员摸鱼社区 我们能期待什么](https://www.v2ex.com/t/842802)
 1. [ubuntu20.04 如何安装微信](https://www.v2ex.com/t/842818)
-1. [如何让喜欢的女生成为自己的女朋友](https://www.v2ex.com/t/842877)
 1. [讨论下 github copilot, 今天刚通过许可， 求 v 友分享下一些 hack 操作](https://www.v2ex.com/t/842780)
 1. [打游戏心跳很快](https://www.v2ex.com/t/842861)
 1. [ios 彩云天气放弃了免费用户？](https://www.v2ex.com/t/842823)
