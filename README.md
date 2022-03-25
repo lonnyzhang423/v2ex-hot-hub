@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-25 20:12:17 +0800`
+ `更新时间：2022-03-25 21:44:54 +0800`
 
 ## 热议话题
 
-1. [奇葩人接受 Offer 后拖了 28 天然后说不来了](https://www.v2ex.com/t/842711)
 1. [腾讯云香港新加坡云服务器约 3 年 133 元-166 元](https://www.v2ex.com/t/842736)
 1. [发现 64GB iPhone / iPad 足够用了](https://www.v2ex.com/t/842826)
 1. [tg 的国内独立版本技术上有可能实现吗？](https://www.v2ex.com/t/842799)
@@ -24,6 +23,8 @@
 1. [同时用过 element-ui 和 ant-design-vue 的能否聊聊感受？](https://www.v2ex.com/t/842750)
 1. [关于 iMessage 的隐私问题](https://www.v2ex.com/t/842739)
 1. [ubuntu20.04 如何安装微信](https://www.v2ex.com/t/842818)
+1. [如何让喜欢的女生成为自己的女朋友](https://www.v2ex.com/t/842877)
+1. [打游戏心跳很快](https://www.v2ex.com/t/842861)
 
 ## 历史归档
 
