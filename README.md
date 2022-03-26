@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-27 02:08:02 +0800`
+ `更新时间：2022-03-27 03:05:28 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [在日工作的程序员想回国找工作选择上海还是深圳?](https://www.v2ex.com/t/843017)
 1. [一个奇妙的想法，真的很奇妙 つ﹏⊂](https://www.v2ex.com/t/842994)
 1. [浏览器为什么选择了如今的同源策略](https://www.v2ex.com/t/843069)
-1. [有多少人是用纯 Linux 做 NAS 系统的？](https://www.v2ex.com/t/843067)
 1. [总有人发帖自称南方人，这到底是怎样的一个迷惑定义？](https://www.v2ex.com/t/843092)
-1. [有没有软路由和 NAS 合并到一起的产品？](https://www.v2ex.com/t/842976)
+1. [有多少人是用纯 Linux 做 NAS 系统的？](https://www.v2ex.com/t/843067)
 1. [深圳桃园地铁站会很挤吗](https://www.v2ex.com/t/842997)
+1. [Web 服务的程序放在 /opt /var /etc /app /web 哪个好？ Web 服务的数据呢？](https://www.v2ex.com/t/843079)
 
 ## 历史归档
 
