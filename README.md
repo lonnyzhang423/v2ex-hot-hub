@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-26 18:07:15 +0800`
+ `更新时间：2022-03-26 19:06:23 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [1Password 家庭拼车的巨大风险，和正确使用方式](https://www.v2ex.com/t/842995)
 1. [一个奇妙的想法，真的很奇妙 つ﹏⊂](https://www.v2ex.com/t/842994)
 1. [各位 V 友们，写代码选电竞椅还是人体工学椅](https://www.v2ex.com/t/842927)
-1. [年纪大了, 卷不动了, 能学点英语能润到外企去么](https://www.v2ex.com/t/842942)
 1. [迫于土区 Google one 太便宜，请教一下转区问题](https://www.v2ex.com/t/842966)
-1. [有没有软路由和 NAS 合并到一起的产品？](https://www.v2ex.com/t/842976)
+1. [年纪大了, 卷不动了, 能学点英语能润到外企去么](https://www.v2ex.com/t/842942)
 1. [深圳桃园地铁站会很挤吗](https://www.v2ex.com/t/842997)
+1. [有没有软路由和 NAS 合并到一起的产品？](https://www.v2ex.com/t/842976)
+1. [在日工作的程序员想回国找工作选择上海还是深圳?](https://www.v2ex.com/t/843017)
 1. [刷机 Lineageos 和 PixelExperience 后无法接收短信](https://www.v2ex.com/t/842952)
-1. [Vi/Vim vs Emacs 哪一个更厉害？新人应该如何选择呢？](https://www.v2ex.com/t/843001)
 
 ## 历史归档
 
