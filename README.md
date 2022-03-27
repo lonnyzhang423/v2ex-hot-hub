@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-27 11:12:46 +0800`
+ `更新时间：2022-03-27 12:09:17 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,8 @@
 1. [总有人发帖自称南方人，这到底是怎样的一个迷惑定义？](https://www.v2ex.com/t/843092)
 1. [Web 服务的程序放在 /opt /var /etc /app /web 哪个好？ Web 服务的数据呢？](https://www.v2ex.com/t/843079)
 1. [写 C++代码有感](https://www.v2ex.com/t/843038)
-1. [Ubuntu20.04 推荐一款好的输入法](https://www.v2ex.com/t/843003)
+1. [航旅纵横和飞常准，你们选择哪个？](https://www.v2ex.com/t/843070)
 1. [关于双软路由方案](https://www.v2ex.com/t/843081)
-1. [官网定制新的 mbp 14 寸翻车了。](https://www.v2ex.com/t/843014)
 
 ## 历史归档
 
