@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-28 06:07:30 +0800`
+ `更新时间：2022-03-28 07:07:13 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [关于 git 工作流我有个小疑问(冲突在本地还是远端解决)](https://www.v2ex.com/t/843165)
 1. [iCloud 又炸了（大量服务不可用）](https://www.v2ex.com/t/843154)
 1. [哪些大公司在用 ASP.NET Core？](https://www.v2ex.com/t/843173)
-1. [V 站可不可以在交易模块出个交易系统，就像游戏里的交易所一样](https://www.v2ex.com/t/843131)
+1. [手上的 19 款 MacBook Pro 编译 Rust 太慢了，有没有像 GitHub Action 这样按实际使用时间付费的高性能代编译服务？](https://www.v2ex.com/t/843214)
 
 ## 历史归档
 
