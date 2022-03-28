@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-28 16:14:37 +0800`
+ `更新时间：2022-03-28 17:13:14 +0800`
 
 ## 热议话题
 
-1. [游戏本还是 switch](https://www.v2ex.com/t/843300)
 1. [最近显卡价格大降，买点来挖 ETC，会不会 49 年入国军？](https://www.v2ex.com/t/843248)
+1. [游戏本还是 switch](https://www.v2ex.com/t/843300)
 1. [Git clone 国内下载慢问题，大家是如何解决的 2022-03-28](https://www.v2ex.com/t/843313)
-1. [如何说服领导不用微信给我传文件。](https://www.v2ex.com/t/843189)
 1. [如何感谢 HR](https://www.v2ex.com/t/843295)
 1. [VSCode 又酷又实用的多光标编辑](https://www.v2ex.com/t/843239)
-1. [手上的 19 款 MacBook Pro 编译 Rust 太慢了，有没有像 GitHub Action 这样按实际使用时间付费的高性能代编译服务？](https://www.v2ex.com/t/843214)
 1. [从技术安全角度讲，你喜欢哪个？支付宝还是微信支付？](https://www.v2ex.com/t/843251)
+1. [手上的 19 款 MacBook Pro 编译 Rust 太慢了，有没有像 GitHub Action 这样按实际使用时间付费的高性能代编译服务？](https://www.v2ex.com/t/843214)
 1. [se3 价格如瀑布](https://www.v2ex.com/t/843297)
 1. [想入坑塞尔达](https://www.v2ex.com/t/843317)
+1. [AWS 上的 ubuntu 系统，/usr 以下的权限被改后无法读取了， root 没有创建，怎么解？](https://www.v2ex.com/t/843322)
 
 ## 历史归档
 
