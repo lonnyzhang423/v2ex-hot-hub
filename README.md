@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-28 20:15:15 +0800`
+ `更新时间：2022-03-28 21:22:42 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [从技术安全角度讲，你喜欢哪个？支付宝还是微信支付？](https://www.v2ex.com/t/843251)
 1. [如何感谢 HR](https://www.v2ex.com/t/843295)
 1. [想入坑塞尔达](https://www.v2ex.com/t/843317)
-1. [se3 价格如瀑布](https://www.v2ex.com/t/843297)
 1. [VSCode 又酷又实用的多光标编辑](https://www.v2ex.com/t/843239)
+1. [se3 价格如瀑布](https://www.v2ex.com/t/843297)
 1. [苹果店归来，试用了 display studio，买了 iPad Air](https://www.v2ex.com/t/843382)
 1. [2022 年 3 月，想办一张信用卡，大家有什么银行的什么卡推荐么？谢谢](https://www.v2ex.com/t/843353)
 
