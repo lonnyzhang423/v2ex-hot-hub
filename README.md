@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-31 01:10:17 +0800`
+ `更新时间：2022-03-31 02:13:36 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [JSON 的 Keyname 到底要不要加双引号？](https://www.v2ex.com/t/843806)
 1. [鸡场把甲骨文薅疼了，这次甲骨文杀疯了……](https://www.v2ex.com/t/843814)
 1. [塞尔达传说-荒野之息 2 延期了，难过啊](https://www.v2ex.com/t/843773)
+1. [Java 项目该不该用 stream 流来编写代码？考虑 code viewer](https://www.v2ex.com/t/843929)
 
 ## 历史归档
 
