@@ -11,15 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-30 22:11:27 +0800`
+ `更新时间：2022-03-30 23:12:41 +0800`
 
 ## 热议话题
 
 1. [有离职但又没给家人说的 v2er 没？这个能瞒多久？](https://www.v2ex.com/t/843816)
 1. [Mac 好用软件分享](https://www.v2ex.com/t/843789)
-1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724)
-1. [用 Java 写个人博客，架构上采用 spring boot 单体应用好还是 spring cloud 微服务好？](https://www.v2ex.com/t/843796)
 1. [Chrome 100 发布，按照谷歌的说法，新版本将继续大幅减少内存、CPU 占用率，速度更快。大家怎么看？](https://www.v2ex.com/t/843813)
+1. [用 Java 写个人博客，架构上采用 spring boot 单体应用好还是 spring cloud 微服务好？](https://www.v2ex.com/t/843796)
 1. [可以便宜？ VS. 别人家比你便宜](https://www.v2ex.com/t/843811)
 1. [Mac 上最好用的 mysql 数据库管理软件](https://www.v2ex.com/t/843750)
 1. [JSON 的 Keyname 到底要不要加双引号？](https://www.v2ex.com/t/843806)
