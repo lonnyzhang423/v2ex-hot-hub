@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-30 13:06:51 +0800`
+ `更新时间：2022-03-30 14:09:34 +0800`
 
 ## 热议话题
 
-1. [发现知乎变味了](https://www.v2ex.com/t/843603)
-1. [不知道是人能力的问题还是前端技术栈的问题](https://www.v2ex.com/t/843599)
-1. [尊敬的大佬们，请问在 MacOS 上， postman 有代替品吗？这货实在是太卡了……](https://www.v2ex.com/t/843621)
-1. [互联网最苦逼的地方在哪](https://www.v2ex.com/t/843644)
 1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724)
-1. [ubuntu 22.04 更漂亮了，需要的可以升级体验了](https://www.v2ex.com/t/843663)
+1. [互联网最苦逼的地方在哪](https://www.v2ex.com/t/843644)
 1. [Mac 好用软件分享](https://www.v2ex.com/t/843789)
+1. [ubuntu 22.04 更漂亮了，需要的可以升级体验了](https://www.v2ex.com/t/843663)
+1. [DDD 到底啥，有啥用](https://www.v2ex.com/t/843675)
 1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720)
+1. [Mac 上最好用的 mysql 数据库管理软件](https://www.v2ex.com/t/843750)
+1. [有离职但又没给家人说的 v2er 没？这个能瞒多久？](https://www.v2ex.com/t/843816)
 
 ## 历史归档
 
