@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-30 10:25:28 +0800`
+ `更新时间：2022-03-30 11:23:04 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [互联网最苦逼的地方在哪](https://www.v2ex.com/t/843644)
 1. [正确重装 windows10 的方式是什么](https://www.v2ex.com/t/843591)
 1. [ubuntu 22.04 更漂亮了，需要的可以升级体验了](https://www.v2ex.com/t/843663)
-1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720)
 1. [jdk9 出现比 log4j 更大的漏洞](https://www.v2ex.com/t/843724)
+1. [Mac mini M1+Studio Display 是不是小牛拉大车了？](https://www.v2ex.com/t/843720)
 
 ## 历史归档
 
