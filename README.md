@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-03-31 17:13:30 +0800`
+ `更新时间：2022-03-31 18:13:25 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [Java 项目该不该用 stream 流来编写代码？考虑 code viewer](https://www.v2ex.com/t/843929)
 1. [广东电信开始开放 2000M 光纤了，有什么路由器推荐吗](https://www.v2ex.com/t/843991)
 1. [各位大佬，对于买车，求分享经验](https://www.v2ex.com/t/844041)
-1. [别总是想着 localhost 了，给大家个域名，让大家测试的时候更加有活力](https://www.v2ex.com/t/844029)
 1. [有人想来日本干 IT 开发吗](https://www.v2ex.com/t/843972)
+1. [别总是想着 localhost 了，给大家个域名，让大家测试的时候更加有活力](https://www.v2ex.com/t/844029)
 1. [上海浦东怎么买菜啊！](https://www.v2ex.com/t/844100)
+1. [有没有实际开发编程能力很强，但是不擅长面试的同学？](https://www.v2ex.com/t/844102)
 
 ## 历史归档
 
