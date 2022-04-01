@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-01 12:12:12 +0800`
+ `更新时间：2022-04-01 13:06:56 +0800`
 
 ## 热议话题
 
 1. [上海浦东怎么买菜啊！](https://www.v2ex.com/t/844100)
-1. [有没有实际开发编程能力很强，但是不擅长面试的同学？](https://www.v2ex.com/t/844102)
-1. [哪里能查到大陆地区销售的支持无线 Carplay 的汽车车型列表？](https://www.v2ex.com/t/844077)
 1. [三十多岁了，你们有什么爱好吗](https://www.v2ex.com/t/844250)
+1. [有没有实际开发编程能力很强，但是不擅长面试的同学？](https://www.v2ex.com/t/844102)
 1. [MMO 万人同屏实验成功发布！](https://www.v2ex.com/t/844129)
-1. [亲戚孩子上大学，计算机 or 游戏开发？](https://www.v2ex.com/t/844076)
-1. [Java 语言代码实现一个最优写法。](https://www.v2ex.com/t/844140)
 1. [家里马上要装修了，什么也不懂](https://www.v2ex.com/t/844240)
+1. [Java 语言代码实现一个最优写法。](https://www.v2ex.com/t/844140)
 1. [电波授时小程序](https://www.v2ex.com/t/844122)
 1. [拼夕夕的便宜话费没有了](https://www.v2ex.com/t/844208)
+1. [iOS 15.4.1 发布，宣称修复了 15.4 的耗电问题](https://www.v2ex.com/t/844207)
+1. [台式电脑想加个机械硬盘，怎么避坑和选择。](https://www.v2ex.com/t/844228)
 
 ## 历史归档
 
