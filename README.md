@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-03 13:06:47 +0800`
+ `更新时间：2022-04-03 14:08:57 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [这几年移动和电信联通的宽带质量差距肉眼可见地缩小](https://www.v2ex.com/t/844563)
 1. [毕业生存钱建议](https://www.v2ex.com/t/844595)
 1. [[求助]在网吧玩 steam 绝地求生，账号被封禁](https://www.v2ex.com/t/844553)
+1. [老婆怀孕了，来问问各位大哥们，有啥需要准备和注意的吗？](https://www.v2ex.com/t/844666)
 1. [如果便利店装自助饮料机，卖 0.5 元一小杯就好了](https://www.v2ex.com/t/844544)
-1. [巨硬推出官方电脑管家 Microsoft PC Manager Offline](https://www.v2ex.com/t/844528)
 
 ## 历史归档
 
