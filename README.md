@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-03 20:11:38 +0800`
+ `更新时间：2022-04-03 21:14:16 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [求一个移动 SSD 方案](https://www.v2ex.com/t/844679)
 1. [10+年更新一次系统的服务器更适合 Ubuntu 20.04 还是 CentOS7？](https://www.v2ex.com/t/844734)
 1. [有抢菜程序吗](https://www.v2ex.com/t/844702)
+1. [大厂真是一个围城](https://www.v2ex.com/t/844746)
 
 ## 历史归档
 
