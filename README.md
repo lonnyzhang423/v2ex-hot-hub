@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-04 19:11:45 +0800`
+ `更新时间：2022-04-04 20:17:39 +0800`
 
 ## 热议话题
 
 1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837)
-1. [你为什么选择 Arch Linux ？](https://www.v2ex.com/t/844776)
-1. [请问怎么才能抢到菜](https://www.v2ex.com/t/844826)
 1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846)
-1. [Linux 作为主力系统在换电脑后如何做数据迁移](https://www.v2ex.com/t/844825)
+1. [请问怎么才能抢到菜](https://www.v2ex.com/t/844826)
 1. [想知道你们的透明代理方案](https://www.v2ex.com/t/844790)
+1. [Linux 作为主力系统在换电脑后如何做数据迁移](https://www.v2ex.com/t/844825)
 1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856)
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852)
+1. [macOS 有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853)
 1. [Shopee 内推，一直在大量招人，坐标北上深+新加坡](https://www.v2ex.com/t/844814)
 
 ## 历史归档
