@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-05 03:11:32 +0800`
+ `更新时间：2022-04-05 04:12:21 +0800`
 
 ## 热议话题
 
 1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837)
-1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846)
 1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883)
 1. [请问怎么才能抢到菜](https://www.v2ex.com/t/844826)
 1. [同样的职位， 经过短时间培训， 谁都能干](https://www.v2ex.com/t/844852)
