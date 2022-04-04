@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-04 16:14:32 +0800`
+ `更新时间：2022-04-04 17:12:19 +0800`
 
 ## 热议话题
 
 1. [记一次 Genius Bar 旁观 PUA 经历](https://www.v2ex.com/t/844837)
 1. [你为什么选择 Arch Linux ？](https://www.v2ex.com/t/844776)
 1. [请问怎么才能抢到菜](https://www.v2ex.com/t/844826)
-1. [大厂真是一个围城](https://www.v2ex.com/t/844746)
 1. [想知道你们的透明代理方案](https://www.v2ex.com/t/844790)
 1. [Linux 作为主力系统在换电脑后如何做数据迁移](https://www.v2ex.com/t/844825)
-1. [微信红包的附言如果有“包大大”，就会被替换成默认的恭喜发财大吉大利](https://www.v2ex.com/t/844869)
 1. [分享我的 iOS App 上架一个月的数据(收入) 及推广渠道](https://www.v2ex.com/t/844767)
-1. [用 keras 搭建出一个判断今天是周几的模型？](https://www.v2ex.com/t/844757)
 1. [30 来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856)
+1. [编程字体： Berkeley Mono Typeface 拼车人均 50 的样子](https://www.v2ex.com/t/844846)
+1. [用 keras 搭建出一个判断今天是周几的模型？](https://www.v2ex.com/t/844757)
 
 ## 历史归档
 
