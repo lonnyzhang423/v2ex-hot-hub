@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-05 12:08:50 +0800`
+ `更新时间：2022-04-05 13:06:58 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [请问：逃离微信和支付宝，代价有多大？](https://www.v2ex.com/t/844963)
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884)
 1. [ubuntu 下有什么好看的终端吗？](https://www.v2ex.com/t/844876)
+1. [没想好是 Mac Studio 还是 MacBook Pro 16](https://www.v2ex.com/t/844967)
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881)
 1. [显示器竖着用当主屏， 27 寸还是 32 寸，请长期使用过得的朋友推荐一下](https://www.v2ex.com/t/844885)
 1. [2022 后端笔记本推荐](https://www.v2ex.com/t/844916)
-1. [求问 screen sharing 客户端被屏蔽端口了，服务器端正常，有没有解？](https://www.v2ex.com/t/844926)
 
 ## 历史归档
 
