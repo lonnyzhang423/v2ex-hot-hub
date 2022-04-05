@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-05 20:15:30 +0800`
+ `更新时间：2022-04-05 21:21:50 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [大家用什么散热器啊](https://www.v2ex.com/t/844976)
 1. [决赛圈了！ MacOS 最好用的剪贴板 app！](https://www.v2ex.com/t/844966)
 1. [没想好是 Mac Studio 还是 MacBook Pro 16](https://www.v2ex.com/t/844967)
+1. [月经贴，大家现在在用什么显示器？](https://www.v2ex.com/t/845036)
 1. [请求数百万个 URL， C#还是 Python 快且容易实现？](https://www.v2ex.com/t/844961)
-1. [Google One 2T plan 送 PNV？](https://www.v2ex.com/t/845017)
 1. [为什么安卓平台竟然找不到一个支持无图模式的浏览器？](https://www.v2ex.com/t/844974)
-1. [关于 Mac 下好用的截图工具 收集 v 友看法 互相分享使用体验](https://www.v2ex.com/t/845041)
+1. [Google One 2T plan 送 PNV？](https://www.v2ex.com/t/845017)
 
 ## 历史归档
 
