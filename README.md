@@ -11,15 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-07 20:18:24 +0800`
+ `更新时间：2022-04-07 21:24:40 +0800`
 
 ## 热议话题
 
 1. [我来推广我的免费图床了（imgurl.org）， T 楼送 3 个 ImgURL Pro 免费授权](https://www.v2ex.com/t/845469)
 1. [着魔了，陷入了报复性消费的习惯中，老铁们如何破局？](https://www.v2ex.com/t/845437)
-1. [有那些好用的靠近上游的 Linux 发行版](https://www.v2ex.com/t/845331)
 1. [虚心请教增重的方法](https://www.v2ex.com/t/845509)
-1. [腾讯也开始裁员了](https://www.v2ex.com/t/845426)
+1. [最近失眠比较严重，每天 45 点才能入睡](https://www.v2ex.com/t/845376)
 
 ## 历史归档
 
