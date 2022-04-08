@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-08 14:09:44 +0800`
+ `更新时间：2022-04-08 15:09:59 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [Win 端的神器，你们都用哪些？我自用 AHK、PowerToys、ShareX 等](https://www.v2ex.com/t/845584)
 1. [树莓派是不是溢价的太过分了](https://www.v2ex.com/t/845631)
 1. [得物干一年有必要跳吗](https://www.v2ex.com/t/845607)
-1. [19 年首发买的 Apple Watch Series5，现在电池基本不行了](https://www.v2ex.com/t/845485)
 1. [AirPods pro 在通勤路上从口袋里掉出去，被别人捡到一直在用](https://www.v2ex.com/t/845597)
 
 ## 历史归档
