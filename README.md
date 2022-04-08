@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-08 17:12:29 +0800`
+ `更新时间：2022-04-08 18:13:39 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [Win 端的神器，你们都用哪些？我自用 AHK、PowerToys、ShareX 等](https://www.v2ex.com/t/845584)
 1. [AirPods pro 在通勤路上从口袋里掉出去，被别人捡到一直在用](https://www.v2ex.com/t/845597)
 1. [得物干一年有必要跳吗](https://www.v2ex.com/t/845607)
+1. [二线城市长沙，应届本科薪资多少算中等水平？](https://www.v2ex.com/t/845705)
 1. [互联网行业是不是就不存在薪资不高但是稳定可以干到退休的工作岗位？](https://www.v2ex.com/t/845611)
-1. [如何优雅把视频或者图片从 iPhone 传送到 windows](https://www.v2ex.com/t/845570)
 
 ## 历史归档
 
