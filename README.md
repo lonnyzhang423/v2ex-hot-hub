@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-08 08:35:55 +0800`
+ `更新时间：2022-04-08 10:29:02 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,10 @@
 1. [着魔了，陷入了报复性消费的习惯中，老铁们如何破局？](https://www.v2ex.com/t/845437)
 1. [虚心请教增重的方法](https://www.v2ex.com/t/845509)
 1. [WindowServer 让我产生了内存焦虑](https://www.v2ex.com/t/845423)
-1. [2022 年入手 iPad Pro 2018（亚马逊翻新）体验极好](https://www.v2ex.com/t/845417)
+1. [截至 .NET 6， C# 在后端开发领域的生态与 Java 还有哪些差距？](https://www.v2ex.com/t/845526)
+1. [19 年首发买的 Apple Watch Series5，现在电池基本不行了](https://www.v2ex.com/t/845485)
+1. [[裁员潮有感] 假如，以后你不能（或者不想）写代码了，你最想做什么](https://www.v2ex.com/t/845618)
+1. [Win 端的神器，你们都用哪些？我自用 AHK、PowerToys、ShareX 等](https://www.v2ex.com/t/845584)
 
 ## 历史归档
 
