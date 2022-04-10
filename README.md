@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-10 18:07:19 +0800`
+ `更新时间：2022-04-10 19:06:47 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [京东上海保供专场](https://www.v2ex.com/t/846040)
 1. [身边有同事技术很厉害，能力比较强，但是刺眼](https://www.v2ex.com/t/845931)
 1. [大家觉得是居家办公工作效率更高，还是去公司更高呢？](https://www.v2ex.com/t/846046)
-1. [Arch Linux 图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023)
 1. [想把博客从 hexo 迁移到 Jekyll 了](https://www.v2ex.com/t/845991)
+1. [这应该是这辈子点过最贵的外卖了](https://www.v2ex.com/t/846095)
 
 ## 历史归档
 
