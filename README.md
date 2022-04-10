@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-10 20:11:14 +0800`
+ `更新时间：2022-04-10 21:14:59 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [大家觉得是居家办公工作效率更高，还是去公司更高呢？](https://www.v2ex.com/t/846046)
 1. [想把博客从 hexo 迁移到 Jekyll 了](https://www.v2ex.com/t/845991)
 1. [Arch Linux 图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023)
+1. [Mac book pro 视网膜屏幕看久了眼花](https://www.v2ex.com/t/846043)
 1. [到深圳实习，在科苑那边上班，大佬们推荐下租房地点呀](https://www.v2ex.com/t/846056)
-1. [上海的朋友你们最近的宽带和蜂窝网正常吗？](https://www.v2ex.com/t/845999)
 
 ## 历史归档
 
