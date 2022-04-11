@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-12 01:17:22 +0800`
+ `更新时间：2022-04-12 02:09:37 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [大家觉得哪款键盘, 称得上是键盘届的 Sony1000X](https://www.v2ex.com/t/846180)
 1. [Mac 显示器的选择之路](https://www.v2ex.com/t/846202)
 1. [装了 Windows11，进不去 BIOS 了](https://www.v2ex.com/t/846257)
-1. [张大妈搜索 master3 349 下单了](https://www.v2ex.com/t/846166)
+1. [有什么提醒喝水的 app](https://www.v2ex.com/t/846229)
 
 ## 历史归档
 
