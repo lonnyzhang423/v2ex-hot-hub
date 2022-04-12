@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-12 08:31:49 +0800`
+ `更新时间：2022-04-12 10:28:24 +0800`
 
 ## 热议话题
 
 1. [[必学] V2EX 发布图文帖子的方法](https://www.v2ex.com/t/846267)
-1. [人生中第一次被裁了](https://www.v2ex.com/t/846185)
-1. [辞职考研失败，这个交叉路口不知道往哪走了](https://www.v2ex.com/t/846237)
 1. [你说你🐴呢?又一个文本加密解密工具](https://www.v2ex.com/t/846245)
-1. [优惠信息 腾讯云服务器香港东京等云服务器 活动最后 3 天 约 3 年 177 起 5 年 177 起 T 楼特惠](https://www.v2ex.com/t/846186)
-1. [大部分安卓手机厂商是不是对操作系统大版本的升级支持都只有一两次？](https://www.v2ex.com/t/846187)
-1. [Mac 显示器的选择之路](https://www.v2ex.com/t/846202)
-1. [大家觉得哪款键盘, 称得上是键盘届的 Sony1000X](https://www.v2ex.com/t/846180)
+1. [辞职考研失败，这个交叉路口不知道往哪走了](https://www.v2ex.com/t/846237)
 1. [装了 Windows11，进不去 BIOS 了](https://www.v2ex.com/t/846257)
 1. [有什么提醒喝水的 app](https://www.v2ex.com/t/846229)
+1. [有老哥打呼噜使用家用呼吸机吗?想了解一下](https://www.v2ex.com/t/846251)
+1. [iOS 往 Windows 传图的方式？](https://www.v2ex.com/t/846321)
+1. [有懂网站建站维护的老哥吗 求助一下](https://www.v2ex.com/t/846332)
 
 ## 历史归档
 
