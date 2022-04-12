@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-13 05:06:55 +0800`
+ `更新时间：2022-04-13 06:07:15 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [mac 怎样实现真全局代理](https://www.v2ex.com/t/846531)
 1. [请教一下各位， Macbook 的 ac+还有半年到期，怎么最大化利用它？](https://www.v2ex.com/t/846412)
 1. [求可刷 openwrt 的便宜的千兆路由器](https://www.v2ex.com/t/846427)
+1. [携号转网到 Google Fi 并购买三星 S22 系列便宜 500 刀](https://www.v2ex.com/t/846408)
 
 ## 历史归档
 
