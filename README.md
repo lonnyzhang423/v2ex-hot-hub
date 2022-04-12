@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-12 12:08:53 +0800`
+ `更新时间：2022-04-12 13:07:04 +0800`
 
 ## 热议话题
 
 1. [[必学] V2EX 发布图文帖子的方法](https://www.v2ex.com/t/846267)
-1. [你说你🐴呢?又一个文本加密解密工具](https://www.v2ex.com/t/846245)
 1. [有老哥打呼噜使用家用呼吸机吗?想了解一下](https://www.v2ex.com/t/846251)
 1. [装了 Windows11，进不去 BIOS 了](https://www.v2ex.com/t/846257)
 1. [有懂网站建站维护的老哥吗 求助一下](https://www.v2ex.com/t/846332)
 1. [哈哈哈哈 邀请你们来我的露台烧烤！](https://www.v2ex.com/t/846294)
 1. [大伙所在的行业景气吗？](https://www.v2ex.com/t/846308)
 1. [iOS 往 Windows 传图的方式？](https://www.v2ex.com/t/846321)
+1. [speedtest 优秀，油管无法流畅 4k，求指导](https://www.v2ex.com/t/846419)
+1. [回看大学做的项目，感觉还挺好玩的](https://www.v2ex.com/t/846279)
 
 ## 历史归档
 
