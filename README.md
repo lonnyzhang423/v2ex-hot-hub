@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-15 05:06:58 +0800`
+ `更新时间：2022-04-15 06:08:54 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [Ubuntu 用宝塔是不是很 low？](https://www.v2ex.com/t/846893)
 1. [帝都群众五一准备咋过？](https://www.v2ex.com/t/846926)
 1. [阿里云 4 月这波涨价真狠。。。啥套路吖](https://www.v2ex.com/t/846888)
-1. [不知道 ios16 能不能做个禁止粘贴复制板的功能选项,让用户自己选择](https://www.v2ex.com/t/846886)
 1. [Obsidian 是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011)
+1. [不知道 ios16 能不能做个禁止粘贴复制板的功能选项,让用户自己选择](https://www.v2ex.com/t/846886)
 1. [有哪些推荐的 mini 主机](https://www.v2ex.com/t/846897)
 
 ## 历史归档
