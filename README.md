@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-15 19:06:37 +0800`
+ `更新时间：2022-04-15 20:12:21 +0800`
 
 ## 热议话题
 
-1. [Obsidian 是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011)
 1. [单身了 7 年 刚想开始 没开始就结束了](https://www.v2ex.com/t/847085)
 1. [为什么蜂窝数据按流量计费？](https://www.v2ex.com/t/847064)
 1. [为什么在一些关于"AppStore 侧载"的新闻下，总能看到支持侧载的人？](https://www.v2ex.com/t/847162)
 1. [不要放弃使用纸币的权力，你还会用现金嘛？](https://www.v2ex.com/t/847170)
 1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118)
 1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113)
+1. [研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098)
 
 ## 历史归档
 
