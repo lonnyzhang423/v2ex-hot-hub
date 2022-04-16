@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-16 19:06:45 +0800`
+ `更新时间：2022-04-16 20:12:00 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [Mac 下 vscode 字体实在太丑， consolas 不管用，发现原来是 Mac 没有 consolas 字体库，刚才下载好了，这下样式，无衬线，等宽貌似都对了，但是还是没 win 下的字体好看](https://www.v2ex.com/t/847259)
 1. [想请教各位 v2 shell 脚本比较精通的，被这个问题卡住了.](https://www.v2ex.com/t/847275)
 1. [请问你们买的投影仪是 4k 的吗？](https://www.v2ex.com/t/847303)
-1. [乡镇干活大工一天 400 小工 350](https://www.v2ex.com/t/847244)
+1. [[吐槽]为何 iOS 闲鱼越更新越卡？](https://www.v2ex.com/t/847300)
 
 ## 历史归档
 
