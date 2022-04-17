@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-17 16:09:27 +0800`
+ `更新时间：2022-04-17 17:07:34 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [iOS 具时效性通知已经被滥用了](https://www.v2ex.com/t/847367)
 1. [到底有没有在 mac 下不延迟掉帧的无线鼠标啊？](https://www.v2ex.com/t/847445)
 1. [为何 iOS 拼多多异常流畅](https://www.v2ex.com/t/847440)
-1. [为什么好的本地 rss 阅读器越来越少？](https://www.v2ex.com/t/847435)
 1. [真的受不了 B 站的推荐算法了，干脆自己搞了个 App...](https://www.v2ex.com/t/847424)
+1. [为什么好的本地 rss 阅读器越来越少？](https://www.v2ex.com/t/847435)
 1. [我这种情况有必要弄一个软路由吗？](https://www.v2ex.com/t/847399)
 1. [Gitee 账号被封，还有的救么？](https://www.v2ex.com/t/847370)
 
