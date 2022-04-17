@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-17 22:06:55 +0800`
+ `更新时间：2022-04-17 23:07:19 +0800`
 
 ## 热议话题
 
 1. [到底有没有在 mac 下不延迟掉帧的无线鼠标啊？](https://www.v2ex.com/t/847445)
 1. [求一个 win 下好用的 pdf 阅读器](https://www.v2ex.com/t/847433)
-1. [Django 部署上线——踩坑 3 天](https://www.v2ex.com/t/847401)
 1. [为何 iOS 拼多多异常流畅](https://www.v2ex.com/t/847440)
 1. [收到 Hetzner 发来的侵权邮件，如何处理？](https://www.v2ex.com/t/847456)
 1. [为什么好的本地 rss 阅读器越来越少？](https://www.v2ex.com/t/847435)
 1. [程序员延寿指南（OKR 版）](https://www.v2ex.com/t/847490)
 1. [有没有代收美刀之类的服务](https://www.v2ex.com/t/847495)
 1. [真的受不了 B 站的推荐算法了，干脆自己搞了个 App...](https://www.v2ex.com/t/847424)
-1. [我这种情况有必要弄一个软路由吗？](https://www.v2ex.com/t/847399)
+1. [深圳电信链路聚合突破千兆](https://www.v2ex.com/t/847414)
+1. [如果打算养狗去哪里买比较合适啊？](https://www.v2ex.com/t/847432)
 
 ## 历史归档
 
