@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-18 01:09:21 +0800`
+ `更新时间：2022-04-18 02:08:41 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [为什么好的本地 rss 阅读器越来越少？](https://www.v2ex.com/t/847435)
 1. [程序员延寿指南（OKR 版）](https://www.v2ex.com/t/847490)
 1. [有没有代收美刀之类的服务](https://www.v2ex.com/t/847495)
-1. [真的受不了 B 站的推荐算法了，干脆自己搞了个 App...](https://www.v2ex.com/t/847424)
-1. [如果打算养狗去哪里买比较合适啊？](https://www.v2ex.com/t/847432)
 1. [有去过华为 od 的么，里面怎么样](https://www.v2ex.com/t/847441)
+1. [如果打算养狗去哪里买比较合适啊？](https://www.v2ex.com/t/847432)
+1. [个人邮件服务讨论 fastmail, Zoho etc](https://www.v2ex.com/t/847503)
 
 ## 历史归档
 
