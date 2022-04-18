@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-19 03:06:01 +0800`
+ `更新时间：2022-04-19 04:08:40 +0800`
 
 ## 热议话题
 
-1. [两梯六户是什么体验？](https://www.v2ex.com/t/847572)
 1. [自从不用百度以后，人生都轻松了。以前真是给自己找罪受。](https://www.v2ex.com/t/847603)
+1. [两梯六户是什么体验？](https://www.v2ex.com/t/847572)
 1. [b 站美食频道](https://www.v2ex.com/t/847616)
 1. [构建一个完美无冲突的 hashmap。](https://www.v2ex.com/t/847716)
 1. [链表快还是数组快？](https://www.v2ex.com/t/847588)
