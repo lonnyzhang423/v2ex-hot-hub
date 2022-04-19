@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-19 19:07:07 +0800`
+ `更新时间：2022-04-19 20:18:27 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [真心请教： 29 了还在公司 CRUD，怎么突破自己？](https://www.v2ex.com/t/847815)
 1. [日元汇率 20 年最低了](https://www.v2ex.com/t/847826)
 1. [都说 30 而立，不知道各位立住了没](https://www.v2ex.com/t/847916)
-1. [我写的 Kafka GUI 客户端，不来试试吗](https://www.v2ex.com/t/847796)
 1. [是的 无追现在匿名搜索突破 600 万次了。](https://www.v2ex.com/t/847842)
+1. [我写的 Kafka GUI 客户端，不来试试吗](https://www.v2ex.com/t/847796)
 
 ## 历史归档
 
