@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-19 14:10:37 +0800`
+ `更新时间：2022-04-19 15:07:56 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,11 @@
 1. [有多少人接受了自己平庸的?](https://www.v2ex.com/t/847840)
 1. [构建一个完美无冲突的 hashmap。](https://www.v2ex.com/t/847716)
 1. [公布一个很 2 的 IDC： qingcloud (青云)](https://www.v2ex.com/t/847747)
-1. [为什么各国高校的 Linux 协会都这么热衷于搞镜像站？](https://www.v2ex.com/t/847719)
 1. [现在的大环境，是买房的好时机吗？](https://www.v2ex.com/t/847830)
-1. [chrome 移动端什么水平](https://www.v2ex.com/t/847667)
+1. [为什么各国高校的 Linux 协会都这么热衷于搞镜像站？](https://www.v2ex.com/t/847719)
+1. [租 30 年房子，存下的钱够回老家修个小房子养老吗](https://www.v2ex.com/t/847837)
+1. [真心请教： 29 了还在公司 CRUD，怎么突破自己？](https://www.v2ex.com/t/847815)
+1. [我写的 Kafka GUI 客户端，不来试试吗](https://www.v2ex.com/t/847796)
 
 ## 历史归档
 
