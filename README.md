@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-20 00:14:28 +0800`
+ `更新时间：2022-04-20 01:16:16 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [都说 30 而立，不知道各位立住了没](https://www.v2ex.com/t/847916)
 1. [我写的 Kafka GUI 客户端，不来试试吗](https://www.v2ex.com/t/847796)
 1. [消费级别最强 CPU 核显咨询](https://www.v2ex.com/t/847918)
-1. [Kubernetes 中如何做到 AB 分流](https://www.v2ex.com/t/847814)
+1. [发现了一个可以免费签 IP 地址 SSL 证书的网站](https://www.v2ex.com/t/847936)
 
 ## 历史归档
 
