@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-19 07:05:50 +0800`
+ `更新时间：2022-04-19 08:34:38 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [b 站美食频道](https://www.v2ex.com/t/847616)
 1. [构建一个完美无冲突的 hashmap。](https://www.v2ex.com/t/847716)
 1. [链表快还是数组快？](https://www.v2ex.com/t/847588)
-1. [为什么各国高校的 Linux 协会都这么热衷于搞镜像站？](https://www.v2ex.com/t/847719)
 1. [一般来说杠字如何定义？](https://www.v2ex.com/t/847578)
+1. [为什么各国高校的 Linux 协会都这么热衷于搞镜像站？](https://www.v2ex.com/t/847719)
 1. [公布一个很 2 的 IDC： qingcloud (青云)](https://www.v2ex.com/t/847747)
 
 ## 历史归档
