@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-20 07:06:48 +0800`
+ `更新时间：2022-04-20 08:37:54 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [真心请教： 29 了还在公司 CRUD，怎么突破自己？](https://www.v2ex.com/t/847815)
 1. [日元汇率 20 年最低了](https://www.v2ex.com/t/847826)
 1. [都说 30 而立，不知道各位立住了没](https://www.v2ex.com/t/847916)
-1. [我写的 Kafka GUI 客户端，不来试试吗](https://www.v2ex.com/t/847796)
 1. [消费级别最强 CPU 核显咨询](https://www.v2ex.com/t/847918)
 1. [发现了一个可以免费签 IP 地址 SSL 证书的网站](https://www.v2ex.com/t/847936)
+1. [用腾讯会议教老妈用网商银行，然后被封号了](https://www.v2ex.com/t/847957)
 
 ## 历史归档
 
