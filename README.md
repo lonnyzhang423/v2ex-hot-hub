@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-21 11:54:23 +0800`
+ `更新时间：2022-04-21 12:33:42 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [片面感觉前端（有一部分）是在提高入行门槛](https://www.v2ex.com/t/848148)
 1. [控诉 lg ultrafine5k 售后](https://www.v2ex.com/t/848149)
 1. [构建一个完美无冲突的 hashmap（上图附代码)](https://www.v2ex.com/t/848178)
-1. [有什么特殊的邮箱值得注册的？](https://www.v2ex.com/t/848138)
-1. [入职的公司要我写前后端不分离的项目，该不该 run](https://www.v2ex.com/t/848100)
 1. [问题来了，小公司内部多人协作，码云和 github 哪个好用，暂不考虑 gitlab](https://www.v2ex.com/t/848183)
-1. [ThoughtWorks 外包公司有人了解吗？](https://www.v2ex.com/t/848102)
+1. [有什么特殊的邮箱值得注册的？](https://www.v2ex.com/t/848138)
 1. [2022 年了，目前的 go web 框架 Gin Beego Iris 如何选择？](https://www.v2ex.com/t/848201)
 1. [真的有人在项目中进行 TS 类型体操吗?](https://www.v2ex.com/t/848199)
+1. [手机上有什么简洁好用的浏览器推荐吗](https://www.v2ex.com/t/848294)
+1. [Linux 服务器需要每个月更新系统吗](https://www.v2ex.com/t/848245)
 
 ## 历史归档
 
