@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-21 08:38:17 +0800`
+ `更新时间：2022-04-21 10:54:24 +0800`
 
 ## 热议话题
 
-1. [程序员开展副业的一些思考、参考](https://www.v2ex.com/t/848072)
-1. [不生孩子立省 90% 以上生活烦恼，你们怎么看？](https://www.v2ex.com/t/848073)
 1. [构想：为了打破垄断，想做一个开源的产权去中心化的即时通讯开源项目](https://www.v2ex.com/t/848089)
-1. [有人了解奥园这家房地产公司的现状吗？女朋友买了这家的房子，踏雷了......](https://www.v2ex.com/t/848057)
-1. [想 DIY 软路由，有什么学习渠道吗？](https://www.v2ex.com/t/848056)
-1. [WWDC22 许愿池](https://www.v2ex.com/t/848052)
-1. [片面感觉前端（有一部分）是在提高入行门槛](https://www.v2ex.com/t/848148)
 1. [为什么微信那么占空间，而电报（telegram）却没有这个问题？](https://www.v2ex.com/t/848198)
+1. [片面感觉前端（有一部分）是在提高入行门槛](https://www.v2ex.com/t/848148)
+1. [控诉 lg ultrafine5k 售后](https://www.v2ex.com/t/848149)
 1. [构建一个完美无冲突的 hashmap（上图附代码)](https://www.v2ex.com/t/848178)
 1. [入职的公司要我写前后端不分离的项目，该不该 run](https://www.v2ex.com/t/848100)
+1. [有什么特殊的邮箱值得注册的？](https://www.v2ex.com/t/848138)
+1. [问题来了，小公司内部多人协作，码云和 github 哪个好用，暂不考虑 gitlab](https://www.v2ex.com/t/848183)
+1. [ThoughtWorks 外包公司有人了解吗？](https://www.v2ex.com/t/848102)
+1. [真的有人在项目中进行 TS 类型体操吗?](https://www.v2ex.com/t/848199)
 
 ## 历史归档
 
