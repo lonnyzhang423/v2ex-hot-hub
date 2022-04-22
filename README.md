@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-22 14:10:17 +0800`
+ `更新时间：2022-04-22 15:07:43 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [写代码不格式化的，都是垃圾，不接受反驳！](https://www.v2ex.com/t/848431)
 1. [乳糖不耐有啥好的牛奶牌子推荐](https://www.v2ex.com/t/848408)
 1. [Mac 下代替 Xshell 的工具 item2 vs FinalShell vs ssh shell](https://www.v2ex.com/t/848386)
+1. [再开一贴，关于内网跑 2.5G](https://www.v2ex.com/t/848523)
 1. [后端开发现在值得入手 MacBook Pro 14 吗](https://www.v2ex.com/t/848385)
-1. [同事之间确实需要谨言慎行，小心祸从口出](https://www.v2ex.com/t/848356)
-1. [有用裸奔用 12pro 的兄弟吗](https://www.v2ex.com/t/848374)
+1. [世界读书日到了，你有什么值得购买的书推荐？](https://www.v2ex.com/t/848500)
 
 ## 历史归档
 
