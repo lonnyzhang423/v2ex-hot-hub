@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-22 21:32:26 +0800`
+ `更新时间：2022-04-22 22:12:28 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [ssh 一分钟被打 1000 次， fail2ban 有用吗？](https://www.v2ex.com/t/848484)
 1. [🎙播客录制预告：我们请到了 V 站站长 @Livid 做客节目，大家有什么想听的话题呀？](https://www.v2ex.com/t/848540)
 1. [mysql 有什么类似 rsa 的加密手段么？](https://www.v2ex.com/t/848472)
-1. [再过几个月就 33 了，到底要不要买房呢？](https://www.v2ex.com/t/848580)
+1. [最近 myip.ipip.net 抽风了吗？](https://www.v2ex.com/t/848553)
 
 ## 历史归档
 
