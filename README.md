@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-24 02:08:39 +0800`
+ `更新时间：2022-04-24 03:06:19 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [纠结退不退 m1 Ultra，等不等 m2](https://www.v2ex.com/t/848806)
 1. [为什么在中国有这么多人急于追逐成功和赚钱？](https://www.v2ex.com/t/848803)
 1. [什么是 "核酸"?](https://www.v2ex.com/t/848725)
-1. [阿里云 CDN 被攻击，一早起来欠费 600 多停机了](https://www.v2ex.com/t/848720)
 1. [有时发现 B 站很难用](https://www.v2ex.com/t/848715)
+1. [阿里云 CDN 被攻击，一早起来欠费 600 多停机了](https://www.v2ex.com/t/848720)
 1. [今天用 winscp+root 去改配置文件，被挂在群里吊。。。](https://www.v2ex.com/t/848727)
 
 ## 历史归档
