@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-24 21:17:30 +0800`
+ `更新时间：2022-04-24 22:07:17 +0800`
 
 ## 热议话题
 
-1. [女生这种情况下究竟是想些啥。。。](https://www.v2ex.com/t/848863)
 1. [戴眼镜的诸位，你们如何清洁镜片？](https://www.v2ex.com/t/848909)
 1. [为什么国内前端都只写 chrome only 的 网站?](https://www.v2ex.com/t/848878)
-1. [10 美元永久保留 GV](https://www.v2ex.com/t/848817)
 1. [北京囤粮食](https://www.v2ex.com/t/848958)
 1. [逃 离 成 都](https://www.v2ex.com/t/848881)
 1. [人在加-拿-大蒙-特-利-尔，开始考虑学电工/水管工/暖通工。](https://www.v2ex.com/t/848916)
-1. [关于 Apple Care 的一些想法](https://www.v2ex.com/t/848831)
 1. [程序员怎么不骗人挣钱？](https://www.v2ex.com/t/848914)
+1. [关于 Apple Care 的一些想法](https://www.v2ex.com/t/848831)
 1. [活在未来的国际友人 25Gbps 对称家宽](https://www.v2ex.com/t/848852)
+1. [国密标准推行不太顺利的样子？](https://www.v2ex.com/t/848968)
 
 ## 历史归档
 
