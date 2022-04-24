@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-24 22:07:17 +0800`
+ `更新时间：2022-04-24 23:07:30 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [逃 离 成 都](https://www.v2ex.com/t/848881)
 1. [人在加-拿-大蒙-特-利-尔，开始考虑学电工/水管工/暖通工。](https://www.v2ex.com/t/848916)
 1. [程序员怎么不骗人挣钱？](https://www.v2ex.com/t/848914)
-1. [关于 Apple Care 的一些想法](https://www.v2ex.com/t/848831)
 1. [活在未来的国际友人 25Gbps 对称家宽](https://www.v2ex.com/t/848852)
 1. [国密标准推行不太顺利的样子？](https://www.v2ex.com/t/848968)
+1. [这五一假期，一个字，绝！](https://www.v2ex.com/t/848952)
 
 ## 历史归档
 
