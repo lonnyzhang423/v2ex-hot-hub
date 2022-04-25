@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-26 02:12:07 +0800`
+ `更新时间：2022-04-26 03:11:26 +0800`
 
 ## 热议话题
 
-1. [我和同事开发的 Redis GUI 客户端，能否替换你正在用的那一款](https://www.v2ex.com/t/849043)
 1. [给工信部写信了，要求开放苹果的 facetime audio 和 CallKit 功能。](https://www.v2ex.com/t/849140)
+1. [我和同事开发的 Redis GUI 客户端，能否替换你正在用的那一款](https://www.v2ex.com/t/849043)
 1. [我的某个基金已经跌了 40 个点了，抛了还是留着？](https://www.v2ex.com/t/849073)
 1. [淘宝疑似全部开放修改用户名](https://www.v2ex.com/t/849042)
 1. [疫情结束后爸妈要来上海打工了，不知道做什么，大家有工作推荐么](https://www.v2ex.com/t/849092)
