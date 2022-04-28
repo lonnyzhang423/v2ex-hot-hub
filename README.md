@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-28 18:13:44 +0800`
+ `更新时间：2022-04-28 19:11:28 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636)
 1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763)
 1. [Linux 服务器转发流量用什么？](https://www.v2ex.com/t/849671)
-1. [今天下午收到人生第一次“毕业通知”，居然有一些欣喜](https://www.v2ex.com/t/849648)
+1. [为什么中国还有那么多 iPad App 不支持横屏模式？](https://www.v2ex.com/t/849695)
 
 ## 历史归档
 
