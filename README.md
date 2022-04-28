@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-28 22:10:47 +0800`
+ `更新时间：2022-04-28 23:09:28 +0800`
 
 ## 热议话题
 
 1. [大家对微博强制显示所有用户 IP 所属地怎么看](https://www.v2ex.com/t/849792)
 1. [感觉需要一门中文编程语言用于青少年的编程教育](https://www.v2ex.com/t/849700)
-1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733)
 1. [大家工作用 2 个显示器的多吗？](https://www.v2ex.com/t/849720)
+1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733)
 1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763)
 1. [用了多年 Windows,发现还是喜欢 Windows](https://www.v2ex.com/t/849830)
-1. [Linux 服务器转发流量用什么？](https://www.v2ex.com/t/849671)
 1. [为什么中国还有那么多 iPad App 不支持横屏模式？](https://www.v2ex.com/t/849695)
+1. [用了多年 Mac，发现还是喜欢 Manjaro](https://www.v2ex.com/t/849742)
 1. [[我想买车] 最近有打算买车，但是没什么实际购车经验/体验，买过车的小伙伴给点意见](https://www.v2ex.com/t/849749)
 
 ## 历史归档
