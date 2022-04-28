@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-28 15:11:36 +0800`
+ `更新时间：2022-04-28 16:14:29 +0800`
 
 ## 热议话题
 
 1. [关于升本，我弃考了](https://www.v2ex.com/t/849618)
-1. [用了多年 Mac，发现还是喜欢 Windows](https://www.v2ex.com/t/849578)
 1. [感觉需要一门中文编程语言用于青少年的编程教育](https://www.v2ex.com/t/849700)
 1. [为什么国外有很多开源组织，国内就很少了](https://www.v2ex.com/t/849655)
 1. [大家工作用 2 个显示器的多吗？](https://www.v2ex.com/t/849720)
 1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733)
-1. [电商项目在简历中已经烂大街了](https://www.v2ex.com/t/849590)
+1. [大家对微博强制显示所有用户 IP 所属地怎么看](https://www.v2ex.com/t/849792)
 1. [如何优雅请假出去面试？](https://www.v2ex.com/t/849603)
+1. [杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636)
+1. [Linux 服务器转发流量用什么？](https://www.v2ex.com/t/849671)
 
 ## 历史归档
 
