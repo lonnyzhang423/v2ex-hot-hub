@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-29 02:14:33 +0800`
+ `更新时间：2022-04-29 03:06:33 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733)
 1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763)
 1. [用了多年 Windows,发现还是喜欢 Windows](https://www.v2ex.com/t/849830)
-1. [用了多年 Mac，发现还是喜欢 Manjaro](https://www.v2ex.com/t/849742)
 1. [为什么中国还有那么多 iPad App 不支持横屏模式？](https://www.v2ex.com/t/849695)
+1. [用了多年 Mac，发现还是喜欢 Manjaro](https://www.v2ex.com/t/849742)
 1. [[我想买车] 最近有打算买车，但是没什么实际购车经验/体验，买过车的小伙伴给点意见](https://www.v2ex.com/t/849749)
 
 ## 历史归档
