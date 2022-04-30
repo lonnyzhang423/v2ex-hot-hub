@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-30 17:07:10 +0800`
+ `更新时间：2022-04-30 18:07:37 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,8 @@
 1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164)
 1. [北京常态化核酸检测，要出茧子了](https://www.v2ex.com/t/850183)
 1. [Redis 默认未使用 tls 协议，是否意味着传输数据可能会出错？](https://www.v2ex.com/t/850179)
-1. [🎙枫言枫语播客《Livid: 十年 V2EX，复古游戏，和未来》](https://www.v2ex.com/t/850074)
-1. [我觉得展示 ip 属地不如展示真实年龄](https://www.v2ex.com/t/850202)
 1. [电池充电 85%能保护电池!?](https://www.v2ex.com/t/850189)
+1. [看完骆驼祥子，感觉好像自己哦](https://www.v2ex.com/t/850169)
 1. [采纳有礼：有什么傻瓜便宜的设备可替代我弱电箱里的 openwrt 路由器，实现远程内网穿透访问和端口转发？](https://www.v2ex.com/t/850136)
 
 ## 历史归档
