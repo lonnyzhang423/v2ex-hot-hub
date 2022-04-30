@@ -11,15 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-01 00:09:02 +0800`
+ `更新时间：2022-05-01 01:10:23 +0800`
 
 ## 热议话题
 
 1. [用了多年 Linux 和 Windows，发现还是喜欢 Arch](https://www.v2ex.com/t/850164)
-1. [北京常态化核酸检测，要出茧子了](https://www.v2ex.com/t/850183)
 1. [windows 下最好的免费 ssh 工具是啥？](https://www.v2ex.com/t/850220)
 1. [电池充电 85%能保护电池!?](https://www.v2ex.com/t/850189)
-1. [看完骆驼祥子，感觉好像自己哦](https://www.v2ex.com/t/850169)
 1. [最近逛病毒吧，很多用 windows 自带和火绒的都被勒索了](https://www.v2ex.com/t/850215)
 1. [Redis 默认未使用 tls 协议，是否意味着传输数据可能会出错？](https://www.v2ex.com/t/850179)
 1. [怎么安全的出二手电子产品？](https://www.v2ex.com/t/850203)
