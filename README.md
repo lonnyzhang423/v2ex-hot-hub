@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-04-30 08:41:02 +0800`
+ `更新时间：2022-04-30 10:49:07 +0800`
 
 ## 热议话题
 
-1. [iPhone 有什么让你离不开的功能吗？](https://www.v2ex.com/t/849965)
 1. [小学背的诗词长大之后才慢慢欣赏](https://www.v2ex.com/t/850010)
-1. [go 用来业务开发, 开发速度是不是吊打其他语言?](https://www.v2ex.com/t/849956)
 1. [微博 IP 归属地](https://www.v2ex.com/t/850097)
 1. [求推荐 Linux server 发行版](https://www.v2ex.com/t/849966)
-1. [问一下大家和我是一样的吗?关于喝茶喝咖啡](https://www.v2ex.com/t/849961)
 1. [关于开展线上养殖的想法](https://www.v2ex.com/t/849984)
 1. [挖孔 iPhone 看起来是 实锤了。](https://www.v2ex.com/t/850063)
+1. [18 家币圈公司内推大合集，纯内推不是猎头，一个圈子的，各种职位都有，国内国外的](https://www.v2ex.com/t/849972)
+1. [也来收集一下好喝的茶叶](https://www.v2ex.com/t/850039)
+1. [慢性胃炎、慢性结肠炎、混合痔怎么调养？算程序员得职业病吗](https://www.v2ex.com/t/850013)
+1. [spotify 各方面确实比国内音乐平台要优秀](https://www.v2ex.com/t/850065)
 
 ## 历史归档
 
