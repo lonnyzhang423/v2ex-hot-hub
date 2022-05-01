@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-01 17:10:16 +0800`
+ `更新时间：2022-05-01 18:08:53 +0800`
 
 ## 热议话题
 
 1. [2012 年的主机，十年后终于准备升级了，进来聊聊](https://www.v2ex.com/t/850250)
+1. [Bitwarden 密码管理软件是否安全？](https://www.v2ex.com/t/850294)
 1. [求大佬推荐一个 Linux 桌面环境方案，要 512m 运行内存带得动的，内存占用尽量小一点，能装 chrome 浏览器](https://www.v2ex.com/t/850299)
 1. [如果突然遭遇意外，怎么把数字资产移交给亲属？](https://www.v2ex.com/t/850319)
-1. [Bitwarden 密码管理软件是否安全？](https://www.v2ex.com/t/850294)
 1. [多租户低代码平台数据库选择问题](https://www.v2ex.com/t/850237)
 1. [想买个 iPad ，不知道是不是冲动想法](https://www.v2ex.com/t/850278)
 1. [设想了一个强身份社区，有无吸引力](https://www.v2ex.com/t/850266)
