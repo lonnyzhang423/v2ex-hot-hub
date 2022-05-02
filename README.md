@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-02 14:10:13 +0800`
+ `更新时间：2022-05-02 15:08:07 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [发现 iPhone 计算器的一个秘密](https://www.v2ex.com/t/850381)
 1. [现代化 C 使用体验](https://www.v2ex.com/t/850384)
 1. [虚拟机里的 Linux 用什么桌面环境好？](https://www.v2ex.com/t/850376)
-1. [与陌生人拼车一定要关闭查找功能](https://www.v2ex.com/t/850363)
 1. [记录一下自己成为密 j 到集 z 隔 l 的整个过程](https://www.v2ex.com/t/850478)
 1. [[技术|原创|首发] Deno 反代加速任意网站 实现 CDN 加速效果](https://www.v2ex.com/t/850412)
 1. [有自己搭建低功耗迷你主机+UPS 的方案么，求推荐](https://www.v2ex.com/t/850467)
+1. [有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472)
 
 ## 历史归档
 
