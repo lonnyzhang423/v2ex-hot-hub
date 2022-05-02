@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-03 06:09:19 +0800`
+ `更新时间：2022-05-03 07:08:06 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [Win11 上，想要完整的 Linux 环境该怎么做？](https://www.v2ex.com/t/850464)
 1. [能否说说运维工作内容](https://www.v2ex.com/t/850507)
 1. [宽带越来越高， AC86U 退役，求推荐 AP 路由](https://www.v2ex.com/t/850514)
-1. [谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476)
+1. [红米 k40 刷了 pixel experience android 12 ，感觉真棒呀](https://www.v2ex.com/t/850511)
 
 ## 历史归档
 
