@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-02 21:31:31 +0800`
+ `更新时间：2022-05-02 22:12:37 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [大厂完善的基建对于个人发展的利弊](https://www.v2ex.com/t/850515)
 1. [2022 了 windows 还需要装驱动吗](https://www.v2ex.com/t/850452)
 1. [Win11 上，想要完整的 Linux 环境该怎么做？](https://www.v2ex.com/t/850464)
-1. [6 月出 macbook air 的可能性大吗？](https://www.v2ex.com/t/850460)
 1. [线上突然出 bug 怎么找？](https://www.v2ex.com/t/850448)
+1. [6 月出 macbook air 的可能性大吗？](https://www.v2ex.com/t/850460)
 1. [能否说说运维工作内容](https://www.v2ex.com/t/850507)
 
 ## 历史归档
