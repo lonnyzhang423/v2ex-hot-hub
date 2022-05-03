@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-03 20:15:55 +0800`
+ `更新时间：2022-05-03 21:30:45 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,10 @@
 1. [感觉闲鱼真是越来越难淘到好东西了](https://www.v2ex.com/t/850590)
 1. [macos12（Monterey）目前可以升级吗？ bug 什么的修复的怎么样了？我还停留在 bigsur](https://www.v2ex.com/t/850584)
 1. [苦于这种 bug 没见过不知道怎么处理, 特上来求助..](https://www.v2ex.com/t/850619)
-1. [新装个系统，本来想安个 notpad++， qtmd](https://www.v2ex.com/t/850657)
 1. [物色一台支持通话录音超长续航的小手机](https://www.v2ex.com/t/850575)
-1. [看着 Ubuntu 22.04 新内核眼馋，目前 Debian 11 stable， 是 backports 安装新内核 还是直接升级到 testing？](https://www.v2ex.com/t/850563)
-1. [电视的网络性能太差应该怎么解决](https://www.v2ex.com/t/850571)
+1. [阿里云国际 HK 轻量新开服务上 SS 立马被阻断端口](https://www.v2ex.com/t/850663)
 1. [美国第一证券 的 app 为何 APPSotre 下架了？](https://www.v2ex.com/t/850588)
+1. [看着 Ubuntu 22.04 新内核眼馋，目前 Debian 11 stable， 是 backports 安装新内核 还是直接升级到 testing？](https://www.v2ex.com/t/850563)
 
 ## 历史归档
 
