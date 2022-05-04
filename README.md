@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-04 12:20:44 +0800`
+ `更新时间：2022-05-04 13:12:13 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [2022 了 macos 还不能像 ios 那样做到应用仅限 App Store 安装吗](https://www.v2ex.com/t/850676)
 1. [苦于这种 bug 没见过不知道怎么处理, 特上来求助..](https://www.v2ex.com/t/850619)
 1. [v 友们，想给父母更新一次手机（只限 iPhone ），相对护眼 LCD 屏的 iPhone 11 是不是最优解？](https://www.v2ex.com/t/850664)
-1. [公网 ip，需要做什么安全防范措施么？](https://www.v2ex.com/t/850616)
 1. [求个 Arch Linux 的详细安装教程](https://www.v2ex.com/t/850666)
+1. [现在 Java 转 go 是不是个好时机？](https://www.v2ex.com/t/850704)
 
 ## 历史归档
 
