@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-04 16:15:03 +0800`
+ `更新时间：2022-05-04 17:12:45 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [v 友们，想给父母更新一次手机（只限 iPhone ），相对护眼 LCD 屏的 iPhone 11 是不是最优解？](https://www.v2ex.com/t/850664)
 1. [求个 Arch Linux 的详细安装教程](https://www.v2ex.com/t/850666)
 1. [一年多经验 Java 后端简历求指导](https://www.v2ex.com/t/850682)
+1. [电动牙刷比普通牙刷好在那哪里？](https://www.v2ex.com/t/850734)
 
 ## 历史归档
 
