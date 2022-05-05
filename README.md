@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-05 18:13:31 +0800`
+ `更新时间：2022-05-05 19:07:12 +0800`
 
 ## 热议话题
 
 1. [现在的树莓派简直成了理财产品了，不知道为啥现在这么贵了！](https://www.v2ex.com/t/850870)
 1. [日经贴，学生党看 PDF 买什么平板](https://www.v2ex.com/t/850811)
-1. [重构了以前的时间线 APP，欢迎 V 友来体验一下🥳](https://www.v2ex.com/t/850878)
 1. [有啥省事的姿势，能在苹果手机上，接收个云主机上跑着的程序发出来的通知？（要接近实时，不卡壳）](https://www.v2ex.com/t/850826)
+1. [重构了以前的时间线 APP，欢迎 V 友来体验一下🥳](https://www.v2ex.com/t/850878)
 1. [怎么提醒在中国使用 Google 账号的人关闭谷歌账号的位置记录功能？](https://www.v2ex.com/t/850919)
 1. [2022 年 react 生态，大家都用啥](https://www.v2ex.com/t/850921)
 1. [2 个月成功减肥 20 斤，大家有什么想问的？](https://www.v2ex.com/t/850939)
-1. [Linux 有介于 zsh 到 Gnome 之间的 GUI 吗](https://www.v2ex.com/t/850799)
+1. [黑果还是挺香的，顺便问下，苹果还可能重启 Intel 产品线吗？](https://www.v2ex.com/t/850958)
 1. [有没有什么好的本地集群方案？](https://www.v2ex.com/t/850838)
 1. [大家怎么刷鞋，刷鞋机还是手动？](https://www.v2ex.com/t/850877)
 
