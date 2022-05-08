@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-08 19:06:26 +0800`
+ `更新时间：2022-05-08 20:12:40 +0800`
 
 ## 热议话题
 
 1. [我这一生最大的愿望就是每天都能睡个好觉](https://www.v2ex.com/t/851523)
-1. [腾讯会议： Linux 用户快滚](https://www.v2ex.com/t/851449)
 1. [关于 Java 笨重一说](https://www.v2ex.com/t/851477)
-1. [大陆服务器搭 ssr 会被封 IP 吗？](https://www.v2ex.com/t/851443)
 1. [大家都在推荐 mesh 组网，但是摆放路由器不需要一小块地方，一个裸露的电源，一根裸露网线吗？我觉得还是面板式 ap 香啊！](https://www.v2ex.com/t/851454)
-1. [广州汇丰银行后端怎样？](https://www.v2ex.com/t/851445)
 1. [福建泉州地区的白名单域名阻断](https://www.v2ex.com/t/851525)
 1. [[虚拟主机]-分享个免费的虚拟主机](https://www.v2ex.com/t/851530)
+1. [读《枪炮，病菌与钢铁》前两章有感/疑](https://www.v2ex.com/t/851538)
+1. [求一个 12 代 U 的小主机方案建议](https://www.v2ex.com/t/851506)
+1. [Bob 0.9.0 版本发布，独立 OCR 来啦 🎉](https://www.v2ex.com/t/851543)
 
 ## 历史归档
 
