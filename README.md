@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-09 01:10:53 +0800`
+ `更新时间：2022-05-09 02:08:36 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [程序员应该怎么写博客？](https://www.v2ex.com/t/851549)
 1. [福建泉州地区的白名单域名阻断](https://www.v2ex.com/t/851525)
 1. [Bob 0.9.0 版本发布，独立 OCR 来啦 🎉](https://www.v2ex.com/t/851543)
-1. [读《枪炮，病菌与钢铁》前两章有感/疑](https://www.v2ex.com/t/851538)
 1. [m1 mac ssd 寿命问题解决了吗?](https://www.v2ex.com/t/851563)
+1. [读《枪炮，病菌与钢铁》前两章有感/疑](https://www.v2ex.com/t/851538)
 1. [[虚拟主机]-分享个免费的虚拟主机](https://www.v2ex.com/t/851530)
 1. [求一个 12 代 U 的小主机方案建议](https://www.v2ex.com/t/851506)
 
