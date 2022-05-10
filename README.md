@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-10 11:18:53 +0800`
+ `更新时间：2022-05-10 12:09:46 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [工作上，别人跟你说辛苦了，你该咋回应？](https://www.v2ex.com/t/851825)
 1. [学过的知识记不住怎么办?](https://www.v2ex.com/t/851728)
 1. [两句话， MIUI 广告少一大半](https://www.v2ex.com/t/851714)
+1. [问弱鸡如何自救？](https://www.v2ex.com/t/851911)
 1. [行业工作环境日益内卷是不是跟开源有很大关系？](https://www.v2ex.com/t/851734)
-1. [WireGuard 安裝了 2 天就被阻断了，不是说很难被识别吗？](https://www.v2ex.com/t/851718)
+1. [iOS 通过控制中心关闭 wifi 后，总是自动打开](https://www.v2ex.com/t/851876)
 
 ## 历史归档
 
