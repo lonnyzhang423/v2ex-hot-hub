@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-12 03:07:28 +0800`
+ `更新时间：2022-05-12 04:13:34 +0800`
 
 ## 热议话题
 
 1. [公正评价，这代码什么水平](https://www.v2ex.com/t/852125)
 1. [IOS 的 RAM 4GB 是否足够使用？](https://www.v2ex.com/t/852189)
 1. [这一次，我要勇敢的讲出来，这一辈子最大的损失](https://www.v2ex.com/t/852227)
-1. [花了点时间迁移了服务器, 重新恢复了完全免费的乳腺检测 AI 网站](https://www.v2ex.com/t/852100)
 1. [初次上手 Vue.js 开发效率确实高！从此跟 Jquery 说拜拜！](https://www.v2ex.com/t/852221)
 1. [居家办公，我又卷了一款记账工具](https://www.v2ex.com/t/852108)
 1. [这人生是少奋斗很多了嘛](https://www.v2ex.com/t/852183)
