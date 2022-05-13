@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-13 07:07:56 +0800`
+ `更新时间：2022-05-13 08:45:23 +0800`
 
 ## 热议话题
 
 1. [关于 Java 很啰嗦的问题](https://www.v2ex.com/t/852381)
 1. [不知道我还能不能顶的住。](https://www.v2ex.com/t/852343)
-1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356)
 1. [Go 特性少，语法糖太少，味儿苦啊！求开发体验好、生态全的语言推荐](https://www.v2ex.com/t/852388)
+1. [关于 e 招贷，请教一下大家](https://www.v2ex.com/t/852356)
 1. [比特币 开始暴跌了](https://www.v2ex.com/t/852413)
 1. [大家有没有比较好的经验，管理两个版本的 Python , 2 & 3?](https://www.v2ex.com/t/852314)
 1. [我是新时代四败青年](https://www.v2ex.com/t/852316)
