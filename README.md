@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-14 13:09:22 +0800`
+ `更新时间：2022-05-14 14:28:19 +0800`
 
 ## 热议话题
 
 1. [女友老在王者荣耀里面充钱，但她并不玩这个游戏](https://www.v2ex.com/t/852724)
 1. [现在一周上 5 天的公司多吗](https://www.v2ex.com/t/852650)
-1. [持续收藏很多年的特殊视频资源的存储方案有推荐吗？要兼顾私密安全和成本。](https://www.v2ex.com/t/852632)
 1. [完全使用 Linux 桌面一年了，依然是个 Linux 新手](https://www.v2ex.com/t/852740)
-1. [Lapce 发布 v0.1.0 用 Rust 编写 GPU 渲染的开源代码编辑器](https://www.v2ex.com/t/852668)
-1. [润 || 留](https://www.v2ex.com/t/852638)
 1. [新的 mbp 外观有缺陷，退不退好](https://www.v2ex.com/t/852682)
-1. [想回老家，但感觉回不去了，怎么办？](https://www.v2ex.com/t/852624)
+1. [润 || 留](https://www.v2ex.com/t/852638)
+1. [Lapce 发布 v0.1.0 用 Rust 编写 GPU 渲染的开源代码编辑器](https://www.v2ex.com/t/852668)
+1. [我国整体的趋势是不是在封闭？](https://www.v2ex.com/t/852760)
+1. [好吧，我就是热榜"比特币开始暴跌了"那篇文章里说的"守币 30 年"的大冤种](https://www.v2ex.com/t/852732)
+1. [好奇 V2EX 的楼层回复机制](https://www.v2ex.com/t/852765)
 
 ## 历史归档
 
