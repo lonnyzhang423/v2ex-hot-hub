@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-15 19:06:21 +0800`
+ `更新时间：2022-05-15 20:13:12 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [撸了一个 Clash 的 GUI, 自带规则开箱即用](https://www.v2ex.com/t/852908)
 1. [国企开发岗进去天天高强度加班，被吓到了](https://www.v2ex.com/t/852956)
 1. [Chrome 扩展：这是什么车 ？车辆车牌识别](https://www.v2ex.com/t/852902)
-1. [如何在 windows 上同时安装多个不同版本的 chrome 呢？](https://www.v2ex.com/t/852845)
 1. [各位是怎么样驱蚊的?](https://www.v2ex.com/t/852918)
-1. [URLCron 更新了，同时提供 10 个高级版兑换码](https://www.v2ex.com/t/852842)
+1. [hhkb 真的能用一辈子吗](https://www.v2ex.com/t/852950)
+1. [兄弟们，失望了，炒股 10 年亏掉了所有收入 1200 万，未来还有人生吗](https://www.v2ex.com/t/852971)
 
 ## 历史归档
 
