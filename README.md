@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-15 14:10:36 +0800`
+ `更新时间：2022-05-15 15:07:38 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [大家有会主动还钱的朋友吗](https://www.v2ex.com/t/852921)
 1. [Chrome 扩展：这是什么车 ？车辆车牌识别](https://www.v2ex.com/t/852902)
 1. [撸了一个 Clash 的 GUI, 自带规则开箱即用](https://www.v2ex.com/t/852908)
-1. [海鲜市场的宽带报装可靠吗？](https://www.v2ex.com/t/852823)
+1. [Raycast 相比 alfred 好在哪](https://www.v2ex.com/t/852808)
 
 ## 历史归档
 
