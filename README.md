@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-16 15:11:22 +0800`
+ `更新时间：2022-05-16 16:10:55 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,10 @@
 1. [14 年前刚毕业被从 Java 转成 PHP 现在悔恨 无力回天](https://www.v2ex.com/t/853017)
 1. [各位 这样的人还有救吗](https://www.v2ex.com/t/853076)
 1. [自己做了个美国虚拟 Visa 发卡服务，可直接绑定 Apple Pay/美区 Apple ID](https://www.v2ex.com/t/853022)
-1. [大家的收入到底有多高，每次看到各位发的，我都不好意思跟帖了](https://www.v2ex.com/t/853121)
 1. [有没有普通人切实可行的 run 出国的方法？](https://www.v2ex.com/t/853021)
 1. [各位，在工作或生活上有没有一直在坚持的好习惯](https://www.v2ex.com/t/853078)
-1. [如何避免 IP 追踪？](https://www.v2ex.com/t/852966)
 1. [抛砖引玉，有没有人关注此次 MSI 赛事](https://www.v2ex.com/t/853071)
+1. [用电烧开的水和用煤气（火）烧开的水有什么区别？](https://www.v2ex.com/t/853079)
 
 ## 历史归档
 
