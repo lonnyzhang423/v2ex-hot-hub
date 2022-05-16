@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-17 01:15:21 +0800`
+ `更新时间：2022-05-17 02:09:40 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [抛砖引玉，有没有人关注此次 MSI 赛事](https://www.v2ex.com/t/853071)
 1. [Rust 桌面程序选 Flutter 还是 Tauri？](https://www.v2ex.com/t/853174)
 1. [用电烧开的水和用煤气（火）烧开的水有什么区别？](https://www.v2ex.com/t/853079)
-1. [有没有一种开源协议，禁止违反劳动法实行 996 的公司使用？](https://www.v2ex.com/t/853054)
 1. [大家头像一般都在哪里下载?](https://www.v2ex.com/t/853148)
+1. [如何使用 Windows 愉快的编程？](https://www.v2ex.com/t/853292)
 1. [[送码] 🎉 Eul - SwiftUI、Concurrency 简明教程](https://www.v2ex.com/t/853068)
 
 ## 历史归档
