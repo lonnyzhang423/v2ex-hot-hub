@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-20 10:46:09 +0800`
+ `更新时间：2022-05-20 11:40:55 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [deepin 要做根系统](https://www.v2ex.com/t/853913)
 1. [虎扑移动端被劫持了？直接跳黄网。。](https://www.v2ex.com/t/853925)
 1. [居家办公两周了，已经忘记上班什么感觉了](https://www.v2ex.com/t/853972)
-1. [各位的鼻炎是怎么治疗的，我后鼻甲肥大， N 年了，感觉啥药都不管用](https://www.v2ex.com/t/853880)
-1. [2022 年了，多少在用 safari？](https://www.v2ex.com/t/854007)
 1. [❤️SetApp 家人们集合啦： MenubarX 入驻啦，求 V 友支持[送福利]](https://www.v2ex.com/t/854039)
-1. [明天就是 520 了，你们会送/收礼物吗](https://www.v2ex.com/t/853886)
-1. [请问 JetBrains 家一般啥时候会有优惠，或者从哪个渠道能第一时间知道优惠来了，准备剁一个！](https://www.v2ex.com/t/853944)
+1. [2022 年了，多少在用 safari？](https://www.v2ex.com/t/854007)
+1. [闲置在家,迷茫不知道怎么办](https://www.v2ex.com/t/854070)
+1. [iPhone12 还可以再战几年](https://www.v2ex.com/t/854065)
+1. [Linus Torvalds 在 TED 演讲上所说的有品味的代码](https://www.v2ex.com/t/854016)
 
 ## 历史归档
 
