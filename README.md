@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-21 20:13:08 +0800`
+ `更新时间：2022-05-21 21:19:39 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [商科转前端中，寻求建议](https://www.v2ex.com/t/854263)
 1. [有什么平台能向大型开源项目作者/大厂程序员付费提问技术问题吗？](https://www.v2ex.com/t/854323)
 1. [macOS 上有办法在 Chrome 打开 bilibili 时自动用 safari 打开吗](https://www.v2ex.com/t/854289)
-1. [macOS 有没有好用的任务管理工具，或者叫后台任务切换工具](https://www.v2ex.com/t/854301)
+1. [感觉走到了人生的交叉路口，求 v 友解惑](https://www.v2ex.com/t/854358)
 
 ## 历史归档
 
