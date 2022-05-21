@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-22 02:08:57 +0800`
+ `更新时间：2022-05-22 03:06:11 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [请问前端选手们，你们分得清 "router" 和 "route" 吗？](https://www.v2ex.com/t/854292)
 1. [感觉走到了人生的交叉路口，求 v 友解惑](https://www.v2ex.com/t/854358)
 1. [为啥 dell 2415Q 停产了？求显示器推荐](https://www.v2ex.com/t/854302)
-1. [你觉得哪些技术点觉得难，哪些觉得简单](https://www.v2ex.com/t/854363)
 1. [Raycast 真不错 Alfred 已卸载](https://www.v2ex.com/t/854364)
+1. [你觉得哪些技术点觉得难，哪些觉得简单](https://www.v2ex.com/t/854363)
 
 ## 历史归档
 
