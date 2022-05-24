@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-24 22:08:33 +0800`
+ `更新时间：2022-05-24 23:08:16 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [马上 618 了，大家有什么准备买的吗？](https://www.v2ex.com/t/854952)
 1. [别再天猫买东西了，退款同意后再次被拒绝，直接关闭退款确认收货](https://www.v2ex.com/t/854856)
 1. [阿里云裁员是真的](https://www.v2ex.com/t/854867)
-1. [Jetbrains 全家桶全新 UI 界面](https://www.v2ex.com/t/854816)
 1. [你们下班之后还会用工作使用的语言写代码吗](https://www.v2ex.com/t/854929)
 1. [没人讨论 PHP 了嘛？](https://www.v2ex.com/t/854863)
 1. [终于要还完债务了,解脱](https://www.v2ex.com/t/854885)
+1. [大脑多线程强迫症](https://www.v2ex.com/t/854947)
 
 ## 历史归档
 
