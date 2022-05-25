@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-25 19:07:24 +0800`
+ `更新时间：2022-05-25 20:15:50 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [最近迷上了捞鱼，隔山差五就去河边捞](https://www.v2ex.com/t/855114)
 1. [如何看待买房“如果是刚需，现在可以入手”的建议？](https://www.v2ex.com/t/855211)
 1. [还有十五分钟就是 offer1 的上岗日期，结果 offer2 来了，太戏剧化了，有老哥分析下吗](https://www.v2ex.com/t/855092)
-1. [618 给父母买手机推荐？](https://www.v2ex.com/t/855074)
-1. [fastjson 真就突出一个阴魂不散](https://www.v2ex.com/t/855129)
 1. [大家有成功减肥的经验吗？](https://www.v2ex.com/t/855207)
+1. [fastjson 真就突出一个阴魂不散](https://www.v2ex.com/t/855129)
+1. [618 给父母买手机推荐？](https://www.v2ex.com/t/855074)
 
 ## 历史归档
 
