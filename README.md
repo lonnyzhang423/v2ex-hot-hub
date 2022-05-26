@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-27 02:10:14 +0800`
+ `更新时间：2022-05-27 03:06:15 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [why javaer 什么都要搞一个 interface?](https://www.v2ex.com/t/855458)
 1. [如果将自己的电脑整成一个云服务器，这个耗电成本高过买台云服务吗？](https://www.v2ex.com/t/855432)
 1. [内置 KVM 的显示器推荐](https://www.v2ex.com/t/855355)
+1. [Apple 中国本地化团队能不能别添乱了？](https://www.v2ex.com/t/855533)
 1. [京造 K2 是否名不符实？](https://www.v2ex.com/t/855456)
 1. [Magsafe 外接电池真不错！](https://www.v2ex.com/t/855436)
-1. [Apple 中国本地化团队能不能别添乱了？](https://www.v2ex.com/t/855533)
 1. [github copilot 你们会用在公司项目上开发吗？](https://www.v2ex.com/t/855352)
 
 ## 历史归档
