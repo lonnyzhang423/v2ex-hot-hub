@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-26 12:21:39 +0800`
+ `更新时间：2022-05-26 13:13:54 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [关于 PHP 高并发，请教各位](https://www.v2ex.com/t/855361)
 1. [想问下懂法律的老哥们，摘抄阿里开源软件 Egg.js 技术文档内容算不算侵权。](https://www.v2ex.com/t/855289)
 1. [写了一段时间 Golang，我很纳闷，为啥 Golang 这么火](https://www.v2ex.com/t/855285)
-1. [v 友们，红米的 11T Pro / Pro + 这俩 LCD 屏的手机行不行？（我是 LCD 党。。。现在用 iPhone11](https://www.v2ex.com/t/855194)
 1. [Chrome 是越来越强硬了](https://www.v2ex.com/t/855310)
+1. [v 友们，红米的 11T Pro / Pro + 这俩 LCD 屏的手机行不行？（我是 LCD 党。。。现在用 iPhone11](https://www.v2ex.com/t/855194)
 1. [为什么国内网站喜欢用短信作二次验证,而不用 TOTP?](https://www.v2ex.com/t/855271)
 
 ## 历史归档
