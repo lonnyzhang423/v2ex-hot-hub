@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-05-28 07:07:57 +0800`
+ `更新时间：2022-05-28 08:40:13 +0800`
 
 ## 热议话题
 
 1. [现在电车真的好贵](https://www.v2ex.com/t/855591)
 1. [分享一下我的 618 购物车](https://www.v2ex.com/t/855668)
 1. [求推荐一款软路由](https://www.v2ex.com/t/855585)
-1. [浏览器 tab 过多](https://www.v2ex.com/t/855608)
 1. [我需要一台音响，我该怎么选](https://www.v2ex.com/t/855578)
+1. [浏览器 tab 过多](https://www.v2ex.com/t/855608)
 1. [远程工作 异地社保](https://www.v2ex.com/t/855581)
 1. [[成都][天翼云][社招][三年以上][15~30k] sre/运维研发](https://www.v2ex.com/t/855655)
 1. [是天玑 8100 过誉还是红米的品控不行？](https://www.v2ex.com/t/855624)
