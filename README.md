@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-02 02:10:03 +0800`
+ `更新时间：2022-06-02 03:06:34 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [PDD 百亿补贴买 iPhone 会不会翻车](https://www.v2ex.com/t/856642)
 1. [人在上海，已被优化，杭州的就业市场是不是更严峻？](https://www.v2ex.com/t/856640)
 1. [分享下 AppleWatch 的六月挑战目标](https://www.v2ex.com/t/856680)
-1. [为什么不把 mp3 集成进现有的手环中？](https://www.v2ex.com/t/856652)
 1. [感觉自己并不需要真正的 NAS](https://www.v2ex.com/t/856704)
+1. [为什么不把 mp3 集成进现有的手环中？](https://www.v2ex.com/t/856652)
 1. [M1 Max 10 + 32 PD 运行 LOL 帧数过低「团战 50 左右」，软件上有没有什么好点的解决办法？](https://www.v2ex.com/t/856605)
 
 ## 历史归档
