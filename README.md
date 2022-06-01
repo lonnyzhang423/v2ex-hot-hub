@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-01 11:25:33 +0800`
+ `更新时间：2022-06-01 13:03:08 +0800`
 
 ## 热议话题
 
-1. [#92 逼近 9 块钱了，想卖车了……](https://www.v2ex.com/t/856405)
 1. [好医保拒赔，给父母求一份靠谱保险](https://www.v2ex.com/t/856575)
-1. [开发许久的小站上线了，诚邀大家试用和内测！ https://xiaohupo.cn](https://www.v2ex.com/t/856456)
-1. [写了一个无限制视频下载脚本](https://www.v2ex.com/t/856510)
 1. [如何看待上海解封这件事](https://www.v2ex.com/t/856603)
-1. [618 请 v 友帮忙看看我选的 4k 显示器](https://www.v2ex.com/t/856413)
-1. [Macbook M1 Pro，不到一个月主板烧了](https://www.v2ex.com/t/856404)
+1. [写了一个无限制视频下载脚本](https://www.v2ex.com/t/856510)
+1. [开发许久的小站上线了，诚邀大家试用和内测！ https://xiaohupo.cn](https://www.v2ex.com/t/856456)
+1. [昨晚成都房产政策大变天 该不该上车呢](https://www.v2ex.com/t/856614)
 1. [手机地图决赛圈 PK](https://www.v2ex.com/t/856458)
 1. [2022 安卓备用机选择](https://www.v2ex.com/t/856484)
+1. [618 准备买 mac 的 XDM，可以等一等](https://www.v2ex.com/t/856620)
 
 ## 历史归档
 
