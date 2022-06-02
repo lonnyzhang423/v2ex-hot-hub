@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-02 19:07:40 +0800`
+ `更新时间：2022-06-02 20:14:53 +0800`
 
 ## 热议话题
 
 1. [人无法赚到认知以外的钱](https://www.v2ex.com/t/856873)
-1. [Kindle 将在中国停止电子书店的运营](https://www.v2ex.com/t/856939)
 1. [观 nas 贴有感](https://www.v2ex.com/t/856836)
 1. [是不是只有老司机才记得 Thunderbird？](https://www.v2ex.com/t/856850)
 1. [人在美国，需要向国内交付 10G 左右的文件，有什么比较快速稳定的解决方案](https://www.v2ex.com/t/856842)
