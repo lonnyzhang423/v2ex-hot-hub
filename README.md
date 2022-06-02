@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-02 12:36:39 +0800`
+ `更新时间：2022-06-02 13:23:46 +0800`
 
 ## 热议话题
 
-1. [感觉自己并不需要真正的 NAS](https://www.v2ex.com/t/856704)
 1. [上海解封了，而我写的小程序更像是 49 年入股国军](https://www.v2ex.com/t/856782)
+1. [感觉自己并不需要真正的 NAS](https://www.v2ex.com/t/856704)
 1. [几年不看小说了，最近动漫剧荒，求近几年出的好看小说，文笔好点的武侠、玄幻类，最好完本的，拒绝小白文。](https://www.v2ex.com/t/856776)
 1. [为什么图片视频不直接使用类似 huffman 这种熵编码压缩呢？](https://www.v2ex.com/t/856697)
 1. [求侦探分析：上班路上骑车手机丢了，求帮忙分析一波~~~](https://www.v2ex.com/t/856695)
-1. [有没有什么设备或者方法可以代替纸和笔用来打草稿的？](https://www.v2ex.com/t/856739)
 1. [人无法赚到认知以外的钱](https://www.v2ex.com/t/856873)
-1. [是不是只有老司机才记得 Thunderbird？](https://www.v2ex.com/t/856850)
+1. [有没有什么设备或者方法可以代替纸和笔用来打草稿的？](https://www.v2ex.com/t/856739)
 1. [观 nas 贴有感](https://www.v2ex.com/t/856836)
-1. [申请到公网 ip 但无法访问](https://www.v2ex.com/t/856712)
+1. [是不是只有老司机才记得 Thunderbird？](https://www.v2ex.com/t/856850)
+1. [MacBook Pro 显示器选择](https://www.v2ex.com/t/856849)
 
 ## 历史归档
 
