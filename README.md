@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-05 06:06:44 +0800`
+ `更新时间：2022-06-05 07:07:31 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [关于狗东 618 活动套路](https://www.v2ex.com/t/857285)
 1. [都说电信的宽带好，今天才发现被电信骗了](https://www.v2ex.com/t/857227)
 1. [WWDC.Playground 如约而至](https://www.v2ex.com/t/857240)
-1. [求助，联想官方维修点把电脑修坏了，怎么办](https://www.v2ex.com/t/857207)
+1. [ios 双开微信](https://www.v2ex.com/t/857231)
 
 ## 历史归档
 
