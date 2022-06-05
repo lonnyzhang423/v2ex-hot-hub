@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-05 20:12:20 +0800`
+ `更新时间：2022-06-05 21:15:30 +0800`
 
 ## 热议话题
 
-1. [关于狗东 618 活动套路](https://www.v2ex.com/t/857285)
 1. [体检过程中，你发现自己有哪些异常项目？](https://www.v2ex.com/t/857329)
 1. [女生用轻薄本求推荐。](https://www.v2ex.com/t/857325)
 1. [昨天入手了一只小猫咪,有点后悔了](https://www.v2ex.com/t/857385)
-1. [小型家用网络建设记](https://www.v2ex.com/t/857280)
 1. [所以 Apple 把自己正式翻译成苹果了？](https://www.v2ex.com/t/857317)
 1. [电视在不配合 NAS 的情况下，怎么看三四十 G 的高清片源？然后还不损失码率？](https://www.v2ex.com/t/857311)
-1. [大佬们 有啥西雅图的 gia 线路么](https://www.v2ex.com/t/857286)
 1. [以集体为导向的价值和以个人为导向的价值观，如何选择？](https://www.v2ex.com/t/857341)
+1. [B&H 疑似泄漏 WWDC22 即将发布的部分新品](https://www.v2ex.com/t/857369)
+1. [App 内购在不同区域价格不一致](https://www.v2ex.com/t/857374)
+1. [各位用安卓的人们，平时是通过什么渠道更新 app 的？](https://www.v2ex.com/t/857373)
 
 ## 历史归档
 
