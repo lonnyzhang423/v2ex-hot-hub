@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-05 15:07:15 +0800`
+ `更新时间：2022-06-05 16:09:38 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [办公室布网络，是选 AC+AP，还是最近几年的有线回程 mesh 比较好？](https://www.v2ex.com/t/857273)
 1. [电视在不配合 NAS 的情况下，怎么看三四十 G 的高清片源？然后还不损失码率？](https://www.v2ex.com/t/857311)
 1. [新手入坑机械键盘段落轴，幸福感++](https://www.v2ex.com/t/857274)
-1. [一堆人信誓旦旦的说 MacBook Air 根本不可能在 WWDC 上发布](https://www.v2ex.com/t/857248)
 1. [所以 Apple 把自己正式翻译成苹果了？](https://www.v2ex.com/t/857317)
+1. [小型家用网络建设记](https://www.v2ex.com/t/857280)
 
 ## 历史归档
 
