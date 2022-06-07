@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-07 20:14:18 +0800`
+ `更新时间：2022-06-07 21:27:43 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [现在 IP 代理怎么都要实名身份认证了](https://www.v2ex.com/t/857695)
 1. [刚到公司，准备升级 macOS Ventura，代码已 push，长期更新](https://www.v2ex.com/t/857754)
 1. [WWDC 发布会大家最赞的是什么？](https://www.v2ex.com/t/857738)
-1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764)
 1. [自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872)
+1. [已冲 macOS Ventura](https://www.v2ex.com/t/857764)
 
 ## 历史归档
 
