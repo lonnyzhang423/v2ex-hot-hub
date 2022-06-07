@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-08 04:09:01 +0800`
+ `更新时间：2022-06-08 05:06:45 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [新 Air 比 Pro 还贵，库克真有你的](https://www.v2ex.com/t/857783)
 1. [来猜猜 M2 是不是个过渡品](https://www.v2ex.com/t/857776)
 1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860)
+1. [M2 选 MacBook Air 还是 Pro 还是 M1 Pro？](https://www.v2ex.com/t/857752)
 
 ## 历史归档
 
