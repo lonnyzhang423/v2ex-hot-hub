@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-08 12:20:45 +0800`
+ `更新时间：2022-06-08 13:08:30 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [现在安卓 8G RAM 是否足够](https://www.v2ex.com/t/857881)
 1. [求私有笔记方案。有道云笔记丢失昨晚记录，猜测发生数据回滚](https://www.v2ex.com/t/858053)
 1. [广州租房体会](https://www.v2ex.com/t/857904)
-1. [有没有能彻底禁止手机安装 APP 的办法](https://www.v2ex.com/t/857860)
 1. [疫情下关于隐私的胡思乱想](https://www.v2ex.com/t/857891)
 1. [iOS 16 体验收集&分享（Updating）](https://www.v2ex.com/t/857916)
 1. [一次有趣的尝试：用 emoji 当验证码](https://www.v2ex.com/t/857940)
 1. [什么项目能同时用上 mysql/redis/nginx/es/mq/docker/k8s/rpc/protobuf/session/cookie/jwt？](https://www.v2ex.com/t/858039)
+1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974)
 
 ## 历史归档
 
