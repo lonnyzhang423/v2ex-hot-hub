@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-08 17:07:34 +0800`
+ `更新时间：2022-06-08 18:08:07 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [有熟悉虚拟币的 v 友吗？](https://www.v2ex.com/t/857974)
 1. [有没有人能给我个 MBP 2022 更具性价比的理由？或者用其他型号打醒我](https://www.v2ex.com/t/858078)
 1. [什么项目能同时用上 mysql/redis/nginx/es/mq/docker/k8s/rpc/protobuf/session/cookie/jwt？](https://www.v2ex.com/t/858039)
-1. [海外产品禁止大陆 IP 登录](https://www.v2ex.com/t/858113)
 1. [有长沙的朋友吗？一起来建设家乡互联网！](https://www.v2ex.com/t/858071)
 1. [去势](https://www.v2ex.com/t/858036)
+1. [海外产品禁止大陆 IP 登录](https://www.v2ex.com/t/858113)
 1. [现在买 Mac mini 会不会年底被背刺](https://www.v2ex.com/t/858089)
 
 ## 历史归档
