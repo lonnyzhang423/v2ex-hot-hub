@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-13 04:08:32 +0800`
+ `更新时间：2022-06-13 05:06:08 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [xdm 问个问题上海户口有啥用](https://www.v2ex.com/t/859060)
 1. [吐槽： Windows 竟然没有 rsync...](https://www.v2ex.com/t/859114)
 1. [有多少人在用 Apple Fitness+ 锻炼？](https://www.v2ex.com/t/859026)
+1. [你为了撸好自己的代码，为此做过哪些出大血，砸大钱的事情？](https://www.v2ex.com/t/859118)
 1. [广东深圳电信 2022 年 4 月 资费](https://www.v2ex.com/t/859014)
 1. [跑步 App 你们选择哪个，决赛圈](https://www.v2ex.com/t/859020)
-1. [你为了撸好自己的代码，为此做过哪些出大血，砸大钱的事情？](https://www.v2ex.com/t/859118)
 
 ## 历史归档
 
