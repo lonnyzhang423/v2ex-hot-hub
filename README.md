@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-14 02:10:00 +0800`
+ `更新时间：2022-06-14 03:06:06 +0800`
 
 ## 热议话题
 
-1. [哔了狗的 gorm. 很久没用 golang 了，生态这么操蛋么？](https://www.v2ex.com/t/859178)
 1. [想买个手机，选哪个？](https://www.v2ex.com/t/859181)
 1. [我是否真的需要买台 NS？](https://www.v2ex.com/t/859189)
 1. [重疾险，有必要买吗](https://www.v2ex.com/t/859187)
