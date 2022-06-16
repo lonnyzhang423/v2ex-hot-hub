@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-17 05:06:28 +0800`
+ `更新时间：2022-06-17 06:06:56 +0800`
 
 ## 热议话题
 
 1. [老实人的神奇经历](https://www.v2ex.com/t/859962)
 1. [[在德国快十年了，应该回国吗？] 看帖有感，想起一段话](https://www.v2ex.com/t/859933)
 1. [再也不找熟人买车险了 自己人坑自己人](https://www.v2ex.com/t/859948)
-1. [typora 老版本开启强更，已换到 MarkText，但性能太差…](https://www.v2ex.com/t/860011)
 1. [断，舍，离](https://www.v2ex.com/t/860059)
+1. [typora 老版本开启强更，已换到 MarkText，但性能太差…](https://www.v2ex.com/t/860011)
 1. [Linux （ubuntu）和安卓手机之间的文本/文件传递有什么比较好的方案](https://www.v2ex.com/t/859938)
 1. [米家挂了？](https://www.v2ex.com/t/860117)
 1. [Go 友会](https://www.v2ex.com/t/859970)
