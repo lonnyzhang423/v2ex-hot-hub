@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-19 15:06:45 +0800`
+ `更新时间：2022-06-19 16:08:47 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [现在有没有几百块的备用安卓机](https://www.v2ex.com/t/860566)
 1. [2022 年 MBP M2 256G SSD 工作够不够用？](https://www.v2ex.com/t/860528)
 1. [是否能用二手 macm1 来确认自己是否需要一台 mac](https://www.v2ex.com/t/860629)
+1. [关于购买正版 jetbrains 全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643)
 1. [单视频文件 42.5 GB 怎么实现在电视上观看？电视存储共 16GB。 TF 卡只有 32GB](https://www.v2ex.com/t/860557)
-1. [谨慎申请，(部分？)中行招财猫全币种 JCB 不能绑定日区 Apple ID 了](https://www.v2ex.com/t/860506)
+1. [DNSPod DoH 延迟大，偶尔解析出错，包括腾讯系域名](https://www.v2ex.com/t/860576)
 
 ## 历史归档
 
