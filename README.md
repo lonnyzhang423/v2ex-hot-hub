@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-19 18:07:16 +0800`
+ `更新时间：2022-06-19 19:05:35 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [现在有没有几百块的备用安卓机](https://www.v2ex.com/t/860566)
 1. [是否能用二手 macm1 来确认自己是否需要一台 mac](https://www.v2ex.com/t/860629)
 1. [一个人住的 V 友平时都自己做饭吗？](https://www.v2ex.com/t/860649)
-1. [关于购买正版 jetbrains 全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643)
 1. [我惊呆了。。。CSDN VIP 月卡 88 元](https://www.v2ex.com/t/860634)
-1. [单视频文件 42.5 GB 怎么实现在电视上观看？电视存储共 16GB。 TF 卡只有 32GB](https://www.v2ex.com/t/860557)
+1. [关于购买正版 jetbrains 全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643)
+1. [农村的房子夏天如何降温？](https://www.v2ex.com/t/860657)
 
 ## 历史归档
 
