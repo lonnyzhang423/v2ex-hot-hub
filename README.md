@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-19 08:40:21 +0800`
+ `更新时间：2022-06-19 11:06:43 +0800`
 
 ## 热议话题
 
 1. [求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479)
 1. [618 各位都买了啥？](https://www.v2ex.com/t/860489)
-1. [跟一个同事说我可能要离职了，她就开始哭……](https://www.v2ex.com/t/860441)
 1. [MacBook Air M2 决赛圈选择，是选内存还是硬盘](https://www.v2ex.com/t/860465)
-1. [Android 工作干 10 年我迷茫了](https://www.v2ex.com/t/860443)
-1. [618 了大家选的哪款显示器， 27 寸还是 32 寸 体验好呢？](https://www.v2ex.com/t/860442)
-1. [折叠雨伞推荐？](https://www.v2ex.com/t/860440)
-1. [旧微信号长期不登陆被设为保护状态，需要好友验证才能登录，但是这个号里没有任何好友，请问我该怎么办？](https://www.v2ex.com/t/860447)
-1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466)
+1. [异地生活透心的孤独感](https://www.v2ex.com/t/860555)
+1. [macbook pro 发热堪比太阳](https://www.v2ex.com/t/860599)
+1. [现在有没有几百块的备用安卓机](https://www.v2ex.com/t/860566)
 1. [2022 年 MBP M2 256G SSD 工作够不够用？](https://www.v2ex.com/t/860528)
+1. [gcc 为什么连这种代码都能编译通过？](https://www.v2ex.com/t/860466)
+1. [现在（2022 年 6 月份），大家都把钱存放在哪里了？哪里相对比较安全？](https://www.v2ex.com/t/860611)
 
 ## 历史归档
 
