@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-19 22:05:57 +0800`
+ `更新时间：2022-06-19 23:06:48 +0800`
 
 ## 热议话题
 
 1. [现在（2022 年 6 月份），大家都把钱存放在哪里了？哪里相对比较安全？](https://www.v2ex.com/t/860611)
 1. [macbook pro 发热堪比太阳](https://www.v2ex.com/t/860599)
 1. [一个人住的 V 友平时都自己做饭吗？](https://www.v2ex.com/t/860649)
-1. [我惊呆了。。。CSDN VIP 月卡 88 元](https://www.v2ex.com/t/860634)
 1. [关于购买正版 jetbrains 全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643)
 1. [是否能用二手 macm1 来确认自己是否需要一台 mac](https://www.v2ex.com/t/860629)
+1. [我惊呆了。。。CSDN VIP 月卡 88 元](https://www.v2ex.com/t/860634)
 1. [现在汽车油价这么贵，有什么替换方案？](https://www.v2ex.com/t/860677)
-1. [发现阿里犀牛制造要逐渐淘汰传统服装制造业了](https://www.v2ex.com/t/860659)
 1. [农村的房子夏天如何降温？](https://www.v2ex.com/t/860657)
+1. [发现阿里犀牛制造要逐渐淘汰传统服装制造业了](https://www.v2ex.com/t/860659)
 
 ## 历史归档
 
