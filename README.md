@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-20 22:11:24 +0800`
+ `更新时间：2022-06-20 23:07:30 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [微信支付“吞”了我 6 万元](https://www.v2ex.com/t/860754)
 1. [求个密码管理软件](https://www.v2ex.com/t/860837)
 1. [现在的手机都取消呼吸灯，简直是一种倒退](https://www.v2ex.com/t/860816)
-1. [如果手上没车，现在买车你会考虑新能源还是油车呢？](https://www.v2ex.com/t/860735)
 1. [telegram 出会员了，大佬都准备买了么？](https://www.v2ex.com/t/860760)
 1. [PC 发展这么多年，为何不走模块化？](https://www.v2ex.com/t/860839)
 1. [淘宝居然良心了一回](https://www.v2ex.com/t/860827)
 1. [买新 Macbook Air 到底是选大内存还是大硬盘？又听到这种话题。](https://www.v2ex.com/t/860745)
 1. [独自开发了一个留学/移民论坛，目前注册用户 800+， beta 期间免邀请注册](https://www.v2ex.com/t/860771)
+1. [记一次 Apple JD 自营店换电池的垃圾体验](https://www.v2ex.com/t/860911)
 
 ## 历史归档
 
