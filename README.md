@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-21 10:57:37 +0800`
+ `更新时间：2022-06-21 11:55:08 +0800`
 
 ## 热议话题
 
 1. [求个密码管理软件](https://www.v2ex.com/t/860837)
-1. [现在的手机都取消呼吸灯，简直是一种倒退](https://www.v2ex.com/t/860816)
-1. [淘宝居然良心了一回](https://www.v2ex.com/t/860827)
-1. [PC 发展这么多年，为何不走模块化？](https://www.v2ex.com/t/860839)
 1. [CSDN 为什么一直被骂还一直变大](https://www.v2ex.com/t/860940)
-1. [iOS 背单词好用的 App 推荐](https://www.v2ex.com/t/860844)
+1. [PC 发展这么多年，为何不走模块化？](https://www.v2ex.com/t/860839)
 1. [你们地区的二手房跌了多少？](https://www.v2ex.com/t/860838)
+1. [iOS 背单词好用的 App 推荐](https://www.v2ex.com/t/860844)
 1. [记一次 Apple JD 自营店换电池的垃圾体验](https://www.v2ex.com/t/860911)
-1. [用主 PC 做 NAS 有哪些坏处？](https://www.v2ex.com/t/860922)
 1. [超星学习通数据库疑似遭入侵](https://www.v2ex.com/t/861016)
+1. [用主 PC 做 NAS 有哪些坏处？](https://www.v2ex.com/t/860922)
+1. [突然觉得，电自的发展也挺奇葩的，你们会选择小 1w 的电动自行车吗？](https://www.v2ex.com/t/860870)
+1. [苹果用环保为由，割各位韭菜这件事…](https://www.v2ex.com/t/861044)
 
 ## 历史归档
 
