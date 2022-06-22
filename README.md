@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-22 16:12:08 +0800`
+ `更新时间：2022-06-22 17:07:11 +0800`
 
 ## 热议话题
 
 1. [Github Copilot 正式上线了](https://www.v2ex.com/t/861260)
 1. [30 岁码农，要不要去温哥华](https://www.v2ex.com/t/861313)
 1. [刚绑架代替购买了一只小猫，吃饭时候总是乌拉乌拉叫](https://www.v2ex.com/t/861287)
-1. [VIM 如何入门](https://www.v2ex.com/t/861193)
 1. [“全球变暖”是伪命题吗？](https://www.v2ex.com/t/861271)
+1. [VIM 如何入门](https://www.v2ex.com/t/861193)
 1. [流媒体时代，还有必要用 NAS 搭建 infuse/Plex 建立自己的影音库吗？](https://www.v2ex.com/t/861253)
 
 ## 历史归档
