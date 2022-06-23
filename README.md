@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-24 06:06:59 +0800`
+ `更新时间：2022-06-24 07:07:21 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619)
 1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580)
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570)
-1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536)
 1. [突然发现，我在 windows 下面最刚需的软件，居然是这两个...](https://www.v2ex.com/t/861708)
+1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536)
 1. [为什么 GitHub Copilot 收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734)
 1. [macbookPro 暴毙 陷入两难境地 我该怎么办](https://www.v2ex.com/t/861611)
 
