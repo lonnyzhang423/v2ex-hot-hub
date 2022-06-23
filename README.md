@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-23 18:08:13 +0800`
+ `更新时间：2022-06-23 19:06:26 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [入了一个收音机 德生 PL-310ET](https://www.v2ex.com/t/861477)
 1. [[逃离北上广深版] 润不出去，深圳买不起。有别的城市推荐吗？](https://www.v2ex.com/t/861578)
 1. [高考后怎么填自愿？](https://www.v2ex.com/t/861619)
-1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570)
 1. [测评都出了， M2 芯片好像真香了](https://www.v2ex.com/t/861519)
+1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570)
 1. [你们的 iPhone 保持 4G 还是 5G](https://www.v2ex.com/t/861580)
 1. [五年前的今天买的 iPhone7，有必要今天换 iPhone SE 3 吗](https://www.v2ex.com/t/861497)
 1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536)
