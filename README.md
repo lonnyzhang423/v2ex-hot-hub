@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-25 00:09:48 +0800`
+ `更新时间：2022-06-25 01:15:07 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [送礼送到死胡同](https://www.v2ex.com/t/861830)
 1. [请问目前 win11 下，杀毒软件建议装哪款？](https://www.v2ex.com/t/861790)
 1. [Apple Watch 健身记录群](https://www.v2ex.com/t/861927)
-1. [有多少人写代码会有那种纯净的愉悦感觉](https://www.v2ex.com/t/861945)
 1. [N1 固件中的 passwall 速度不如 PC 上的 clash](https://www.v2ex.com/t/861824)
+1. [有多少人写代码会有那种纯净的愉悦感觉](https://www.v2ex.com/t/861945)
 
 ## 历史归档
 
