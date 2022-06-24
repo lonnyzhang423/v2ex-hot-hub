@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-24 14:09:40 +0800`
+ `更新时间：2022-06-24 15:07:05 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [想学粤语有什么好办法吗？](https://www.v2ex.com/t/861717)
 1. [请问目前 win11 下，杀毒软件建议装哪款？](https://www.v2ex.com/t/861790)
 1. [有中度游戏需求，买电脑是买轻薄本、游戏本还是全能本好？](https://www.v2ex.com/t/861696)
-1. [现在 Python 开发 GUI 用什么框架？ 因项目需要使用 GUI](https://www.v2ex.com/t/861692)
+1. [一个科研狗开发的文献管理软件 Paperlib](https://www.v2ex.com/t/861794)
 1. [请问有哪些银行的 app 做的比较干净清爽的？](https://www.v2ex.com/t/861736)
 
 ## 历史归档
