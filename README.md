@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-26 00:08:40 +0800`
+ `更新时间：2022-06-26 01:07:54 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [收到了一份来自 GitHub 官方的赞助，开心！](https://www.v2ex.com/t/862060)
 1. [如何学习装机？](https://www.v2ex.com/t/862084)
 1. [2022 年我的 Mac 软件折腾之旅](https://www.v2ex.com/t/862138)
-1. [求一个功耗小，便宜的 nas 方案。](https://www.v2ex.com/t/862079)
 1. [初恋真的甜吗](https://www.v2ex.com/t/862133)
+1. [求一个功耗小，便宜的 nas 方案。](https://www.v2ex.com/t/862079)
 
 ## 历史归档
 
