@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-26 14:08:42 +0800`
+ `更新时间：2022-06-26 15:06:33 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [初恋真的甜吗](https://www.v2ex.com/t/862133)
 1. [聊聊 intel MacBook Pro 的散热和孱弱的 WiFi 性能](https://www.v2ex.com/t/862242)
 1. [看到一篇讨论 5G 的帖子，联想到 8K 视频](https://www.v2ex.com/t/862223)
-1. [一起看 F1 吗？](https://www.v2ex.com/t/862118)
+1. [找个合适的人真的有够难的](https://www.v2ex.com/t/862142)
+1. [[国外面试 react 前端程序员失败, 求提高 react 专业水平的方法]](https://www.v2ex.com/t/862130)
 1. [你们的 Linux 系统会使用 apt upgrade 或其它发行版同类命令批量更新软件包吗？](https://www.v2ex.com/t/862228)
 1. [大家注意一个恶意插件](https://www.v2ex.com/t/862135)
-1. [找个合适的人真的有够难的](https://www.v2ex.com/t/862142)
 
 ## 历史归档
 
