@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-26 13:09:34 +0800`
+ `更新时间：2022-06-26 14:08:42 +0800`
 
 ## 热议话题
 
 1. [2022 年我的 Mac 软件折腾之旅](https://www.v2ex.com/t/862138)
 1. [万能的 V2，河南考生，理科 619 分，排名 7480，想去南方城市读大学，求指导](https://www.v2ex.com/t/862179)
 1. [初恋真的甜吗](https://www.v2ex.com/t/862133)
-1. [看到一篇讨论 5G 的帖子，联想到 8K 视频](https://www.v2ex.com/t/862223)
 1. [聊聊 intel MacBook Pro 的散热和孱弱的 WiFi 性能](https://www.v2ex.com/t/862242)
+1. [看到一篇讨论 5G 的帖子，联想到 8K 视频](https://www.v2ex.com/t/862223)
 1. [一起看 F1 吗？](https://www.v2ex.com/t/862118)
 1. [你们的 Linux 系统会使用 apt upgrade 或其它发行版同类命令批量更新软件包吗？](https://www.v2ex.com/t/862228)
 1. [大家注意一个恶意插件](https://www.v2ex.com/t/862135)
