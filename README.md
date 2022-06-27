@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-27 21:34:40 +0800`
+ `更新时间：2022-06-27 22:09:00 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [打算在币安买一些个小币种，不清楚风险](https://www.v2ex.com/t/862393)
 1. [小米电视 kodi 无法流畅播放 nas 里的 4k 电影！](https://www.v2ex.com/t/862484)
 1. [新人写的网站，望大佬提供意见](https://www.v2ex.com/t/862397)
-1. [现在开发安卓，是用 Kotlin,fluter, Java 还是 uniapp ？](https://www.v2ex.com/t/862347)
+1. [别买 M2 MacBook Pro 的低配版（8GB+256GB）](https://www.v2ex.com/t/862381)
 
 ## 历史归档
 
