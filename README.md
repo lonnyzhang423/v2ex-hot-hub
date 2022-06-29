@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-29 19:06:56 +0800`
+ `更新时间：2022-06-29 20:13:10 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [求一款咖啡的平替饮料](https://www.v2ex.com/t/862777)
 1. [脑中经常冒出不道德的想法？请问是因为我潜意识是个“坏人”吗？](https://www.v2ex.com/t/862893)
 1. [iPhone 13 Pro 续航拉垮](https://www.v2ex.com/t/862846)
-1. [好纠结，咋办](https://www.v2ex.com/t/862781)
 1. [有没有一起维护组件库的兄弟](https://www.v2ex.com/t/862898)
 1. [Safari 的使用体验烂到令人发指](https://www.v2ex.com/t/862912)
 1. [通信行程卡取消“星号”标记](https://www.v2ex.com/t/862938)
+1. [好纠结，咋办](https://www.v2ex.com/t/862781)
 
 ## 历史归档
 
