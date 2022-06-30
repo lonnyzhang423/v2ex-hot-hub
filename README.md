@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-06-30 22:06:36 +0800`
+ `更新时间：2022-06-30 23:08:05 +0800`
 
 ## 热议话题
 
 1. [说真的，单身万岁](https://www.v2ex.com/t/863051)
 1. [还有能喝的靠谱牛奶吗](https://www.v2ex.com/t/863122)
 1. [有没有能代替 vscode 的高性能编辑器](https://www.v2ex.com/t/863081)
+1. [据说人手一个背单词 app，我也用 SwiftUI 做了一个背单词 app - 今日背单词 ｜ 永久会员奉上](https://www.v2ex.com/t/863238)
 1. [这算不算是静态类型系统的缺憾](https://www.v2ex.com/t/863142)
 1. [大疆无人机对于普通人的意义？](https://www.v2ex.com/t/863103)
-1. [据说人手一个背单词 app，我也用 SwiftUI 做了一个背单词 app - 今日背单词 ｜ 永久会员奉上](https://www.v2ex.com/t/863238)
 1. [梦幻西游 1200w 的腰带交易后有感。](https://www.v2ex.com/t/863111)
 1. [如何看待公司领导要求你成长这件事](https://www.v2ex.com/t/863101)
 1. [聊一聊糟心的华为 OD offer](https://www.v2ex.com/t/863240)
