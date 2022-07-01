@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-01 20:14:51 +0800`
+ `更新时间：2022-07-01 21:30:57 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [求解，侄子毕业，现在万元以内计算机系有啥推荐的 win 本](https://www.v2ex.com/t/863309)
 1. [蚊子在人深度睡眠时期太猖狂了怎么办？](https://www.v2ex.com/t/863357)
 1. [有什么爱好可以培养？](https://www.v2ex.com/t/863336)
-1. [大家的七月 Apple Fitness 挑战是啥？](https://www.v2ex.com/t/863358)
 1. [分享我的低成本润拿下绿卡经历](https://www.v2ex.com/t/863413)
+1. [大家的七月 Apple Fitness 挑战是啥？](https://www.v2ex.com/t/863358)
 1. [关于付费 APP 加密方式的一些疑问](https://www.v2ex.com/t/863351)
 
 ## 历史归档
