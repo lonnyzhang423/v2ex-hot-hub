@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-02 13:11:37 +0800`
+ `更新时间：2022-07-02 14:09:28 +0800`
 
 ## 热议话题
 
 1. [女硕 offer 毕业选择：北京华为 vs 北京研究所 vs 珠海香洲区教师?](https://www.v2ex.com/t/863549)
 1. [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510)
 1. [最近太热了，大家有啥冷笑话放出来清凉一下嘛](https://www.v2ex.com/t/863460)
-1. [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478)
 1. [关于 L2TP/ipsec 协议](https://www.v2ex.com/t/863447)
-1. [如何成立自己的私募基金？](https://www.v2ex.com/t/863554)
+1. [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478)
 1. [推广一下我的免费图床](https://www.v2ex.com/t/863571)
+1. [如何成立自己的私募基金？](https://www.v2ex.com/t/863554)
 1. [Life's a struggle，做了个低/零代码平台](https://www.v2ex.com/t/863446)
 
 ## 历史归档
