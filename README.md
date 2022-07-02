@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-02 17:06:44 +0800`
+ `更新时间：2022-07-02 18:08:58 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [如何成立自己的私募基金？](https://www.v2ex.com/t/863554)
 1. [推广一下我的免费图床](https://www.v2ex.com/t/863571)
 1. [yarn 和 npm 真的区别很大嘛](https://www.v2ex.com/t/863504)
-1. [无糖快乐水确实不太快乐](https://www.v2ex.com/t/863503)
+1. [如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606)
 1. [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524)
-1. [windows11 的 Terminal 命令行输入 git 会卡死，有遇到过的没？](https://www.v2ex.com/t/863487)
+1. [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541)
 
 ## 历史归档
 
