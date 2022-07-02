@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-02 07:07:07 +0800`
+ `更新时间：2022-07-02 08:42:25 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [关于付费 APP 加密方式的一些疑问](https://www.v2ex.com/t/863351)
 1. [想配个小主机， Desk Mini 看起来很不错](https://www.v2ex.com/t/863354)
 1. [苹果要求 App 必须内置删除账号功能！ 6 月 30 日是最后期限！](https://www.v2ex.com/t/863389)
+1. [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510)
 
 ## 历史归档
 
