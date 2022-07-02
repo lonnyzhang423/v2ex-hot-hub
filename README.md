@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-02 19:06:25 +0800`
+ `更新时间：2022-07-02 20:12:05 +0800`
 
 ## 热议话题
 
 1. [女硕 offer 毕业选择：北京华为 vs 北京研究所 vs 珠海香洲区教师?](https://www.v2ex.com/t/863549)
-1. [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510)
 1. [如何成立自己的私募基金？](https://www.v2ex.com/t/863554)
 1. [推广一下我的免费图床](https://www.v2ex.com/t/863571)
 1. [如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606)
-1. [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524)
 1. [开源了一款用于知识管理的 Docusaurus 博客主题](https://www.v2ex.com/t/863618)
+1. [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524)
+1. [求推荐 5000 左右的 Windows 笔记本](https://www.v2ex.com/t/863572)
 1. [为什么没有一个 IDE 或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541)
 
 ## 历史归档
