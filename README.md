@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-02 16:09:22 +0800`
+ `更新时间：2022-07-02 17:06:44 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况](https://www.v2ex.com/t/863510)
 1. [如何成立自己的私募基金？](https://www.v2ex.com/t/863554)
 1. [推广一下我的免费图床](https://www.v2ex.com/t/863571)
-1. [npm 实在是太慢了 ，各位都是怎么解决的？](https://www.v2ex.com/t/863478)
 1. [yarn 和 npm 真的区别很大嘛](https://www.v2ex.com/t/863504)
 1. [无糖快乐水确实不太快乐](https://www.v2ex.com/t/863503)
+1. [spring 的约定优于配置概念好吗？](https://www.v2ex.com/t/863524)
+1. [windows11 的 Terminal 命令行输入 git 会卡死，有遇到过的没？](https://www.v2ex.com/t/863487)
 
 ## 历史归档
 
