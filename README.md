@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-04 01:08:16 +0800`
+ `更新时间：2022-07-04 02:08:02 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [假如 可以通过 AI 预测一个人 接下来是否会犯罪，国家会启用吗？](https://www.v2ex.com/t/863801)
 1. [上海公安疑似被脱裤， 23T 数据， 10 亿居民、报警、疫情相关信息](https://www.v2ex.com/t/863785)
 1. [公司把坚果云的 webdav 屏蔽了,是不是只有反向代理可以解?](https://www.v2ex.com/t/863722)
-1. [[Spring Boot + Datahub] 阿里云流数据处理平台 基于 2.15 版本的数据读写 [上]](https://www.v2ex.com/t/863778)
 1. [以后 web 本地开发就用这个域名了 fastadmin.fbi.com](https://www.v2ex.com/t/863767)
+1. [[Spring Boot + Datahub] 阿里云流数据处理平台 基于 2.15 版本的数据读写 [上]](https://www.v2ex.com/t/863778)
 
 ## 历史归档
 
