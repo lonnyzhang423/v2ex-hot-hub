@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-06 13:20:34 +0800`
+ `更新时间：2022-07-06 14:11:01 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [一个月不吃晚饭，可以瘦多少斤？](https://www.v2ex.com/t/864246)
 1. [吐槽贴 怎么会有人不喜欢安静的办公环境呢?](https://www.v2ex.com/t/864343)
 1. [有没有拍照不那么强的旗舰手机（安卓）](https://www.v2ex.com/t/864209)
-1. [手环界的天花板，值得拥有](https://www.v2ex.com/t/864221)
-1. [色弱换驾驶证好麻烦](https://www.v2ex.com/t/864335)
 1. [1.4T，探岳和途岳怎么选？](https://www.v2ex.com/t/864353)
 1. [有什么能带来幸福和快乐的小事能做吗？](https://www.v2ex.com/t/864346)
-1. [小白用户的 NAS 选购指南](https://www.v2ex.com/t/864184)
+1. [色弱换驾驶证好麻烦](https://www.v2ex.com/t/864335)
+1. [手环界的天花板，值得拥有](https://www.v2ex.com/t/864221)
+1. [主用美区无故 appleID App Store 被锁](https://www.v2ex.com/t/864387)
 
 ## 历史归档
 
