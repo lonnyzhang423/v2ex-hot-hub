@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-07 15:09:40 +0800`
+ `更新时间：2022-07-07 16:09:54 +0800`
 
 ## 热议话题
 
 1. [月薪 2 万在 V2EX 里属于什么水平](https://www.v2ex.com/t/864598)
-1. [想学一门新语言， go 和 Python 大家推荐哪个](https://www.v2ex.com/t/864486)
 1. [发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552)
-1. [悔恨自己买了 macbook pro](https://www.v2ex.com/t/864548)
+1. [想学一门新语言， go 和 Python 大家推荐哪个](https://www.v2ex.com/t/864486)
 1. [东抄西搬的个人博客弄得差不多了，大家觉得现在个人博客还有必要吗](https://www.v2ex.com/t/864513)
+1. [悔恨自己买了 macbook pro](https://www.v2ex.com/t/864548)
 1. [Web 3 项目前端 repo 代码疑问](https://www.v2ex.com/t/864467)
-1. [从主用美区 Apple ID 被封帖子想到](https://www.v2ex.com/t/864512)
 1. [感谢微软治好了我多年的强迫症 😣](https://www.v2ex.com/t/864576)
+1. [从主用美区 Apple ID 被封帖子想到](https://www.v2ex.com/t/864512)
 
 ## 历史归档
 
