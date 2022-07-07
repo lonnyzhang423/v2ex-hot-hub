@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-07 08:45:31 +0800`
+ `更新时间：2022-07-07 11:13:05 +0800`
 
 ## 热议话题
 
 1. [抽奖赠 3 本《 Python 编程轻松进阶》](https://www.v2ex.com/t/864437)
 1. [主用美区无故 appleID App Store 被锁](https://www.v2ex.com/t/864387)
-1. [1.4T，探岳和途岳怎么选？](https://www.v2ex.com/t/864353)
 1. [今年 35 岁，刚被 HR 叫去，你的部门领导不同意续签合同，赔偿你 3 个月工资总共 1 万多](https://www.v2ex.com/t/864429)
-1. [有什么能带来幸福和快乐的小事能做吗？](https://www.v2ex.com/t/864346)
-1. [吐槽贴 怎么会有人不喜欢安静的办公环境呢?](https://www.v2ex.com/t/864343)
-1. [工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373)
-1. [色弱换驾驶证好麻烦](https://www.v2ex.com/t/864335)
-1. [微信正在恶意涨价，影响数百万开发者。](https://www.v2ex.com/t/864400)
 1. [大家往 NAS 里面下载了哪些东西？](https://www.v2ex.com/t/864413)
+1. [微信正在恶意涨价，影响数百万开发者。](https://www.v2ex.com/t/864400)
+1. [想学一门新语言， go 和 Python 大家推荐哪个](https://www.v2ex.com/t/864486)
+1. [锐龙所有 cpu 都发热严重么，这个笔记本 r75800h，有时候突然九十七八度，最高能到 102 度，有点吓人啊](https://www.v2ex.com/t/864426)
+1. [月薪 2 万在 V2EX 里属于什么水平](https://www.v2ex.com/t/864598)
 
 ## 历史归档
 
