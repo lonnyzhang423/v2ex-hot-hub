@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-08 14:10:41 +0800`
+ `更新时间：2022-07-08 15:06:59 +0800`
 
 ## 热议话题
 
+1. [刚面了一个 6 年的前端，页面有 10 张图片每个 1MB， 2000 个用户同时访问需要多大带宽](https://www.v2ex.com/t/864888)
 1. [话说， nas 的系统是很难做好吗，还是咋了，为啥好像至今还是只有群晖一个比较好用的系统](https://www.v2ex.com/t/864712)
-1. [30 岁，有润美丽国的机会，润还是不润？](https://www.v2ex.com/t/864889)
-1. [[火星] Bilibili 国际版已上架美区 App store](https://www.v2ex.com/t/864812)
 1. [苹果小程序新玩法,新时代的情书信件(随机送卡片)](https://www.v2ex.com/t/864835)
 1. [深受蟑螂困扰！](https://www.v2ex.com/t/864798)
+1. [[火星] Bilibili 国际版已上架美区 App store](https://www.v2ex.com/t/864812)
 1. [朋友表白被拒，最近几天闷闷不乐，有啥好活动推荐？周末带他去散散心。](https://www.v2ex.com/t/864878)
 1. [ios 杀后台](https://www.v2ex.com/t/864778)
 1. [一个人每一次呼吸都是深呼吸会发生什么](https://www.v2ex.com/t/864842)
-1. [有没有一种没有乱七八糟权限的安卓手机？](https://www.v2ex.com/t/864819)
 
 ## 历史归档
 
