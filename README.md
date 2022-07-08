@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-09 03:06:35 +0800`
+ `更新时间：2022-07-09 04:08:00 +0800`
 
 ## 热议话题
 
 1. [刚面了一个 6 年的前端，页面有 10 张图片每个 1MB， 2000 个用户同时访问需要多大带宽](https://www.v2ex.com/t/864888)
 1. [苹果小程序新玩法,新时代的情书信件(随机送卡片)](https://www.v2ex.com/t/864835)
 1. [朋友表白被拒，最近几天闷闷不乐，有啥好活动推荐？周末带他去散散心。](https://www.v2ex.com/t/864878)
-1. [[火星] Bilibili 国际版已上架美区 App store](https://www.v2ex.com/t/864812)
 1. [就业形势有感](https://www.v2ex.com/t/864914)
+1. [[火星] Bilibili 国际版已上架美区 App store](https://www.v2ex.com/t/864812)
 1. [您的思绪自留地，来试试我的 App《三省吾身-记录、思考与分享》| 福利：送终身兑换码](https://www.v2ex.com/t/864895)
 1. [北京哪里能买到 200-300W 总价的房子，希望以后房子至少不贬值](https://www.v2ex.com/t/864879)
 1. [JetBrains 涨价了，你的工资涨了吗](https://www.v2ex.com/t/864840)
