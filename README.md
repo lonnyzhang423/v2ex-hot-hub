@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-11 03:05:39 +0800`
+ `更新时间：2022-07-11 04:08:04 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266)
 1. [微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250)
 1. [成都第一次租房子有什么注意事项和推荐的房子吗](https://www.v2ex.com/t/865226)
-1. [WI-FI6 多客户端速率疑问](https://www.v2ex.com/t/865261)
+1. [现在找租房真是费时又费力！](https://www.v2ex.com/t/865275)
 
 ## 历史归档
 
