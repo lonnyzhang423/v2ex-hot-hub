@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-10 19:07:14 +0800`
+ `更新时间：2022-07-10 20:12:44 +0800`
 
 ## 热议话题
 
-1. [现在互联网公司扫描用户信息吃香太难看了， 端到端加密是否合法？](https://www.v2ex.com/t/865227)
 1. [两家人的烦恼](https://www.v2ex.com/t/865210)
 1. [程序员的最终归宿是什么](https://www.v2ex.com/t/865217)
-1. [如何获取安全的国际手机号？](https://www.v2ex.com/t/865174)
-1. [通过 oss 自建 nas 的方案是否可行?](https://www.v2ex.com/t/865146)
-1. [[求助][zerotier]zerotier 很卡，基本处于不太可用状态。](https://www.v2ex.com/t/865188)
 1. [劳动仲裁成功！获赔 2N。](https://www.v2ex.com/t/865255)
+1. [如何获取安全的国际手机号？](https://www.v2ex.com/t/865174)
+1. [[求助][zerotier]zerotier 很卡，基本处于不太可用状态。](https://www.v2ex.com/t/865188)
 1. [联通出口宽带是不是炸了](https://www.v2ex.com/t/865173)
+1. [迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266)
 
 ## 历史归档
 
