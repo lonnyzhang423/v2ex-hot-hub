@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-11 07:07:07 +0800`
+ `更新时间：2022-07-11 08:40:10 +0800`
 
 ## 热议话题
 
-1. [劳动仲裁成功！获赔 2N。](https://www.v2ex.com/t/865255)
 1. [程序员的最终归宿是什么](https://www.v2ex.com/t/865217)
+1. [劳动仲裁成功！获赔 2N。](https://www.v2ex.com/t/865255)
 1. [两家人的烦恼](https://www.v2ex.com/t/865210)
 1. [迫于小区 2 台电梯装监控需要 1 万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266)
 1. [微软发布 VS Code Server 了~ 目前是 private preview 阶段](https://www.v2ex.com/t/865250)
