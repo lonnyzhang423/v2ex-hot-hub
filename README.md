@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-12 07:07:22 +0800`
+ `更新时间：2022-07-12 08:43:56 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361)
 1. [想换电脑了，旧 macbook 怎么伪装成坏掉的样子](https://www.v2ex.com/t/865354)
 1. [JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会](https://www.v2ex.com/t/865425)
-1. [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464)
 1. [前端和后端中间的部分一般习惯叫做什么](https://www.v2ex.com/t/865407)
+1. [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464)
 
 ## 历史归档
 
