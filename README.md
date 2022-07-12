@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-12 19:06:53 +0800`
+ `更新时间：2022-07-12 20:27:45 +0800`
 
 ## 热议话题
 
 1. [做为程序员，你们会信任自动驾驶么？](https://www.v2ex.com/t/865624)
 1. [英语零基础背单词半年](https://www.v2ex.com/t/865606)
 1. [怀疑微信会根据聊天记录投放广告](https://www.v2ex.com/t/865581)
-1. [微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510)
-1. [关于独立开发者可能会面临的版权纠纷](https://www.v2ex.com/t/865564)
-1. [有一个 Redis 通知的问题想问一下大家](https://www.v2ex.com/t/865511)
 1. [发现在微信发的每一个链接都会被腾讯访问一下](https://www.v2ex.com/t/865618)
+1. [关于独立开发者可能会面临的版权纠纷](https://www.v2ex.com/t/865564)
 1. [感觉 iPhone 的基带真辣鸡](https://www.v2ex.com/t/865573)
-1. [两罐 rio 我就吐了？](https://www.v2ex.com/t/865609)
 1. [webAssembly 目前是个啥情况](https://www.v2ex.com/t/865575)
+1. [微信 7.x.x 版本可「快捷指令」一键跳转健康码](https://www.v2ex.com/t/865562)
+1. [吐槽一下国内运营的游戏环境](https://www.v2ex.com/t/865571)
 
 ## 历史归档
 
