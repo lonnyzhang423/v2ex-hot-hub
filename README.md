@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-12 13:31:40 +0800`
+ `更新时间：2022-07-12 14:09:44 +0800`
 
 ## 热议话题
 
 1. [新品发布：支持中文的 AI 生成绘画作品工具](https://www.v2ex.com/t/865457)
 1. [JDK17 都出来了，感觉现在很多资深程序员 Stream 不会， Lambda 不会， Java .time 包不会](https://www.v2ex.com/t/865425)
-1. [前端和后端中间的部分一般习惯叫做什么](https://www.v2ex.com/t/865407)
-1. [现在的生产力是否已经能够支持全人类过上物质充足的生活？](https://www.v2ex.com/t/865415)
 1. [公司数据库数据被我更新成 null 了，救命！](https://www.v2ex.com/t/865464)
 1. [12 代 cpu 做 nas 现在合适吗？](https://www.v2ex.com/t/865467)
 1. [有一个 Redis 通知的问题想问一下大家](https://www.v2ex.com/t/865511)
-1. [很讨厌公司有人用手摸我屏幕🖥！于是！](https://www.v2ex.com/t/865410)
 1. [微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510)
 1. [关于独立开发者可能会面临的版权纠纷](https://www.v2ex.com/t/865564)
+1. [做为程序员，你们会信任自动驾驶么？](https://www.v2ex.com/t/865624)
+1. [老哥们现在写简历都用什么](https://www.v2ex.com/t/865423)
+1. [感觉 iPhone 的基带真辣鸡](https://www.v2ex.com/t/865573)
 
 ## 历史归档
 
