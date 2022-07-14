@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-14 13:22:39 +0800`
+ `更新时间：2022-07-14 14:10:44 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [就问一句，最近这形势钱放在余额宝里钱还稳妥吗，要不要转到银行里？](https://www.v2ex.com/t/866033)
 1. [我们这一代是不是都很脆弱](https://www.v2ex.com/t/866031)
 1. [食用油为啥涨价这么多啊](https://www.v2ex.com/t/865936)
-1. [懒人适合若饭吗?](https://www.v2ex.com/t/865897)
 1. [宝马提供每月 18 美元的加热座椅订阅服务](https://www.v2ex.com/t/865941)
-1. [有 GAY 友么？](https://www.v2ex.com/t/866034)
 1. [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://www.v2ex.com/t/866067)
+1. [有 GAY 友么？](https://www.v2ex.com/t/866034)
+1. [Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015)
 
 ## 历史归档
 
