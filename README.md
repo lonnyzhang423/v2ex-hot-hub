@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-14 21:33:54 +0800`
+ `更新时间：2022-07-14 22:13:42 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [《微信阅读》开始割韭菜](https://www.v2ex.com/t/866154)
 1. [杭州已经 40 度了，打伞的男生多么](https://www.v2ex.com/t/866138)
 1. [1500 元左右手机推荐](https://www.v2ex.com/t/866026)
-1. [Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015)
 1. [[ Java ] 代码质量糟糕, 是常态吗?](https://www.v2ex.com/t/866060)
+1. [Android wechat 到底想干啥？！在后台 CPU 占用到 156%](https://www.v2ex.com/t/866015)
 
 ## 历史归档
 
