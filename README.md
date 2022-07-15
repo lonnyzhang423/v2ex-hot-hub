@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-15 17:07:25 +0800`
+ `更新时间：2022-07-15 18:08:25 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [如何看待 2021.07.13 B 站崩溃事件](https://www.v2ex.com/t/866300)
 1. [Go 友会继续招纳(之前小伙伴加入没来得及处理)](https://www.v2ex.com/t/866398)
 1. [MacBook 办公方式](https://www.v2ex.com/t/866339)
+1. [不限编程语言，你认为哪个 ORM 最好用？](https://www.v2ex.com/t/866413)
 1. [M2 Air 评测出来了，午夜色还是星光色呢？](https://www.v2ex.com/t/866263)
 1. [JB 全家桶一年 RMB56？啥原理？](https://www.v2ex.com/t/866305)
-1. [不限编程语言，你认为哪个 ORM 最好用？](https://www.v2ex.com/t/866413)
 
 ## 历史归档
 
