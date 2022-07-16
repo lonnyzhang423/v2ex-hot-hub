@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-16 18:07:22 +0800`
+ `更新时间：2022-07-16 19:07:04 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562)
 1. [兄弟们，这个天气如果不用空调怎么室内维持一个适宜温度？](https://www.v2ex.com/t/866505)
 1. [百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574)
-1. [你们喜欢以下那种 return 方式](https://www.v2ex.com/t/866495)
-1. [youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565)
 1. [晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631)
+1. [youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565)
 1. [宽带延迟高可以投诉吗？](https://www.v2ex.com/t/866503)
+1. [普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625)
 
 ## 历史归档
 
