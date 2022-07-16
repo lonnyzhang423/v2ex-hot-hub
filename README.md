@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-16 07:08:19 +0800`
+ `更新时间：2022-07-16 08:43:57 +0800`
 
 ## 热议话题
 
 1. [北疆归来~一路把眼睛喂饱！（伊犁环线+独库公路+阿勒泰）](https://www.v2ex.com/t/866324)
 1. [同事总是没事头撇过来盯着你屏幕看你在干什么。。。觉得很烦](https://www.v2ex.com/t/866313)
-1. [如何看待 2021.07.13 B 站崩溃事件](https://www.v2ex.com/t/866300)
 1. [不限编程语言，你认为哪个 ORM 最好用？](https://www.v2ex.com/t/866413)
 1. [MacBook 办公方式](https://www.v2ex.com/t/866339)
 1. [Go 友会继续招纳(之前小伙伴加入没来得及处理)](https://www.v2ex.com/t/866398)
 1. [JB 全家桶一年 RMB56？啥原理？](https://www.v2ex.com/t/866305)
 1. [APTV 正式上架 AppStore 啦，支持回看！（内含兑换码&多图预警）](https://www.v2ex.com/t/866406)
 1. [2022 年过一大半了 , 请问有什么跨平台开发框架推荐吗](https://www.v2ex.com/t/866453)
+1. [要不要退了 24g 的 Air m2 换 16g](https://www.v2ex.com/t/866383)
+1. [Apple Music 涨价了](https://www.v2ex.com/t/866306)
 
 ## 历史归档
 
