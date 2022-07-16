@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-16 21:17:30 +0800`
+ `更新时间：2022-07-16 22:06:51 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562)
 1. [晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631)
 1. [百度网盘 适配 Apple Silicon](https://www.v2ex.com/t/866574)
+1. [现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648)
 1. [youtube app 如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565)
 1. [普通人到底如何才能申请到 Google Voice？ GV 这么难申请，网络上为什么有那么多 GV 号在卖？](https://www.v2ex.com/t/866625)
-1. [现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648)
 1. [耗时 8 个多月，基于 SSH 协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540)
 1. [日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577)
 
