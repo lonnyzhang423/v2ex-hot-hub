@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-17 15:06:57 +0800`
+ `更新时间：2022-07-17 16:09:12 +0800`
 
 ## 热议话题
 
 1. [朋友要润日本，这样的方法靠谱吗？](https://www.v2ex.com/t/866725)
 1. [现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648)
-1. [晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631)
-1. [买的期房，逃过一劫](https://www.v2ex.com/t/866663)
 1. [感叹选择 macbook 无法续航、便携、性能兼得](https://www.v2ex.com/t/866764)
+1. [买的期房，逃过一劫](https://www.v2ex.com/t/866663)
 1. [哈尔滨啤酒也太难喝了](https://www.v2ex.com/t/866683)
 1. [现在转行做程序员还值得吗, 29 岁了](https://www.v2ex.com/t/866705)
 1. [群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644)
 1. [是不是绝大多数 bt 软件在国内都没速度](https://www.v2ex.com/t/866662)
+1. [2022 年关于 Apple ID 区域选择和 Pro App 套装](https://www.v2ex.com/t/866700)
 1. [刚撸 Python ，问个问题](https://www.v2ex.com/t/866690)
 
 ## 历史归档
