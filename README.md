@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-17 19:06:14 +0800`
+ `更新时间：2022-07-17 20:13:05 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [2022 年关于 Apple ID 区域选择和 Pro App 套装](https://www.v2ex.com/t/866700)
 1. [如何更改资料让美区 App Store 免税？](https://www.v2ex.com/t/866775)
 1. [刚撸 Python ，问个问题](https://www.v2ex.com/t/866690)
-1. [找份运维工作](https://www.v2ex.com/t/866670)
-1. [目前主流 PCIe NVMe 协议的固态硬盘寿命能有多长？](https://www.v2ex.com/t/866773)
 1. [上海找工作太难了](https://www.v2ex.com/t/866762)
+1. [目前主流 PCIe NVMe 协议的固态硬盘寿命能有多长？](https://www.v2ex.com/t/866773)
+1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787)
 
 ## 历史归档
 
