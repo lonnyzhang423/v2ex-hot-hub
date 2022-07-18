@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-18 14:10:40 +0800`
+ `更新时间：2022-07-18 15:07:08 +0800`
 
 ## 热议话题
 
 1. [你们能分清 [入] [⼊] 之间的区别吗](https://www.v2ex.com/t/866890)
-1. [打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害](https://www.v2ex.com/t/866882)
-1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787)
 1. [学 iOS 开发，买 M1 Pro 的 MacBook Pro14 还是买 M2 的 MacBook Air？](https://www.v2ex.com/t/866938)
-1. [组个 ITX 要老命了](https://www.v2ex.com/t/866912)
-1. [有没有经常弄混 macOS 输入法的？我实在是受不了了 😤](https://www.v2ex.com/t/866880)
 1. [最近 BandiZip 在论坛被喷烂了，推荐一个 Win 平台好看的免费压缩软件吧？](https://www.v2ex.com/t/866925)
-1. [v 友们，外接显示器选择 27 寸 2k 还是 27 寸 4k 的好一些？](https://www.v2ex.com/t/866804)
+1. [打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害](https://www.v2ex.com/t/866882)
+1. [组个 ITX 要老命了](https://www.v2ex.com/t/866912)
+1. [nodejs 中文网要开 vip 收费了，会员费用为 199 元/年。](https://www.v2ex.com/t/866787)
+1. [有没有经常弄混 macOS 输入法的？我实在是受不了了 😤](https://www.v2ex.com/t/866880)
+1. [带父母体检，真的很重要！](https://www.v2ex.com/t/866928)
 
 ## 历史归档
 
