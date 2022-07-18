@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-18 19:11:30 +0800`
+ `更新时间：2022-07-18 20:14:30 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [有没有经常弄混 macOS 输入法的？我实在是受不了了 😤](https://www.v2ex.com/t/866880)
 1. [打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害](https://www.v2ex.com/t/866882)
 1. [组个 ITX 要老命了](https://www.v2ex.com/t/866912)
+1. [创作没了，心凉](https://www.v2ex.com/t/867078)
 1. [带父母体检，真的很重要！](https://www.v2ex.com/t/866928)
-1. [有点羡慕抽烟的同事们](https://www.v2ex.com/t/867027)
 
 ## 历史归档
 
