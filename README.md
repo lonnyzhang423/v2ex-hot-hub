@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-19 04:08:28 +0800`
+ `更新时间：2022-07-19 05:06:42 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [你们能分清 [入] [⼊] 之间的区别吗](https://www.v2ex.com/t/866890)
 1. [学 iOS 开发，买 M1 Pro 的 MacBook Pro14 还是买 M2 的 MacBook Air？](https://www.v2ex.com/t/866938)
 1. [最近 BandiZip 在论坛被喷烂了，推荐一个 Win 平台好看的免费压缩软件吧？](https://www.v2ex.com/t/866925)
-1. [有推荐乐器的吗，想在家里学，不会吵到邻居](https://www.v2ex.com/t/866915)
 1. [有没有经常弄混 macOS 输入法的？我实在是受不了了 😤](https://www.v2ex.com/t/866880)
+1. [有推荐乐器的吗，想在家里学，不会吵到邻居](https://www.v2ex.com/t/866915)
 1. [打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害](https://www.v2ex.com/t/866882)
 1. [组个 ITX 要老命了](https://www.v2ex.com/t/866912)
 1. [带父母体检，真的很重要！](https://www.v2ex.com/t/866928)
