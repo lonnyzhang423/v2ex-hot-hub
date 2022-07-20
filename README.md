@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-20 12:29:27 +0800`
+ `更新时间：2022-07-20 13:17:13 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [有对象之后，急剧减少与异性的沟通交流](https://www.v2ex.com/t/867447)
 1. [机械键盘求推荐](https://www.v2ex.com/t/867290)
 1. [微信账号废了](https://www.v2ex.com/t/867428)
-1. [GitHub 大陆地区下架了？](https://www.v2ex.com/t/867384)
-1. [代码有性能问题，程序员说只管实现功能，你怎么看？](https://www.v2ex.com/t/867344)
 1. [见老丈人了，买点啥好呢，老丈人不抽烟，不喝酒，平时喝点茶。](https://www.v2ex.com/t/867393)
+1. [iPhone 没有通话录音快把我逼疯了](https://www.v2ex.com/t/867435)
+1. [GitHub 大陆地区下架了？](https://www.v2ex.com/t/867384)
 
 ## 历史归档
 
