@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-20 17:07:27 +0800`
+ `更新时间：2022-07-20 18:08:19 +0800`
 
 ## 热议话题
 
 1. [打车平台什么时候能出个屏蔽电车的选项啊](https://www.v2ex.com/t/867339)
 1. [不用洗的杯子推荐？](https://www.v2ex.com/t/867388)
-1. [公积金避税很常见？](https://www.v2ex.com/t/867510)
 1. [iPhone 没有通话录音快把我逼疯了](https://www.v2ex.com/t/867435)
+1. [公积金避税很常见？](https://www.v2ex.com/t/867510)
+1. [nodejs 中文网 开始收费了，已经付费了的同学举个爪](https://www.v2ex.com/t/867461)
 1. [见老丈人了，买点啥好呢，老丈人不抽烟，不喝酒，平时喝点茶。](https://www.v2ex.com/t/867393)
 1. [微信账号废了](https://www.v2ex.com/t/867428)
-1. [nodejs 中文网 开始收费了，已经付费了的同学举个爪](https://www.v2ex.com/t/867461)
 
 ## 历史归档
 
