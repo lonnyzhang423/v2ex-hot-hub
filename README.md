@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-21 18:08:31 +0800`
+ `更新时间：2022-07-21 19:06:50 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [张小龙____， WeChat 被频繁封号，已严重影响生活，大家避雷](https://www.v2ex.com/t/867612)
 1. [身份证号的 X 是不是一个糟糕的设计？](https://www.v2ex.com/t/867724)
 1. [在 Java 中为什么不全部使用 static 方法？](https://www.v2ex.com/t/867705)
-1. [各位怎么在安卓上收取 Gmail 邮件](https://www.v2ex.com/t/867696)
 1. [不想给喵喵割蛋蛋定期给他找炮友可以吗](https://www.v2ex.com/t/867735)
+1. [各位怎么在安卓上收取 Gmail 邮件](https://www.v2ex.com/t/867696)
 
 ## 历史归档
 
