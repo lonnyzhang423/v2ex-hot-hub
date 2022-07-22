@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-22 08:48:00 +0800`
+ `更新时间：2022-07-22 11:11:36 +0800`
 
 ## 热议话题
 
-1. [大一女生用笔记本推荐](https://www.v2ex.com/t/867698)
 1. [嗨 V 友们，我做了一款番茄钟加氛围音播放 app，来这里送些永久激活码](https://www.v2ex.com/t/867753)
-1. [「摸鱼时间」晒晒俺的 Apple 套装： iPad2+AirPods2+ iPhone6s+MacBook pro13 m1，大家一起晒晒看](https://www.v2ex.com/t/867677)
-1. [在 Java 中为什么不全部使用 static 方法？](https://www.v2ex.com/t/867705)
 1. [身份证号的 X 是不是一个糟糕的设计？](https://www.v2ex.com/t/867724)
+1. [人活着的意义到底是啥,](https://www.v2ex.com/t/867903)
 1. [不想给喵喵割蛋蛋定期给他找炮友可以吗](https://www.v2ex.com/t/867735)
-1. [各位怎么在安卓上收取 Gmail 邮件](https://www.v2ex.com/t/867696)
-1. [神经性皮炎还有救吗](https://www.v2ex.com/t/867682)
+1. [大家一般什么时期给信用卡还款？](https://www.v2ex.com/t/867897)
+1. [咖啡戒断 4 天，彻底萎靡了](https://www.v2ex.com/t/867900)
 1. [苹果配置摆烂可能只是国外大环境使然](https://www.v2ex.com/t/867725)
+1. [互联网法院起诉腾讯永封微信号的赢面有多大？](https://www.v2ex.com/t/867837)
+1. [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873)
 
 ## 历史归档
 
