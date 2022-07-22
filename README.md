@@ -11,16 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-22 16:13:16 +0800`
+ `更新时间：2022-07-22 17:07:44 +0800`
 
 ## 热议话题
 
 1. [人活着的意义到底是啥,](https://www.v2ex.com/t/867903)
 1. [咖啡戒断 4 天，彻底萎靡了](https://www.v2ex.com/t/867900)
-1. [大家一般什么时期给信用卡还款？](https://www.v2ex.com/t/867897)
 1. [炫耀贴：我的小程序上微博热搜了](https://www.v2ex.com/t/867966)
-1. [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873)
 1. [我发现百度做的真的没有 google 的搜索引擎好，我吐了](https://www.v2ex.com/t/867940)
+1. [作为 Java 工程师，第二语言应该选择 Python 还是 Go](https://www.v2ex.com/t/867873)
 1. [互联网法院起诉腾讯永封微信号的赢面有多大？](https://www.v2ex.com/t/867837)
 1. [作为咖啡行业相关从业者，说说俺知道的](https://www.v2ex.com/t/867917)
 1. [发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819)
