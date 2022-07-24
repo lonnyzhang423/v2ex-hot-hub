@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-24 19:06:18 +0800`
+ `更新时间：2022-07-24 20:13:04 +0800`
 
 ## 热议话题
 
 1. [求助各位用 Windows 笔记本的程序员](https://www.v2ex.com/t/868242)
 1. [Hi，来试试 web3 的文件永存吧](https://www.v2ex.com/t/868264)
 1. [有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287)
-1. [日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259)
 1. [老城区换了水管夏天 24 小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268)
-1. [七年的恋爱结束了](https://www.v2ex.com/t/868362)
+1. [日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259)
 1. [在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295)
 1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301)
-1. [用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?](https://www.v2ex.com/t/868238)
+1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314)
 1. [Linux 用了半个月还是逃回 macos 的几个疑问](https://www.v2ex.com/t/868307)
 
 ## 历史归档
