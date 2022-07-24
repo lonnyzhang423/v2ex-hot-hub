@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-25 00:10:12 +0800`
+ `更新时间：2022-07-25 01:11:35 +0800`
 
 ## 热议话题
 
 1. [有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287)
-1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314)
 1. [如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389)
-1. [在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295)
+1. [zero Tier 卸载之后依然残留进程联网](https://www.v2ex.com/t/868314)
 1. [软件开发中 国外管理者 跟 国内管理者一个很明显的区别](https://www.v2ex.com/t/868301)
+1. [在家上网和刷剧选 iPad pro 11 还是 mini 6？](https://www.v2ex.com/t/868295)
 1. [Linux 用了半个月还是逃回 macos 的几个疑问](https://www.v2ex.com/t/868307)
 1. [能分享一下你觉得好用的网站/服务吗](https://www.v2ex.com/t/868405)
 1. [i225 网卡日志不太对](https://www.v2ex.com/t/868318)
