@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-28 08:42:20 +0800`
+ `更新时间：2022-07-28 11:02:10 +0800`
 
 ## 热议话题
 
-1. [你有什么收藏爱好吗](https://www.v2ex.com/t/868942)
-1. [mac 转 windows 好难受，尤其是键盘，大家有什么好的解决方案吗？](https://www.v2ex.com/t/868956)
-1. [机械革命 code01 新版出来了， 6800H,可以冲吗？](https://www.v2ex.com/t/868936)
-1. [关于国内天气预报](https://www.v2ex.com/t/868944)
+1. [再不抉择来不及了！ M2 还是 M1 pro](https://www.v2ex.com/t/869141)
 1. [要换手机了，有什么推荐的安卓手机](https://www.v2ex.com/t/869035)
-1. [qq 音乐天天要登录，真是烦不胜烦](https://www.v2ex.com/t/868940)
+1. [各位的美区 Apple ID 体验如何？](https://www.v2ex.com/t/869074)
 1. [备份 Ext4 分区的正确姿势](https://www.v2ex.com/t/869026)
+1. [23 年了，软盘里文件还在](https://www.v2ex.com/t/869073)
 1. [看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060)
+1. [海外如何最低成本上 CDN?](https://www.v2ex.com/t/869076)
+1. [广州的 it 大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998)
 
 ## 历史归档
 
