@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-28 15:07:20 +0800`
+ `更新时间：2022-07-28 16:10:41 +0800`
 
 ## 热议话题
 
 1. [再不抉择来不及了！ M2 还是 M1 pro](https://www.v2ex.com/t/869141)
-1. [要换手机了，有什么推荐的安卓手机](https://www.v2ex.com/t/869035)
 1. [各位的美区 Apple ID 体验如何？](https://www.v2ex.com/t/869074)
 1. [马上七夕了，兄弟们都送什么礼物给女朋友](https://www.v2ex.com/t/869148)
 1. [楼下空地要盖酒店，早上 6 点多就开始施工，我炸了](https://www.v2ex.com/t/869134)
 1. [23 年了，软盘里文件还在](https://www.v2ex.com/t/869073)
 1. [现在发布的充电头，怎么还带 A 口这么落后的东西，全变成 type-c 的不好么？](https://www.v2ex.com/t/869188)
-1. [备份 Ext4 分区的正确姿势](https://www.v2ex.com/t/869026)
 1. [看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060)
 1. [海外如何最低成本上 CDN?](https://www.v2ex.com/t/869076)
+1. [发生在农村的一种诈骗...](https://www.v2ex.com/t/869149)
 
 ## 历史归档
 
