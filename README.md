@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-30 16:09:35 +0800`
+ `更新时间：2022-07-30 17:07:08 +0800`
 
 ## 热议话题
 
 1. [现在装 win 系统是推荐 11 还是 10 呢](https://www.v2ex.com/t/869596)
-1. [在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500)
 1. [小程序埋点上报的数据，往 mysql 存是可以的吗](https://www.v2ex.com/t/869507)
 1. [成年人的尴尬来的太突然](https://www.v2ex.com/t/869559)
 1. [原来 115 现在连正常的电影都拦截啊...](https://www.v2ex.com/t/869551)
 1. [很多人不知道洗洁精可以洗果蔬吧 😅](https://www.v2ex.com/t/869644)
 1. [既然大伙儿都在估值域名，我也来一个 tbjd.store (淘宝京东.商城)](https://www.v2ex.com/t/869618)
 1. [在家挂着一个 iPhone 作为副卡收短信怎么充电比较好？](https://www.v2ex.com/t/869550)
+1. [吐嘈一下苹果键盘](https://www.v2ex.com/t/869511)
 1. [三星 SSD T7 shield 2T 接 M1 测试速度感人 问题](https://www.v2ex.com/t/869518)
 
 ## 历史归档
