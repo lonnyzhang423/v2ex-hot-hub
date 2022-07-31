@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-07-31 08:41:34 +0800`
+ `更新时间：2022-07-31 11:10:35 +0800`
 
 ## 热议话题
 
-1. [现在装 win 系统是推荐 11 还是 10 呢](https://www.v2ex.com/t/869596)
 1. [很多人不知道洗洁精可以洗果蔬吧 😅](https://www.v2ex.com/t/869644)
 1. [蛙速云跑路了？](https://www.v2ex.com/t/869674)
 1. [其实不光洗洁精，牙膏的正确使用方法绝大部分人也对此有误解](https://www.v2ex.com/t/869678)
 1. [既然大伙儿都在估值域名，我也来一个 tbjd.store (淘宝京东.商城)](https://www.v2ex.com/t/869618)
-1. [最后没买 NAS，把钱花在磁带上了](https://www.v2ex.com/t/869651)
 1. [同样价格选择 24g+512g 的 Air 还是 16+512 标配 pro？](https://www.v2ex.com/t/869673)
-1. [个人做微型 sass 平台，支付问题](https://www.v2ex.com/t/869604)
+1. [最后没买 NAS，把钱花在磁带上了](https://www.v2ex.com/t/869651)
 1. [最静音的笔记本降温方案是啥？](https://www.v2ex.com/t/869663)
+1. [速蛙云跑路，求推荐机场](https://www.v2ex.com/t/869734)
+1. [速娃云跑路了吗](https://www.v2ex.com/t/869683)
 
 ## 历史归档
 
