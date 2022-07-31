@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-01 00:09:00 +0800`
+ `更新时间：2022-08-01 01:08:33 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [ThinkBook 16 + 锐龙版，是今年唯一值得入手的笔记本……](https://www.v2ex.com/t/869722)
 1. [关于专线的疑惑](https://www.v2ex.com/t/869775)
 1. [[上海] - PDD Android 非常缺人](https://www.v2ex.com/t/869790)
+1. [关于 Python 和 Matlab，各位程序员怎么看？](https://www.v2ex.com/t/869764)
 1. [telegram 也学坏了（登录要验证码）？](https://www.v2ex.com/t/869726)
 1. [高德跨城打车体验：司机黑车度高，平台制约不力？](https://www.v2ex.com/t/869757)
-1. [关于 Python 和 Matlab，各位程序员怎么看？](https://www.v2ex.com/t/869764)
 1. [redmi k30 刷了 PE plus, 感觉良好](https://www.v2ex.com/t/869772)
 
 ## 历史归档
