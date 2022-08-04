@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-05 02:09:28 +0800`
+ `更新时间：2022-08-05 03:06:17 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [你们手机带壳吗](https://www.v2ex.com/t/870547)
 1. [年过 30 的软件从业者，再看 JD 刘老板那句我不想认命，迷茫焦虑吗？](https://www.v2ex.com/t/870639)
 1. [2022 年，想玩 PC 游戏的铁子们还是自己装机吗？](https://www.v2ex.com/t/870575)
-1. [写了一个烂大街的单词应用：禅意单词， App Store， Play Store 都上线了。送一堆码给大家。](https://www.v2ex.com/t/870540)
 1. [增购纯电轿车，汉还是海豹](https://www.v2ex.com/t/870542)
+1. [写了一个烂大街的单词应用：禅意单词， App Store， Play Store 都上线了。送一堆码给大家。](https://www.v2ex.com/t/870540)
 1. [为了买套 Java 的交易所，上当了， 1000U 已经离我而去。](https://www.v2ex.com/t/870610)
 1. [用 Go 写 Web 后端合适吗？](https://www.v2ex.com/t/870659)
 
