@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-04 14:10:50 +0800`
+ `更新时间：2022-08-04 15:07:26 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [我又来啦， SwiftUI 开发的第 3 个 app，熊猫私密相册 ｜ 附永久码](https://www.v2ex.com/t/870471)
 1. [单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480)
 1. [写了一个烂大街的单词应用：禅意单词， App Store， Play Store 都上线了。送一堆码给大家。](https://www.v2ex.com/t/870540)
-1. [两个宅周六出去能玩啥？（下午的时候）](https://www.v2ex.com/t/870516)
 1. [增购纯电轿车，汉还是海豹](https://www.v2ex.com/t/870542)
+1. [两个宅周六出去能玩啥？（下午的时候）](https://www.v2ex.com/t/870516)
 1. [珠三角旅游推荐](https://www.v2ex.com/t/870447)
 
 ## 历史归档
