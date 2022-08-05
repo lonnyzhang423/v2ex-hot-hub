@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-05 21:33:42 +0800`
+ `更新时间：2022-08-05 22:09:24 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [首付不够，有什么靠谱的借钱渠道吗](https://www.v2ex.com/t/870798)
 1. [一个大龄大厂搬砖工的叹息](https://www.v2ex.com/t/870825)
 1. [程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855)
-1. [windows 12 pro](https://www.v2ex.com/t/870752)
 1. [辞职了，想问问去哪旅行好？](https://www.v2ex.com/t/870834)
+1. [windows 12 pro](https://www.v2ex.com/t/870752)
 1. [请教一下，前端真的会有算法诉求吗？](https://www.v2ex.com/t/870826)
 1. [妙控板个人向劝退解毒](https://www.v2ex.com/t/870807)
 1. [windows 11 bug 真的多到一言难尽啊](https://www.v2ex.com/t/870816)
