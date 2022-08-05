@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-05 12:35:01 +0800`
+ `更新时间：2022-08-05 13:25:27 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [年过 30 的软件从业者，再看 JD 刘老板那句我不想认命，迷茫焦虑吗？](https://www.v2ex.com/t/870639)
 1. [用 Go 写 Web 后端合适吗？](https://www.v2ex.com/t/870659)
 1. [我认为手机 64GB 内存对我够用了](https://www.v2ex.com/t/870724)
-1. [windows 12 pro](https://www.v2ex.com/t/870752)
 1. [每一天，越来越惶恐！](https://www.v2ex.com/t/870753)
-1. [你们的 iPad Pro 买妙控键盘吗？](https://www.v2ex.com/t/870622)
+1. [windows 12 pro](https://www.v2ex.com/t/870752)
 1. [首付不够，有什么靠谱的借钱渠道吗](https://www.v2ex.com/t/870798)
 1. [你们多久洗一次牙？](https://www.v2ex.com/t/870642)
+1. [一个大龄大厂搬砖工的叹息](https://www.v2ex.com/t/870825)
 
 ## 历史归档
 
