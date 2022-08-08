@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-08 07:07:14 +0800`
+ `更新时间：2022-08-08 08:38:57 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,9 @@
 1. [吐槽下，学会啥技术能涨工资？](https://www.v2ex.com/t/871201)
 1. [我的运气应该没那么倒霉吧？](https://www.v2ex.com/t/871293)
 1. [热水器是不是应该用前再开?](https://www.v2ex.com/t/871222)
-1. [真诚蹲一个 IDEA 个人正版优惠购买机会](https://www.v2ex.com/t/871181)
 1. [2022 年 8 月 选择哪家 打车 APP 呢？](https://www.v2ex.com/t/871196)
+1. [台式机机箱吹冷水，脚冷，怎么办？](https://www.v2ex.com/t/871210)
+1. [Java ， PHP ， Go，哪种语言和框架更适合开发 API 接口?](https://www.v2ex.com/t/871276)
 
 ## 历史归档
 
