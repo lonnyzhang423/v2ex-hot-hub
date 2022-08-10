@@ -11,16 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-10 10:36:50 +0800`
+ `更新时间：2022-08-10 11:32:16 +0800`
 
 ## 热议话题
 
 1. [你的 iPad 用来做什么](https://www.v2ex.com/t/871654)
 1. [准备养鱼了](https://www.v2ex.com/t/871647)
-1. [Parallels Desktop 18 来了](https://www.v2ex.com/t/871708)
 1. [[交流] 最近在看前端的内容，接触了一些前端的代码，有一些吐槽](https://www.v2ex.com/t/871818)
+1. [Parallels Desktop 18 来了](https://www.v2ex.com/t/871708)
+1. [这种生活方式是不是废了](https://www.v2ex.com/t/871719)
 1. [感觉现在的电脑比小时候耐用了？](https://www.v2ex.com/t/871817)
-1. [谈了很多年之后分手怎么办](https://www.v2ex.com/t/871612)
+1. [大家一定要认真刷牙啊！ [我再也不想坐上牙医的躺椅了]](https://www.v2ex.com/t/871789)
 
 ## 历史归档
 
