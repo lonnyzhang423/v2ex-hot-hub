@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-11 15:07:33 +0800`
+ `更新时间：2022-08-11 16:10:04 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [中国移动官方诈骗](https://www.v2ex.com/t/872095)
 1. [情感问题咨询](https://www.v2ex.com/t/872100)
 1. [目前最强的 ios android 跨端框架是 flutter 吗，它发展前景是不是很美好，有没有经过时间的验证](https://www.v2ex.com/t/872077)
-1. [你们软路由一般用什么路由当 AP？](https://www.v2ex.com/t/872108)
+1. [iPhone 13Pro Max 真的好重啊](https://www.v2ex.com/t/872123)
 
 ## 历史归档
 
