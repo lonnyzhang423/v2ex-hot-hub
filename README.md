@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-13 00:11:19 +0800`
+ `更新时间：2022-08-13 01:17:06 +0800`
 
 ## 热议话题
 
 1. [有什么是你以为不需要，卖了之后又买回来的东西？](https://www.v2ex.com/t/872328)
-1. [两个月大的宝宝傍晚喜欢盯着天花板看](https://www.v2ex.com/t/872317)
 1. [uTools 剪切板插件成会员专享了](https://www.v2ex.com/t/872348)
 1. [为什么小米要自己发明 USB 接口啊？](https://www.v2ex.com/t/872394)
 1. [打羽毛球的大佬们](https://www.v2ex.com/t/872332)
+1. [关于 Go 在 `Return Nil or Pointer to Empty Struct on Error` 上的讨论？](https://www.v2ex.com/t/872400)
 
 ## 历史归档
 
