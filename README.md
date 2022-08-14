@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-14 11:04:23 +0800`
+ `更新时间：2022-08-14 12:19:05 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [如何看待 Disney+ 的订阅用户数量已经超过了 Netflix？](https://www.v2ex.com/t/872614)
 1. [关于开源的一点想法](https://www.v2ex.com/t/872641)
 1. [Chrome 太影响续航， Safari 部分场景又满足不了需求](https://www.v2ex.com/t/872608)
+1. [笔记本厂商预装 Ubuntu 不需要付费吗？](https://www.v2ex.com/t/872658)
 
 ## 历史归档
 
