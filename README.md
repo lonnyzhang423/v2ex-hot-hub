@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-15 11:16:09 +0800`
+ `更新时间：2022-08-15 12:54:45 +0800`
 
 ## 热议话题
 
 1. [[送激活码] 🎉 Wins for macOS 正式发布啦！为 Mac 带来系统级分屏功能](https://www.v2ex.com/t/872787)
-1. [chrome 密码泄漏了， 才知道用 chrome 保存密码等于裸奔](https://www.v2ex.com/t/872745)
-1. [关于润去海外的问题](https://www.v2ex.com/t/872740)
 1. [问一下大家的话费套餐都是什么样的，比较一下好知道我被坑了多少。](https://www.v2ex.com/t/872790)
 1. [大家晚上一般需要多久才能睡着？](https://www.v2ex.com/t/872754)
 1. [你们那还有把婴儿的后脑上睡平的习俗吗?](https://www.v2ex.com/t/872773)
-1. [除去税和必要花费，单身汉每个月能存工资的几成？](https://www.v2ex.com/t/872742)
-1. [两个 offer 纠结住了。。。](https://www.v2ex.com/t/872821)
+1. [人脑为什么不能被 ROOT？](https://www.v2ex.com/t/872896)
+1. [而立之年了，祝我生日快乐](https://www.v2ex.com/t/872884)
 1. [[送兑换码] 我的第一款 iOS 平台 App 小而美的短信智能拦截工具](https://www.v2ex.com/t/872853)
+1. [两个 offer 纠结住了。。。](https://www.v2ex.com/t/872821)
+1. [有用 Joplin 的吗，现在哪种同步方式靠谱？](https://www.v2ex.com/t/872855)
 
 ## 历史归档
 
