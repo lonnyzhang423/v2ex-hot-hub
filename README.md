@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-15 18:09:12 +0800`
+ `更新时间：2022-08-15 19:06:49 +0800`
 
 ## 热议话题
 
 1. [而立之年了，祝我生日快乐](https://www.v2ex.com/t/872884)
-1. [问一下大家的话费套餐都是什么样的，比较一下好知道我被坑了多少。](https://www.v2ex.com/t/872790)
 1. [人脑为什么不能被 ROOT？](https://www.v2ex.com/t/872896)
 1. [两个 offer 纠结住了。。。](https://www.v2ex.com/t/872821)
 1. [[送兑换码] 我的第一款 iOS 平台 App 小而美的短信智能拦截工具](https://www.v2ex.com/t/872853)
 1. [取消网页版 只保留 app 是进步，还是倒退？](https://www.v2ex.com/t/872844)
+1. [请问有被偏头痛困扰的 v 友吗，进来交流一下预防/紧急止痛的方法](https://www.v2ex.com/t/872934)
 1. [某些指纹锁已经支持使用 Apple 家庭钥匙开门了](https://www.v2ex.com/t/872859)
 1. [有用 Joplin 的吗，现在哪种同步方式靠谱？](https://www.v2ex.com/t/872855)
-1. [请问有被偏头痛困扰的 v 友吗，进来交流一下预防/紧急止痛的方法](https://www.v2ex.com/t/872934)
+1. [iOS 16 Beta 版已经很完善了，可升级](https://www.v2ex.com/t/872912)
 
 ## 历史归档
 
