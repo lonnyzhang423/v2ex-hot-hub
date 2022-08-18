@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-19 00:13:56 +0800`
+ `更新时间：2022-08-19 01:28:44 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [大家开车时，最讨厌的违法行为是什么？](https://www.v2ex.com/t/873660)
 1. [对于后端开发，如何学好 CSS？](https://www.v2ex.com/t/873641)
 1. [新一代 Intel 为啥不学一下苹果 M1/M2 的 SoC 设计， CPU 集成内存呢？](https://www.v2ex.com/t/873674)
-1. [求推荐 nas 方案](https://www.v2ex.com/t/873623)
 1. [为什么公司的人写代码都无视 IDE 的警告提示？](https://www.v2ex.com/t/873803)
+1. [求推荐 nas 方案](https://www.v2ex.com/t/873623)
 
 ## 历史归档
 
