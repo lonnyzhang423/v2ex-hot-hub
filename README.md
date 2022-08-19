@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-19 19:06:51 +0800`
+ `更新时间：2022-08-19 20:14:29 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [大家来看个有趣的事情吧，统一推送联盟疑似凉了](https://www.v2ex.com/t/873940)
 1. [iPad 该选 64G 还是选 256G 的呢](https://www.v2ex.com/t/873885)
 1. [ASP.NET 写的老网站，在 Windows 2008 R2 下稳稳十万并发，升级 Windows 2019 后响应非常缓慢， 600 并发就卡死，配置都没动过，有什么排查的方法吗？研究了一天还没解决。](https://www.v2ex.com/t/873862)
+1. [从未感觉如此绝望](https://www.v2ex.com/t/874050)
+1. [坐标深圳找 Java 开发都那么难的吗](https://www.v2ex.com/t/873991)
 1. [云桌面的隐私焦虑](https://www.v2ex.com/t/873861)
-1. [vscode 的远程开发已经相当成熟了, c/cpp 开发已经没必要折腾 vim 了吧](https://www.v2ex.com/t/873893)
 1. [各位有什么速溶或冻干黑咖啡推荐，作为工位口粮](https://www.v2ex.com/t/873897)
-1. [现在草根创业还有啥机会，做啥东西好呢](https://www.v2ex.com/t/873900)
-1. [请教一下，程序员追女朋友的教程](https://www.v2ex.com/t/873901)
+1. [vscode 的远程开发已经相当成熟了, c/cpp 开发已经没必要折腾 vim 了吧](https://www.v2ex.com/t/873893)
 
 ## 历史归档
 
