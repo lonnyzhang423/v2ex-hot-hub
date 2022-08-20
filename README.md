@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-20 22:06:58 +0800`
+ `更新时间：2022-08-20 23:07:37 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [喜马拉雅 30 两年的活动地址](https://www.v2ex.com/t/874139)
 1. [这至少是我前半辈子的遗憾，英语](https://www.v2ex.com/t/874173)
 1. [进一次商超 740 元人民币实录，物价是否偏高（附上详细购物清单）](https://www.v2ex.com/t/874170)
-1. [感觉 FaceTime 国内使用基本废了](https://www.v2ex.com/t/874138)
 1. [看了 AK 电玩科技 YouTube 被盗的经历，越来越对使用 Windows 恐惧](https://www.v2ex.com/t/874221)
+1. [感觉 FaceTime 国内使用基本废了](https://www.v2ex.com/t/874138)
 1. [存在真正的集显高性能笔记本吗？对于程序员够用吗？](https://www.v2ex.com/t/874177)
+1. [深漂应届生求助，鹅厂的外包有那么不堪吗](https://www.v2ex.com/t/874143)
 
 ## 历史归档
 
