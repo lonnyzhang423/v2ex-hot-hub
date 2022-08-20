@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-20 18:07:56 +0800`
+ `更新时间：2022-08-20 19:06:45 +0800`
 
 ## 热议话题
 
 1. [在国外和中国女友结婚要不要给彩礼？](https://www.v2ex.com/t/874131)
-1. [喜马拉雅 30 两年的活动地址](https://www.v2ex.com/t/874139)
 1. [想注册 100 个微信](https://www.v2ex.com/t/874110)
-1. [CN2 GIA 59.43.x.x 断了, bwg ip, 是我自己被封,还是线路坏了](https://www.v2ex.com/t/874080)
+1. [喜马拉雅 30 两年的活动地址](https://www.v2ex.com/t/874139)
 1. [这至少是我前半辈子的遗憾，英语](https://www.v2ex.com/t/874173)
+1. [CN2 GIA 59.43.x.x 断了, bwg ip, 是我自己被封,还是线路坏了](https://www.v2ex.com/t/874080)
 1. [感觉 FaceTime 国内使用基本废了](https://www.v2ex.com/t/874138)
 1. [进一次商超 740 元人民币实录，物价是否偏高（附上详细购物清单）](https://www.v2ex.com/t/874170)
 1. [深漂应届生求助，鹅厂的外包有那么不堪吗](https://www.v2ex.com/t/874143)
