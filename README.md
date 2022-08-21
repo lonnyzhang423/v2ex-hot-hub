@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-22 06:07:40 +0800`
+ `更新时间：2022-08-22 07:07:24 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [据说有 iPhone14mini](https://www.v2ex.com/t/874337)
 1. [上海电信 国际精品网停售](https://www.v2ex.com/t/874330)
 1. [一二线的工作选择，想听听水友们的意见](https://www.v2ex.com/t/874304)
-1. [轻度使用， M1 Air 和 M2 Air 买哪个？](https://www.v2ex.com/t/874341)
 1. [求推荐靠谱线上 iPhone 内存升级商家](https://www.v2ex.com/t/874308)
+1. [轻度使用， M1 Air 和 M2 Air 买哪个？](https://www.v2ex.com/t/874341)
 1. [Windows 資料夾權限設置](https://www.v2ex.com/t/874292)
 
 ## 历史归档
