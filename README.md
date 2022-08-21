@@ -11,13 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-22 03:06:14 +0800`
+ `更新时间：2022-08-22 04:08:25 +0800`
 
 ## 热议话题
 
 1. [杭州的各种「仅限支付宝」是真恶心](https://www.v2ex.com/t/874369)
 1. [网上留联系方式的隐私保护尝试](https://www.v2ex.com/t/874281)
-1. [现在买 MBP 14 是 49 年入国军吗？](https://www.v2ex.com/t/874315)
 1. [望远镜有了解吗，住 19 层，不远处有座山 该买什么样的望远镜呀？](https://www.v2ex.com/t/874314)
 1. [据说有 iPhone14mini](https://www.v2ex.com/t/874337)
 1. [上海电信 国际精品网停售](https://www.v2ex.com/t/874330)
