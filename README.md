@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-22 08:45:54 +0800`
+ `更新时间：2022-08-22 11:16:56 +0800`
 
 ## 热议话题
 
+1. [公司同事为什么可以做到事情没做完就回家的心态](https://www.v2ex.com/t/874454)
 1. [杭州的各种「仅限支付宝」是真恶心](https://www.v2ex.com/t/874369)
+1. [关于北京医保个人账户改动](https://www.v2ex.com/t/874456)
+1. [关于新版红绿灯](https://www.v2ex.com/t/874432)
+1. [安卓手机求推荐,看了好久抖音各品牌评测,无从下手](https://www.v2ex.com/t/874363)
 1. [望远镜有了解吗，住 19 层，不远处有座山 该买什么样的望远镜呀？](https://www.v2ex.com/t/874314)
 1. [据说有 iPhone14mini](https://www.v2ex.com/t/874337)
-1. [上海电信 国际精品网停售](https://www.v2ex.com/t/874330)
-1. [一二线的工作选择，想听听水友们的意见](https://www.v2ex.com/t/874304)
-1. [求推荐靠谱线上 iPhone 内存升级商家](https://www.v2ex.com/t/874308)
 1. [轻度使用， M1 Air 和 M2 Air 买哪个？](https://www.v2ex.com/t/874341)
-1. [Windows 資料夾權限設置](https://www.v2ex.com/t/874292)
+1. [求推荐一款好用+耐用的机械键盘](https://www.v2ex.com/t/874446)
 
 ## 历史归档
 
