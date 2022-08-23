@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-23 11:27:04 +0800`
+ `更新时间：2022-08-23 13:12:43 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [为什么我总是不能和自己和解](https://www.v2ex.com/t/874566)
 1. [关于新版红绿灯真不知道该怎么记？](https://www.v2ex.com/t/874606)
 1. [怎么防止同事用 Evil.js 的代码投毒](https://www.v2ex.com/t/874717)
-1. [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664)
-1. [大佬们，能来个静音的 nas 方案吗？预算尽量便宜点的。](https://www.v2ex.com/t/874510)
 1. [分享一下自己做的 monospace 字体，已开源](https://www.v2ex.com/t/874714)
+1. [win 下的 Linux 环境选择](https://www.v2ex.com/t/874664)
+1. [突然想买树莓派，然后被这价格吓到了](https://www.v2ex.com/t/874636)
+1. [iOS 16 DB 6 感觉日用没什么问题了](https://www.v2ex.com/t/874565)
 
 ## 历史归档
 
