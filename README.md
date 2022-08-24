@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-24 13:05:07 +0800`
+ `更新时间：2022-08-24 14:12:46 +0800`
 
 ## 热议话题
 
 1. [只是感慨，现在的后浪怎么都这么强](https://www.v2ex.com/t/874856)
-1. [国内上架安卓 APP 怎么这么麻烦？！](https://www.v2ex.com/t/874776)
 1. [苹果手机的傲慢,隐私与便利:通话录音,NFC 复制门禁卡,红外线功能 真难](https://www.v2ex.com/t/874862)
 1. [新员工工资比老员工工资高，是对老员工最大的保护吗？](https://www.v2ex.com/t/874950)
 1. [拿 C 被劝退了。。。](https://www.v2ex.com/t/874787)
 1. [感觉中文搜索是越来越难用了](https://www.v2ex.com/t/874893)
 1. [女应届程序员求指导，万分感谢](https://www.v2ex.com/t/874918)
+1. [就差一个靠谱程序员系列](https://www.v2ex.com/t/874972)
+1. [请教一下有手汗的 V 友](https://www.v2ex.com/t/874989)
 1. [求教一些黑苹果相关问题](https://www.v2ex.com/t/874808)
-1. [Firefox 性能为何严重低于 Chromium 系](https://www.v2ex.com/t/874941)
+1. [(亲人意外离世有感)各位有想过自己生命最后会以什么样的一个方式结束](https://www.v2ex.com/t/874969)
 
 ## 历史归档
 
