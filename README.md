@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-25 20:16:10 +0800`
+ `更新时间：2022-08-25 21:33:01 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [如何修改定位，而不被软件检测](https://www.v2ex.com/t/875208)
 1. [从待了三年的外包辞职了，大家伙有什么想问的吗？](https://www.v2ex.com/t/875306)
 1. [2022 年， desktop app 开发（macos， windows， Linux ）的跨平台框架是什么？](https://www.v2ex.com/t/875271)
-1. [S20 售后看三星手机国内成为 others 这件事](https://www.v2ex.com/t/875268)
 1. [你们会害怕死亡吗](https://www.v2ex.com/t/875377)
+1. [S20 售后看三星手机国内成为 others 这件事](https://www.v2ex.com/t/875268)
 1. [搬瓦工 5 年老号](https://www.v2ex.com/t/875217)
 1. [关于骑行从入门到放弃的一些经验](https://www.v2ex.com/t/875300)
 
