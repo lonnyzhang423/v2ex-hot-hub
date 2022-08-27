@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-27 14:09:51 +0800`
+ `更新时间：2022-08-27 15:07:03 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [使用了 6 年 macOS 以后，分享一下我最终选择了哪些生产力软件](https://www.v2ex.com/t/875619)
 1. [Java 的性价比已经算是很低了 为何络绎不绝的人往里面入？](https://www.v2ex.com/t/875672)
 1. [星链真的要直连手机了](https://www.v2ex.com/t/875711)
-1. [我发现 iPhone 的电池健康确实和“快冲”有关](https://www.v2ex.com/t/875626)
 1. [分享篇文章：为什么我会使用 Vim ？](https://www.v2ex.com/t/875730)
+1. [我发现 iPhone 的电池健康确实和“快冲”有关](https://www.v2ex.com/t/875626)
+1. [运营商改造为 IPoE 的优势与劣势以及 IPv6 的安全性问题](https://www.v2ex.com/t/875762)
 1. [现在 firefox 浏览器还有多少人在用？手机端呢？](https://www.v2ex.com/t/875739)
 1. [家庭小零食推荐](https://www.v2ex.com/t/875741)
 
