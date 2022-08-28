@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-28 13:22:49 +0800`
+ `更新时间：2022-08-28 14:09:40 +0800`
 
 ## 热议话题
 
 1. [关于运营商分配假公网 IP 的问题](https://www.v2ex.com/t/875867)
-1. [三星手机换小米手机的感受](https://www.v2ex.com/t/875790)
 1. [如果说工作日打开 V2EX 是为了摸鱼，那么休息日呢？](https://www.v2ex.com/t/875836)
 1. [被初中生 C 语言考住了，尴了个尬](https://www.v2ex.com/t/875942)
 1. [Pixel 1 XL 要靠充电宝续命了，现在换 Pixel，哪代性价比最高呢？](https://www.v2ex.com/t/875821)
