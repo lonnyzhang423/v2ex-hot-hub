@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-28 19:06:21 +0800`
+ `更新时间：2022-08-28 20:13:12 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [换成 iPhone12 后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954)
 1. [彩云天气 Pro 吃相难看 再次出现](https://www.v2ex.com/t/875963)
 1. [专职搞在线 TS 全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918)
-1. [utools 中的 json 格式化插件有没有其他替代品？](https://www.v2ex.com/t/875873)
+1. [发现 LastPass 是个坑](https://www.v2ex.com/t/875964)
 
 ## 历史归档
 
