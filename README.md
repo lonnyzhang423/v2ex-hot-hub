@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-08-29 07:07:19 +0800`
+ `更新时间：2022-08-29 08:47:16 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,8 @@
 1. [发现 LastPass 是个坑](https://www.v2ex.com/t/875964)
 1. [彩云天气 Pro 吃相难看 再次出现](https://www.v2ex.com/t/875963)
 1. [真是多少台显示器，都不嫌多。。](https://www.v2ex.com/t/875998)
-1. [问：大家读书时主要是那种阅读媒介呢？](https://www.v2ex.com/t/875948)
-1. [ShadowTLS：更好用的 TLS 伪装代理](https://www.v2ex.com/t/875975)
-1. [在深圳真的被封怕了](https://www.v2ex.com/t/876037)
+1. [亲戚朋友怕我学坏了](https://www.v2ex.com/t/876039)
+1. [做了个润友交流社区](https://www.v2ex.com/t/876054)
 
 ## 历史归档
 
