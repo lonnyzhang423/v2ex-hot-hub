@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-09 02:10:34 +0800`
+ `更新时间：2022-09-09 03:08:25 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [多少人喜欢灵动岛的？](https://www.v2ex.com/t/878603)
 1. [无法理解「灵动岛」居然还有人舔](https://www.v2ex.com/t/878634)
 1. [AirPods Pro2 是本次发布会最想购买产品](https://www.v2ex.com/t/878517)
-1. [所以，苹果最终还是自己打了自己 Human Interface Guidelines 的脸…](https://www.v2ex.com/t/878488)
 1. [进来聊一聊你对这次苹果发布会的看法](https://www.v2ex.com/t/878516)
 1. [基于居家办公的情况，有哪些方案可以同步公司电脑的文件到自己家里的电脑？](https://www.v2ex.com/t/878532)
 1. [在 i2ex 只要指责 Apple 就会有人开 Huawei 是事实吗🤔](https://www.v2ex.com/t/878630)
 1. [暴论：销售出身的老板是研发人员的灾难](https://www.v2ex.com/t/878534)
+1. [关于牛奶味道的问题](https://www.v2ex.com/t/878552)
 
 ## 历史归档
 
