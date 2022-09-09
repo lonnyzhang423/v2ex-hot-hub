@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 00:11:03 +0800`
+ `更新时间：2022-09-10 01:17:44 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [最近每天都能收到招嫖短信……](https://www.v2ex.com/t/878831)
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826)
 1. [苹果官网确认国行 iPhone 14 硬件阉割卫星紧急 SOS](https://www.v2ex.com/t/878774)
-1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845)
 1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855)
+1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845)
 1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881)
 
 ## 历史归档
