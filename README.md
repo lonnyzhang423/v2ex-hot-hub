@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 11:31:01 +0800`
+ `更新时间：2022-09-10 13:07:28 +0800`
 
 ## 热议话题
 
-1. [摸鱼迎中秋，有奖猜数字](https://www.v2ex.com/t/878872)
 1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935)
-1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881)
 1. [适合程序员 or 计算机研究生的轻薄笔记本选择](https://www.v2ex.com/t/878913)
-1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983)
 1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918)
+1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983)
 1. [[苏州] 创业公司招聘 go](https://www.v2ex.com/t/878945)
-1. [专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887)
 1. [恕我直言， 3k 以内， 65 寸-75 寸电视，只选雷鸟，不符来辩！](https://www.v2ex.com/t/878892)
-1. [兄弟们，自己做了个 app，求提点意见： iOS 应用双开，边刷抖音边学习](https://www.v2ex.com/t/878866)
+1. [专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887)
+1. [妙言 - 更适合工程师用的笔记应用](https://www.v2ex.com/t/878942)
+1. [有多少人准备买 iPhone 14 系列](https://www.v2ex.com/t/878895)
+1. [第一次买 iPhone ，求推荐第三方充电器](https://www.v2ex.com/t/878996)
 
 ## 历史归档
 
