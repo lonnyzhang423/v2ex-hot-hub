@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 15:09:58 +0800`
+ `更新时间：2022-09-10 16:11:04 +0800`
 
 ## 热议话题
 
 1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935)
-1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918)
 1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983)
 1. [[苏州] 创业公司招聘 go](https://www.v2ex.com/t/878945)
 1. [妙言 - 更适合工程师用的笔记应用](https://www.v2ex.com/t/878942)
 1. [室友总喝我可乐](https://www.v2ex.com/t/878993)
-1. [第一次买 iPhone ，求推荐第三方充电器](https://www.v2ex.com/t/878996)
 1. [刘海挺好的， 把他换了干嘛](https://www.v2ex.com/t/879058)
+1. [第一次买 iPhone ，求推荐第三方充电器](https://www.v2ex.com/t/878996)
 1. [那个息屏显示 13PRO 系列可以做到吗？](https://www.v2ex.com/t/878975)
 1. [[送码] [推出小组件] Mac 远程锁 SimpleLock](https://www.v2ex.com/t/879062)
+1. [微信最近杀疯了吗？](https://www.v2ex.com/t/878956)
 
 ## 历史归档
 
