@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 07:08:52 +0800`
+ `更新时间：2022-09-10 08:51:20 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [各种讨论 esim，我问一个问题：到底是不开放 esim 有错，还是去卡槽有错](https://www.v2ex.com/t/878855)
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826)
 1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845)
-1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881)
 1. [大家是怎么看待 Taio 的这种行为的](https://www.v2ex.com/t/878935)
+1. [你为什么喜欢做全栈程序员](https://www.v2ex.com/t/878881)
+1. [适合程序员 or 计算机研究生的轻薄笔记本选择](https://www.v2ex.com/t/878913)
 1. [iPhone 不用全面屏的原因是什么？](https://www.v2ex.com/t/878857)
 
 ## 历史归档
