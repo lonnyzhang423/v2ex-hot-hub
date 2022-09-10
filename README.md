@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 22:07:24 +0800`
+ `更新时间：2022-09-10 23:08:07 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [Opera 浏览器真没有让我失望，再也不能碰和 360 有关的任何产品了！](https://www.v2ex.com/t/879133)
 1. [请问下心理咨询软件有用吗？或者有没有推荐的](https://www.v2ex.com/t/879077)
 1. [以后我们都会是 Java /kotlin 程序员吗？学了下 kotlin，感觉 kotlin 啥都能干](https://www.v2ex.com/t/879059)
-1. [今年的被年年焕新割韭菜了](https://www.v2ex.com/t/879122)
-1. [求推荐 nas](https://www.v2ex.com/t/879021)
 1. [数字人民币的智能合约是用什么语言写的？](https://www.v2ex.com/t/879073)
+1. [今年的被年年焕新割韭菜了](https://www.v2ex.com/t/879122)
+1. [可以别推荐 IINA 这款播放器么](https://www.v2ex.com/t/879106)
 
 ## 历史归档
 
