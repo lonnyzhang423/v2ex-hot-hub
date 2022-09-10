@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 17:08:37 +0800`
+ `更新时间：2022-09-10 18:08:29 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [刘海挺好的， 把他换了干嘛](https://www.v2ex.com/t/879058)
 1. [那个息屏显示 13PRO 系列可以做到吗？](https://www.v2ex.com/t/878975)
 1. [第一次买 iPhone ，求推荐第三方充电器](https://www.v2ex.com/t/878996)
-1. [微信最近杀疯了吗？](https://www.v2ex.com/t/878956)
-1. [[送码] [推出小组件] Mac 远程锁 SimpleLock](https://www.v2ex.com/t/879062)
 1. [用了三年的 Airpods Pro，好像依旧没必要换 2 代](https://www.v2ex.com/t/879052)
+1. [[送码] [推出小组件] Mac 远程锁 SimpleLock](https://www.v2ex.com/t/879062)
 1. [大家有什么管道能买到外版苹果产品吗？](https://www.v2ex.com/t/879053)
 1. [Windows 下的 QoS 限速软件有么？](https://www.v2ex.com/t/878997)
+1. [以后我们都会是 Java /kotlin 程序员吗？学了下 kotlin，感觉 kotlin 啥都能干](https://www.v2ex.com/t/879059)
 
 ## 历史归档
 
