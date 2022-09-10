@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-10 13:07:28 +0800`
+ `更新时间：2022-09-10 14:16:07 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [navicat 凭什么这么贵？](https://www.v2ex.com/t/878918)
 1. [都这么久了还在准备中？](https://www.v2ex.com/t/878983)
 1. [[苏州] 创业公司招聘 go](https://www.v2ex.com/t/878945)
-1. [恕我直言， 3k 以内， 65 寸-75 寸电视，只选雷鸟，不符来辩！](https://www.v2ex.com/t/878892)
-1. [专升本（函授）学历有用吗？](https://www.v2ex.com/t/878887)
 1. [妙言 - 更适合工程师用的笔记应用](https://www.v2ex.com/t/878942)
-1. [有多少人准备买 iPhone 14 系列](https://www.v2ex.com/t/878895)
+1. [室友总喝我可乐](https://www.v2ex.com/t/878993)
 1. [第一次买 iPhone ，求推荐第三方充电器](https://www.v2ex.com/t/878996)
+1. [那个息屏显示 13PRO 系列可以做到吗？](https://www.v2ex.com/t/878975)
+1. [刘海挺好的， 把他换了干嘛](https://www.v2ex.com/t/879058)
 
 ## 历史归档
 
