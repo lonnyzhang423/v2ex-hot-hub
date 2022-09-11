@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-11 11:28:14 +0800`
+ `更新时间：2022-09-11 12:58:22 +0800`
 
 ## 热议话题
 
+1. [苹果当前的设计是分裂且令人失望的](https://www.v2ex.com/t/879228)
 1. [Opera 浏览器真没有让我失望，再也不能碰和 360 有关的任何产品了！](https://www.v2ex.com/t/879133)
 1. [macOS 下载推特视频](https://www.v2ex.com/t/879170)
 1. [可以别推荐 IINA 这款播放器么](https://www.v2ex.com/t/879106)
-1. [求美国到中国转运公司推荐](https://www.v2ex.com/t/879098)
 1. [今年的被年年焕新割韭菜了](https://www.v2ex.com/t/879122)
 1. [今天中秋结果用 iPhone 拍个照片也不行啊](https://www.v2ex.com/t/879174)
 1. [我这种情况是否属于强迫症？你们有类似情况嘛？](https://www.v2ex.com/t/879183)
-1. [苹果当前的设计是分裂且令人失望的](https://www.v2ex.com/t/879228)
-1. [如何正确的注册土耳其地区的 Apple ID？](https://www.v2ex.com/t/879134)
 1. [领导要求在非工作时间处理工作，应不应该拒绝](https://www.v2ex.com/t/879206)
+1. [如何正确的注册土耳其地区的 Apple ID？](https://www.v2ex.com/t/879134)
+1. [刚看到个灵动半岛的创意， apple 可以给刘海也优化下啊](https://www.v2ex.com/t/879161)
 
 ## 历史归档
 
