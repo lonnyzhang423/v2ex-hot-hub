@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-12 22:16:26 +0800`
+ `更新时间：2022-09-12 23:09:32 +0800`
 
 ## 热议话题
 
 1. [鸿雁输入法——整句输入法中一颗冉冉升起的新星](https://www.v2ex.com/t/879486)
-1. [三星这次所谓大批量爆出固态损坏，可能也没那么严重？](https://www.v2ex.com/t/879351)
-1. [如何看待男权反噬论](https://www.v2ex.com/t/879343)
 1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381)
 1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466)
 1. [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407)
-1. [Linux 连接校园网的问题](https://www.v2ex.com/t/879344)
-1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424)
 1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419)
+1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424)
+1. [APPLE 所构建的壁垒： eSIM 可能是新的一块砖？](https://www.v2ex.com/t/879357)
+1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441)
+1. [还是 iPhone 背部好看，跟 Mate 50 比，你觉得呢？](https://www.v2ex.com/t/879467)
 
 ## 历史归档
 
