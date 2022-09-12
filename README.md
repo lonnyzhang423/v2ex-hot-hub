@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-13 02:11:02 +0800`
+ `更新时间：2022-09-13 03:08:50 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,6 @@
 1. [具备阅读长文能力的重要性](https://www.v2ex.com/t/879381)
 1. [你手里的苹果设备数量？](https://www.v2ex.com/t/879466)
 1. [人为什么害怕关系的缺失？](https://www.v2ex.com/t/879407)
-1. [苹果开始拒绝刷线下库存接口的请求](https://www.v2ex.com/t/879441)
 1. [watch s5 有必要换 s8 吗？](https://www.v2ex.com/t/879419)
 1. [有人存身份证号时丢掉最后一位吗](https://www.v2ex.com/t/879424)
 1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442)
