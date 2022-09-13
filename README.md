@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-13 14:46:28 +0800`
+ `更新时间：2022-09-13 15:29:01 +0800`
 
 ## 热议话题
 
 1. [iOS 16 更新反馈](https://www.v2ex.com/t/879577)
 1. [记录一下.手头现金 1 万的情况下辞职做 app](https://www.v2ex.com/t/879561)
-1. [市场给出了正确答案， 14 和 14p 预购不及 13mini](https://www.v2ex.com/t/879618)
-1. [macOS， Linux ， Windows 个人使用感觉](https://www.v2ex.com/t/879442)
 1. [🎉锁屏启动(Lock Launcher)发布啦！一键启动：健康码/行程码/付款码/快捷指令...](https://www.v2ex.com/t/879564)
+1. [市场给出了正确答案， 14 和 14p 预购不及 13mini](https://www.v2ex.com/t/879618)
+1. [请教我哪里搞错了？美国人买 美版 14 无实体卡 插槽，出国旅行怎么办？](https://www.v2ex.com/t/879658)
 1. [大家会没事偶尔点击价格保护吗？](https://www.v2ex.com/t/879615)
 1. [无聊撸了点检测代理的代码，主要是通过握手时间判断的，来试试?](https://www.v2ex.com/t/879471)
+1. [从希望用久一点角度， ipone12 有必要升 ios16 吗](https://www.v2ex.com/t/879646)
 
 ## 历史归档
 
