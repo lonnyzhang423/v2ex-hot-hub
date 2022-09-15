@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-16 03:07:31 +0800`
+ `更新时间：2022-09-16 04:09:30 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [羊了个羊（科技通关）](https://www.v2ex.com/t/880260)
 1. [看完极客湾的评测后，瞬间购买欲望下降。。](https://www.v2ex.com/t/880165)
 1. [微信充值 AppStore 九折来啦](https://www.v2ex.com/t/880238)
-1. [羊了个羊！](https://www.v2ex.com/t/880136)
 1. [被优化了](https://www.v2ex.com/t/880174)
+1. [羊了个羊！](https://www.v2ex.com/t/880136)
 
 ## 历史归档
 
