@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-17 22:07:20 +0800`
+ `更新时间：2022-09-17 23:08:35 +0800`
 
 ## 热议话题
 
 1. [关于是否购买 14，明年 iPhone 有望换成 C 口吗？](https://www.v2ex.com/t/880850)
 1. [猛背了几个月的八股文, 跟面试官对答如流, 万万没想到, 这也能成为被拒的理由](https://www.v2ex.com/t/880727)
 1. [今年这黄牛有点过分了吧，，，](https://www.v2ex.com/t/880778)
-1. [v2 二极管越来越多了](https://www.v2ex.com/t/880802)
 1. [女生，成都，数据分析， offer 求选择](https://www.v2ex.com/t/880766)
 1. [日产车机 Carplay](https://www.v2ex.com/t/880771)
 1. [airpods pro2 我搞不懂为什么当初 1 代降噪大幅度削弱现在又要增强 2 倍](https://www.v2ex.com/t/880719)
