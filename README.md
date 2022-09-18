@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-18 08:51:42 +0800`
+ `更新时间：2022-09-18 11:42:35 +0800`
 
 ## 热议话题
 
 1. [关于是否购买 14，明年 iPhone 有望换成 C 口吗？](https://www.v2ex.com/t/880850)
 1. [今年这黄牛有点过分了吧，，，](https://www.v2ex.com/t/880778)
-1. [女生，成都，数据分析， offer 求选择](https://www.v2ex.com/t/880766)
 1. [日产车机 Carplay](https://www.v2ex.com/t/880771)
-1. [apple watch 7 使用一年游泳游坏了，求替代品](https://www.v2ex.com/t/880807)
-1. [二十年前的问道端游，还有在研究的吗？](https://www.v2ex.com/t/880761)
 1. [是不是不合适的人在一起才会经常吵架](https://www.v2ex.com/t/880853)
+1. [apple watch 7 使用一年游泳游坏了，求替代品](https://www.v2ex.com/t/880807)
 1. [如果你不想立刻去做媳妇让你做的事情时，大家是怎样处理的](https://www.v2ex.com/t/880897)
 1. [熟人开发商城小程序，怎么要价？](https://www.v2ex.com/t/880786)
+1. [考出一注后终于辞职了，帮大家解决装修设计中的问题](https://www.v2ex.com/t/880894)
 
 ## 历史归档
 
