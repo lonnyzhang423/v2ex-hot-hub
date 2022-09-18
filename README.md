@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-18 20:14:49 +0800`
+ `更新时间：2022-09-18 21:28:00 +0800`
 
 ## 热议话题
 
-1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004)
 1. [各位 bloger 互换友链么?](https://www.v2ex.com/t/880945)
+1. [难受，用了一年的 13pm，由于健康度还是 100%，在海鲜市场被说成骗子](https://www.v2ex.com/t/881004)
 1. [如果你不想立刻去做媳妇让你做的事情时，大家是怎样处理的](https://www.v2ex.com/t/880897)
 1. [如何说服一个平时不戴手表的人用 apple watch？](https://www.v2ex.com/t/880950)
 1. [考出一注后终于辞职了，帮大家解决装修设计中的问题](https://www.v2ex.com/t/880894)
-1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985)
-1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990)
 1. [iPhone 手机膜](https://www.v2ex.com/t/880975)
+1. [豆瓣一类网站还有人玩嘛？年轻人还看书评影评嘛？](https://www.v2ex.com/t/880990)
+1. [共同盖楼分享那些 Linux 桌面环境应用](https://www.v2ex.com/t/880985)
 1. [iPhone14Pro 杀后台严重](https://www.v2ex.com/t/880914)
 1. [想买 GitHub Copilot，申请哪家银行的双币卡好？](https://www.v2ex.com/t/880961)
 
