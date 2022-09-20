@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-20 13:19:23 +0800`
+ `更新时间：2022-09-20 14:40:33 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [相约九年， 2022 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/881455)
 1. [iPhone 的 Apple care+你们会坚持买吗？](https://www.v2ex.com/t/881417)
 1. [Z-Library 捐款奖励会员一个月](https://www.v2ex.com/t/881325)
+1. [NAS 新手问题](https://www.v2ex.com/t/881382)
 
 ## 历史归档
 
