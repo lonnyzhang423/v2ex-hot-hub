@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-22 15:24:04 +0800`
+ `更新时间：2022-09-22 16:13:20 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [首付没付，钥匙拿到了](https://www.v2ex.com/t/882021)
 1. [应届入了教师编，感觉每天都很累](https://www.v2ex.com/t/882102)
 1. [如何防止 Node.js 频繁修车](https://www.v2ex.com/t/881929)
-1. [Windows11 22H2 更新了，都没人讨论一下吗](https://www.v2ex.com/t/881902)
 1. [是什么吸引你升级 win11 的？](https://www.v2ex.com/t/882017)
 1. [V2EX.bit](https://www.v2ex.com/t/882082)
 
