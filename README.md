@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-22 18:09:29 +0800`
+ `更新时间：2022-09-22 19:07:31 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [是什么吸引你升级 win11 的？](https://www.v2ex.com/t/882017)
 1. [集思广益：地铁通勤阅读的最佳姿势是什么？](https://www.v2ex.com/t/882070)
 1. [开 shadowrocket 微信加载图片视频就变慢](https://www.v2ex.com/t/882023)
-1. [[全职居家办公].NET 开发工程师，能写增删改查就行](https://www.v2ex.com/t/882039)
+1. [你们是把 mac 桌面全部放在 icloud 的吗](https://www.v2ex.com/t/882126)
 
 ## 历史归档
 
