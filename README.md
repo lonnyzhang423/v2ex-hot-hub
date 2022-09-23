@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-24 05:07:47 +0800`
+ `更新时间：2022-09-24 06:10:02 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [AirPods Pro2 初体验](https://www.v2ex.com/t/882311)
 1. [车型：汉 dmi、A4L、CT5、雅阁选择建议](https://www.v2ex.com/t/882331)
 1. [如果人生是网游，重开一局你们会选什么性别？](https://www.v2ex.com/t/882380)
-1. [Web 会取代操作系统吗？](https://www.v2ex.com/t/882341)
 1. [不结婚不生娃不买房是不是可以免除 99%的烦恼](https://www.v2ex.com/t/882436)
+1. [Web 会取代操作系统吗？](https://www.v2ex.com/t/882341)
 1. [迷茫，是否离开上海，回济南，求交流](https://www.v2ex.com/t/882291)
 1. [羊了个羊只要发请求就可以通关，如何在设计层面避免这种情况](https://www.v2ex.com/t/882304)
 1. [2000 元左右推荐哪款手机](https://www.v2ex.com/t/882307)
