@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-24 15:10:57 +0800`
+ `更新时间：2022-09-24 16:11:17 +0800`
 
 ## 热议话题
 
-1. [不结婚不生娃不买房是不是可以免除 99%的烦恼](https://www.v2ex.com/t/882436)
-1. [大家用的最耐用的商品是什么？](https://www.v2ex.com/t/882563)
 1. [怎么有这么恶心的人啊，太恶心了](https://www.v2ex.com/t/882570)
-1. [2022 年了，阻碍我离开 iPhone 的原因竟然是 CarPlay](https://www.v2ex.com/t/882430)
-1. [如何提高 Python 数组操作性能.](https://www.v2ex.com/t/882441)
+1. [大家用的最耐用的商品是什么？](https://www.v2ex.com/t/882563)
 1. [发现美国人来我国旅游不能用我国 SIM 卡的场景实际不成立.](https://www.v2ex.com/t/882468)
-1. [如果人生是网游，重开一局你们会选哪个出生地？](https://www.v2ex.com/t/882550)
+1. [有必要自己买台 MacBook 吗？](https://www.v2ex.com/t/882575)
 1. [跨网，不安装任何软件、服务，怎么传输文件呢？](https://www.v2ex.com/t/882592)
 1. [为什么新电脑第一次安装的 Windows 11 自动激活了](https://www.v2ex.com/t/882459)
+1. [“SMSGuard” 我也上线了一款 iOS 的短信过滤器](https://www.v2ex.com/t/882564)
+1. [求推荐一个平板， 2000 以内，考研用，之后不打算换了，长期用](https://www.v2ex.com/t/882585)
 
 ## 历史归档
 
