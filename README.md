@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-25 16:11:31 +0800`
+ `更新时间：2022-09-25 17:09:19 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [华侨华人华裔的个人理解](https://www.v2ex.com/t/882730)
 1. [Windows 上的 EmEditor 很好用，可以查看子文件内容， macOS 上有没有替代软件](https://www.v2ex.com/t/882696)
 1. [你们 iOS 设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665)
+1. [美元今年大概会涨到多少？](https://www.v2ex.com/t/882732)
 1. [求助，地下室通网方案](https://www.v2ex.com/t/882652)
 
 ## 历史归档
