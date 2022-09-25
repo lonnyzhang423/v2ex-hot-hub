@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-25 20:15:37 +0800`
+ `更新时间：2022-09-25 21:27:38 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,8 @@
 1. [Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?](https://www.v2ex.com/t/882712)
 1. [美元今年大概会涨到多少？](https://www.v2ex.com/t/882732)
 1. [Windows 上的 EmEditor 很好用，可以查看子文件内容， macOS 上有没有替代软件](https://www.v2ex.com/t/882696)
-1. [你们 iOS 设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665)
+1. [22 届被虾皮裁员, 我该何去何从?](https://www.v2ex.com/t/882746)
+1. [特斯拉辅助驾驶，没准确识别出车道线，忽然打方向往外窜。这条路走了七八回了至少，第一次这样。](https://www.v2ex.com/t/882762)
 
 ## 历史归档
 
