@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-25 12:57:17 +0800`
+ `更新时间：2022-09-25 13:34:34 +0800`
 
 ## 热议话题
 
 1. [这样的女生，我做得对吗](https://www.v2ex.com/t/882685)
-1. [如何解决爱睡觉的问题？有没有大佬和我一样的？](https://www.v2ex.com/t/882608)
 1. [比较好奇大家时间都是怎么存数据库的](https://www.v2ex.com/t/882628)
 1. [求一个自建打洞方案](https://www.v2ex.com/t/882721)
 1. [Linux 下有类似 windows 磁盘加密工具 bitlocker 吗?](https://www.v2ex.com/t/882712)
-1. [有没有给老年人的看剧设备?](https://www.v2ex.com/t/882619)
+1. [苹果表示只会在中国销售的 iPhone14 系列手机上使用长江存储的闪存，大家会因此选择海淘吗](https://www.v2ex.com/t/882764)
+1. [红米 8A(低端安卓)，活路何在？](https://www.v2ex.com/t/882766)
 1. [你们 iOS 设备有开启原彩吗?感觉发黄好难受，想关了](https://www.v2ex.com/t/882665)
 1. [Windows 上的 EmEditor 很好用，可以查看子文件内容， macOS 上有没有替代软件](https://www.v2ex.com/t/882696)
-1. [求助，地下室通网方案](https://www.v2ex.com/t/882652)
-1. [git 协议可能被中间人攻击吗？](https://www.v2ex.com/t/882664)
+1. [有没有给老年人的看剧设备?](https://www.v2ex.com/t/882619)
+1. [华侨华人华裔的个人理解](https://www.v2ex.com/t/882730)
 
 ## 历史归档
 
