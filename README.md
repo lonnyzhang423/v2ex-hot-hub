@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-09-28 08:57:27 +0800`
+ `更新时间：2022-09-28 11:37:00 +0800`
 
 ## 热议话题
 
 1. [观广东某著名大专的 web 前端课程有感](https://www.v2ex.com/t/883258)
-1. [被裁后 你们会和家里人(老婆)说么 还是找到新的 offer 再说？](https://www.v2ex.com/t/883220)
+1. [有人和《隐入尘烟》中男主一般苦难吗](https://www.v2ex.com/t/883380)
 1. [关于牙科门诊和医院口腔科的思考](https://www.v2ex.com/t/883241)
-1. [腾讯直接云封域名！还甩锅给相关部门！再次给大家提个醒！使用腾讯云的注意了！](https://www.v2ex.com/t/883369)
+1. [AirPods Pro 2 第一批拼多多百亿补贴，昨天到货，有点想退！](https://www.v2ex.com/t/883427)
 1. [Java 同时调用 5000 个第三方接口并异步返回每个接口的执行结果，如何实现？](https://www.v2ex.com/t/883302)
-1. [找工作被 HR 吐槽跳槽频繁被拒，如何破解](https://www.v2ex.com/t/883180)
-1. [平时大家学习的网站都有哪些呢？](https://www.v2ex.com/t/883213)
+1. [你们每月的话费账单是多少？](https://www.v2ex.com/t/883439)
+1. [你害怕死亡吗？](https://www.v2ex.com/t/883444)
 1. [V2exOS - 用 SwiftUI 写了一个 V2EX 客户端](https://www.v2ex.com/t/883252)
-1. [iPhone 13 mini 国行还是美版？](https://www.v2ex.com/t/883192)
 
 ## 历史归档
 
