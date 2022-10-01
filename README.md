@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-01 14:27:42 +0800`
+ `更新时间：2022-10-01 15:16:44 +0800`
 
 ## 热议话题
 
 1. [你最近买的纸质书是什么](https://www.v2ex.com/t/884039)
 1. [为什么 Linux 现在对硬件的需求和 windows 对硬件的需求差别越来越大](https://www.v2ex.com/t/884049)
-1. [写了一个匹配交友的公众号，运营了一周，结果..](https://www.v2ex.com/t/884029)
 1. [压抑太久,上来缓口气,不知道是否继续下去](https://www.v2ex.com/t/884090)
 1. [今天出了个小车祸,感觉挺无奈的...](https://www.v2ex.com/t/884077)
 1. [c#转 c++，各位觉得如何](https://www.v2ex.com/t/884038)
 1. [家用千兆软路由求推荐](https://www.v2ex.com/t/884107)
-1. [请问这段 Java 代码能保证线程安全吗](https://www.v2ex.com/t/884035)
+1. [分享一下自建的 emby 服务器](https://www.v2ex.com/t/884075)
 1. [试用期没过，迷茫了，想躺平了](https://www.v2ex.com/t/884040)
+1. [ReVanced 真好用，买什么高级会员](https://www.v2ex.com/t/884175)
 
 ## 历史归档
 
