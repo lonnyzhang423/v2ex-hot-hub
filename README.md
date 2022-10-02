@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-02 11:44:33 +0800`
+ `更新时间：2022-10-02 13:04:15 +0800`
 
 ## 热议话题
 
 1. [回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228)
-1. [请教关于函数式编程的优势](https://www.v2ex.com/t/884185)
-1. [看了 shuax 的文章，给大家提个醒](https://www.v2ex.com/t/884320)
-1. [大家的 Chrome 翻译功能还正常吗？](https://www.v2ex.com/t/884186)
 1. [预算 2k～ 3k 想个父母换一台电视，求推荐。](https://www.v2ex.com/t/884207)
 1. [没买过香港的服务器 ，这个配置一年 150 元，贵吗？](https://www.v2ex.com/t/884221)
 1. [现在有什么路由支持开光挂着 clash，还有 1000M 的，我的网件 R8500 原系统只支持 600M](https://www.v2ex.com/t/884202)
+1. [在这个美好的国庆，我被裁了。](https://www.v2ex.com/t/884316)
+1. [想尝试下 dota2](https://www.v2ex.com/t/884230)
 
 ## 历史归档
 
