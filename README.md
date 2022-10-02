@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-02 07:09:47 +0800`
+ `更新时间：2022-10-02 08:58:47 +0800`
 
 ## 热议话题
 
 1. [回顾一下我的七年，还有更好的路可以走吗？](https://www.v2ex.com/t/884228)
 1. [请教关于函数式编程的优势](https://www.v2ex.com/t/884185)
 1. [今天不会还有人在上班吧！](https://www.v2ex.com/t/884171)
-1. [把父母手机越狱用微信 callkit 会被封号吗？](https://www.v2ex.com/t/884262)
-1. [聊个平时日常做饭的话题](https://www.v2ex.com/t/884155)
-1. [想通过 winrar 定期压缩一些文件，有没有除了自己 win7 自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166)
 1. [大家的 Chrome 翻译功能还正常吗？](https://www.v2ex.com/t/884186)
+1. [想通过 winrar 定期压缩一些文件，有没有除了自己 win7 自带的计划程序外的方法呢？](https://www.v2ex.com/t/884166)
 1. [没买过香港的服务器 ，这个配置一年 150 元，贵吗？](https://www.v2ex.com/t/884221)
+1. [想开发定制一款指纹活着人脸考勤机](https://www.v2ex.com/t/884182)
 
 ## 历史归档
 
