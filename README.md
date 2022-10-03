@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-03 19:08:35 +0800`
+ `更新时间：2022-10-03 20:20:26 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [想換 NAS 系統，兄弟們可否說說你們正在用的嗎](https://www.v2ex.com/t/884464)
 1. [今天听说一个玄学算法，写了一下，确实玄学？](https://www.v2ex.com/t/884426)
 1. [Airpods Pro 2， bug 也太多了！](https://www.v2ex.com/t/884461)
+1. [小孩子从几岁开始学计算机编程比较好？](https://www.v2ex.com/t/884505)
 1. [游戏党慎更新 22h2](https://www.v2ex.com/t/884419)
 1. [讨论一下 iPhone 的游戏表现](https://www.v2ex.com/t/884465)
-1. [小孩子从几岁开始学计算机编程比较好？](https://www.v2ex.com/t/884505)
 1. [B 站是怎么能给我的小号推送到现实生活中朋友的几乎没人看的视频的？](https://www.v2ex.com/t/884442)
 
 ## 历史归档
