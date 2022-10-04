@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-05 06:09:46 +0800`
+ `更新时间：2022-10-05 07:09:44 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614)
 1. [分享一次被墙](https://www.v2ex.com/t/884639)
 1. [想入手一个 Mac，求推荐](https://www.v2ex.com/t/884562)
-1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619)
 1. [esim 的一些隐藏成本](https://www.v2ex.com/t/884574)
+1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619)
 1. [V 友要的取快递 App 有人做出来啦！](https://www.v2ex.com/t/884580)
 1. [iOS16 控制中心 WI-FI 点灰之后，会自己打开](https://www.v2ex.com/t/884624)
 1. [手机推送新闻，有必要吗？](https://www.v2ex.com/t/884564)
