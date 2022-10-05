@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-05 08:59:37 +0800`
+ `更新时间：2022-10-05 11:09:37 +0800`
 
 ## 热议话题
 
-1. [想弄个个人 blog，有推荐的服务器提供商么？](https://www.v2ex.com/t/884582)
-1. [我真的好爱杭州这城市 到处在修路](https://www.v2ex.com/t/884596)
 1. [想透明上油管谷歌，看港台欧美电视，需要买啥？](https://www.v2ex.com/t/884614)
+1. [我真的好爱杭州这城市 到处在修路](https://www.v2ex.com/t/884596)
 1. [分享一次被墙](https://www.v2ex.com/t/884639)
 1. [有还在用 2016 款 MacBook Pro 的 V 友么，打算什么时候升级？](https://www.v2ex.com/t/884619)
-1. [esim 的一些隐藏成本](https://www.v2ex.com/t/884574)
-1. [V 友要的取快递 App 有人做出来啦！](https://www.v2ex.com/t/884580)
+1. [各位的深度睡眠都是多少啊](https://www.v2ex.com/t/884680)
 1. [iOS16 控制中心 WI-FI 点灰之后，会自己打开](https://www.v2ex.com/t/884624)
-1. [新买的笔记本，有滋滋电流声算质量问题吗？](https://www.v2ex.com/t/884569)
+1. [M1 MACmini 空间不够了，大家是怎么解决的](https://www.v2ex.com/t/884612)
+1. [买了一个域名，干点什么好呢？](https://www.v2ex.com/t/884654)
+1. [Google 翻译退出中国后如何正常使用其 Chrome 插件](https://www.v2ex.com/t/884631)
 
 ## 历史归档
 
