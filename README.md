@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-08 05:08:13 +0800`
+ `更新时间：2022-10-08 06:09:42 +0800`
 
 ## 热议话题
 
 1. [如今国产 android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075)
-1. [[提问]大家是如何解决电子 ED 的？](https://www.v2ex.com/t/884992)
 1. [有没有这样一个开源应用？可以存储 epub， mobi 等格式的书籍，然后拿起任何一部设备都能读？](https://www.v2ex.com/t/884988)
 1. [有人冲 Pixel 7 吗?](https://www.v2ex.com/t/884956)
 1. [每年看到类似的视频都会有点感慨](https://www.v2ex.com/t/884975)
