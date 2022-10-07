@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-07 17:14:15 +0800`
+ `更新时间：2022-10-07 18:11:54 +0800`
 
 ## 热议话题
 
-1. [介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950)
 1. [用了很久的微信被封了](https://www.v2ex.com/t/885018)
+1. [介绍自己的时候，别人说“哦就是码农”，该怎么回答？](https://www.v2ex.com/t/884950)
 1. [大家有没有什么好的记工作笔记的方法](https://www.v2ex.com/t/884947)
-1. [求 WiFi5(150 元)便宜的千兆路由器推荐](https://www.v2ex.com/t/884902)
-1. [有人冲 Pixel 7 吗?](https://www.v2ex.com/t/884956)
 1. [关于 mysql count 太慢的问题](https://www.v2ex.com/t/884917)
+1. [有人冲 Pixel 7 吗?](https://www.v2ex.com/t/884956)
 1. [每年看到类似的视频都会有点感慨](https://www.v2ex.com/t/884975)
 1. [`ad hoc`到底是什么意思](https://www.v2ex.com/t/884985)
+1. [有没有这样一个开源应用？可以存储 epub， mobi 等格式的书籍，然后拿起任何一部设备都能读？](https://www.v2ex.com/t/884988)
 
 ## 历史归档
 
