@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-08 10:57:38 +0800`
+ `更新时间：2022-10-08 11:56:32 +0800`
 
 ## 热议话题
 
 1. [国庆收获了什么？](https://www.v2ex.com/t/885130)
 1. [如今国产 android，都这样明目张胆了嘛](https://www.v2ex.com/t/885075)
 1. [纯吐槽， IOS 自带闹钟不能加入节假日功能吗](https://www.v2ex.com/t/885133)
-1. [有没有这样一个开源应用？可以存储 epub， mobi 等格式的书籍，然后拿起任何一部设备都能读？](https://www.v2ex.com/t/884988)
 1. [求推荐壳子、膜](https://www.v2ex.com/t/884997)
 1. [五年前的笔记本， i5-8300H，请问有必要把内存加到 64G 吗？](https://www.v2ex.com/t/885071)
-1. [`ad hoc`到底是什么意思](https://www.v2ex.com/t/884985)
+1. [24 岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109)
+1. [有什么适合职场新人看的电视剧吗？](https://www.v2ex.com/t/885097)
+1. [是不是大城市打工的衰老的特别快](https://www.v2ex.com/t/885126)
 
 ## 历史归档
 
