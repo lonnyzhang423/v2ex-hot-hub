@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-08 21:33:35 +0800`
+ `更新时间：2022-10-08 22:12:46 +0800`
 
 ## 热议话题
 
-1. [国庆收获了什么？](https://www.v2ex.com/t/885130)
 1. [纯吐槽， IOS 自带闹钟不能加入节假日功能吗](https://www.v2ex.com/t/885133)
 1. [正确的指法应该成为职场人的基本要求吗？](https://www.v2ex.com/t/885230)
-1. [ZF 会有新的手段来割韭菜么？？](https://www.v2ex.com/t/885204)
 1. [每日恐婚贴，想问问结了婚的老哥们](https://www.v2ex.com/t/885297)
 1. [当设计师学了前端……看看我这个博客什么水平](https://www.v2ex.com/t/885217)
 1. [是不是大城市打工的衰老的特别快](https://www.v2ex.com/t/885126)
 1. [24 岁非本专业大专准备自学转行前端，求劝退](https://www.v2ex.com/t/885109)
-1. [iPhone 14 Plus 到手了，说一下感受](https://www.v2ex.com/t/885122)
 1. [小米手机的质量是不是越来越糟糕？](https://www.v2ex.com/t/885250)
+1. [iPhone 14 Plus 到手了，说一下感受](https://www.v2ex.com/t/885122)
 
 ## 历史归档
 
