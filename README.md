@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-09 04:09:35 +0800`
+ `更新时间：2022-10-09 05:08:02 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [当设计师学了前端……看看我这个博客什么水平](https://www.v2ex.com/t/885217)
 1. [小米手机的质量是不是越来越糟糕？](https://www.v2ex.com/t/885250)
 1. [是不是大城市打工的衰老的特别快](https://www.v2ex.com/t/885126)
-1. [iPhone 14 Plus 到手了，说一下感受](https://www.v2ex.com/t/885122)
 1. [国庆失恋了到现在还没缓过来](https://www.v2ex.com/t/885269)
+1. [iPhone 14 Plus 到手了，说一下感受](https://www.v2ex.com/t/885122)
 
 ## 历史归档
 
