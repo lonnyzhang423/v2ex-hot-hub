@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-10 03:09:40 +0800`
+ `更新时间：2022-10-10 04:09:46 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [现在已经不用淘宝了](https://www.v2ex.com/t/885482)
 1. [双十一优惠渠道来了](https://www.v2ex.com/t/885509)
 1. [求助，我接下来半年或者一年应该怎么办](https://www.v2ex.com/t/885553)
+1. [谁会买那么重的 Macbook Pro 16 寸？](https://www.v2ex.com/t/885590)
 1. [用来学习、开发用的迷你 Linux 主机求推荐](https://www.v2ex.com/t/885486)
 
 ## 历史归档
