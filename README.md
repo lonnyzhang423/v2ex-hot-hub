@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-10 14:38:39 +0800`
+ `更新时间：2022-10-10 15:29:10 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [谁会买那么重的 Macbook Pro 16 寸？](https://www.v2ex.com/t/885590)
 1. [女朋友快生日了，请问 1000 左右的礼物可以挑啥？](https://www.v2ex.com/t/885668)
 1. [慕课网也太过分了吧，这不是诈骗吗？](https://www.v2ex.com/t/885693)
-1. [请问这种 IT 职位怎么称呼，需要哪些技能，好招吗。](https://www.v2ex.com/t/885529)
+1. [明年环境还会更差吗](https://www.v2ex.com/t/885778)
 1. [创建一个无法被破解的 zip 压缩包](https://www.v2ex.com/t/885696)
 1. [广州远程办公，不考虑通勤的话，哪里租房性价比高些？](https://www.v2ex.com/t/885623)
-1. [求推荐 api 工具](https://www.v2ex.com/t/885571)
+1. [Apple Watch ¥748 电池换新是否值得？](https://www.v2ex.com/t/885688)
 
 ## 历史归档
 
