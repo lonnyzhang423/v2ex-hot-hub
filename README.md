@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-11 06:10:09 +0800`
+ `更新时间：2022-10-11 07:10:01 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [家里准备装修了，如何为家里的猫设计个冲水装置？](https://www.v2ex.com/t/885721)
 1. [Apple Watch ¥748 电池换新是否值得？](https://www.v2ex.com/t/885688)
 1. [特斯拉 Model Y 和蔚来 ES6 怎么选？](https://www.v2ex.com/t/885742)
-1. [我的 igoogle.vip 域名 能卖 20 万吗😆](https://www.v2ex.com/t/885832)
 
 ## 历史归档
 
