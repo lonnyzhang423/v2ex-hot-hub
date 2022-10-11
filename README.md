@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-11 15:29:48 +0800`
+ `更新时间：2022-10-11 16:18:05 +0800`
 
 ## 热议话题
 
 1. [怎么样培养一点爱好，不是特别烧钱的那种，或者有啥推荐？？](https://www.v2ex.com/t/885868)
 1. [人老了，取个怀旧一点的网名](https://www.v2ex.com/t/885892)
 1. [Linux 之父的 PC 挂了，恐影响 Linux 6.1 发布](https://www.v2ex.com/t/886003)
+1. [脱单真的好难](https://www.v2ex.com/t/886080)
 1. [为什么女朋友晚上都要我陪她聊天说话？](https://www.v2ex.com/t/886001)
 1. [那些转码的人是怎么找到第一份工作的？](https://www.v2ex.com/t/885957)
-1. [iPhone X 升级 14Pro，谈谈半天体验。](https://www.v2ex.com/t/885820)
 1. [哪些地区运营商的 b 站会卡？](https://www.v2ex.com/t/885872)
 1. [老板今天找我谈话，我感觉我给了他个惊喜](https://www.v2ex.com/t/885979)
+1. [随身 WiFi 怎么样？](https://www.v2ex.com/t/885959)
 
 ## 历史归档
 
