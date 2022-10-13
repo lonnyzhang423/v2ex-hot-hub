@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-13 11:32:23 +0800`
+ `更新时间：2022-10-13 13:17:09 +0800`
 
 ## 热议话题
 
 1. [[抽奖送码活动 & macOS] Bob x 火山翻译抽奖活动！](https://www.v2ex.com/t/886485)
 1. [买了房，瞬间一下子感觉有压力了](https://www.v2ex.com/t/886535)
+1. [微信最近杀疯了，号被永封](https://www.v2ex.com/t/886555)
 1. [二房东不退押金，起诉对方由于没有对方身份证信息无法立案，去网上找人查身份信息又被骗了，接下来能怎么办？](https://www.v2ex.com/t/886378)
 1. [腾讯为什么不把 qq 邮箱好好整一下？](https://www.v2ex.com/t/886502)
 1. [市场转码农工作难找啊](https://www.v2ex.com/t/886374)
-1. [笔记本进入睡眠后睡死是谁的锅？](https://www.v2ex.com/t/886340)
 1. [自行车选购](https://www.v2ex.com/t/886409)
 1. [甲状腺结节，突然被体检报告打击到](https://www.v2ex.com/t/886441)
 1. [Jetbrains fleet pubilc preview 了，可立刻下载体验！](https://www.v2ex.com/t/886447)
