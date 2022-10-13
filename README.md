@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-13 15:25:44 +0800`
+ `更新时间：2022-10-13 16:13:26 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [买了房，瞬间一下子感觉有压力了](https://www.v2ex.com/t/886535)
 1. [腾讯为什么不把 qq 邮箱好好整一下？](https://www.v2ex.com/t/886502)
 1. [自行车选购](https://www.v2ex.com/t/886409)
+1. [网页怎样尽可能禁止用户复制图片地址？](https://www.v2ex.com/t/886546)
 1. [甲状腺结节，突然被体检报告打击到](https://www.v2ex.com/t/886441)
 1. [Jetbrains fleet pubilc preview 了，可立刻下载体验！](https://www.v2ex.com/t/886447)
-1. [网页怎样尽可能禁止用户复制图片地址？](https://www.v2ex.com/t/886546)
+1. [今天被 apple pay 坑惨了](https://www.v2ex.com/t/886487)
 
 ## 历史归档
 
