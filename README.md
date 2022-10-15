@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-15 16:12:52 +0800`
+ `更新时间：2022-10-15 17:13:03 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [Java 不用 Spring 还能用点什么？](https://www.v2ex.com/t/887018)
 1. [发 USDT 币的初创区块链公司能去吗？](https://www.v2ex.com/t/886996)
 1. [上海企业黑宽带纪实](https://www.v2ex.com/t/887047)
-1. [这几天通过腾讯云香港轻量访问 youtube, 超慢。。。](https://www.v2ex.com/t/886999)
+1. [就差最后一步， Windows 就能基本满足我的需求了。](https://www.v2ex.com/t/887110)
 1. [ios16 好使不？](https://www.v2ex.com/t/886978)
 1. [各位玩喷 3 的 v 友们，怎么解决频繁断线的问题？](https://www.v2ex.com/t/886992)
 
