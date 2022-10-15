@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-15 07:09:51 +0800`
+ `更新时间：2022-10-15 08:55:50 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [掉头被拍闯红灯，扣了 6 分，以后都不敢掉头了！](https://www.v2ex.com/t/886876)
 1. [v 友们分享一下你的 Twitter 账号， 大家互相认识。](https://www.v2ex.com/t/886860)
 1. [为了公司发展，需要我们软件部门全员改合约到老板的一家新公司，会有什么风险吗](https://www.v2ex.com/t/886929)
-1. [假如有一天不做开发了，回老家（二三线城市）可以做点什么？](https://www.v2ex.com/t/886803)
-1. [非工作、学习理由现在是不是办不下来护照？](https://www.v2ex.com/t/886800)
 1. [如果代码没有 bug、也没有性能问题，是否还会为了其他目标来优化重构？](https://www.v2ex.com/t/886836)
 1. [这个 gitee 项目的 REMDME.md 哪个会是敏感词](https://www.v2ex.com/t/886895)
+1. [兄弟们给推荐个台灯吧](https://www.v2ex.com/t/886861)
+1. [[送兑换码] API 测试工具 Gotcha HTTP Client 更新 1.5.3 版本 🎉🎉🎉 macOS 上最好用的 API 测试工具，现已支持 Request Chain， Base64 编码和 MD5 计算功能](https://www.v2ex.com/t/886868)
 
 ## 历史归档
 
