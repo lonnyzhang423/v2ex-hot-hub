@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-18 15:30:59 +0800`
+ `更新时间：2022-10-18 16:17:58 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [想裸辞求锤醒](https://www.v2ex.com/t/887600)
 1. [为什么? 为什么啊! 为什么感觉大家好无趣啊~~~](https://www.v2ex.com/t/887635)
 1. [拼多多是怎么做到分享的助力链接域名不是自己的呢？](https://www.v2ex.com/t/887582)
-1. [各位大佬能说一下程序猿的职业病都有哪些吗？日常都需要注意什么](https://www.v2ex.com/t/887533)
+1. [实习生整天坐你旁边怎么办？烦死了](https://www.v2ex.com/t/887770)
 1. [公司要求用户敏感数据加密存储，大伙有什么建议吗？](https://www.v2ex.com/t/887563)
 1. [小孩要不要回老家上小学？](https://www.v2ex.com/t/887545)
-1. [Apple Watch 有多依赖 iPhone ?](https://www.v2ex.com/t/887572)
 1. [现在上海垃圾分类是怎么了？](https://www.v2ex.com/t/887732)
+1. [Apple Watch 有多依赖 iPhone ?](https://www.v2ex.com/t/887572)
 
 ## 历史归档
 
