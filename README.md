@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-19 07:10:41 +0800`
+ `更新时间：2022-10-19 08:59:17 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [美国小鸡昨晚正常，今天已无法使用。](https://www.v2ex.com/t/887719)
 1. [[提问]Mac 原生 mail 有什么缺点吗](https://www.v2ex.com/t/887690)
 1. [相亲之后，你们一般多久在一起？](https://www.v2ex.com/t/887852)
-1. [深圳电信正式发布 2000M/100M 宽带](https://www.v2ex.com/t/887710)
+1. [iPad Pro M2 版本已经发布](https://www.v2ex.com/t/887936)
 
 ## 历史归档
 
