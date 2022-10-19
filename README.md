@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-19 14:53:44 +0800`
+ `更新时间：2022-10-19 15:34:57 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [现在的电视我真是服了](https://www.v2ex.com/t/887911)
 1. [apple tv 2022 款升级点汇总](https://www.v2ex.com/t/887948)
 1. [iPad Pro M2 版本已经发布](https://www.v2ex.com/t/887936)
+1. [看最近 V 站上几个结婚帖子有感](https://www.v2ex.com/t/888031)
 1. [2022 年了，买什么净水器比较好？](https://www.v2ex.com/t/887996)
-1. [双十一准备换手机，想体验鸿蒙设备，预算 3k，有推荐的吗](https://www.v2ex.com/t/887827)
 
 ## 历史归档
 
