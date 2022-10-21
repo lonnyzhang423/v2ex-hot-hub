@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-21 07:12:08 +0800`
+ `更新时间：2022-10-21 08:52:59 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [实在无法忍受 干眼症 和 头痛，决定买一个墨水屏显示器来写代码了。](https://www.v2ex.com/t/888366)
 1. [做个调研，关于 Obsidian](https://www.v2ex.com/t/888288)
 1. [4090 装机配置单，麻烦各位老哥帮忙看一下](https://www.v2ex.com/t/888398)
-1. [双缝干涉实验的结果说明了什么？](https://www.v2ex.com/t/888332)
 1. [女子逃离大城市花 1.5 万全款鹤岗房子 想法](https://www.v2ex.com/t/888442)
+1. [双缝干涉实验的结果说明了什么？](https://www.v2ex.com/t/888332)
 1. [校招已经入职实习了，想毁 offer 跑路，该跑吗？](https://www.v2ex.com/t/888338)
 1. [求推荐出租房提升生活质量的好物](https://www.v2ex.com/t/888352)
 1. [macbook air m2 8+256 后端开发够用吗](https://www.v2ex.com/t/888378)
