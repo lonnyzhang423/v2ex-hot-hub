@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-23 18:09:19 +0800`
+ `更新时间：2022-10-23 19:07:51 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [分享一个 idea，不知道你们觉得咋样，有能力的可以拿去落地](https://www.v2ex.com/t/888997)
 1. [怎么与喜欢不懂装懂的人相处，忍住不去吐槽？](https://www.v2ex.com/t/889093)
 1. [目前国内博士生，为了润再出国读个 phd 值得吗？](https://www.v2ex.com/t/888988)
-1. [UU 加速器我***，关于 Windows 无法进入睡眠这件事](https://www.v2ex.com/t/889039)
-1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
 1. [大家平时常吃罐头食品吗？](https://www.v2ex.com/t/889072)
+1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
+1. [UU 加速器我***，关于 Windows 无法进入睡眠这件事](https://www.v2ex.com/t/889039)
 
 ## 历史归档
 
