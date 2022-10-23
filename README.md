@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-24 03:11:21 +0800`
+ `更新时间：2022-10-24 04:10:09 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [以后千元机都实现了 1000T 存储空间的时候，人类是不是可以永享太平了。](https://www.v2ex.com/t/889045)
 1. [跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129)
 1. [怎么与喜欢不懂装懂的人相处，忍住不去吐槽？](https://www.v2ex.com/t/889093)
-1. [大家平时常吃罐头食品吗？](https://www.v2ex.com/t/889072)
 1. [双拼速度已经上来了](https://www.v2ex.com/t/889066)
+1. [大家平时常吃罐头食品吗？](https://www.v2ex.com/t/889072)
 1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
 1. [想买 MacBook Pro14 寸那款，哪个渠道买方便？](https://www.v2ex.com/t/889064)
 
