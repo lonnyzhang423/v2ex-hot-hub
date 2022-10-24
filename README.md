@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-24 14:12:14 +0800`
+ `更新时间：2022-10-24 15:41:54 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,11 @@
 1. [🏂 1024 节日快乐，写了一个小彩蛋](https://www.v2ex.com/t/889241)
 1. [人结婚确实没什么意思。。。。。
 （纯属发泄，不感兴趣的 v 友勿喷）](https://www.v2ex.com/t/889218)
+1. [问一下，现在家里配 NAS 选什么好一点？](https://www.v2ex.com/t/889287)
 1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
 1. [距离 ventura 还有 7 个小时？](https://www.v2ex.com/t/889234)
 1. [想买 Google Pixel 4 XL 64GB, 求打醒](https://www.v2ex.com/t/889149)
-1. [问一下，现在家里配 NAS 选什么好一点？](https://www.v2ex.com/t/889287)
+1. [有史以来最恶心人的方式，开屏摇一摇跳转广告](https://www.v2ex.com/t/889339)
 
 ## 历史归档
 
