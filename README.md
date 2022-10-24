@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-24 09:03:17 +0800`
+ `更新时间：2022-10-24 12:22:13 +0800`
 
 ## 热议话题
 
-1. [[记录]-公司 996 制度的第一周实行体验](https://www.v2ex.com/t/889052)
-1. [一年一度之, 双十一买什么](https://www.v2ex.com/t/889047)
-1. [跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129)
-1. [怎么与喜欢不懂装懂的人相处，忍住不去吐槽？](https://www.v2ex.com/t/889093)
-1. [双拼速度已经上来了](https://www.v2ex.com/t/889066)
-1. [大家平时常吃罐头食品吗？](https://www.v2ex.com/t/889072)
-1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
+1. [1024 节日快乐](https://www.v2ex.com/t/889235)
 1. [借钱给高中同学，有什么需要注意的吗](https://www.v2ex.com/t/889202)
-1. [想买 MacBook Pro14 寸那款，哪个渠道买方便？](https://www.v2ex.com/t/889064)
+1. [跟老婆小吵了一架，感觉很对不起](https://www.v2ex.com/t/889129)
+1. [🏂 1024 节日快乐，写了一个小彩蛋](https://www.v2ex.com/t/889241)
+1. [怎么与喜欢不懂装懂的人相处，忍住不去吐槽？](https://www.v2ex.com/t/889093)
+1. [人结婚确实没什么意思。。。。。
+（纯属发泄，不感兴趣的 v 友勿喷）](https://www.v2ex.com/t/889218)
+1. [Chrome 右键翻译，怎么 fix？](https://www.v2ex.com/t/889119)
+1. [想买 Google Pixel 4 XL 64GB, 求打醒](https://www.v2ex.com/t/889149)
 
 ## 历史归档
 
