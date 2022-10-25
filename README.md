@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-25 20:21:04 +0800`
+ `更新时间：2022-10-25 21:51:31 +0800`
 
 ## 热议话题
 
-1. [为什么国内车厂，不愿意做好玩儿的小车](https://www.v2ex.com/t/889587)
 1. [想不明白人为什么要结婚](https://www.v2ex.com/t/889616)
+1. [为什么国内车厂，不愿意做好玩儿的小车](https://www.v2ex.com/t/889587)
 1. [快被新浪微博的摇一摇广告气死了](https://www.v2ex.com/t/889602)
 1. [同学们语雀会员要涨价了](https://www.v2ex.com/t/889628)
 1. [ventura 建议升级吗](https://www.v2ex.com/t/889549)
