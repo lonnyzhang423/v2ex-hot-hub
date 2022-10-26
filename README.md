@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-26 08:47:38 +0800`
+ `更新时间：2022-10-26 11:07:52 +0800`
 
 ## 热议话题
 
-1. [快被新浪微博的摇一摇广告气死了](https://www.v2ex.com/t/889602)
-1. [同学们语雀会员要涨价了](https://www.v2ex.com/t/889628)
-1. [求推荐实惠靠谱的小电驴](https://www.v2ex.com/t/889599)
-1. [决赛圈了， K50u 12+512 和 iqoo 10 怎么选？](https://www.v2ex.com/t/889570)
-1. [不会前端的后端如何优雅地开发个人项目？](https://www.v2ex.com/t/889594)
-1. [中午升级了 ventura 后悔了](https://www.v2ex.com/t/889670)
 1. [2022 年 10 月份,大家来推荐下 android 必备 app 吧](https://www.v2ex.com/t/889671)
-1. [不会后端的前端如何优雅地开发个人项目？](https://www.v2ex.com/t/889578)
+1. [中午升级了 ventura 后悔了](https://www.v2ex.com/t/889670)
+1. [不知道今年大家得基金怎么样？来聊聊？](https://www.v2ex.com/t/889796)
+1. [http 加密的正确方法](https://www.v2ex.com/t/889726)
+1. [一个高中已婚女同学问借钱](https://www.v2ex.com/t/889894)
+1. [假设可以绝对公平公正。所有事情瞬间可以以全国 51%的意见来执行。会超越现在世界的制度体系吗？](https://www.v2ex.com/t/889744)
+1. [迫于想跟女朋友一起玩 switch，想问一下百亿补贴靠谱么？](https://www.v2ex.com/t/889684)
+1. [想读个在职研究生，大家有什么建议吗？](https://www.v2ex.com/t/889883)
 
 ## 历史归档
 
