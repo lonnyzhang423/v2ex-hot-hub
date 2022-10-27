@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-28 06:08:21 +0800`
+ `更新时间：2022-10-28 07:10:33 +0800`
 
 ## 热议话题
 
-1. [老婆婚前欠债 30 个，我该不该离婚？](https://www.v2ex.com/t/890304)
 1. [我终究还是小看了 AI](https://www.v2ex.com/t/890250)
 1. [2022 找不到理由续费 Jetbrains 全家桶](https://www.v2ex.com/t/890315)
 1. [苹果全球营销副总裁表示，为遵守欧盟新规，苹果将将 iPhone 和其他 Lightning 接口的设备改为 USB-C。](https://www.v2ex.com/t/890242)
