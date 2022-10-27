@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-27 19:07:39 +0800`
+ `更新时间：2022-10-27 20:19:16 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [2022 找不到理由续费 Jetbrains 全家桶](https://www.v2ex.com/t/890315)
 1. [苹果全球营销副总裁表示，为遵守欧盟新规，苹果将将 iPhone 和其他 Lightning 接口的设备改为 USB-C。](https://www.v2ex.com/t/890242)
 1. [怎么看待请求参数 JSON 数据包里再包 JSON 数据](https://www.v2ex.com/t/890284)
-1. [微软推出开发者专用的 Windows Dev Kit 2023,配备 32GBRAM、NPU](https://www.v2ex.com/t/890136)
 1. [丛集性头疼又发作了](https://www.v2ex.com/t/890279)
+1. [共享厨师计划有人入场吗](https://www.v2ex.com/t/890349)
 
 ## 历史归档
 
