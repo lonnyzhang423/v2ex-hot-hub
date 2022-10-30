@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-30 14:10:36 +0800`
+ `更新时间：2022-10-30 15:07:32 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [目前网站的 IPv6 支持程度](https://www.v2ex.com/t/891068)
 1. [刚换 Pixel 7 Pro，有什么应用推荐吗？](https://www.v2ex.com/t/891065)
 1. [虎躯一震：升降桌内暗藏摄像头](https://www.v2ex.com/t/891101)
+1. [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131)
 1. [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097)
-1. [iPad pro 2020 12.9 还是 iPad air 5](https://www.v2ex.com/t/891082)
 
 ## 历史归档
 
