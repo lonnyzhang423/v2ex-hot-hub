@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-01 06:08:59 +0800`
+ `更新时间：2022-11-01 07:08:54 +0800`
 
 ## 热议话题
 
 1. [为什么汽车的油门不设计成“油门踩到底 === 急刹/松油门”？（周一摸鱼）](https://www.v2ex.com/t/891394)
-1. [同志们，你们的 nas 硬盘噪音大吗](https://www.v2ex.com/t/891332)
 1. [女朋友让我陪她去法国工作](https://www.v2ex.com/t/891341)
+1. [同志们，你们的 nas 硬盘噪音大吗](https://www.v2ex.com/t/891332)
 1. [你们会娶一穷二白的女生吗？](https://www.v2ex.com/t/891399)
 1. [在 MAC 上使用的 SSH 客户端](https://www.v2ex.com/t/891314)
 1. [你们闭上眼睛看到的是啥？。。](https://www.v2ex.com/t/891392)
