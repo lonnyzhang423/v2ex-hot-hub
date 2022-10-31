@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-31 22:20:31 +0800`
+ `更新时间：2022-10-31 23:09:11 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [尾款人，你们都买啥了啊？](https://www.v2ex.com/t/891486)
 1. [你们会娶一穷二白的女生吗？](https://www.v2ex.com/t/891399)
 1. [在 MAC 上使用的 SSH 客户端](https://www.v2ex.com/t/891314)
-1. [Python 的多层嵌套循环如何优化？](https://www.v2ex.com/t/891370)
 1. [你们闭上眼睛看到的是啥？。。](https://www.v2ex.com/t/891392)
+1. [Python 的多层嵌套循环如何优化？](https://www.v2ex.com/t/891370)
 
 ## 历史归档
 
