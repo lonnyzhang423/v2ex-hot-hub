@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-31 14:11:57 +0800`
+ `更新时间：2022-10-31 15:09:12 +0800`
 
 ## 热议话题
 
 1. [大家现在手头上最古老还服役的 Apple 产品](https://www.v2ex.com/t/891165)
 1. [论 V 站究竟如何上传图片](https://www.v2ex.com/t/891241)
 1. [周末摆烂综合征](https://www.v2ex.com/t/891175)
-1. [M1 游戏性能牛逼了，原生的生化危机 8 好稳](https://www.v2ex.com/t/891152)
-1. [细数自己学习过的编程语言](https://www.v2ex.com/t/891197)
 1. [同志们，你们的 nas 硬盘噪音大吗](https://www.v2ex.com/t/891332)
-1. [重度使用整一年 MacBook Pro 14，总结下遇到的所有通病（损耗）](https://www.v2ex.com/t/891176)
+1. [细数自己学习过的编程语言](https://www.v2ex.com/t/891197)
+1. [为什么汽车的油门不设计成“油门踩到底 === 急刹/松油门”？（周一摸鱼）](https://www.v2ex.com/t/891394)
+1. [女朋友让我陪她去法国工作](https://www.v2ex.com/t/891341)
 
 ## 历史归档
 
