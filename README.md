@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-05 12:17:13 +0800`
+ `更新时间：2022-11-05 13:07:40 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [你觉得 2022 年度值得买的电子产品有哪些？](https://www.v2ex.com/t/892670)
 1. [中亚也可以买 ATV 了](https://www.v2ex.com/t/892707)
 1. [电瓶车电池被迫要拿到屋里充电 焦虑](https://www.v2ex.com/t/892685)
-1. [vue-router 居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613)
-1. [Windows 下多人共享的网盘类工具？](https://www.v2ex.com/t/892625)
 1. [发现个好东西](https://www.v2ex.com/t/892717)
+1. [Windows 下多人共享的网盘类工具？](https://www.v2ex.com/t/892625)
+1. [华强北的山寨苹果耳机是咋回事](https://www.v2ex.com/t/892693)
 1. [软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744)
 
 ## 历史归档
