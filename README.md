@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-08 08:44:01 +0800`
+ `更新时间：2022-11-08 10:53:22 +0800`
 
 ## 热议话题
 
-1. [看看程序员鱼皮的嘴脸](https://www.v2ex.com/t/893205)
-1. [黑五预热贴，都来分享大家准备购买的物品吧](https://www.v2ex.com/t/893193)
 1. [隔壁公司有一个挺漂亮的女孩子，该怎么不失礼貌的去认识一下呢？](https://www.v2ex.com/t/893340)
+1. [自建 bitwarden 的各位都是怎么备份数据的](https://www.v2ex.com/t/893325)
+1. [github 上看到的，男性沙文主义资源](https://www.v2ex.com/t/893244)
 1. [二十七八不想待在小县城](https://www.v2ex.com/t/893256)
 1. [Stash for Mac 正式版本发布了，一周限时折扣（三种付费方式）](https://www.v2ex.com/t/893291)
-1. [自建 bitwarden 的各位都是怎么备份数据的](https://www.v2ex.com/t/893325)
-1. [其他的 json 在线编辑广告有点多，俺就自己搭了一个。。](https://www.v2ex.com/t/893202)
-1. [github 上看到的，男性沙文主义资源](https://www.v2ex.com/t/893244)
+1. [我天， Ventura 简直是个半成品吧！](https://www.v2ex.com/t/893263)
+1. [Twitter 貌似出了问题又在把裁掉的人请回来。](https://www.v2ex.com/t/893298)
+1. [时隔三年，新项目招募基石用户 —— 缤纷云 S4 对象存储 Preview，希望做独立开发者、创业者、创意人士的贴心伙伴](https://www.v2ex.com/t/893410)
 
 ## 历史归档
 
