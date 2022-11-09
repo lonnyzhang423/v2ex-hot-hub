@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-10 00:11:39 +0800`
+ `更新时间：2022-11-10 01:15:53 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [媳妇弟弟想出国，户口想挂靠我们户口本上，有啥影响吗？](https://www.v2ex.com/t/893805)
 1. [26 岁相亲被嫌年纪大](https://www.v2ex.com/t/893863)
 1. [收费帮人制作抢购脚本有法律风险吗？](https://www.v2ex.com/t/893724)
-1. [.NET 7 正式发布](https://www.v2ex.com/t/893739)
 1. [[分享]Win 11 真香](https://www.v2ex.com/t/893847)
+1. [.NET 7 正式发布](https://www.v2ex.com/t/893739)
+1. [iOS 国行测试版增加限制，仅能对所有人开启十分钟 Airdrop](https://www.v2ex.com/t/893929)
 1. [女朋友要求戒指 5-7w 预算过分么。](https://www.v2ex.com/t/893975)
-1. [用 Apple TV，仅仅投屏体验如何，如仅开通手机端会员](https://www.v2ex.com/t/893774)
 
 ## 历史归档
 
