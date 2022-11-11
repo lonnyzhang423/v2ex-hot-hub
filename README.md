@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-11 07:08:59 +0800`
+ `更新时间：2022-11-11 08:48:08 +0800`
 
 ## 热议话题
 
 1. [通勤 50 分钟，费用 7.2 元有必要买一辆小电驴吗](https://www.v2ex.com/t/894028)
-1. [怎么才能接受自己的平凡](https://www.v2ex.com/t/894016)
-1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022)
 1. [为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161)
+1. [用了六年 Keepass 了，发现大家都在推荐 Bitwarden](https://www.v2ex.com/t/894022)
 1. [大家在飞机上是如何打发时间的？](https://www.v2ex.com/t/894050)
 1. [想买一台笔记本应急用，有什么好的建议](https://www.v2ex.com/t/894036)
-1. [想问一下大家的单程开车通勤时长都是多少](https://www.v2ex.com/t/894152)
 1. [通货膨胀为什么要裁员, 不是应该猛招人把钱用掉吗?](https://www.v2ex.com/t/894092)
+1. [想问一下大家的单程开车通勤时长都是多少](https://www.v2ex.com/t/894152)
+1. [Mac 使用软件分享，抛砖引玉](https://www.v2ex.com/t/894110)
 
 ## 历史归档
 
