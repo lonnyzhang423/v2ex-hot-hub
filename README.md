@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-12 14:10:15 +0800`
+ `更新时间：2022-11-12 15:08:05 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,8 @@
 1. [据说小米后期将会禁止解锁 BL，不在提供解锁功能](https://www.v2ex.com/t/894581)
 1. [大家在 iOS 上用 safari 还是 chrome](https://www.v2ex.com/t/894567)
 1. [被北京联通无通知停机，浪费 2 个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669)
+1. [找了一个月，下周要入职了](https://www.v2ex.com/t/894634)
+1. [有没有在 Telegram 上裸聊被诈骗的？由 Twitter 到 Telegram](https://www.v2ex.com/t/894501)
 
 ## 历史归档
 
