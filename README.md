@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-14 13:15:32 +0800`
+ `更新时间：2022-11-14 14:11:32 +0800`
 
 ## 热议话题
 
 1. [如何评价广东潮州特斯拉案](https://www.v2ex.com/t/894931)
-1. [为什么国外人做事会有一种传承感? 还是国内的太浮躁了?](https://www.v2ex.com/t/894894)
 1. [佛系背单词 App 第三弹之专注模式](https://www.v2ex.com/t/894913)
 1. [给女朋友开张银行卡然后给她几千类似零花钱这样子普遍吗](https://www.v2ex.com/t/894937)
 1. [感情出现分歧，请求各位大佬指点](https://www.v2ex.com/t/894984)
+1. [又疯了一个 ip，🧱墙太可恶了](https://www.v2ex.com/t/895000)
 1. [苹果软件质量直逼微软，咖喱含量急剧升高](https://www.v2ex.com/t/894915)
 1. [招聘赴日程序猿](https://www.v2ex.com/t/894991)
-1. [又疯了一个 ip，🧱墙太可恶了](https://www.v2ex.com/t/895000)
+1. [Apple TV 到底有什么用？](https://www.v2ex.com/t/895019)
 
 ## 历史归档
 
