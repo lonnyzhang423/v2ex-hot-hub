@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-14 07:07:59 +0800`
+ `更新时间：2022-11-14 08:40:55 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [拼多多补贴真狠， 2022atv 只要 1300](https://www.v2ex.com/t/894824)
 1. [QQ 邮箱扩容包开始收费了，￥ 15/月](https://www.v2ex.com/t/894818)
 1. [求问五年内最稳的 4%收益方案](https://www.v2ex.com/t/894842)
-1. [求好用好玩的安卓 app](https://www.v2ex.com/t/894812)
 1. [佛系背单词 App 第三弹之专注模式](https://www.v2ex.com/t/894913)
+1. [求好用好玩的安卓 app](https://www.v2ex.com/t/894812)
 1. [2022 卡塔尔世界杯 比赛日历订阅](https://www.v2ex.com/t/894827)
 
 ## 历史归档
