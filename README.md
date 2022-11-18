@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-19 00:10:20 +0800`
+ `更新时间：2022-11-19 01:08:50 +0800`
 
 ## 热议话题
 
@@ -24,8 +24,8 @@
 iPhone14 系列 对比前几代性价比高吗？如果想当钉子户机子来用的话值得入吗？](https://www.v2ex.com/t/896132)
 1. [分享一款 AppleTV 直播软件 — tv+](https://www.v2ex.com/t/896152)
 1. [为什么很多公司测试和产品比开发更有话语权？](https://www.v2ex.com/t/896101)
-1. [求教：装机的乐趣在哪里？](https://www.v2ex.com/t/896181)
 1. [Linux 系统做备份该怎么做](https://www.v2ex.com/t/896119)
+1. [求教：装机的乐趣在哪里？](https://www.v2ex.com/t/896181)
 
 ## 历史归档
 
