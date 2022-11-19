@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-20 03:06:07 +0800`
+ `更新时间：2022-11-20 04:07:39 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404)
 1. [我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412)
 1. [macOS 虚拟机软件 VMware Fusion 13 正式发布：支持 TPM 2.0、 Apple Silicon Mac](https://www.v2ex.com/t/896350)
+1. [公司要求写 Linux 故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393)
 1. [请教下 nas 用 windows 有啥坑](https://www.v2ex.com/t/896363)
 1. [AirPods Pro 2 续航](https://www.v2ex.com/t/896366)
-1. [公司要求写 Linux 故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393)
 1. [预备程序员的出路？想听大伙指点指点](https://www.v2ex.com/t/896437)
 
 ## 历史归档
