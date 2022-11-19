@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-19 20:13:12 +0800`
+ `更新时间：2022-11-19 21:18:47 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [喜欢原生安卓手机的为什么不尝试一下摩托罗拉。](https://www.v2ex.com/t/896311)
 1. [公司领导礼拜六打电话过来要求所有人到公司过项目进度，这是不是一个合格的领导？](https://www.v2ex.com/t/896399)
 1. [我得了圆锥角膜，感觉人生完了，不知道朋友们能不能够给点建议。谢谢各位](https://www.v2ex.com/t/896412)
-1. [乔思伯发布了一个新的 5 盘位 NAS 机箱 N2](https://www.v2ex.com/t/896321)
 1. [问下各位对国产操作系统的看法](https://www.v2ex.com/t/896404)
+1. [乔思伯发布了一个新的 5 盘位 NAS 机箱 N2](https://www.v2ex.com/t/896321)
 1. [请教下 nas 用 windows 有啥坑](https://www.v2ex.com/t/896363)
 1. [AirPods Pro 2 续航](https://www.v2ex.com/t/896366)
 
