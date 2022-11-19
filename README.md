@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-20 02:09:07 +0800`
+ `更新时间：2022-11-20 03:06:07 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [请教下 nas 用 windows 有啥坑](https://www.v2ex.com/t/896363)
 1. [AirPods Pro 2 续航](https://www.v2ex.com/t/896366)
 1. [公司要求写 Linux 故障一天一个，我只能想到几个](https://www.v2ex.com/t/896393)
-1. [搬瓦工要不要续费呢](https://www.v2ex.com/t/896392)
+1. [预备程序员的出路？想听大伙指点指点](https://www.v2ex.com/t/896437)
 
 ## 历史归档
 
