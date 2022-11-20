@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-21 03:05:59 +0800`
+ `更新时间：2022-11-21 04:07:50 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [FTX 暴雷，我在一周内损失 17W](https://www.v2ex.com/t/896592)
 1. [App 端判断是否是大陆用户的最简洁方式，无需 IP 库](https://www.v2ex.com/t/896602)
 1. [读研是真的读不下去了](https://www.v2ex.com/t/896530)
-1. [想入个 Steam Deck，求打醒。](https://www.v2ex.com/t/896537)
 1. [联想小新怎么全新安装纯净版系统。](https://www.v2ex.com/t/896584)
+1. [想入个 Steam Deck，求打醒。](https://www.v2ex.com/t/896537)
 1. [国企的信息 科技 技术岗位怎么进啊](https://www.v2ex.com/t/896533)
 1. [目前的远程工作, 什么技术方向岗位比较多?](https://www.v2ex.com/t/896516)
 1. [QQ 邮箱改变规则，免费提供最大可达 16G 的邮箱容量，寻找相对的替代品](https://www.v2ex.com/t/896583)
