@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-20 10:48:11 +0800`
+ `更新时间：2022-11-20 11:39:52 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [想开个程序员宾馆，这主意怎么样？](https://www.v2ex.com/t/896467)
 1. [搬瓦工要不要续费呢](https://www.v2ex.com/t/896392)
 1. [索尼 Xperia 1 III 换到 Moto X30 Pro 的使用感受记录](https://www.v2ex.com/t/896439)
-1. [想写个 kernel 玩, 买树莓派,单片机,还是?](https://www.v2ex.com/t/896424)
 1. [为什么那么多想润的人不润呢？](https://www.v2ex.com/t/896402)
+1. [想写个 kernel 玩, 买树莓派,单片机,还是?](https://www.v2ex.com/t/896424)
 
 ## 历史归档
 
