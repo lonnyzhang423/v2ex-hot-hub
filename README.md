@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-20 20:13:06 +0800`
+ `更新时间：2022-11-20 21:18:52 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [到目前为止你认为你最大的成就是什么？](https://www.v2ex.com/t/896580)
 1. [FTX 暴雷，我在一周内损失 17W](https://www.v2ex.com/t/896592)
 1. [读研是真的读不下去了](https://www.v2ex.com/t/896530)
+1. [App 端判断是否是大陆用户的最简洁方式，无需 IP 库](https://www.v2ex.com/t/896602)
 1. [想入个 Steam Deck，求打醒。](https://www.v2ex.com/t/896537)
 1. [求推荐个 MacBook 用的有线耳机](https://www.v2ex.com/t/896501)
 1. [联想小新怎么全新安装纯净版系统。](https://www.v2ex.com/t/896584)
 1. [国企的信息 科技 技术岗位怎么进啊](https://www.v2ex.com/t/896533)
-1. [App 端判断是否是大陆用户的最简洁方式，无需 IP 库](https://www.v2ex.com/t/896602)
-1. [在硬路由后面接个软路由的方案好吗？](https://www.v2ex.com/t/896483)
+1. [目前的远程工作, 什么技术方向岗位比较多?](https://www.v2ex.com/t/896516)
 
 ## 历史归档
 
