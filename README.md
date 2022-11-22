@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-23 01:10:06 +0800`
+ `更新时间：2022-11-23 02:09:55 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [iPhone 弃坑](https://www.v2ex.com/t/897024)
 1. [2023 PHPer 路在何方？](https://www.v2ex.com/t/897074)
 1. [程序员白头发问题，有人解决了吗](https://www.v2ex.com/t/897005)
-1. [13 pro max 用了一年了，电池掉到 91%了](https://www.v2ex.com/t/896984)
 1. [珍爱生命，远离 ToDesk](https://www.v2ex.com/t/897040)
+1. [13 pro max 用了一年了，电池掉到 91%了](https://www.v2ex.com/t/896984)
 1. [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127)
 
 ## 历史归档
