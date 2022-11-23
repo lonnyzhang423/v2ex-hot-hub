@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-23 10:27:34 +0800`
+ `更新时间：2022-11-23 11:27:00 +0800`
 
 ## 热议话题
 
 1. [兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106)
-1. [各位大哥都在用啥面霜](https://www.v2ex.com/t/897009)
-1. [需要带父亲去北京做手术，但是北京健康宝一直弹窗 3，已经申诉多次无果。有什么办法吗？](https://www.v2ex.com/t/896998)
-1. [94 年的程序员未来的路该怎么走？感觉到迷茫，有人给点建议吗？](https://www.v2ex.com/t/897015)
-1. [iPhone 弃坑](https://www.v2ex.com/t/897024)
 1. [2023 PHPer 路在何方？](https://www.v2ex.com/t/897074)
 1. [珍爱生命，远离 ToDesk](https://www.v2ex.com/t/897040)
 1. [最近有人提“国产”，我也说说我的感受，抛砖引玉](https://www.v2ex.com/t/897090)
-1. [程序员白头发问题，有人解决了吗](https://www.v2ex.com/t/897005)
 1. [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127)
+1. [聊聊大家的业余收入](https://www.v2ex.com/t/897228)
+1. [为什么跟友人打电话前要先微信发消息问下有没有空？](https://www.v2ex.com/t/897204)
+1. [和同事吃饭，获得了不同的“人生观”，请大家指教](https://www.v2ex.com/t/897245)
+1. [哎，国内的 BT 完蛋了](https://www.v2ex.com/t/897168)
 
 ## 历史归档
 
