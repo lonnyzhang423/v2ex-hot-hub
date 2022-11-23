@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-23 19:06:32 +0800`
+ `更新时间：2022-11-23 20:14:26 +0800`
 
 ## 热议话题
 
 1. [在重庆和女朋友因为疫情的原因吵架了，感觉很失望](https://www.v2ex.com/t/897208)
 1. [聊聊大家的业余收入](https://www.v2ex.com/t/897228)
-1. [和同事吃饭，获得了不同的“人生观”，请大家指教](https://www.v2ex.com/t/897245)
 1. [各位 iPhone 是两年一换还是一年一换？](https://www.v2ex.com/t/897270)
-1. [哎，国内的 BT 完蛋了](https://www.v2ex.com/t/897168)
+1. [和同事吃饭，获得了不同的“人生观”，请大家指教](https://www.v2ex.com/t/897245)
 1. [为什么跟友人打电话前要先微信发消息问下有没有空？](https://www.v2ex.com/t/897204)
 1. [大佬们来分享下你觉得很受益匪浅的书籍吧](https://www.v2ex.com/t/897336)
 1. [也谈“国产”](https://www.v2ex.com/t/897209)
 1. [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184)
+1. [[解惑] 请问 mbp14 支持 160Mhz 的千兆 WiFi 吗？](https://www.v2ex.com/t/897269)
 
 ## 历史归档
 
