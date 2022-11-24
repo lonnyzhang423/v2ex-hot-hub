@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-24 22:06:50 +0800`
+ `更新时间：2022-11-24 23:07:36 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [苹果为什么不解决 iPhone 信号弱的问题？](https://www.v2ex.com/t/897600)
 1. [通过视频标题分析国人 xp](https://www.v2ex.com/t/897558)
 1. [关于 nas 的 ups 是必需品吗？入 APC 是不是可以](https://www.v2ex.com/t/897474)
-1. [Apple TV 128GB 初体验](https://www.v2ex.com/t/897508)
 1. [大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632)
+1. [Apple TV 128GB 初体验](https://www.v2ex.com/t/897508)
 1. [faceid 解锁手机后一定要划一下吗](https://www.v2ex.com/t/897506)
 1. [有没有人在 Windows 下把 Caps Lock 和 Ctrl 互换的？](https://www.v2ex.com/t/897472)
 
