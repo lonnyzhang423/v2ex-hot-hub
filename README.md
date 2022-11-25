@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-25 21:18:17 +0800`
+ `更新时间：2022-11-25 22:06:56 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [[个人作品]遇见夏天🔆一个送给社恐人的树洞聊天 App](https://www.v2ex.com/t/897771)
 1. [你上一次流泪是什么时候？](https://www.v2ex.com/t/897718)
 1. [软路由上 ShellClash OpenClash ClashPremium 哪个合适呢](https://www.v2ex.com/t/897759)
-1. [当年差一点注册 apple.com.cn](https://www.v2ex.com/t/897770)
-1. [我混乱了 各位在家能听到楼上的走路声 讲话声吗](https://www.v2ex.com/t/897877)
 1. [iPhone 真的信号不好吗？](https://www.v2ex.com/t/897821)
+1. [我混乱了 各位在家能听到楼上的走路声 讲话声吗](https://www.v2ex.com/t/897877)
+1. [当年差一点注册 apple.com.cn](https://www.v2ex.com/t/897770)
 
 ## 历史归档
 
