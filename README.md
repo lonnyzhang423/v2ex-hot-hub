@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-27 20:12:22 +0800`
+ `更新时间：2022-11-27 21:15:18 +0800`
 
 ## 热议话题
 
 1. [喜欢上了女同事，怎么办](https://www.v2ex.com/t/898176)
-1. [工作选择——北京 or 香港](https://www.v2ex.com/t/898159)
+1. [突然发现 edge 相比 chrome 占用内存更大](https://www.v2ex.com/t/898253)
 
 ## 历史归档
 
