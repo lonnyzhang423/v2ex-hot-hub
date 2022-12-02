@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-02 12:08:38 +0800`
+ `更新时间：2022-12-02 13:06:58 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,7 @@
 1. [京东再也不是以前的那个京东了！](https://www.v2ex.com/t/899515)
 1. [关闭密码和面容 ID 使用真爽](https://www.v2ex.com/t/899311)
 1. [Linux QQ 也要开始内测了, electron 全平台了。](https://www.v2ex.com/t/899343)
-1. [看大家都在入手 Apple TV，所以写了 Apple TV、Shield TV 和 Google TV 的区别给大家参考](https://www.v2ex.com/t/899399)
+1. [[限免]对不起，这个新密码我编不动了](https://www.v2ex.com/t/899512)
 
 ## 历史归档
 
