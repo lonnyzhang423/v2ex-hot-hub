@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-04 02:08:05 +0800`
+ `更新时间：2022-12-04 03:04:25 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [南方朋友开地暖了么？](https://www.v2ex.com/t/899817)
 1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752)
 1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792)
-1. [中文输入法用的全键盘还是 9 宫格？](https://www.v2ex.com/t/899861)
 1. [golang 咋这么恶心，解压 zip 文件居然要一大串代码，这不应该是语言内置一行搞定的吗？](https://www.v2ex.com/t/899827)
+1. [中文输入法用的全键盘还是 9 宫格？](https://www.v2ex.com/t/899861)
 1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756)
 
 ## 历史归档
