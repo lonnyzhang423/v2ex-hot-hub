@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-03 19:05:08 +0800`
+ `更新时间：2022-12-03 20:11:16 +0800`
 
 ## 热议话题
 
 1. [为什么大家这么讨厌 Electron?](https://www.v2ex.com/t/899773)
-1. [为什么日语这么多发音和英语接近的词，日本人普遍英语水平还是不好呢？](https://www.v2ex.com/t/899688)
 1. [v 友们，头发偏软，有方法使得头发变硬吗？](https://www.v2ex.com/t/899768)
 1. [要崩溃了，各位老哥帮我排查下啥情况啊。](https://www.v2ex.com/t/899731)
-1. [有没有部署自己的 homelab，都跑了什么服务，硬件配置是什么](https://www.v2ex.com/t/899741)
 1. [有没有方法可以让手机保持外网环境](https://www.v2ex.com/t/899726)
+1. [有没有部署自己的 homelab，都跑了什么服务，硬件配置是什么](https://www.v2ex.com/t/899741)
 1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752)
-1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792)
-1. [13 寸 MacBook Pro M2 还是 14 寸 MacBook Pro M1？](https://www.v2ex.com/t/899737)
 1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756)
+1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792)
+1. [golang 咋这么恶心，解压 zip 文件居然要一大串代码，这不应该是语言内置一行搞定的吗？](https://www.v2ex.com/t/899827)
+1. [13 寸 MacBook Pro M2 还是 14 寸 MacBook Pro M1？](https://www.v2ex.com/t/899737)
 
 ## 历史归档
 
