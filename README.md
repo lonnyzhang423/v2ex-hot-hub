@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-03 20:11:16 +0800`
+ `更新时间：2022-12-03 21:11:50 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [有没有部署自己的 homelab，都跑了什么服务，硬件配置是什么](https://www.v2ex.com/t/899741)
 1. [pixel 手机闲鱼出手不了了](https://www.v2ex.com/t/899752)
 1. [关于 mac 上的播放器](https://www.v2ex.com/t/899756)
+1. [南方朋友开地暖了么？](https://www.v2ex.com/t/899817)
 1. [为啥不见女生晒桌面](https://www.v2ex.com/t/899792)
 1. [golang 咋这么恶心，解压 zip 文件居然要一大串代码，这不应该是语言内置一行搞定的吗？](https://www.v2ex.com/t/899827)
-1. [13 寸 MacBook Pro M2 还是 14 寸 MacBook Pro M1？](https://www.v2ex.com/t/899737)
 
 ## 历史归档
 
