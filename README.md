@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-04 19:05:08 +0800`
+ `更新时间：2022-12-04 20:12:53 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [中文输入法用的全键盘还是 9 宫格？](https://www.v2ex.com/t/899861)
 1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924)
 1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927)
+1. [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016)
 1. [写作是最小单位的自由，内容创作者的去中心平台 Matters](https://www.v2ex.com/t/899879)
-1. [大家有推荐的安卓手机么？需要支持原生的 google 服务](https://www.v2ex.com/t/899882)
 
 ## 历史归档
 
