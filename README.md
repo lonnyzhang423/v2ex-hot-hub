@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-04 22:06:05 +0800`
+ `更新时间：2022-12-04 23:06:23 +0800`
 
 ## 热议话题
 
@@ -20,6 +20,7 @@
 1. [全文搜索（full text search）有什么好一点的低成本解决方案？](https://www.v2ex.com/t/899924)
 1. [ChatGPT 还不是最可怕的](https://www.v2ex.com/t/899927)
 1. [没有国外手机号,好想玩 CHATGPT🥺](https://www.v2ex.com/t/899956)
+1. [shell 对于符号的要求好严格啊，有没有智能的 IDE 啊](https://www.v2ex.com/t/900033)
 1. [2022 年大家年终奖怎么样？](https://www.v2ex.com/t/899988)
 1. [私人和重要数据不要存放在笔记软件 Craft 中](https://www.v2ex.com/t/899957)
 
