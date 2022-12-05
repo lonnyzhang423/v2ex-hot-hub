@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-06 01:06:25 +0800`
+ `更新时间：2022-12-06 02:08:48 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [请问有没有办法在 V2EX 屏蔽 chatGPT 回复？](https://www.v2ex.com/t/900131)
 1. [为什么我看到 chatGPT 的回复就恶心？](https://www.v2ex.com/t/900177)
 1. [怎么看因放开都在屯感冒药](https://www.v2ex.com/t/900111)
+1. [淘宝更换 AirPods 电池，耳机被掉包](https://www.v2ex.com/t/900178)
 
 ## 历史归档
 
