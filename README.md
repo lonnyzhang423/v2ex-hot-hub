@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-05 22:06:57 +0800`
+ `更新时间：2022-12-05 23:07:34 +0800`
 
 ## 热议话题
 
 1. [OpenAI 推出超神 ChatGPT 注册攻略来了](https://www.v2ex.com/t/900126)
 1. [2022 就要过去了， 各位怎么评价今年的自己？](https://www.v2ex.com/t/900169)
-1. [挺佩服我一个高中同学和他的父母的](https://www.v2ex.com/t/900058)
 1. [常备药建议：个人/家庭应对奥密克戎物资清单](https://www.v2ex.com/t/900116)
 1. [NAS 伴侣，电费不便宜，能省一点是一点吧](https://www.v2ex.com/t/900105)
 1. [请问有没有办法在 V2EX 屏蔽 chatGPT 回复？](https://www.v2ex.com/t/900131)
 1. [为什么我看到 chatGPT 的回复就恶心？](https://www.v2ex.com/t/900177)
+1. [怎么看因放开都在屯感冒药](https://www.v2ex.com/t/900111)
 
 ## 历史归档
 
