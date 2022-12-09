@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-09 07:08:00 +0800`
+ `更新时间：2022-12-09 08:37:27 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [一到冬天就皮肤痒](https://www.v2ex.com/t/900964)
 1. [2019 快回来了吧](https://www.v2ex.com/t/900966)
 1. [用旧手机给小鹦鹉做了个直播网站](https://www.v2ex.com/t/901039)
-1. [过敏性鼻炎好难受。。。。](https://www.v2ex.com/t/900944)
 1. [共享老式 USB 打印机有啥免费方案吗？](https://www.v2ex.com/t/900994)
+1. [ChatGPT ，能替代程序员吗？](https://www.v2ex.com/t/901052)
 
 ## 历史归档
 
