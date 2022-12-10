@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-10 21:12:39 +0800`
+ `更新时间：2022-12-10 22:06:07 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [今天加班的报个到🙋‍](https://www.v2ex.com/t/901489)
 1. [三体动画马上在 b 站首播，还有不到一个小时，看了下 pv，感觉和小说差别很大](https://www.v2ex.com/t/901482)
 1. [防止 PayPal 风控经验分享](https://www.v2ex.com/t/901493)
-1. [如果我设计了一款能打败 Salesforce 的 SaaS 平台，占多少股份比较合适](https://www.v2ex.com/t/901529)
+1. [求问各位大佬如何选择学习用的发行版](https://www.v2ex.com/t/901479)
 1. [AlDente Pro 那里有车](https://www.v2ex.com/t/901505)
 1. [刚看了 B 站《三体》前两集，谈谈感想。有剧透，注意！](https://www.v2ex.com/t/901528)
 
