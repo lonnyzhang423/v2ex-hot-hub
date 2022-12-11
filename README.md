@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-11 13:06:32 +0800`
+ `更新时间：2022-12-11 14:08:38 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [肉翻后在网络世界里最想做的事？](https://www.v2ex.com/t/901626)
 1. [刚看了 B 站《三体》前两集，谈谈感想。有剧透，注意！](https://www.v2ex.com/t/901528)
 1. [潮州特斯拉肯定是 bug](https://www.v2ex.com/t/901595)
-1. [身份 ID 未来能否改成二维码，有什么难点？](https://www.v2ex.com/t/901663)
 1. [请问下现在在国内如何做好防护呢？](https://www.v2ex.com/t/901551)
+1. [身份 ID 未来能否改成二维码，有什么难点？](https://www.v2ex.com/t/901663)
+1. [某市急救已经近乎停摆，养老院出现集中病逝，各位也请做好准备](https://www.v2ex.com/t/901697)
 1. [如果我设计了一款能打败 Salesforce 的 SaaS 平台，占多少股份比较合适](https://www.v2ex.com/t/901529)
-1. [新版 Mac QQ 上架 App Store 了](https://www.v2ex.com/t/901526)
 
 ## 历史归档
 
