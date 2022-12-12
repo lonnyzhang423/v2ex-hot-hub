@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-13 02:09:07 +0800`
+ `更新时间：2022-12-13 03:08:47 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [双 12 已死](https://www.v2ex.com/t/901832)
 1. [凯美瑞 2022 款](https://www.v2ex.com/t/901910)
 1. [12 月 11 日晚小米出了新品，大家怎么看？](https://www.v2ex.com/t/901826)
-1. [Mac 视频播放器 Fig Player 功能征集，顺便送兑换码](https://www.v2ex.com/t/901988)
 1. [现在去北京旅游有没有什么建议？](https://www.v2ex.com/t/901925)
+1. [Mac 视频播放器 Fig Player 功能征集，顺便送兑换码](https://www.v2ex.com/t/901988)
 
 ## 历史归档
 
