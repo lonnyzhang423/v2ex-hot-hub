@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-13 10:19:01 +0800`
+ `更新时间：2022-12-13 11:16:38 +0800`
 
 ## 热议话题
 
-1. [如何面对一个双商碾压，却喜欢脑控你的亲戚？](https://www.v2ex.com/t/901873)
 1. [疫情放开，都在说中青年，那小孩子怎么办](https://www.v2ex.com/t/901883)
 1. [凯美瑞 2022 款](https://www.v2ex.com/t/901910)
 1. [现在去北京旅游有没有什么建议？](https://www.v2ex.com/t/901925)
 1. [你们的 NAS 部署了什么有趣的服务?](https://www.v2ex.com/t/901954)
 1. [Mac 视频播放器 Fig Player 功能征集，顺便送兑换码](https://www.v2ex.com/t/901988)
+1. [真的要防疫一辈子吗？](https://www.v2ex.com/t/902105)
 1. [非严肃的讨论下这个问题](https://www.v2ex.com/t/901955)
 1. [非常害怕看 bad ending 的作品](https://www.v2ex.com/t/902007)
 
