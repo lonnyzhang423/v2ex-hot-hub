@@ -11,16 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-14 10:17:06 +0800`
+ `更新时间：2022-12-14 11:12:33 +0800`
 
 ## 热议话题
 
 1. [如何看待《三体》里的黑暗森林法则？](https://www.v2ex.com/t/902223)
 1. [光猫改桥接，还有啥必要？](https://www.v2ex.com/t/902139)
-1. [为什么程序员如此喜欢猫咪？](https://www.v2ex.com/t/902270)
-1. [😂喜闻乐见系列之： iPhone14pro 512G 到手不到一个月，已经丢失了](https://www.v2ex.com/t/902226)
-1. [好奇大家吃饭时看什么下饭？](https://www.v2ex.com/t/902356)
 1. [身边的同事羊了，我说说我的经历和想法](https://www.v2ex.com/t/902350)
+1. [为什么程序员如此喜欢猫咪？](https://www.v2ex.com/t/902270)
+1. [好奇大家吃饭时看什么下饭？](https://www.v2ex.com/t/902356)
+1. [😂喜闻乐见系列之： iPhone14pro 512G 到手不到一个月，已经丢失了](https://www.v2ex.com/t/902226)
+1. [2022 年冬月, Java 后端工程师拒绝使用 kotlin 的技术原因有哪些?](https://www.v2ex.com/t/902298)
 
 ## 历史归档
 
