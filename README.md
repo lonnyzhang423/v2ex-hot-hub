@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-16 06:06:18 +0800`
+ `更新时间：2022-12-16 07:07:28 +0800`
 
 ## 热议话题
 
 1. [年终了，一起来抽个 iPhone 14 Pro 过年呀](https://www.v2ex.com/t/902614)
-1. [公司至少有 40%的人都🐑了....](https://www.v2ex.com/t/902615)
 1. [dev.com.cn 征集中文名称](https://www.v2ex.com/t/902635)
 1. [苹果好大一步棋啊...这次 IPADOS 16.2 让我看到了某些东西](https://www.v2ex.com/t/902617)
 1. [每个人都是自己健康的第一责任人](https://www.v2ex.com/t/902715)
