@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-20 00:10:59 +0800`
+ `更新时间：2022-12-20 01:05:26 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [大佬们，能帮我看下应该选择哪个 offer](https://www.v2ex.com/t/903473)
 1. [贵司如何处理阳和疑似阳？](https://www.v2ex.com/t/903460)
 1. [狗东买东西不发货怎么办](https://www.v2ex.com/t/903402)
-1. [微信输入法 iOS](https://www.v2ex.com/t/903443)
 1. [高烧 3 天 3 夜，吃了退烧药也不降温，去医院，医生说没事，让我回家继续扛着](https://www.v2ex.com/t/903425)
+1. [微信输入法 iOS](https://www.v2ex.com/t/903443)
 1. [Python 为什么如此设计？](https://www.v2ex.com/t/903396)
 1. [一毫升一元的预算, 内壁最光滑的杯子购买求助.](https://www.v2ex.com/t/903418)
 
