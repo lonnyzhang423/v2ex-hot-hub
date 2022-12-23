@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-23 16:08:59 +0800`
+ `更新时间：2022-12-23 17:06:45 +0800`
 
 ## 热议话题
 
 1. [碰到这样的对象，如何离婚或者解决问题](https://www.v2ex.com/t/904157)
-1. [辉瑞新冠特效药 Paxlovid 组团代购](https://www.v2ex.com/t/904193)
 1. [建议各位都应选择 120 瓦以上快充的手机](https://www.v2ex.com/t/904204)
+1. [辉瑞新冠特效药 Paxlovid 组团代购](https://www.v2ex.com/t/904193)
 1. [来了 2023，大家来晒下 2022 年已入新产品和 2023 年想入的种草物吧](https://www.v2ex.com/t/904249)
-1. [老婆怀孕我申请居家办公半个月过分吗？](https://www.v2ex.com/t/904239)
-1. [同事嫌弃是病毒](https://www.v2ex.com/t/904151)
-1. [花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore](https://www.v2ex.com/t/904226)
 1. [2022 年 12 月 22 日，全国报告新增确诊病例 3761 例，无新增死亡病例？](https://www.v2ex.com/t/904290)
+1. [老婆怀孕我申请居家办公半个月过分吗？](https://www.v2ex.com/t/904239)
+1. [花了两个多月做了一个 V 站客户端- AwesomeV2ex，不仅好看而且功能很齐全，已上架 AppStore](https://www.v2ex.com/t/904226)
 1. [千万不要用柠檬清理！全军覆没！](https://www.v2ex.com/t/904224)
 
 ## 历史归档
