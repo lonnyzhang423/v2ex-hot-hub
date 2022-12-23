@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-24 01:06:06 +0800`
+ `更新时间：2022-12-24 02:08:06 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [什么样的人才会买 lianhua qingwen？](https://www.v2ex.com/t/904257)
 1. [千万不要用柠檬清理！全军覆没！](https://www.v2ex.com/t/904224)
 1. [WPS 不登录不允许使用？](https://www.v2ex.com/t/904314)
-1. [对于奥密克戎，很多人好像有比较高的预期](https://www.v2ex.com/t/904296)
+1. [MIUI14 是真的特么的拉胯啊](https://www.v2ex.com/t/904289)
 
 ## 历史归档
 
