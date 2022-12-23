@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-23 07:07:39 +0800`
+ `更新时间：2022-12-23 08:34:57 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [阳的比例有点假，有很多人借阳休假](https://www.v2ex.com/t/904124)
 1. [windows 越来越霸道了，竟然半夜自动开机](https://www.v2ex.com/t/904068)
 1. [现在的人啊，说话全是情绪。](https://www.v2ex.com/t/904130)
-1. [发布一款可以隐藏 App 的小工具: Cloak](https://www.v2ex.com/t/904132)
 1. [你为什么被裁员](https://www.v2ex.com/t/904066)
+1. [发布一款可以隐藏 App 的小工具: Cloak](https://www.v2ex.com/t/904132)
 1. [今年听过/读过对你影响最大的播客/书？](https://www.v2ex.com/t/904057)
 
 ## 历史归档
