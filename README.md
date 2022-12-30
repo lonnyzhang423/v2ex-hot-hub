@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-30 16:08:53 +0800`
+ `更新时间：2022-12-30 17:06:33 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,10 @@
 1. [靠年龄来营销自己是否已经成为社会舆论的正确导向？](https://www.v2ex.com/t/905496)
 1. [13 岁初中生写的一个简单 Typescript mirai-api-http 对接库](https://www.v2ex.com/t/905504)
 1. [毕业工作 7 年了，你们还有联系的大学同学吗？](https://www.v2ex.com/t/905528)
-1. [阿兹夫定片，网上一查，不敢吃](https://www.v2ex.com/t/905448)
 1. [苹果的 ARM M 系列芯片似乎在 CPU、GPU 性能方面逐渐被竞争对手超越甚至碾压，专业视频制作领域也逐渐失势](https://www.v2ex.com/t/905506)
+1. [阿兹夫定片，网上一查，不敢吃](https://www.v2ex.com/t/905448)
+1. [Windows 上有没有一款好用的 PDF 阅读器？](https://www.v2ex.com/t/905548)
+1. [2026 年起全面禁止生产水银温度计](https://www.v2ex.com/t/905529)
 1. [总结开源项目中的常见坏实践（Bad Practice）](https://www.v2ex.com/t/905432)
 
 ## 历史归档
