@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-31 12:07:56 +0800`
+ `更新时间：2022-12-31 13:06:09 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [我怎么感觉 Golang 并不简单，也很复杂](https://www.v2ex.com/t/905569)
 1. [各位都打算怎么跨年](https://www.v2ex.com/t/905584)
 1. [有个疑惑很久的问题，男厕小便时为什么有人边玩手机边 XX？](https://www.v2ex.com/t/905591)
-1. [自建 NAS 方案分享](https://www.v2ex.com/t/905583)
-1. [苹果的新系统 ventura 真的烂哦](https://www.v2ex.com/t/905655)
 1. [调查家宽访问挂 CF 网站的速度](https://www.v2ex.com/t/905693)
+1. [苹果的新系统 ventura 真的烂哦](https://www.v2ex.com/t/905655)
+1. [自建 NAS 方案分享](https://www.v2ex.com/t/905583)
 
 ## 历史归档
 
