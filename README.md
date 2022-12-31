@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-31 10:03:35 +0800`
+ `更新时间：2022-12-31 11:07:37 +0800`
 
 ## 热议话题
 
 1. [得新冠转阴之后多久能洗澡呢](https://www.v2ex.com/t/905547)
-1. [毕业工作 7 年了，你们还有联系的大学同学吗？](https://www.v2ex.com/t/905528)
 1. [Windows 上有没有一款好用的 PDF 阅读器？](https://www.v2ex.com/t/905548)
-1. [抽奖送话费， DTO 社区祝大家 2023 年好运连连](https://www.v2ex.com/t/905509)
-1. [2026 年起全面禁止生产水银温度计](https://www.v2ex.com/t/905529)
 1. [有点好奇 v2 上小时候就开始接触编程的人，长大后都在做什么](https://www.v2ex.com/t/905579)
 1. [聊聊我的 14 岁](https://www.v2ex.com/t/905642)
 1. [怎么有人能因为自己无知而攻击别人啊？](https://www.v2ex.com/t/905575)
-1. [想到一个问题，为什么电脑不跟手机一样内置震动马达呢](https://www.v2ex.com/t/905511)
+1. [我怎么感觉 Golang 并不简单，也很复杂](https://www.v2ex.com/t/905569)
+1. [各位都打算怎么跨年](https://www.v2ex.com/t/905584)
+1. [有个疑惑很久的问题，男厕小便时为什么有人边玩手机边 XX？](https://www.v2ex.com/t/905591)
+1. [自建 NAS 方案分享](https://www.v2ex.com/t/905583)
 
 ## 历史归档
 
