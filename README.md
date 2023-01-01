@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-02 05:05:56 +0800`
+ `更新时间：2023-01-02 06:06:04 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [凭 Apple 的实力 Macbook Air 应该是能做到 1kg 以下的](https://www.v2ex.com/t/905869)
 1. [笑死，自己把自己焊死了，求解](https://www.v2ex.com/t/905878)
 1. [国内做币圈自动交易程序违法吗？](https://www.v2ex.com/t/905892)
-1. [2023 求大神推荐免费抗造的电视盒子 APP，拜谢了。](https://www.v2ex.com/t/905907)
+1. [罗技 MX Keys Mini 是最垃圾的键盘之一](https://www.v2ex.com/t/905931)
 
 ## 历史归档
 
