@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-05 22:06:47 +0800`
+ `更新时间：2023-01-05 23:08:27 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [作为程序员，你可以开发一个 12306 嘛](https://www.v2ex.com/t/906691)
 1. [[抽奖送码] Gotcha Rest Client 更新 1.6.0 版本，实现了完整的 API 设计功能。基础功能永久免费，评论抽取 20 个价值 98 元的专业版兑换码。](https://www.v2ex.com/t/906718)
 1. [招商银行借钱年化 3.72%，可以冲么？](https://www.v2ex.com/t/906665)
-1. [Flutter 是未来 app 编程的趋势么？](https://www.v2ex.com/t/906622)
-1. [统计一下 v 友们最近 5 年用过的电脑](https://www.v2ex.com/t/906626)
 1. [如何避免屎山代码，理论上可行的思路](https://www.v2ex.com/t/906667)
-1. [红魔 8Pro+、一加 11、小米 13 Pro 三部手机，大家推荐哪部？](https://www.v2ex.com/t/906629)
+1. [NAS 有必要配一个 UPS 吗](https://www.v2ex.com/t/906654)
+1. [玩原神最正确的姿势是？](https://www.v2ex.com/t/906663)
+1. [个人家用服务器，帮忙给点意见](https://www.v2ex.com/t/906683)
 
 ## 历史归档
 
