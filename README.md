@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-06 17:07:19 +0800`
+ `更新时间：2023-01-06 18:07:29 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [tesla 降价了](https://www.v2ex.com/t/906917)
 1. [今年大家，有推荐的书吗？](https://www.v2ex.com/t/906929)
 1. [🦠开放后，怎么安全的理发](https://www.v2ex.com/t/906909)
-1. [对开发者来说， uTools 和 He3 哪个更好用？](https://www.v2ex.com/t/906905)
 1. [过来人建议各位前后端 [软件] 工程师，慎入硬件相关的工作](https://www.v2ex.com/t/906962)
+1. [对开发者来说， uTools 和 He3 哪个更好用？](https://www.v2ex.com/t/906905)
 1. [我原以为现在的节假日调休很离谱了，直到看到我们公司的放假安排](https://www.v2ex.com/t/906904)
 1. [52 度五粮液和 43 度茅台怎么选](https://www.v2ex.com/t/906958)
 
