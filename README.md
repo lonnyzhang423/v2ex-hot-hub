@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-09 06:05:58 +0800`
+ `更新时间：2023-01-09 07:06:41 +0800`
 
 ## 热议话题
 
-1. [QQ 被封号](https://www.v2ex.com/t/907325)
 1. [回国还是留加？ 30 岁，似乎该做抉择了](https://www.v2ex.com/t/907408)
+1. [QQ 被封号](https://www.v2ex.com/t/907325)
 1. [2022 年最喜欢的剧](https://www.v2ex.com/t/907303)
 1. [你有没有觉得兔年的“蓝兔”邮票有点怪……](https://www.v2ex.com/t/907337)
 1. [老婆下周生日，送点什么礼物好？](https://www.v2ex.com/t/907326)
