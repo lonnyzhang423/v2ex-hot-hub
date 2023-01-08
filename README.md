@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-08 20:11:22 +0800`
+ `更新时间：2023-01-08 21:10:48 +0800`
 
 ## 热议话题
 
 1. [请教成功经验，怎么减少看 b 站？](https://www.v2ex.com/t/907263)
-1. [QQ 被封号](https://www.v2ex.com/t/907325)
 1. [2022 年最喜欢的剧](https://www.v2ex.com/t/907303)
+1. [QQ 被封号](https://www.v2ex.com/t/907325)
 1. [老婆下周生日，送点什么礼物好？](https://www.v2ex.com/t/907326)
 1. [你有没有觉得兔年的“蓝兔”邮票有点怪……](https://www.v2ex.com/t/907337)
 1. [关于闲钱理财](https://www.v2ex.com/t/907316)
-1. [吃素了一个月，发现性欲下降了](https://www.v2ex.com/t/907290)
 1. [有没有阳完一直咳嗽的老哥去医院看过的，医生都给开了啥药啊？](https://www.v2ex.com/t/907327)
+1. [吃素了一个月，发现性欲下降了](https://www.v2ex.com/t/907290)
 1. [科学上网推荐](https://www.v2ex.com/t/907343)
 
 ## 历史归档
