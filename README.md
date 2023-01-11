@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-11 19:06:16 +0800`
+ `更新时间：2023-01-11 20:13:24 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [坐标帝都 求买车建议](https://www.v2ex.com/t/908066)
 1. [先买一台二手 mbp](https://www.v2ex.com/t/908074)
 1. [iOS App Store 今天推了这个神棍..](https://www.v2ex.com/t/908048)
-1. [2023 年，来推荐你最喜爱的火锅料](https://www.v2ex.com/t/908001)
 1. [关于 zfs](https://www.v2ex.com/t/908021)
+1. [建行是准备关门了么？建行卡被交易限额 3000 一天。](https://www.v2ex.com/t/908184)
 1. [第一波🐑是不是已经过了啊？](https://www.v2ex.com/t/908089)
 
 ## 历史归档
