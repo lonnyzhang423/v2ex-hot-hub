@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-14 07:06:55 +0800`
+ `更新时间：2023-01-14 08:35:51 +0800`
 
 ## 热议话题
 
 1. [如果委婉不伤感情的要回借出去的信用卡。](https://www.v2ex.com/t/908644)
-1. [大雾天开双闪真的没用](https://www.v2ex.com/t/908586)
 1. [90 后终结酒桌文化就是无稽之谈](https://www.v2ex.com/t/908634)
 1. [大佬们春节都发了什么礼物了？](https://www.v2ex.com/t/908672)
 1. [线上遗产转移方案？](https://www.v2ex.com/t/908607)
 1. [各位程序员逢年过节给领导送礼么？](https://www.v2ex.com/t/908629)
 1. [大家"讨厌"过年吗?](https://www.v2ex.com/t/908695)
-1. [在路上](https://www.v2ex.com/t/908582)
-1. [各位大佬, 请问怎么收美元打工收入?](https://www.v2ex.com/t/908587)
 1. [工资为什么是按月发？](https://www.v2ex.com/t/908658)
+1. [你的创业想法，值 10 亿美金吗？](https://www.v2ex.com/t/908595)
+1. [有好看的美剧推荐吗](https://www.v2ex.com/t/908716)
 
 ## 历史归档
 
