@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-14 19:04:50 +0800`
+ `更新时间：2023-01-14 20:11:16 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [幅员如此辽阔，人们却都向着几个点聚集。](https://www.v2ex.com/t/908907)
 1. [请问 mac 有没有像 iPhone 一样的统一推送呀](https://www.v2ex.com/t/908814)
 1. [你们会给 airpods pro 套保护套吗？](https://www.v2ex.com/t/908781)
-1. [上海蟑螂多吗？](https://www.v2ex.com/t/908815)
+1. [一个直男却喜欢女生专有色是否正常](https://www.v2ex.com/t/908910)
 
 ## 历史归档
 
