@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-14 13:06:24 +0800`
+ `更新时间：2023-01-14 14:08:39 +0800`
 
 ## 热议话题
 
-1. [大佬们春节都发了什么礼物了？](https://www.v2ex.com/t/908672)
 1. [大家"讨厌"过年吗?](https://www.v2ex.com/t/908695)
 1. [有好看的美剧推荐吗](https://www.v2ex.com/t/908716)
 1. [搬瓦工神鸡来了 2c2g40g 1T 月流量，虽然要 99 刀/年](https://www.v2ex.com/t/908759)
-1. [有什么东西你接触的时候，会改变世界观？](https://www.v2ex.com/t/908787)
 1. [本地论坛看到一个大专生发的收入](https://www.v2ex.com/t/908766)
-1. [试了下群晖 VMM 跑 Win10，真的不堪用](https://www.v2ex.com/t/908671)
+1. [有什么东西你接触的时候，会改变世界观？](https://www.v2ex.com/t/908787)
 1. [微博广告这是疯了吧…](https://www.v2ex.com/t/908698)
+1. [去年裸辞全职做开源后，趁快过年说说这一年的经历。](https://www.v2ex.com/t/908861)
+1. [到底 2022 年最流行的语言，是 C++还是 JavaScript 啊？](https://www.v2ex.com/t/908786)
 1. [爱奇艺投屏限制 480p](https://www.v2ex.com/t/908713)
-1. [搞技术的你们都写月报吗？](https://www.v2ex.com/t/908702)
+1. [考编制会不会成为大多数年轻人的重要出路？](https://www.v2ex.com/t/908862)
 
 ## 历史归档
 
