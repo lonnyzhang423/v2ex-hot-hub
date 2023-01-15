@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-15 17:06:37 +0800`
+ `更新时间：2023-01-15 18:06:41 +0800`
 
 ## 热议话题
 
-1. [你了解你喝的水足够健康吗？](https://www.v2ex.com/t/908930)
 1. [有 35 以上的程序员么，是管理岗还是一线岗？](https://www.v2ex.com/t/908947)
 1. [巨硬，我真服了你](https://www.v2ex.com/t/909010)
 1. [心态崩了，面了 9 家公司，面过 8 家，但几乎没有公司发 offer 下来](https://www.v2ex.com/t/909005)
@@ -23,8 +22,9 @@
 1. [求教，为啥 PT 没有速度](https://www.v2ex.com/t/908942)
 1. [中国联通好像收不到国外的短信？](https://www.v2ex.com/t/908969)
 1. [国内有什么好的软件或者服务值得购买么？（仅考虑虚拟产品）](https://www.v2ex.com/t/908998)
-1. [2023 年了， surface pro 和 macbook pro 比还是电子垃圾吗](https://www.v2ex.com/t/908922)
 1. [鬼迷心窍 8 折买了 Gift Card，求问苹果会封号连坐吗？](https://www.v2ex.com/t/908988)
+1. [分享下自己的 2023 微信新年红包封面](https://www.v2ex.com/t/909063)
+1. [Gradle 还是 Maven?](https://www.v2ex.com/t/909047)
 
 ## 历史归档
 
