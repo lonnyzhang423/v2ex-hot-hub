@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-18 01:06:33 +0800`
+ `更新时间：2023-01-18 02:08:35 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [为啥美剧里这么多黄段子？感觉很低俗](https://www.v2ex.com/t/909547)
 1. [传言明天苹果将发布新的 Macbook Pro 14 寸和 16 寸](https://www.v2ex.com/t/909397)
 1. [职场 CPU 真的有效么](https://www.v2ex.com/t/909429)
-1. [有没有阳康两个礼拜还咳嗽的？](https://www.v2ex.com/t/909399)
 1. [qq 邮箱是没人维护了？](https://www.v2ex.com/t/909420)
-1. [有对象/已结婚的情况下，还有一些经常联系的异性网友，这不正常吗？](https://www.v2ex.com/t/909447)
+1. [苹果已发布 M2 pro 和 M2 max](https://www.v2ex.com/t/909581)
+1. [有没有阳康两个礼拜还咳嗽的？](https://www.v2ex.com/t/909399)
 
 ## 历史归档
 
