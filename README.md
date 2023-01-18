@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-18 15:06:51 +0800`
+ `更新时间：2023-01-18 16:09:44 +0800`
 
 ## 热议话题
 
-1. [谈谈我未来为什么不买新能源](https://www.v2ex.com/t/909508)
 1. [这个点还有人上班吗？进来聊聊](https://www.v2ex.com/t/909639)
 1. [兔年红包封面，欢迎领取👏](https://www.v2ex.com/t/909539)
 1. [网易否决暴雪顺延六个月提案、23 日将中止国服游戏服务](https://www.v2ex.com/t/909545)
@@ -24,6 +23,7 @@
 1. [华强北 AirPods 真香](https://www.v2ex.com/t/909521)
 1. [各位对个人电脑安全做到什么程度了？](https://www.v2ex.com/t/909634)
 1. [有没有懂物理的同学，一个简单问题求教](https://www.v2ex.com/t/909687)
+1. [新 MacBook Pro 16 寸起售 2W， SSD 才 512G](https://www.v2ex.com/t/909637)
 
 ## 历史归档
 
