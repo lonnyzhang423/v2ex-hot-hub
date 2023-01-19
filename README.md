@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-20 06:06:48 +0800`
+ `更新时间：2023-01-20 07:07:40 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814)
 1. [小县城低学历运维人员生存指南](https://www.v2ex.com/t/909824)
 1. [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851)
+1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914)
 1. [我在高速上追尾了别人，家人们, 路上开车一定要注意安全](https://www.v2ex.com/t/909810)
-1. [如果养宠物总是要分别伤心难受，为什么还要养？](https://www.v2ex.com/t/909871)
 
 ## 历史归档
 
