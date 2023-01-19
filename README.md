@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-19 18:07:57 +0800`
+ `更新时间：2023-01-19 19:06:36 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [国内玩家是真惨。百度搜个 steam，前几条都是山寨网站](https://www.v2ex.com/t/909768)
 1. [第二代 HomePod 来了](https://www.v2ex.com/t/909786)
 1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814)
+1. [小县城低学历运维人员生存指南](https://www.v2ex.com/t/909824)
 1. [跑不跑？](https://www.v2ex.com/t/909771)
-1. [小程序差一点合作成功](https://www.v2ex.com/t/909803)
 
 ## 历史归档
 
