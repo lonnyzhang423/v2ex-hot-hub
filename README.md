@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-20 07:07:40 +0800`
+ `更新时间：2023-01-20 08:38:18 +0800`
 
 ## 热议话题
 
-1. [兔年送码大福利！这一次来真的： iNFC Pro / iTelevision Pro / iSMS Pro / iContact Pro / iDraft Pro 五选 1，留下 [邮箱+选项] ，全部送完，送完为止！](https://www.v2ex.com/t/909811)
+1. [大过年了，和老婆吵了一架，年饭都不想准备了](https://www.v2ex.com/t/909948)
 1. [请问如何保存网上看到的好帖子、文章等？](https://www.v2ex.com/t/909823)
 1. [大家今年都拿了几个月年终奖？](https://www.v2ex.com/t/909860)
-1. [大过年了，和老婆吵了一架，年饭都不想准备了](https://www.v2ex.com/t/909948)
 1. [Homepod 2 值得买吗？](https://www.v2ex.com/t/909814)
+1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914)
 1. [小县城低学历运维人员生存指南](https://www.v2ex.com/t/909824)
 1. [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851)
-1. [非 MacOS 用户值得入手这次学生优惠的 MacMini 吗？](https://www.v2ex.com/t/909914)
-1. [我在高速上追尾了别人，家人们, 路上开车一定要注意安全](https://www.v2ex.com/t/909810)
+1. [如果养宠物总是要分别伤心难受，为什么还要养？](https://www.v2ex.com/t/909871)
+1. [装个畅玩巫师三的主机，但是 1700 块](https://www.v2ex.com/t/909856)
 
 ## 历史归档
 
