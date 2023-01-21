@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-21 18:06:26 +0800`
+ `更新时间：2023-01-21 19:05:08 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [五年“老”司机，不敢开车正常吗](https://www.v2ex.com/t/910100)
 1. [问下大家，你们的手机套餐都是多少钱的啊？](https://www.v2ex.com/t/910133)
 1. [提供一个 5 折购买 Apple 产品的方法](https://www.v2ex.com/t/910121)
-1. [好几次这样的情况 发现谁都不需要同情~](https://www.v2ex.com/t/910090)
 1. [Windows11 还是 win10LTSC？](https://www.v2ex.com/t/910129)
-1. [macbook pro 刘海问题让我觉得苹果真的是爸爸。](https://www.v2ex.com/t/910067)
+1. [好几次这样的情况 发现谁都不需要同情~](https://www.v2ex.com/t/910090)
 1. [Mac 每隔 10s 卡顿一次，疑难杂症请求各位大神给点思路](https://www.v2ex.com/t/910082)
 1. [2023 年了，三大通讯运营商的手机卡默认分配 IPV6 地址了吧？](https://www.v2ex.com/t/910127)
+1. [AppStore 微信九折充值余额活动又开始了](https://www.v2ex.com/t/910102)
 
 ## 历史归档
 
