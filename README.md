@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-22 02:07:41 +0800`
+ `更新时间：2023-01-22 03:04:44 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [没人告诉我除夕夜外卖关门导致我要饿肚子一晚](https://www.v2ex.com/t/910190)
 1. [求求有婚姻经验的老哥，可以指点一下家里的事](https://www.v2ex.com/t/910125)
 1. [Windows11 还是 win10LTSC？](https://www.v2ex.com/t/910129)
-1. [春晚](https://www.v2ex.com/t/910157)
 1. [可怕的古老节日禁忌](https://www.v2ex.com/t/910195)
 1. [2023 年了，三大通讯运营商的手机卡默认分配 IPV6 地址了吧？](https://www.v2ex.com/t/910127)
+1. [春晚](https://www.v2ex.com/t/910157)
 1. [海外中文原创小说平台](https://www.v2ex.com/t/910160)
 1. [iOS 用户喜提安卓用户同款支付宝图标](https://www.v2ex.com/t/910135)
 
