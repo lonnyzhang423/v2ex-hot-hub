@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-23 00:07:55 +0800`
+ `更新时间：2023-01-23 01:05:42 +0800`
 
 ## 热议话题
 
-1. [老哥们给推荐点有趣的爱好吧！](https://www.v2ex.com/t/910210)
 1. [过年回家开心么大家](https://www.v2ex.com/t/910234)
 1. [疲于每年各种问 WiFi 密码，开发了一个扫码连 WiFi 的小程序](https://www.v2ex.com/t/910232)
 1. [一个很有趣的发现](https://www.v2ex.com/t/910215)
@@ -25,6 +24,7 @@
 1. [提高网站速度的第二种思路](https://www.v2ex.com/t/910229)
 1. [为什么 Electron 不推出公共运行时？](https://www.v2ex.com/t/910242)
 1. [getUserId 还是 getUserID?](https://www.v2ex.com/t/910246)
+1. [Twitter 真狠， Spring 也挂了](https://www.v2ex.com/t/910247)
 
 ## 历史归档
 
