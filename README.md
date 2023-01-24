@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-24 20:12:59 +0800`
+ `更新时间：2023-01-24 21:14:30 +0800`
 
 ## 热议话题
 
 1. [老婆昨晚对我说的话搞得我一晚没睡好](https://www.v2ex.com/t/910406)
 1. [即将第一次看车、买车，求点经验](https://www.v2ex.com/t/910425)
 1. [十几二十年没联系的一班同学找你开同学会](https://www.v2ex.com/t/910411)
-1. [iOS 和 mac OS 都有新版本了](https://www.v2ex.com/t/910409)
 1. [吐槽下现在的羞羞视频](https://www.v2ex.com/t/910418)
-1. [为什么最近国外科技公司裁员消息那么多😶‍🌫️](https://www.v2ex.com/t/910414)
+1. [iOS 和 mac OS 都有新版本了](https://www.v2ex.com/t/910409)
 1. [过年都是怎么应付亲戚的](https://www.v2ex.com/t/910415)
 1. [jellyfin/emby/plex/kodi 的最佳实践是什么?](https://www.v2ex.com/t/910440)
-1. [现在电脑网页端用户真的不如狗](https://www.v2ex.com/t/910379)
+1. [为什么最近国外科技公司裁员消息那么多😶‍🌫️](https://www.v2ex.com/t/910414)
 1. [在众多新能源车企中，为何特斯拉受到了如此多的争议？](https://www.v2ex.com/t/910443)
+1. [大厂里都有哪些基础设施是小厂难见到的？](https://www.v2ex.com/t/910430)
 
 ## 历史归档
 
