@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-25 13:06:39 +0800`
+ `更新时间：2023-01-25 14:09:27 +0800`
 
 ## 热议话题
 
-1. [在众多新能源车企中，为何特斯拉受到了如此多的争议？](https://www.v2ex.com/t/910443)
-1. [如何劝说家里迷信和传统的人](https://www.v2ex.com/t/910469)
 1. [别的地方没人讨论流浪地球 2 中的 550 系列量子计算机，所以我来这里发个贴。](https://www.v2ex.com/t/910450)
 1. [兄弟们，我完了，人设彻底崩溃了，怎么办呀](https://www.v2ex.com/t/910527)
-1. [jellyfin/emby/plex/kodi 的最佳实践是什么?](https://www.v2ex.com/t/910440)
-1. [这个年过的，真不舒服](https://www.v2ex.com/t/910529)
-1. [大厂里都有哪些基础设施是小厂难见到的？](https://www.v2ex.com/t/910430)
+1. [如何劝说家里迷信和传统的人](https://www.v2ex.com/t/910469)
+1. [在众多新能源车企中，为何特斯拉受到了如此多的争议？](https://www.v2ex.com/t/910443)
 1. [Airpods Pro 2 真的把 Bose QC35 Ⅱ秒了](https://www.v2ex.com/t/910502)
+1. [这个年过的，真不舒服](https://www.v2ex.com/t/910529)
+1. [jellyfin/emby/plex/kodi 的最佳实践是什么?](https://www.v2ex.com/t/910440)
 1. [大年初一丢了 1000，这是吉兆还是凶兆？](https://www.v2ex.com/t/910487)
 1. [老婆一年多没上班了。](https://www.v2ex.com/t/910475)
+1. [关于便*问题](https://www.v2ex.com/t/910519)
 
 ## 历史归档
 
