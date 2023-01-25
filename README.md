@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-26 00:09:16 +0800`
+ `更新时间：2023-01-26 01:06:21 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [windows 11 固态硬盘 大内存, pagefile.sys swapfile.sys 和 hiberfil.sys 能删吗?](https://www.v2ex.com/t/910542)
 1. [3 年多 iPhone11 电池健康降到 79 了，现在耗电非常快，问下官方换电池要多久 价格多少，靠谱吗，不开国产软件一点不卡，还打算再当主力机用 3 年](https://www.v2ex.com/t/910561)
 1. [新产品求赐名](https://www.v2ex.com/t/910532)
-1. [现在买个什么魅族手机？](https://www.v2ex.com/t/910528)
 1. [原来电车刹车失灵很可能是因为“电子助力”失效导致的？](https://www.v2ex.com/t/910530)
+1. [现在买个什么魅族手机？](https://www.v2ex.com/t/910528)
 
 ## 历史归档
 
