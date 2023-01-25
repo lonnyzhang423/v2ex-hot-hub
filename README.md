@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-25 21:14:34 +0800`
+ `更新时间：2023-01-25 22:06:44 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [关于便*问题](https://www.v2ex.com/t/910519)
 1. [windows 11 固态硬盘 大内存, pagefile.sys swapfile.sys 和 hiberfil.sys 能删吗?](https://www.v2ex.com/t/910542)
 1. [3 年多 iPhone11 电池健康降到 79 了，现在耗电非常快，问下官方换电池要多久 价格多少，靠谱吗，不开国产软件一点不卡，还打算再当主力机用 3 年](https://www.v2ex.com/t/910561)
+1. [有的女生真的很奇怪](https://www.v2ex.com/t/910629)
 1. [新产品求赐名](https://www.v2ex.com/t/910532)
-1. [你们那边的宽带可用率是多少？](https://www.v2ex.com/t/910493)
 1. [现在买个什么魅族手机？](https://www.v2ex.com/t/910528)
 
 ## 历史归档
