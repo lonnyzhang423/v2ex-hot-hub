@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-28 06:06:37 +0800`
+ `更新时间：2023-01-28 07:06:41 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [什么是思想开放，什么是思想保守？](https://www.v2ex.com/t/910826)
 1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836)
 1. [其实固态硬盘真的没必要买太好的](https://www.v2ex.com/t/910866)
-1. [CS 本科生 - 迷茫，改行 有多普遍，哪些原因造成的？](https://www.v2ex.com/t/910799)
 1. [马斯克果然厉害](https://www.v2ex.com/t/910857)
+1. [求推荐一款 MikroTik 下的有线主路由](https://www.v2ex.com/t/910842)
 
 ## 历史归档
 
