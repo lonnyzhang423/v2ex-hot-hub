@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-28 05:06:11 +0800`
+ `更新时间：2023-01-28 06:06:37 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [和一位 art director 聊了一下，感觉目前的 AI 已经很可怕了](https://www.v2ex.com/t/910801)
 1. [农村居住环境的改善](https://www.v2ex.com/t/910807)
 1. [新的安卓系统的“内存拓展”有意义吗？](https://www.v2ex.com/t/910834)
+1. [如果我在 sz 有一套 250 平的房子，会怎么样](https://www.v2ex.com/t/910854)
 1. [什么是思想开放，什么是思想保守？](https://www.v2ex.com/t/910826)
 1. [Google ONE VPN 折腾记录](https://www.v2ex.com/t/910836)
-1. [如果我在 sz 有一套 250 平的房子，会怎么样](https://www.v2ex.com/t/910854)
 1. [其实固态硬盘真的没必要买太好的](https://www.v2ex.com/t/910866)
 1. [CS 本科生 - 迷茫，改行 有多普遍，哪些原因造成的？](https://www.v2ex.com/t/910799)
 1. [马斯克果然厉害](https://www.v2ex.com/t/910857)
