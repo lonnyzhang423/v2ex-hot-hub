@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-01-29 12:07:51 +0800`
+ `更新时间：2023-01-29 13:06:29 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [提前还房贷，有没有必要](https://www.v2ex.com/t/911059)
 1. [似乎没有看到有讨论金税四期的？（上海）](https://www.v2ex.com/t/911103)
 1. [为啥正版软件这么贵](https://www.v2ex.com/t/911182)
-1. [求一个在 mac 上使用 Python 的姿势](https://www.v2ex.com/t/911097)
 1. [要买房了，有什么建议](https://www.v2ex.com/t/911245)
+1. [求一个在 mac 上使用 Python 的姿势](https://www.v2ex.com/t/911097)
 
 ## 历史归档
 
