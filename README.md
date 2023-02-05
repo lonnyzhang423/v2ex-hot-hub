@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-05 07:06:40 +0800`
+ `更新时间：2023-02-05 08:41:28 +0800`
 
 ## 热议话题
 
-1. [老年人辛辛苦苦攒一辈子钱 就是为了多住几天 ICU 吗?](https://www.v2ex.com/t/913080)
 1. [不想打工，投入 30w 能干啥？买个教训？](https://www.v2ex.com/t/913106)
-1. [打工没有出路，程序员关于副业、独立开发者的思考。](https://www.v2ex.com/t/913117)
 1. [各位开 iCloud 的都拿来存什么？](https://www.v2ex.com/t/913094)
+1. [打工没有出路，程序员关于副业、独立开发者的思考。](https://www.v2ex.com/t/913117)
 1. [电话卡小号求推荐](https://www.v2ex.com/t/913135)
 1. [日常轻度使用场景 12.9 寸的 iPad Pro 和 MacBook Air 大家会怎么选？](https://www.v2ex.com/t/913090)
 1. [过年期间在重庆老家花 9 万买了一套 100 平的精装房](https://www.v2ex.com/t/913161)
 1. [求推荐个轻量级编辑器，主要作为 vscode 的补充](https://www.v2ex.com/t/913193)
 1. [看完三体电视剧被恶心到了](https://www.v2ex.com/t/913149)
+1. [「🎉福利送码」熊猫吃短信 - 一款非常牛的 iOS 离线拦截短信 app](https://www.v2ex.com/t/913200)
 1. [高并发场景下如何设计播放器上报播放进度？](https://www.v2ex.com/t/913096)
 
 ## 历史归档
