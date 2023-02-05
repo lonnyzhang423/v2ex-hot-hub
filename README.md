@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-05 13:06:43 +0800`
+ `更新时间：2023-02-05 14:08:32 +0800`
 
 ## 热议话题
 
 1. [看完三体电视剧被恶心到了](https://www.v2ex.com/t/913149)
 1. [过年期间在重庆老家花 9 万买了一套 100 平的精装房](https://www.v2ex.com/t/913161)
-1. [电话卡小号求推荐](https://www.v2ex.com/t/913135)
-1. [求推荐个轻量级编辑器，主要作为 vscode 的补充](https://www.v2ex.com/t/913193)
 1. [「🎉福利送码」熊猫吃短信 - 一款非常牛的 iOS 离线拦截短信 app](https://www.v2ex.com/t/913200)
+1. [求推荐个轻量级编辑器，主要作为 vscode 的补充](https://www.v2ex.com/t/913193)
 1. [RPC 和 http 相比优势在哪里?](https://www.v2ex.com/t/913233)
-1. [八九年的笔记本装什么系统好用点](https://www.v2ex.com/t/913203)
 1. [2023 年你的数据备份计划](https://www.v2ex.com/t/913222)
 1. [DS918，遭遇两次 SSD 缓存损毁了](https://www.v2ex.com/t/913191)
+1. [八九年的笔记本装什么系统好用点](https://www.v2ex.com/t/913203)
+1. [我来检查 V 友的余额了！你们有多少铜币？](https://www.v2ex.com/t/913305)
 1. [大家买房后月供压力大吗？你后悔买房了吗？](https://www.v2ex.com/t/913241)
 
 ## 历史归档
