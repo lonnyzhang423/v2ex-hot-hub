@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-09 22:07:17 +0800`
+ `更新时间：2023-02-09 23:07:33 +0800`
 
 ## 热议话题
 
 1. [彩礼谈好了， 准备结婚啦。](https://www.v2ex.com/t/914496)
 1. [女朋友因为我要看她跟另一个男性的聊天记录而要跟我分手，我该怎么做？](https://www.v2ex.com/t/914624)
-1. [只有我觉得 chatgpt 索然无味吗](https://www.v2ex.com/t/914410)
 1. [女朋友送你苹果 14pro 你会要吗？](https://www.v2ex.com/t/914489)
 1. [在大城市漂的 90 后，应该是最绝望的年轻人吧](https://www.v2ex.com/t/914439)
 1. [通勤 4 小时，坐 10 趟地铁，地狱级打工模式](https://www.v2ex.com/t/914566)
-1. [有买电视盒子需求的建议上直接 apple tv 吧](https://www.v2ex.com/t/914472)
 1. [让 chatgpt 说出美国的问题真的很难啊](https://www.v2ex.com/t/914487)
+1. [有买电视盒子需求的建议上直接 apple tv 吧](https://www.v2ex.com/t/914472)
 1. [思考，程序员如何用 ChatGPT 赚钱](https://www.v2ex.com/t/914460)
+1. [最近的医保改革什么情况，有没有大佬通俗易懂的解释一下](https://www.v2ex.com/t/914517)
 
 ## 历史归档
 
