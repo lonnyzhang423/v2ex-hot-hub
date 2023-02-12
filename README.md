@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-12 14:08:43 +0800`
+ `更新时间：2023-02-12 15:06:26 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [手里 150 万 年入 54 万 又不想买房了](https://www.v2ex.com/t/915314)
 1. [去看了 byd 的车，感觉真的不错](https://www.v2ex.com/t/915255)
 1. [iptables 太他妈难用了](https://www.v2ex.com/t/915216)
-1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161)
 1. [看看有多少 V 友不刷抖音或者微信视频号的](https://www.v2ex.com/t/915356)
+1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161)
 1. [海康 C4000 2T 三人团 848，有一起的吗？（还差两位）](https://www.v2ex.com/t/915178)
 
 ## 历史归档
