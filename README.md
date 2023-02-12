@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-12 08:41:25 +0800`
+ `更新时间：2023-02-12 10:16:32 +0800`
 
 ## 热议话题
 
 1. [感觉被精神控制了…怎么办好](https://www.v2ex.com/t/915252)
 1. [我把同事说哭、然后她离职了](https://www.v2ex.com/t/915209)
-1. [收到邮件，带 ChatGPT 的新版 Bing 可以用了！](https://www.v2ex.com/t/915087)
-1. [智能 SQL 分析系统（我的新作品）](https://www.v2ex.com/t/915090)
-1. [全球通，神州行还有动感地带？移动你是真会玩啊](https://www.v2ex.com/t/915085)
 1. [预算 50 万买车求建议](https://www.v2ex.com/t/915160)
 1. [请问在家怎么让两台电脑通过 NAS 快速同步代码](https://www.v2ex.com/t/915142)
 1. [iptables 太他妈难用了](https://www.v2ex.com/t/915216)
 1. [大佬们，推荐下 NAS 系统呗](https://www.v2ex.com/t/915115)
 1. [推荐一个当下性价比高的电视盒子](https://www.v2ex.com/t/915108)
+1. [海康 C4000 2T 三人团 848，有一起的吗？（还差两位）](https://www.v2ex.com/t/915178)
+1. [学生现在有办法申请 visa 卡吗](https://www.v2ex.com/t/915161)
 
 ## 历史归档
 
