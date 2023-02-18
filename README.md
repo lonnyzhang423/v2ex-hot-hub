@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-18 22:06:14 +0800`
+ `更新时间：2023-02-18 23:06:28 +0800`
 
 ## 热议话题
 
 1. [今天还在刷 V2EX 的，是不是都是周六还要工作的可怜虫](https://www.v2ex.com/t/917154)
-1. [求各位推荐一款高性能轻薄本](https://www.v2ex.com/t/917060)
 1. [打算建立一个博客写点文章，有推荐的么](https://www.v2ex.com/t/917124)
 1. [GitHub 疑似解封](https://www.v2ex.com/t/917108)
 1. [把双显示器升级成单显示器 LG C2，太舒服了](https://www.v2ex.com/t/917110)
@@ -25,6 +24,7 @@
 1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150)
 1. [笔记本选购求助](https://www.v2ex.com/t/917128)
 1. [有没有和我一样觉得 trackpad 第三代触摸有延迟的？](https://www.v2ex.com/t/917081)
+1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116)
 
 ## 历史归档
 
