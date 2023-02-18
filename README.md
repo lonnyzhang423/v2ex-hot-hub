@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-19 01:06:24 +0800`
+ `更新时间：2023-02-19 02:08:17 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [时隔十天，终于拿到了 New Bing 体验资格](https://www.v2ex.com/t/917107)
 1. [如何正确理解通货膨胀？](https://www.v2ex.com/t/917150)
 1. [笔记本选购求助](https://www.v2ex.com/t/917128)
+1. [上海联通内部线下可以办理 27 元套餐送 300 宽带](https://www.v2ex.com/t/917184)
 1. [18 年的 Macbook Pro 回收能有 4700 感觉值了](https://www.v2ex.com/t/917116)
-1. [github 学生包 邮件 绷不住了](https://www.v2ex.com/t/917119)
 
 ## 历史归档
 
