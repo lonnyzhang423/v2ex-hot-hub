@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-19 22:06:01 +0800`
+ `更新时间：2023-02-19 23:06:41 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [用了一会 MacOS 10.15，感觉真好啊。希望苹果开倒车能回来一次](https://www.v2ex.com/t/917284)
 1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306)
 1. [消磨时间游戏推荐下吧](https://www.v2ex.com/t/917320)
-1. [互联网是双休最多的行业吗？](https://www.v2ex.com/t/917294)
 1. [是不是几乎现在中国的程序员，都是搞 web 的？](https://www.v2ex.com/t/917340)
+1. [互联网是双休最多的行业吗？](https://www.v2ex.com/t/917294)
 1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289)
-1. [为什么 tg 的亚洲数据中心选在新加坡而不是日本？](https://www.v2ex.com/t/917245)
 1. [各位有在豆瓣小组租房过吗？](https://www.v2ex.com/t/917290)
+1. [macOS 本地音乐播放器用的最舒服的还是 foobar2000……](https://www.v2ex.com/t/917339)
 
 ## 历史归档
 
