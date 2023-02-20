@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-20 20:14:00 +0800`
+ `更新时间：2023-02-20 21:16:45 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,8 @@
 1. [《狂飙》真那么好看？](https://www.v2ex.com/t/917608)
 1. [知乎刷多了，总觉得三观和情绪被知乎给带歪了](https://www.v2ex.com/t/917503)
 1. [Apple TV 盒子 + Sony 电视 + NAS Emby 瞎折腾](https://www.v2ex.com/t/917538)
-1. [日本 1990：当宏大叙事消失之后](https://www.v2ex.com/t/917541)
-1. [有啥让人沉迷的小说吗？](https://www.v2ex.com/t/917516)
 1. [年过 30，物质不愁，生活空虚](https://www.v2ex.com/t/917652)
+1. [有啥让人沉迷的小说吗？](https://www.v2ex.com/t/917516)
 1. [我严重耳鸣一年多的治疗记录](https://www.v2ex.com/t/917488)
 1. [到底有多少人的小米刷了 EU 或者海外版？](https://www.v2ex.com/t/917471)
 1. [年底被裁,今年结婚,找工作切身体会到了寒冬,现在很迷茫](https://www.v2ex.com/t/917524)
