@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-20 12:09:26 +0800`
+ `更新时间：2023-02-20 13:07:21 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [如何自律，合理使用抖音、快手、小红书之类的短视频 APP~](https://www.v2ex.com/t/917338)
 1. [到底有多少人的小米刷了 EU 或者海外版？](https://www.v2ex.com/t/917471)
 1. [macOS 本地音乐播放器用的最舒服的还是 foobar2000……](https://www.v2ex.com/t/917339)
-1. [第一次被车撞，记录一下](https://www.v2ex.com/t/917437)
 1. [我严重耳鸣一年多的治疗记录](https://www.v2ex.com/t/917488)
-1. [发现新大陆：年付 30 元 stardust 的 ipv6 only 小鸡](https://www.v2ex.com/t/917335)
+1. [第一次被车撞，记录一下](https://www.v2ex.com/t/917437)
+1. [年底被裁,今年结婚,找工作切身体会到了寒冬,现在很迷茫](https://www.v2ex.com/t/917524)
 
 ## 历史归档
 
