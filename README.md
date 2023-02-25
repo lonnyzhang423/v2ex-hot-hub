@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-26 00:08:23 +0800`
+ `更新时间：2023-02-26 01:06:13 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [$400 收的垃圾桶，感觉捡到宝了，想把自己的 M1 Pro 换去垃圾桶](https://www.v2ex.com/t/919050)
 1. [YouTube 这类视频里的语音是 AI 么？](https://www.v2ex.com/t/919096)
 1. [新买的三星 S23 ultra 遇到一个问题，没有头绪](https://www.v2ex.com/t/919070)
-1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133)
 1. [退伍还是留队](https://www.v2ex.com/t/919165)
+1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133)
 1. [记一次旅行中遇到的奇怪经历](https://www.v2ex.com/t/919054)
-1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068)
 1. [iPhone 照片原图导入电脑太难了](https://www.v2ex.com/t/919091)
+1. [不是调侃，有办法不让 chatgpt 胡说八道么？](https://www.v2ex.com/t/919068)
 
 ## 历史归档
 
