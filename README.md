@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-02-26 14:09:26 +0800`
+ `更新时间：2023-02-26 15:06:46 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [golang 的哪个 websocket 好用？](https://www.v2ex.com/t/919140)
 1. [SpringBoot 的应用程序实在太大了](https://www.v2ex.com/t/919133)
 1. [Q: 大家使用 Markdown 写静态博客的时候是如何插入图片素材的？](https://www.v2ex.com/t/919130)
-1. [英语字典革命，谁来做个 chatGPT 英语字典](https://www.v2ex.com/t/919114)
 1. [XPS 13 CPU 6/7/8 代 i5 8GB 内存现在能流畅办公么](https://www.v2ex.com/t/919131)
 1. [新人入门后端,目前优先学什么语言好](https://www.v2ex.com/t/919163)
 1. [很迷茫，两年前曾在 v 站提问，现在又到了人生岔路口](https://www.v2ex.com/t/919197)
+1. [最近老是梦见回到以前的搅拌站上班](https://www.v2ex.com/t/919209)
 
 ## 历史归档
 
