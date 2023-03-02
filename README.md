@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-02 21:17:41 +0800`
+ `更新时间：2023-03-02 22:07:27 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [ChatGPT 新发布的 API 好快，免费的套壳网站也出来了](https://www.v2ex.com/t/920519)
 1. [3 个打科兴的同事都有结节了](https://www.v2ex.com/t/920426)
 1. [租房想提前解约房东不愿意咋办](https://www.v2ex.com/t/920355)
-1. [工作半年，关于工作的迷茫](https://www.v2ex.com/t/920361)
 1. [爆肝四个月，走上了开启研发这条路，一不小心研发成个虚拟空间。](https://www.v2ex.com/t/920411)
+1. [工作半年，关于工作的迷茫](https://www.v2ex.com/t/920361)
 1. [跟进最新的 gpt-3.5-turbo 模型，写了一个套壳 ChatGPT](https://www.v2ex.com/t/920489)
 1. [ChatGPT 3.5API 发布了](https://www.v2ex.com/t/920333)
 
