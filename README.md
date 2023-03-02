@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-02 14:10:20 +0800`
+ `更新时间：2023-03-02 15:07:31 +0800`
 
 ## 热议话题
 
 1. [T 楼！ T 楼！ 送 YouTube Premium 会员 一年](https://www.v2ex.com/t/920425)
 1. [从苹果全家桶逃离](https://www.v2ex.com/t/920407)
-1. [4 月份要去香港，第一次去，需要注意啥么，有什么风景好的地方推荐的呢](https://www.v2ex.com/t/920148)
 1. [讲述一下我捐精的经历](https://www.v2ex.com/t/920174)
-1. [大陆区的微软服务挂了](https://www.v2ex.com/t/920153)
 1. [程序员是最不需要学位的吧](https://www.v2ex.com/t/920179)
 1. [租房想提前解约房东不愿意咋办](https://www.v2ex.com/t/920355)
 1. [网络磁盘均无任何问题 NAS 读取只有 10MB/S](https://www.v2ex.com/t/920286)
 1. [没用过 aw，想体验的话，哪个型号性价比高](https://www.v2ex.com/t/920340)
 1. [同事老是喜欢动不动趴在我电脑屏幕面前看我在干什么](https://www.v2ex.com/t/920201)
+1. [ChatGPT 3.5API 发布了](https://www.v2ex.com/t/920333)
+1. [工作一直被晾着怎么办？](https://www.v2ex.com/t/920366)
 
 ## 历史归档
 
