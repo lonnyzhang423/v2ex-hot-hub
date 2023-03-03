@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-04 00:09:27 +0800`
+ `更新时间：2023-03-04 01:06:42 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [马上 38 了，准备给母上更新一下手机，求推荐](https://www.v2ex.com/t/920702)
 1. [现阶段，相比 Windows， mac 系统的优势有哪些？](https://www.v2ex.com/t/920796)
 1. [情感大师们进。。](https://www.v2ex.com/t/920725)
-1. [当今社会的感悟大家来讨论](https://www.v2ex.com/t/920670)
 1. [Mac Everything [文件搜索工具] 已上架 App store，支持买断和离线使用](https://www.v2ex.com/t/920712)
+1. [问一下，不干程序员，做什么谋生？](https://www.v2ex.com/t/920718)
 
 ## 历史归档
 
