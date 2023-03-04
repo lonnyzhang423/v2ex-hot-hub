@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-04 07:07:50 +0800`
+ `更新时间：2023-03-04 08:38:08 +0800`
 
 ## 热议话题
 
 1. [有用 27 寸显示器的同学吗，都是啥牌子的？](https://www.v2ex.com/t/920719)
 1. [邻居烦人的 wifi 名字怎么办](https://www.v2ex.com/t/920715)
-1. [马上 38 了，准备给母上更新一下手机，求推荐](https://www.v2ex.com/t/920702)
 1. [现阶段，相比 Windows， mac 系统的优势有哪些？](https://www.v2ex.com/t/920796)
+1. [马上 38 了，准备给母上更新一下手机，求推荐](https://www.v2ex.com/t/920702)
 1. [情感大师们进。。](https://www.v2ex.com/t/920725)
 1. [Mac Everything [文件搜索工具] 已上架 App store，支持买断和离线使用](https://www.v2ex.com/t/920712)
 1. [问一下，不干程序员，做什么谋生？](https://www.v2ex.com/t/920718)
