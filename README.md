@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-04 11:09:09 +0800`
+ `更新时间：2023-03-04 12:08:57 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [唉，招不到人，钱少要求高](https://www.v2ex.com/t/920862)
 1. [留学生和非留学生思想差距真的大吗？](https://www.v2ex.com/t/920806)
 1. [V2EX on nftychat.xyz](https://www.v2ex.com/t/920829)
-1. [被裁三个月了，还没找到正常的工作，在做一些远程项目](https://www.v2ex.com/t/920777)
 1. [肠息肉切除，有必要从深圳跑到广州做吗](https://www.v2ex.com/t/920822)
-1. [杭州和西安定居该怎么选择？](https://www.v2ex.com/t/920776)
 1. [看隔壁维权贴有感](https://www.v2ex.com/t/920821)
 1. [在楼下 711 感受到了今年生活艰难](https://www.v2ex.com/t/920835)
+1. [请问大家的 homebrew 安装和升级软件是不是也很慢？](https://www.v2ex.com/t/920873)
+1. [在线 CS1.6，欢迎体验](https://www.v2ex.com/t/920837)
 
 ## 历史归档
 
