@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-06 10:19:14 +0800`
+ `更新时间：2023-03-06 11:15:02 +0800`
 
 ## 热议话题
 
-1. [鱼皮的 CDN 被刷了 2 万元](https://www.v2ex.com/t/921318)
 1. [在 v 站看了一段时间以后感觉现在人心理疾病真的很严重](https://www.v2ex.com/t/921271)
+1. [鱼皮的 CDN 被刷了 2 万元](https://www.v2ex.com/t/921318)
 1. [兄弟们有没有发现自己说话开始变结巴了？](https://www.v2ex.com/t/921281)
-1. [远程少量职缺，现场职缺较多！](https://www.v2ex.com/t/921353)
-1. [有过一些经历，决定输出知识](https://www.v2ex.com/t/921287)
-1. [B 站全站又崩了？](https://www.v2ex.com/t/921359)
 1. [想学穿搭，希望大家推荐](https://www.v2ex.com/t/921432)
-1. [All in one 系统 GPU 虚拟化](https://www.v2ex.com/t/921243)
+1. [有过一些经历，决定输出知识](https://www.v2ex.com/t/921287)
+1. [多久洗一次车？洗一次多少钱？](https://www.v2ex.com/t/921467)
+1. [B 站全站又崩了？](https://www.v2ex.com/t/921359)
 1. [想润个轻松点 965 的公司，会不会被 hr 压薪资](https://www.v2ex.com/t/921248)
 1. [B 站又崩了](https://www.v2ex.com/t/921366)
 
