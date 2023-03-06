@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-06 15:07:30 +0800`
+ `更新时间：2023-03-06 16:10:45 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [鱼皮的 CDN 被刷了 2 万元](https://www.v2ex.com/t/921318)
 1. [想学穿搭，希望大家推荐](https://www.v2ex.com/t/921432)
 1. [程序员们都开什么车？下一辆想换什么车？考虑的点有哪些](https://www.v2ex.com/t/921449)
-1. [尴尬了，新招的 Java 开发级别比我还高](https://www.v2ex.com/t/921478)
 1. [NAS/群晖推荐](https://www.v2ex.com/t/921502)
+1. [尴尬了，新招的 Java 开发级别比我还高](https://www.v2ex.com/t/921478)
 1. [B 站全站又崩了？](https://www.v2ex.com/t/921359)
 1. [各位，面试被问到的都是没接触过的东西，是我太菜还是面试官太菜](https://www.v2ex.com/t/921448)
 1. [我来（wolai）被钉钉收购](https://www.v2ex.com/t/921489)
