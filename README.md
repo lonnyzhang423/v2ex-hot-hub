@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-07 08:42:27 +0800`
+ `更新时间：2023-03-07 10:24:41 +0800`
 
 ## 热议话题
 
-1. [多久洗一次车？洗一次多少钱？](https://www.v2ex.com/t/921467)
-1. [程序员们都开什么车？下一辆想换什么车？考虑的点有哪些](https://www.v2ex.com/t/921449)
 1. [马上要离开待了 3 年的字节，有问必答](https://www.v2ex.com/t/921664)
+1. [家人做点小生意，被当地官员直接索贿](https://www.v2ex.com/t/921718)
 1. [我来（wolai）被钉钉收购](https://www.v2ex.com/t/921489)
-1. [NAS/群晖推荐](https://www.v2ex.com/t/921502)
 1. [原来长得好看会被全世界优待](https://www.v2ex.com/t/921565)
-1. [尴尬了，新招的 Java 开发级别比我还高](https://www.v2ex.com/t/921478)
-1. [各位，面试被问到的都是没接触过的东西，是我太菜还是面试官太菜](https://www.v2ex.com/t/921448)
+1. [NAS/群晖推荐](https://www.v2ex.com/t/921502)
 1. [发现自己有个奇怪的毛病，骑车总是往井盖上压 😵‍💫](https://www.v2ex.com/t/921540)
-1. [付费改名调查](https://www.v2ex.com/t/921477)
+1. [OpenAI 给我开了 300 刀](https://www.v2ex.com/t/921774)
+1. [从未来发展上来看，应届生该选什么语言呢？ Java or cpp？](https://www.v2ex.com/t/921488)
+1. [继上次看 BYD，熟人已经提车，感觉没有特别香。](https://www.v2ex.com/t/921575)
+1. [求推荐一个 500 元左右的无线路由器](https://www.v2ex.com/t/921493)
 
 ## 历史归档
 
