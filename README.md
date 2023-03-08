@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-09 00:09:46 +0800`
+ `更新时间：2023-03-09 01:07:09 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [2023 年，双程序员应该移民吗](https://www.v2ex.com/t/922140)
 1. [说说我的买手机策略](https://www.v2ex.com/t/922236)
 1. [请教前端同胞，如何快速搭建一个后台管理的前端项目](https://www.v2ex.com/t/922121)
-1. [东八区时间 2023 年 3 月 8 日 00:00， vultr 官宣推出免费 VPS](https://www.v2ex.com/t/922075)
 1. [据说腾讯原腾讯 QQ 空间技术总监、T13 专家黄希彤被裁？](https://www.v2ex.com/t/922097)
 1. [大家 chatgpt 的历史会话还在吗](https://www.v2ex.com/t/922162)
+1. [mysql 数据同步 elasticsearch 方案](https://www.v2ex.com/t/922102)
 
 ## 历史归档
 
