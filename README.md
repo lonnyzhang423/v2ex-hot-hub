@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-14 14:10:33 +0800`
+ `更新时间：2023-03-14 15:07:54 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [为什么买房的人都不在乎楼层厚度？没有商家拿厚度来做卖点？](https://www.v2ex.com/t/923760)
 1. [过敏性鼻炎又来了，请大家推荐应对的办法](https://www.v2ex.com/t/923624)
 1. [你们有的时候会不会因为一款 App 图标太丑了，就特别不想装？](https://www.v2ex.com/t/923712)
-1. [.idea 上传到 git 么？](https://www.v2ex.com/t/923749)
-1. [Zenlayer 这家公司好让人失望](https://www.v2ex.com/t/923728)
 1. [Brave 是当下我认为最好的浏览器](https://www.v2ex.com/t/923789)
+1. [我宣布这是我目前用的最快的 chatgpt 第三方！](https://www.v2ex.com/t/923757)
+1. [Zenlayer 这家公司好让人失望](https://www.v2ex.com/t/923728)
 
 ## 历史归档
 
