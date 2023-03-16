@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-17 02:09:15 +0800`
+ `更新时间：2023-03-17 03:05:46 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [这就业市场见鬼了...](https://www.v2ex.com/t/924468)
 1. [独立开发项目经常烂尾](https://www.v2ex.com/t/924434)
 1. [有没有需要 85 折苹果代购的](https://www.v2ex.com/t/924382)
-1. [你们在 Mac 和 iPhone 上都怎么听音乐的？](https://www.v2ex.com/t/924378)
+1. [推荐一款适合 fps 游戏的鼠标](https://www.v2ex.com/t/924392)
 
 ## 历史归档
 
