@@ -11,13 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-17 05:06:32 +0800`
+ `更新时间：2023-03-17 06:07:03 +0800`
 
 ## 热议话题
 
-1. [谈谈国内的审查机制](https://www.v2ex.com/t/924491)
 1. [北京的互联网环境凉得可怕](https://www.v2ex.com/t/924408)
-1. [彩虹岛开放邀请 2 天?我求个药](https://www.v2ex.com/t/924457)
 1. [百度“文心一言”下午 2 点发布会](https://www.v2ex.com/t/924383)
 1. [Edge 右上角的 B 按钮, 还挺好用的](https://www.v2ex.com/t/924456)
 1. [反思反思为什么 k40 暴毙](https://www.v2ex.com/t/924494)
