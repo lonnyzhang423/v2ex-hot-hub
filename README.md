@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-17 21:15:15 +0800`
+ `更新时间：2023-03-17 22:07:02 +0800`
 
 ## 热议话题
 
 1. [送 50 张千次对话卡密](https://www.v2ex.com/t/924713)
 1. [这波 AI 浪潮可以助推四天工作制甚至三天工作制吗？](https://www.v2ex.com/t/924810)
 1. [每次用 ApplePay 刷地铁都让我神经紧绷](https://www.v2ex.com/t/924739)
-1. [我哥问我借钱买房，我拒绝了](https://www.v2ex.com/t/924735)
 1. [长江存储真的靠谱吗](https://www.v2ex.com/t/924773)
+1. [我哥问我借钱买房，我拒绝了](https://www.v2ex.com/t/924735)
 1. [跳与不跳的纠结](https://www.v2ex.com/t/924777)
 1. [讨论下科学冲浪的方式](https://www.v2ex.com/t/924791)
 1. [为什么最近的 AI 盛宴完全没有苹果公司的身影](https://www.v2ex.com/t/924794)
