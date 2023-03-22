@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-22 16:09:00 +0800`
+ `更新时间：2023-03-22 17:07:02 +0800`
 
 ## 热议话题
 
 1. [北京开始查电动车过马路不下车推行的行为了](https://www.v2ex.com/t/926079)
 1. [北京已达严重污染！扬沙+雾霾天气，简直了。南方人体验过吗？](https://www.v2ex.com/t/926060)
-1. [Thinkpad 已经这么不耐用了吗？才两年就要爆费？](https://www.v2ex.com/t/926050)
 1. [后端想整点前端项目，学 vue 还是 react](https://www.v2ex.com/t/926133)
+1. [Thinkpad 已经这么不耐用了吗？才两年就要爆费？](https://www.v2ex.com/t/926050)
+1. [我该如何说服父母？](https://www.v2ex.com/t/926011)
 1. [各位用 copilot 写代码的小伙伴不会觉得这个剥夺了写代码的乐趣吗](https://www.v2ex.com/t/926065)
 1. [群晖 Download Station iOS 端管理软件，送码送码](https://www.v2ex.com/t/926004)
 1. [谷歌的 AI 工具 bard 开放申请了~~](https://www.v2ex.com/t/926020)
-1. [我该如何说服父母？](https://www.v2ex.com/t/926011)
 
 ## 历史归档
 
