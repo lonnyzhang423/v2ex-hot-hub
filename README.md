@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-22 07:06:31 +0800`
+ `更新时间：2023-03-22 08:34:59 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [最近父亲要换辆燃油车，本人目前座驾是新能源，好久没留意过油车了，大家推荐几款让我直接抄个作业](https://www.v2ex.com/t/925736)
 1. [T-Mobile 零月租手机卡分享](https://www.v2ex.com/t/925836)
 1. [win11 登陆流程是什么人才设计出来的？](https://www.v2ex.com/t/925798)
-1. [pdd 的聪明总算得到了点回报](https://www.v2ex.com/t/925860)
 1. [ai 绘画真牛，踢楼送 10 个 chatgpt 账号，一个 midjourney 基础会员一个月一份](https://www.v2ex.com/t/925850)
+1. [pdd 的聪明总算得到了点回报](https://www.v2ex.com/t/925860)
 1. [感觉人生走到了分岔路口，想听听坛里老哥的意见。](https://www.v2ex.com/t/925731)
 
 ## 历史归档
