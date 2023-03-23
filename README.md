@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-24 01:06:44 +0800`
+ `更新时间：2023-03-24 02:08:55 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [最近的风潮就是想用服务先排队](https://www.v2ex.com/t/926430)
 1. [家庭现有一百万存款，请问应该怎么投资利益最大化？](https://www.v2ex.com/t/926512)
 1. [四年前端简历求指导求捞](https://www.v2ex.com/t/926406)
-1. [求推荐带 GUI 的 Linux 系统](https://www.v2ex.com/t/926381)
+1. [笔记本和 macbook 比性能, macbook 赢了](https://www.v2ex.com/t/926447)
 
 ## 历史归档
 
