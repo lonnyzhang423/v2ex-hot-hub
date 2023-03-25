@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-26 00:07:51 +0800`
+ `更新时间：2023-03-26 01:05:08 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [不用再考虑国产系统是否有反诈了， Lineage OS 已经支持 8Gen2](https://www.v2ex.com/t/927087)
 1. [腾讯云轻量应用服务器香港地区要涨价了](https://www.v2ex.com/t/927116)
 1. [28 岁，我还想生猛下去](https://www.v2ex.com/t/927096)
-1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088)
 1. [v 友们，台式机主机关机，显示器还有必要手动关吗](https://www.v2ex.com/t/927059)
+1. [折腾了很久我发现，我的需求并不需要一台 NAS 来完成](https://www.v2ex.com/t/927088)
+1. [MacBook 官方换电池涨价至 2000，想换电池还有其他路子吗？](https://www.v2ex.com/t/927055)
 1. [几乎完全由 ChatGPT 生成的 App“5 Movies”上架 App Store](https://www.v2ex.com/t/927018)
-1. [求推荐适合在 mac 下码字的键盘](https://www.v2ex.com/t/927076)
 
 ## 历史归档
 
