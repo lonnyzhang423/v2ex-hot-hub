@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-28 04:08:57 +0800`
+ `更新时间：2023-03-28 05:06:14 +0800`
 
 ## 热议话题
 
 1. [男性买衣服一般去哪](https://www.v2ex.com/t/927439)
 1. [谈谈卸载抖音/今日头条/王者荣耀等 APP“毒瘤”半年的感受](https://www.v2ex.com/t/927404)
-1. [固态价格真的烂大街了](https://www.v2ex.com/t/927492)
 1. [微软真可以的 自动把我的谷歌浏览器数据拿走](https://www.v2ex.com/t/927414)
+1. [固态价格真的烂大街了](https://www.v2ex.com/t/927492)
 1. [网恋奔现成功情感生活阶段记录](https://www.v2ex.com/t/927424)
 1. [我来吐槽下 iOS 的两个缺点](https://www.v2ex.com/t/927522)
 1. [这个小项目，上周被国外 AI 新闻网站报道，前些天又上了 github 热榜](https://www.v2ex.com/t/927433)
