@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-28 11:07:54 +0800`
+ `更新时间：2023-03-28 12:08:31 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [我来吐槽下 iOS 的两个缺点](https://www.v2ex.com/t/927522)
 1. [看到说国内的 ai 发展不起来其中一个原因是因为中文语料库](https://www.v2ex.com/t/927530)
 1. [话不多说，一生黑，各位机场需求避坑](https://www.v2ex.com/t/927618)
+1. [农历年以来似乎裁员潮更猛烈了？](https://www.v2ex.com/t/927715)
+1. [chatgpt 进不来还是不进来?OpenAI 为啥不允许中国 IP 注册](https://www.v2ex.com/t/927619)
 1. [关于我和女朋友想出国双排这件事](https://www.v2ex.com/t/927494)
 1. [从初中开始学安卓开发，到现在找不到工作](https://www.v2ex.com/t/927608)
-1. [chatgpt 进不来还是不进来?OpenAI 为啥不允许中国 IP 注册](https://www.v2ex.com/t/927619)
-1. [上周买的英国电话卡 Giffgaff 已经拿到并激活](https://www.v2ex.com/t/927459)
-1. [农历年以来似乎裁员潮更猛烈了？](https://www.v2ex.com/t/927715)
+1. [频繁换工作是 loser 做的事情?](https://www.v2ex.com/t/927646)
 
 ## 历史归档
 
