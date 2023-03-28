@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-28 18:07:35 +0800`
+ `更新时间：2023-03-28 19:06:16 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [你们都用什么键盘？](https://www.v2ex.com/t/927640)
 1. [被人曝光车和车牌到业主群了， Call Police 有用吗？](https://www.v2ex.com/t/927867)
 1. [建一个上海摆摊群，社交为主赚钱其次（因为有工作），大家可以随便聊聊](https://www.v2ex.com/t/927761)
-1. [chatgpt 进不来还是不进来?OpenAI 为啥不允许中国 IP 注册](https://www.v2ex.com/t/927619)
 1. [频繁换工作是 loser 做的事情?](https://www.v2ex.com/t/927646)
 1. [外包公司找长期技术面试官](https://www.v2ex.com/t/927709)
+1. [拼夕夕百亿补贴翻车](https://www.v2ex.com/t/927771)
 1. [卡巴斯基确认拼多多 APP 的中国版本中存在恶意代码](https://www.v2ex.com/t/927716)
 
 ## 历史归档
