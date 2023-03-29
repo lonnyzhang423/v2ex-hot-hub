@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-29 18:08:01 +0800`
+ `更新时间：2023-03-29 19:06:10 +0800`
 
 ## 热议话题
 
 1. [Redmi Note12 Turbo 杀疯了](https://www.v2ex.com/t/927951)
 1. [打工人，看到这样的言论，我震惊了](https://www.v2ex.com/t/928102)
 1. [我在上海用友汽车所遭遇的职场迫害](https://www.v2ex.com/t/928067)
-1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145)
 1. [大家怎么看暂停 AI 大模型研究的呼吁](https://www.v2ex.com/t/928150)
+1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145)
 1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027)
 1. [今年最好的高端 14 寸 Windows 笔记本出现了](https://www.v2ex.com/t/928002)
 1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049)
 1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110)
-1. [20~30 RMB /月的机场有推荐吗？](https://www.v2ex.com/t/928177)
+1. [前端现在这么恶心的吗](https://www.v2ex.com/t/928203)
 
 ## 历史归档
 
