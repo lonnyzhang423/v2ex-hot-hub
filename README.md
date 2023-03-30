@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-30 08:37:24 +0800`
+ `更新时间：2023-03-30 10:03:53 +0800`
 
 ## 热议话题
 
 1. [别吹红米了，万年祖传 USB 2.0， 1T 硬盘有啥用](https://www.v2ex.com/t/928145)
 1. [前端现在这么恶心的吗](https://www.v2ex.com/t/928203)
-1. [[送码] AiCommit — 基于 AI 的 Commit 信息生成插件（Jetbrain 平台）](https://www.v2ex.com/t/928027)
-1. [大家的 mac 一般用什么键盘](https://www.v2ex.com/t/928049)
 1. [[🎉 福利] 我开源了一个和 ChatGPT 练习口语的网站，支持多种语音 API](https://www.v2ex.com/t/928200)
 1. [各位有没有偶尔胸口刺痛，同时伴随手指尖也刺痛，但一会就正常的经历？](https://www.v2ex.com/t/928110)
 1. [怎样让父母知道最近 AI 的突飞猛进？](https://www.v2ex.com/t/928131)
+1. [想做 IOS 程序开发， Mac Mini M2 丐版够用吗？](https://www.v2ex.com/t/928058)
 
 ## 历史归档
 
