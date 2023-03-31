@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-03-31 15:06:27 +0800`
+ `更新时间：2023-03-31 16:09:22 +0800`
 
 ## 热议话题
 
-1. [CSDN 接入了 chatGPT 了](https://www.v2ex.com/t/928501)
 1. [回馈福利，送 GPT 的 API KEY 啦～基于 GPT-3.5-Turbo 模型的问答机器人，使用 Next.js 搭建， Vercel 一键部署](https://www.v2ex.com/t/928719)
-1. [突然想到一个极端的问题，是不是干坏事社会才能进步？](https://www.v2ex.com/t/928521)
 1. [今天地铁找人要微信社死了](https://www.v2ex.com/t/928684)
-1. [为什么 gov 没有出来解决性别矛盾, 反而愈演愈烈?](https://www.v2ex.com/t/928575)
 1. [被网易云恶心到了，从来没这么想要卸载掉](https://www.v2ex.com/t/928662)
+1. [为什么 gov 没有出来解决性别矛盾, 反而愈演愈烈?](https://www.v2ex.com/t/928575)
 1. [刷抖音的时候，你觉得看到什么内容会觉得比较放松、甚至上瘾？](https://www.v2ex.com/t/928690)
 1. [QQ 邮箱换新 UI 了](https://www.v2ex.com/t/928685)
 1. [使用 Typora 的小伙伴可以看看这个主题样式，非常适合中文写作](https://www.v2ex.com/t/928701)
 1. [安全杀毒软件的选择](https://www.v2ex.com/t/928541)
+1. [最近上班路上遇到不少乱开车的，全给举报了，心情十分舒畅。](https://www.v2ex.com/t/928700)
+1. [如何在国内使用 GPT-4？](https://www.v2ex.com/t/928619)
 
 ## 历史归档
 
