@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-02 15:05:08 +0800`
+ `更新时间：2023-04-02 16:07:52 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [笔记本屏幕油光和污渍大家如何解决的？](https://www.v2ex.com/t/929117)
 1. [大家了解过香港保险的么？最近被安利了，挺上头](https://www.v2ex.com/t/929066)
 1. [读本周阮一峰网络日志有感:什么样的领导算是好领导](https://www.v2ex.com/t/929128)
-1. [ChatGPT 把所有意大利 ip 封了](https://www.v2ex.com/t/928995)
 1. [如果以后 AI 变水军了是不是非常恐怖?](https://www.v2ex.com/t/929113)
+1. [openai 现在还能注册吗](https://www.v2ex.com/t/929162)
 1. [DDNS 有没有方法可以隐藏真实 ip](https://www.v2ex.com/t/929033)
 
 ## 历史归档
