@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-02 11:06:42 +0800`
+ `更新时间：2023-04-02 12:07:46 +0800`
 
 ## 热议话题
 
-1. [个人买过的感觉最值的电子产品](https://www.v2ex.com/t/928951)
 1. [近视 800 度，我心如死灰](https://www.v2ex.com/t/929016)
 1. [跟一个老朋友的社交，让我压力山大](https://www.v2ex.com/t/929039)
 1. [你们的 Macbook M1 外接鼠标用哪一款？](https://www.v2ex.com/t/929028)
 1. [联通加 10 块可以升 1000M 要不要升呢](https://www.v2ex.com/t/929002)
-1. [ChatGPT 把所有意大利 ip 封了](https://www.v2ex.com/t/928995)
 1. [大家了解过香港保险的么？最近被安利了，挺上头](https://www.v2ex.com/t/929066)
-1. [专升本是要凉了么？](https://www.v2ex.com/t/928949)
+1. [ChatGPT 把所有意大利 ip 封了](https://www.v2ex.com/t/928995)
 1. [有没有像我这样，不想过愚人节，但是被互联网逼着过的](https://www.v2ex.com/t/928959)
 1. [考研二战失败无经验求职](https://www.v2ex.com/t/928961)
+1. [DDNS 有没有方法可以隐藏真实 ip](https://www.v2ex.com/t/929033)
+1. [古董电脑如何合理利用](https://www.v2ex.com/t/929012)
 
 ## 历史归档
 
