@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-02 07:06:05 +0800`
+ `更新时间：2023-04-02 08:38:00 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [联通加 10 块可以升 1000M 要不要升呢](https://www.v2ex.com/t/929002)
 1. [你们的 Macbook M1 外接鼠标用哪一款？](https://www.v2ex.com/t/929028)
 1. [ChatGPT 把所有意大利 ip 封了](https://www.v2ex.com/t/928995)
+1. [彩云天气的 98 元付款之后。app 里面还要继续付款吗。感谢](https://www.v2ex.com/t/928929)
 
 ## 历史归档
 
