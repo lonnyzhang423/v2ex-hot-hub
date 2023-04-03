@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-04 00:08:25 +0800`
+ `更新时间：2023-04-04 01:06:08 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [B 站 UP 主发起停更潮](https://www.v2ex.com/t/929310)
 1. [你们的 open AI 账号被封了没？](https://www.v2ex.com/t/929319)
 1. [大半夜想去刀人](https://www.v2ex.com/t/929339)
-1. [V2EX 为什么不能删除回复？](https://www.v2ex.com/t/929455)
 
 ## 历史归档
 
