@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-04 02:08:09 +0800`
+ `更新时间：2023-04-04 03:04:35 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [为什么 ip4 不改成 999.999.999.999 的形式？](https://www.v2ex.com/t/929294)
 1. [大伙都在用什么牌子的剃须刀?](https://www.v2ex.com/t/929312)
 1. [B 站 UP 主发起停更潮](https://www.v2ex.com/t/929310)
-1. [你们的 open AI 账号被封了没？](https://www.v2ex.com/t/929319)
 1. [大半夜想去刀人](https://www.v2ex.com/t/929339)
+1. [你们的 open AI 账号被封了没？](https://www.v2ex.com/t/929319)
 
 ## 历史归档
 
