@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-05 20:14:54 +0800`
+ `更新时间：2023-04-05 21:19:40 +0800`
 
 ## 热议话题
 
 1. [难怪那么多人觉得小米广告多](https://www.v2ex.com/t/929862)
 1. [广州电信要停 2,3G 网络了？](https://www.v2ex.com/t/929917)
-1. [我承认，我还是高估了某些人的消费观](https://www.v2ex.com/t/929840)
-1. [好家伙今天大半个公司都在加班](https://www.v2ex.com/t/929921)
 1. [人在外企，香港领导说，外企不过清明节](https://www.v2ex.com/t/929948)
+1. [好家伙今天大半个公司都在加班](https://www.v2ex.com/t/929921)
 1. [我可能中奖了;致钛出现了 0e 然后 esxi 虚拟机全线瘫痪,实现了 all in boom](https://www.v2ex.com/t/929866)
-1. [mac 版微信输入法，很好用！](https://www.v2ex.com/t/929889)
 1. [本地美团外卖简直离谱。。。](https://www.v2ex.com/t/929963)
+1. [mac 版微信输入法，很好用！](https://www.v2ex.com/t/929889)
 1. [求推荐个手机😑](https://www.v2ex.com/t/929937)
 1. [最近爆火的魅族 20pro 怎么样？](https://www.v2ex.com/t/929853)
+1. [用惯了 Vim 也有副作用](https://www.v2ex.com/t/929928)
 
 ## 历史归档
 
