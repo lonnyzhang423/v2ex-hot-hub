@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-06 03:05:54 +0800`
+ `更新时间：2023-04-06 04:07:31 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [本地美团外卖简直离谱。。。](https://www.v2ex.com/t/929963)
 1. [好家伙今天大半个公司都在加班](https://www.v2ex.com/t/929921)
 1. [微信键盘每次打字都会向服务器发送一个请求😂](https://www.v2ex.com/t/930008)
-1. [mac 版微信输入法，很好用！](https://www.v2ex.com/t/929889)
-1. [用惯了 Vim 也有副作用](https://www.v2ex.com/t/929928)
 1. [centos 即将到期，大家生产中用什么系统替换啊](https://www.v2ex.com/t/930047)
+1. [用惯了 Vim 也有副作用](https://www.v2ex.com/t/929928)
 1. [求推荐个手机😑](https://www.v2ex.com/t/929937)
 1. [关于日常拍摄设备问题，应该怎么选](https://www.v2ex.com/t/929912)
+1. [使用 Vercel 一键部署自己的 ChatGPT](https://www.v2ex.com/t/929971)
 
 ## 历史归档
 
