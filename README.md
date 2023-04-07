@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-07 13:06:37 +0800`
+ `更新时间：2023-04-07 14:09:09 +0800`
 
 ## 热议话题
 
 1. [送几本“通透”的《流畅的 Python （第 2 版）》](https://www.v2ex.com/t/930488)
 1. [今天 30 岁生日, 可笑的是收了一堆短信生日祝福. 没有一个朋友对我说，感觉活的真失败](https://www.v2ex.com/t/930459)
 1. [有人对量化交易感兴趣吗](https://www.v2ex.com/t/930302)
-1. [有没有觉得 mac 访达（finder）特别难用的](https://www.v2ex.com/t/930250)
 1. [租房被邻居搞得心态小裂](https://www.v2ex.com/t/930348)
-1. [家妹偷窃家里 1 万多块钱，该怎么办。](https://www.v2ex.com/t/930413)
+1. [有没有觉得 mac 访达（finder）特别难用的](https://www.v2ex.com/t/930250)
 1. [世界互联网的二等公民](https://www.v2ex.com/t/930410)
+1. [家妹偷窃家里 1 万多块钱，该怎么办。](https://www.v2ex.com/t/930413)
 1. [分享一下你了解的小众兴趣爱好](https://www.v2ex.com/t/930351)
 
 ## 历史归档
