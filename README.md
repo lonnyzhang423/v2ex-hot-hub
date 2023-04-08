@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-09 06:05:25 +0800`
+ `更新时间：2023-04-09 07:05:49 +0800`
 
 ## 热议话题
 
 1. [有人投诉过警察吗？想投诉又怕被报复](https://www.v2ex.com/t/930827)
-1. [你担心 AI 抢你饭碗吗？](https://www.v2ex.com/t/930725)
 1. [想入手纯钛筷子，可有坑？可有推荐？](https://www.v2ex.com/t/930745)
 1. [看来是要放弃 edge 了](https://www.v2ex.com/t/930763)
 1. [调查下各地运营商光纤宽带分配的 IPv6 PD 前缀的长度](https://www.v2ex.com/t/930849)
@@ -25,6 +24,7 @@
 1. [女生这么不喜欢透露自己的年龄么。。。](https://www.v2ex.com/t/930751)
 1. [商品房交房 6 年后墙壁出现裂缝怎么解决？](https://www.v2ex.com/t/930742)
 1. [Twitter 的为你推荐里都有什么?](https://www.v2ex.com/t/930787)
+1. [最近超级想买车，求劝退](https://www.v2ex.com/t/930841)
 
 ## 历史归档
 
