@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-09 20:11:15 +0800`
+ `更新时间：2023-04-09 21:07:22 +0800`
 
 ## 热议话题
 
-1. [小学 1÷0.5x=4 中把 0.5x 看作整体是一个共识么？](https://www.v2ex.com/t/930877)
 1. [高龄转行： 30+转行，转码，转互联网，转自由职业，实现财务自由](https://www.v2ex.com/t/930913)
-1. [深度体验 2 天特斯拉 modelY 的一些感想](https://www.v2ex.com/t/930910)
 1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940)
+1. [深度体验 2 天特斯拉 modelY 的一些感想](https://www.v2ex.com/t/930910)
 1. [知识付费 = 割韭菜 ？](https://www.v2ex.com/t/930987)
 1. [尊敬的客户，为降低您遭受噪音流言伤害风险，将在 24 小时后为您关闭“听力”功能](https://www.v2ex.com/t/930926)
 1. [正在写一个工具让 ChatGPT 接管我的电脑](https://www.v2ex.com/t/930888)
-1. [有必要买三星 s23 吗？感觉同价格可以买国产配置更高的了？](https://www.v2ex.com/t/930881)
-1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925)
 1. [育儿路上的困难你们是怎么解决的](https://www.v2ex.com/t/930980)
+1. [为什么 B 站会在首页推荐栏推荐我在油管上看过的博主视频？](https://www.v2ex.com/t/931002)
+1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925)
+1. [你们会保持 Docker 镜像一直使用最新的么？](https://www.v2ex.com/t/930997)
 
 ## 历史归档
 
