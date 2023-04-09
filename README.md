@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-09 09:58:46 +0800`
+ `更新时间：2023-04-09 10:28:28 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,8 @@
 1. [看来是要放弃 edge 了](https://www.v2ex.com/t/930763)
 1. [调查下各地运营商光纤宽带分配的 IPv6 PD 前缀的长度](https://www.v2ex.com/t/930849)
 1. [遇到这种外快，你们会怎么收费？](https://www.v2ex.com/t/930801)
-1. [女生这么不喜欢透露自己的年龄么。。。](https://www.v2ex.com/t/930751)
-1. [Twitter 的为你推荐里都有什么?](https://www.v2ex.com/t/930787)
 1. [最近超级想买车，求劝退](https://www.v2ex.com/t/930841)
+1. [Twitter 的为你推荐里都有什么?](https://www.v2ex.com/t/930787)
 1. [感觉这种 GPT 这种语言技术虽然不知道什么原理，但真是太强大太降维打击了。。](https://www.v2ex.com/t/930758)
 1. [小学 1÷0.5x=4 中把 0.5x 看作整体是一个共识么？](https://www.v2ex.com/t/930877)
 1. [面对浩如烟海的 App 如何保持克制？](https://www.v2ex.com/t/930825)
