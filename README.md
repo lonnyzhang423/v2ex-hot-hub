@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-09 18:06:19 +0800`
+ `更新时间：2023-04-09 19:04:06 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [深度体验 2 天特斯拉 modelY 的一些感想](https://www.v2ex.com/t/930910)
 1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940)
 1. [知识付费 = 割韭菜 ？](https://www.v2ex.com/t/930987)
-1. [大二，周末经常去乡下玩，推荐一款新能源汽车。](https://www.v2ex.com/t/930869)
-1. [看了苏科大的道歉行为，有没有什么值得避免的学校？](https://www.v2ex.com/t/930860)
-1. [正在写一个工具让 ChatGPT 接管我的电脑](https://www.v2ex.com/t/930888)
 1. [尊敬的客户，为降低您遭受噪音流言伤害风险，将在 24 小时后为您关闭“听力”功能](https://www.v2ex.com/t/930926)
-1. [[SHEIN]上海团队火热招聘中🔥 可约周末面试，最快三天 OFFER！](https://www.v2ex.com/t/930862)
+1. [正在写一个工具让 ChatGPT 接管我的电脑](https://www.v2ex.com/t/930888)
+1. [大二，周末经常去乡下玩，推荐一款新能源汽车。](https://www.v2ex.com/t/930869)
+1. [有必要买三星 s23 吗？感觉同价格可以买国产配置更高的了？](https://www.v2ex.com/t/930881)
+1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925)
 
 ## 历史归档
 
