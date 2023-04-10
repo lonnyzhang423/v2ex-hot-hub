@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-10 08:34:39 +0800`
+ `更新时间：2023-04-10 09:55:02 +0800`
 
 ## 热议话题
 
+1. [[抽奖送卡] 🔥 Skinny 拼团抽奖赠送 10 张新西兰 Skinny 电话卡 - 国内现货 🔥](https://www.v2ex.com/t/931105)
 1. [亲戚欠钱一直拖着不还，怎么办？](https://www.v2ex.com/t/931022)
-1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940)
-1. [知识付费 = 割韭菜 ？](https://www.v2ex.com/t/930987)
 1. [育儿路上的困难你们是怎么解决的](https://www.v2ex.com/t/930980)
-1. [尊敬的客户，为降低您遭受噪音流言伤害风险，将在 24 小时后为您关闭“听力”功能](https://www.v2ex.com/t/930926)
-1. [为什么 B 站会在首页推荐栏推荐我在油管上看过的博主视频？](https://www.v2ex.com/t/931002)
-1. [你们会保持 Docker 镜像一直使用最新的么？](https://www.v2ex.com/t/930997)
-1. [qbittorrent 用着为什么还不如迅雷](https://www.v2ex.com/t/931044)
+1. [知识付费 = 割韭菜 ？](https://www.v2ex.com/t/930987)
+1. [最强 AI 字幕软件来了， V2sub - AI 字幕机（原创软件）](https://www.v2ex.com/t/930940)
 1. [一个商品我出了 20 元,朋友出售了 150 元,那么我到底应该分多少钱呢,是 55 开](https://www.v2ex.com/t/931100)
-1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925)
+1. [qbittorrent 用着为什么还不如迅雷](https://www.v2ex.com/t/931044)
+1. [为什么 B 站会在首页推荐栏推荐我在油管上看过的博主视频？](https://www.v2ex.com/t/931002)
+1. [突然想到为什么不能利用水结冰膨胀来做功？](https://www.v2ex.com/t/931113)
+1. [你们会保持 Docker 镜像一直使用最新的么？](https://www.v2ex.com/t/930997)
 
 ## 历史归档
 
