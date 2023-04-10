@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-10 07:06:00 +0800`
+ `更新时间：2023-04-10 08:34:39 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [为什么 B 站会在首页推荐栏推荐我在油管上看过的博主视频？](https://www.v2ex.com/t/931002)
 1. [你们会保持 Docker 镜像一直使用最新的么？](https://www.v2ex.com/t/930997)
 1. [qbittorrent 用着为什么还不如迅雷](https://www.v2ex.com/t/931044)
+1. [一个商品我出了 20 元,朋友出售了 150 元,那么我到底应该分多少钱呢,是 55 开](https://www.v2ex.com/t/931100)
 1. [有独立方向键, pageUP, pageDown, home, end 键的小于 87 键的机械键盘或者套件推荐吗？](https://www.v2ex.com/t/930925)
-1. [能不能用 SQL 查出没有在数据表里出现的值](https://www.v2ex.com/t/930970)
 
 ## 历史归档
 
