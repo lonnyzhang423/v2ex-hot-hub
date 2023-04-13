@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-13 19:05:31 +0800`
+ `更新时间：2023-04-13 20:12:29 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [待业中的老婆怀孕了](https://www.v2ex.com/t/932114)
 1. [程序员鼠标求推荐](https://www.v2ex.com/t/932112)
 1. [作为程序猿居然投域名，亏到姥姥家了](https://www.v2ex.com/t/932122)
-1. [有没有大佬出域名的？](https://www.v2ex.com/t/932165)
 1. [现在国内资金出去实在是困难重重](https://www.v2ex.com/t/932155)
+1. [有没有大佬出域名的？](https://www.v2ex.com/t/932165)
 1. [New York City, early April 2023](https://www.v2ex.com/t/932113)
 
 ## 历史归档
