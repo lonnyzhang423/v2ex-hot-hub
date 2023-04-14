@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-14 11:07:28 +0800`
+ `更新时间：2023-04-14 12:07:53 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,7 @@
 1. [技术使用感受： JQuery 和 Vue](https://www.v2ex.com/t/932298)
 1. [免费送 50 万中文字符的 GPT-3.5 支持 GPT-4](https://www.v2ex.com/t/932200)
 1. [简书几月不见弄成这比样了？](https://www.v2ex.com/t/932360)
-1. [不是很理解家庭服务器要上 PVE 之类的虚拟机的行为](https://www.v2ex.com/t/932187)
+1. [国产价格乱象](https://www.v2ex.com/t/932390)
 1. [在面试中，邮箱真的存在鄙视链吗？求大家解答](https://www.v2ex.com/t/932263)
 1. [23 年了大家 mac 上现在用啥收 gmail?](https://www.v2ex.com/t/932261)
 1. [富人有富人的烦恼](https://www.v2ex.com/t/932233)
