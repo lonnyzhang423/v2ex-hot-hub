@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-14 16:08:43 +0800`
+ `更新时间：2023-04-14 17:06:54 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [滴滴抽成 28%正常嘛？](https://www.v2ex.com/t/932377)
 1. [杭州初印象](https://www.v2ex.com/t/932393)
 1. [被 B 站裁员，我思考了哪些？](https://www.v2ex.com/t/932350)
-1. [Compose Multiplatform 支持 iOS 了，至此跟 Flutter 对飙起来了](https://www.v2ex.com/t/932317)
 1. [闲来无事， 20 分钟水了一个贷款计算器（Chatgpt 协助下），发现了房贷的 3 个秘密](https://www.v2ex.com/t/932456)
-1. [为什么现在的水果味道很淡](https://www.v2ex.com/t/932272)
+1. [震惊！我从为见过如此恶劣的就业环境， 8K 招 3-5 年前端内卷之激烈久久不能平静](https://www.v2ex.com/t/932520)
+1. [Compose Multiplatform 支持 iOS 了，至此跟 Flutter 对飙起来了](https://www.v2ex.com/t/932317)
 
 ## 历史归档
 
