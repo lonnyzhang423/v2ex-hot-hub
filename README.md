@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-16 18:06:25 +0800`
+ `更新时间：2023-04-16 19:04:26 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862)
 1. [OpenAI ChatGPT UI 增强版，已开源，免费体验](https://www.v2ex.com/t/932793)
 1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869)
-1. [win11 这个垃圾, 电脑放书包, 半夜自动唤醒, 查看原因是 power button, 我根本就没按](https://www.v2ex.com/t/932785)
-1. [macOS 11.2.3 安装任意 ipa 侧载呢还是升级系统？](https://www.v2ex.com/t/932847)
+1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880)
+1. [大家在安卓上用什么 todo list 的工具？](https://www.v2ex.com/t/932849)
 
 ## 历史归档
 
