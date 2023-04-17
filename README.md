@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-17 08:35:50 +0800`
+ `更新时间：2023-04-17 09:58:57 +0800`
 
 ## 热议话题
 
 1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912)
-1. [我再也不敢装逼了](https://www.v2ex.com/t/932863)
-1. [AI 对于军事的影响力有多大？](https://www.v2ex.com/t/932862)
 1. [探讨下当下的经济环境](https://www.v2ex.com/t/932889)
 1. [为什么很少见用 MessagePack 代替 JSON 的 Web 服务，不是更省流量吗？去一个 Discord 群问了 /t/932789 的问题，有个美国老外给我推荐这种方案。](https://www.v2ex.com/t/932879)
-1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930)
 1. [2023 今年最好赚的是中国股票市场](https://www.v2ex.com/t/932880)
-1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869)
-1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909)
 1. [还有做独立站点或者写博客的人吗？](https://www.v2ex.com/t/932931)
+1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930)
+1. [现在有使用 android 原生系统+双卡双待的方案么？](https://www.v2ex.com/t/932905)
+1. [类似 Bob 翻译软件](https://www.v2ex.com/t/932954)
+1. [想学英语，英孚英语有人了解吗？](https://www.v2ex.com/t/932909)
+1. [送 Cron 日程管理 APP 体验邀请资格.](https://www.v2ex.com/t/932869)
 
 ## 历史归档
 
