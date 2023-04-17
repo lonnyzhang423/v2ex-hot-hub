@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-17 14:09:30 +0800`
+ `更新时间：2023-04-17 15:06:55 +0800`
 
 ## 热议话题
 
-1. [有感情经验的老哥进，忘不了前女友怎么办](https://www.v2ex.com/t/932912)
 1. [为什么一边“经济下滑”，一边旅游市场持续火爆？](https://www.v2ex.com/t/933053)
 1. [想开一个面包店有啥好的建议吗 V 友们](https://www.v2ex.com/t/933044)
 1. [大佬的起诉书公布了大佬的工资待遇](https://www.v2ex.com/t/933037)
 1. [姐弟恋最后都不会有好的结局吗？](https://www.v2ex.com/t/933056)
-1. [还有做独立站点或者写博客的人吗？](https://www.v2ex.com/t/932931)
-1. [类似 Bob 翻译软件](https://www.v2ex.com/t/932954)
 1. [什么学校、什么专业能快速有效地润？](https://www.v2ex.com/t/932998)
-1. [怎么开了 ChatGPT plus 还会出现 Something went wrong.？](https://www.v2ex.com/t/932930)
+1. [类似 Bob 翻译软件](https://www.v2ex.com/t/932954)
+1. [有什么好用的个人记账方案吗](https://www.v2ex.com/t/933058)
+1. [软考怎么备考比较好](https://www.v2ex.com/t/933087)
 
 ## 历史归档
 
