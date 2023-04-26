@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-26 15:06:39 +0800`
+ `更新时间：2023-04-26 16:09:00 +0800`
 
 ## 热议话题
 
-1. [chatgpt 有啥好火的，不就是深度实时搜索引擎，加上语义理解吗](https://www.v2ex.com/t/935377)
 1. [已经结婚的，后悔的多吗](https://www.v2ex.com/t/935483)
 1. [电车真的是 iPhone ，油车是诺基亚？](https://www.v2ex.com/t/935540)
-1. [看到个网友分享城市里骨灰的费用及安葬方式](https://www.v2ex.com/t/935519)
 1. [为何这么多人鄙视日本芯片技术？](https://www.v2ex.com/t/935468)
-1. [真正影响中国互联网发展的，其实是 vultr, aws, digitalOcean, bandwagon, azure](https://www.v2ex.com/t/935371)
+1. [看到个网友分享城市里骨灰的费用及安葬方式](https://www.v2ex.com/t/935519)
 1. [想从成都润来深圳，求生活工作租房建议](https://www.v2ex.com/t/935543)
-1. [求推荐 pdf 阅读器](https://www.v2ex.com/t/935512)
 1. [想办一张境外卡有什么好的办法？](https://www.v2ex.com/t/935399)
+1. [求推荐 pdf 阅读器](https://www.v2ex.com/t/935512)
+1. [在家搭建 k8s 集群，用性能好的笔记本还是搞一个台式](https://www.v2ex.com/t/935428)
+1. [和 mac 相比，为什么 win 系统的笔记本触控板面积这么小](https://www.v2ex.com/t/935515)
 
 ## 历史归档
 
