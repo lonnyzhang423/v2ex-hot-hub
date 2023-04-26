@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-26 11:07:40 +0800`
+ `更新时间：2023-04-26 12:10:26 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [已经结婚的，后悔的多吗](https://www.v2ex.com/t/935483)
 1. [家里长辈沉迷于低质量短视频怎么办](https://www.v2ex.com/t/935324)
 1. [被裁后快两个月了，我经历了大家所说的 30 岁中年危机](https://www.v2ex.com/t/935346)
-1. [大胆预测： iOS 17 支持右侧返回](https://www.v2ex.com/t/935306)
-1. [真正影响中国互联网发展的，其实是 vultr, aws, digitalOcean, bandwagon, azure](https://www.v2ex.com/t/935371)
 1. [垃圾公司，提了离职，已转正要一个月才能走，怎么能提前快点走，求支招](https://www.v2ex.com/t/935347)
+1. [真正影响中国互联网发展的，其实是 vultr, aws, digitalOcean, bandwagon, azure](https://www.v2ex.com/t/935371)
+1. [电车真的是 iPhone ，油车是诺基亚？](https://www.v2ex.com/t/935540)
 
 ## 历史归档
 
