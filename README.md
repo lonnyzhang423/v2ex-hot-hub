@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-28 02:08:28 +0800`
+ `更新时间：2023-04-28 03:04:42 +0800`
 
 ## 热议话题
 
 1. [都在说大环境不好，那么你们心目中大环境好的时候是什么样子的？](https://www.v2ex.com/t/935815)
 1. [找一个程序员大佬当师傅。求师](https://www.v2ex.com/t/935872)
+1. [[内含兑换码] APTV for macOS 正式上架 AppStore，欢迎下载体验](https://www.v2ex.com/t/935930)
 1. [父亲得了中老年抑郁，每天郁郁寡欢，最近连班都上不了了，真诚求助](https://www.v2ex.com/t/935831)
 1. [Web3 到底是什么？](https://www.v2ex.com/t/935809)
-1. [[内含兑换码] APTV for macOS 正式上架 AppStore，欢迎下载体验](https://www.v2ex.com/t/935930)
 1. [父亲被拖欠工资，如何维权](https://www.v2ex.com/t/935885)
 1. [V2EX Polish 大量功能更新，即刻体验更好用的 V2EX！🥰](https://www.v2ex.com/t/935916)
 1. [PDD 退货，被卖家暗地里狠狠地反击了一下。](https://www.v2ex.com/t/935859)
