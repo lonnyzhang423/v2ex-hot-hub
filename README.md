@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-28 18:07:09 +0800`
+ `更新时间：2023-04-28 19:05:04 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [Edge 强奸用户的新姿势](https://www.v2ex.com/t/936115)
 1. [无心上班，有一样的兄弟么](https://www.v2ex.com/t/936128)
 1. [色盲悖论真的是无解吗？](https://www.v2ex.com/t/936217)
-1. [短信转发方案求推荐](https://www.v2ex.com/t/936016)
 1. [局域网内传输文件最快的方案或软件是什么?](https://www.v2ex.com/t/936118)
+1. [卷起来了，看 V2EX Polish 又推广，俺也再次推荐一下我的油猴脚本： V2EX - 超级增强](https://www.v2ex.com/t/936203)
 1. [简书穷疯了？](https://www.v2ex.com/t/936119)
 
 ## 历史归档
