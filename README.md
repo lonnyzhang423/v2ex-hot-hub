@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-01 03:04:08 +0800`
+ `更新时间：2023-05-01 04:06:42 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [有人使用 GraalVM 编译 SpringBoot 程序了吗？](https://www.v2ex.com/t/936538)
 1. [判断 IP 是否为境内，有什么推荐的方案](https://www.v2ex.com/t/936578)
 1. [目前简体中文的 Windows 系统记事本默认编码是 GBK 吗？](https://www.v2ex.com/t/936616)
+1. [压力给到了前端这边： app 如何获取应用唯一标识？](https://www.v2ex.com/t/936530)
 
 ## 历史归档
 
