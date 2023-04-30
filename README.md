@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-30 19:04:33 +0800`
+ `更新时间：2023-04-30 20:11:03 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581)
 1. [关于苹果加入检测用户区域'countryd'的思考](https://www.v2ex.com/t/936486)
 1. [记事：第一次相亲想法](https://www.v2ex.com/t/936509)
-1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580)
 1. [同价位选择 Mac 还是 win](https://www.v2ex.com/t/936555)
+1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580)
 1. [Flutter 开发了一个 力量健身 App，体验跟原生一样流畅](https://www.v2ex.com/t/936482)
 
 ## 历史归档
