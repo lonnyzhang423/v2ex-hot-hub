@@ -11,18 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-04-30 11:06:52 +0800`
+ `更新时间：2023-04-30 12:07:30 +0800`
 
 ## 热议话题
 
 1. [为什么现在的维修工价格这么高？](https://www.v2ex.com/t/936480)
 1. [日本程序员水平为什么这么高？很多厉害的开源项目都是日本人写的，例如 MessagePack、GitBucket（没拼错，不是 a 家那个）、各种欧美大厂游戏资源包解密工具（暂时想到这些），和日本相似的韩国就没见几个厉害的开源项目](https://www.v2ex.com/t/936484)
 1. [寻找 steam 多人游戏推荐](https://www.v2ex.com/t/936413)
-1. [关于苹果加入检测用户区域'countryd'的思考](https://www.v2ex.com/t/936486)
 1. [月底了，可以晒一下用了多少流量吗？](https://www.v2ex.com/t/936463)
 1. [就纯好奇，女生看 pornhub 都看点啥？](https://www.v2ex.com/t/936518)
+1. [关于苹果加入检测用户区域'countryd'的思考](https://www.v2ex.com/t/936486)
 1. [自己的开源项目申请到了 JetBrains 全家桶证书，允许我开心一下](https://www.v2ex.com/t/936440)
 1. [Flutter 开发了一个 力量健身 App，体验跟原生一样流畅](https://www.v2ex.com/t/936482)
+1. [记事：第一次相亲想法](https://www.v2ex.com/t/936509)
+1. [当问 gpt 不太熟悉得领域时，如何不被误导或者如何将错误降到最低？](https://www.v2ex.com/t/936449)
 
 ## 历史归档
 
