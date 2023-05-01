@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-02 02:08:20 +0800`
+ `更新时间：2023-05-02 03:05:15 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [校招接了 OPPO 的 offer，现在不想去了](https://www.v2ex.com/t/936672)
 1. [为啥 js 语言里面 那么喜欢嵌套，匿名](https://www.v2ex.com/t/936734)
 1. [jQuery 流行的年代，是如何做后台管理系统的页面切换功能的？](https://www.v2ex.com/t/936685)
+1. [现在千兆快的只有 50 兆上行？](https://www.v2ex.com/t/936736)
 1. [领导无脑 ssr、ssg](https://www.v2ex.com/t/936720)
 1. [最近关于放假调休有不少争论](https://www.v2ex.com/t/936693)
-1. [现在千兆快的只有 50 兆上行？](https://www.v2ex.com/t/936736)
 1. [你们是在什么背景下决定买车的？](https://www.v2ex.com/t/936750)
 1. [有没有人跟我一样偏好原生 JS 写项目，而不是 TS](https://www.v2ex.com/t/936772)
 
