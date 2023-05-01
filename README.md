@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-01 12:08:17 +0800`
+ `更新时间：2023-05-01 13:06:46 +0800`
 
 ## 热议话题
 
-1. [为什么明知道五一到处都是人，大家还是不顾一切的出门？](https://www.v2ex.com/t/936567)
 1. [iOS 换成安卓，都是槽点](https://www.v2ex.com/t/936581)
 1. [小疑问，“V2EX”怎么读？](https://www.v2ex.com/t/936639)
 1. [如果官方未提供简体中文，你会去汉化么？](https://www.v2ex.com/t/936580)
@@ -25,6 +24,7 @@
 1. [如何除掉纸箱上面印刷的字?](https://www.v2ex.com/t/936585)
 1. [竖状/树状标签页管理的浏览器求推荐～](https://www.v2ex.com/t/936658)
 1. [树莓派 4b 太贵了，买了个 arduino uno rev3 主板](https://www.v2ex.com/t/936614)
+1. [校招接了 OPPO 的 offer，现在不想去了](https://www.v2ex.com/t/936672)
 
 ## 历史归档
 
