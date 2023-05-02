@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-02 17:06:54 +0800`
+ `更新时间：2023-05-02 18:07:02 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [xdm 在哪里学习做菜的?](https://www.v2ex.com/t/936758)
 1. [有没有人跟我一样偏好原生 JS 写项目，而不是 TS](https://www.v2ex.com/t/936772)
 1. [如何提高“讲故事”的能力](https://www.v2ex.com/t/936810)
-1. [Apple 有没有可能在 10 年内解决 iCloud 诡异的同步逻辑问题](https://www.v2ex.com/t/936826)
+1. [塞尔达 王国之泪偷跑](https://www.v2ex.com/t/936821)
 
 ## 历史归档
 
