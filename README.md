@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-03 17:06:36 +0800`
+ `更新时间：2023-05-03 18:06:56 +0800`
 
 ## 热议话题
 
 1. [为什么很多人看重宽带的上行速度？](https://www.v2ex.com/t/936960)
-1. [如何面对 gpt-4 的挑战](https://www.v2ex.com/t/936923)
 1. [Windows11 远程桌面的这个用户名和密码到底是什么](https://www.v2ex.com/t/936942)
-1. [推荐 iOS 上的 Rime 输入法：仓](https://www.v2ex.com/t/936966)
+1. [如何面对 gpt-4 的挑战](https://www.v2ex.com/t/936923)
 1. [Gmail 已经 461.5 MB，什么时候超过微信 608MB，感觉应该没有希望了～](https://www.v2ex.com/t/936978)
+1. [推荐 iOS 上的 Rime 输入法：仓](https://www.v2ex.com/t/936966)
+1. [just my socks 怎么样](https://www.v2ex.com/t/936967)
 1. [睡眠呼吸暂停综合征，怎么办?](https://www.v2ex.com/t/936896)
-1. [选择题思维怎么破，感觉自己没救了](https://www.v2ex.com/t/936931)
-1. [👩🏻‍🍼 Pake 2.0 - 利用 Rust 轻松构建轻量级桌面应用](https://www.v2ex.com/t/936901)
+1. [饿了么这产品经理也真是个鬼才](https://www.v2ex.com/t/936990)
 
 ## 历史归档
 
