@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-04 00:08:16 +0800`
+ `更新时间：2023-05-04 01:05:49 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [推荐 iOS 上的 Rime 输入法：仓](https://www.v2ex.com/t/936966)
 1. [just my socks 怎么样](https://www.v2ex.com/t/936967)
 1. [未来是注定的，只是任何人都无法预测而已](https://www.v2ex.com/t/937007)
-1. [饿了么这产品经理也真是个鬼才](https://www.v2ex.com/t/936990)
+1. [唉 年纪轻轻的就有结节了](https://www.v2ex.com/t/937006)
 
 ## 历史归档
 
