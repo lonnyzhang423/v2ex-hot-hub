@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-12 07:06:59 +0800`
+ `更新时间：2023-05-12 08:34:58 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [又阳了，新冠有特效药了吗？](https://www.v2ex.com/t/939069)
 1. [Google 新搜索 SGE PalM2 加持赶超 ChatGPT-4](https://www.v2ex.com/t/939100)
 1. [Google 的验证码要把人逼疯](https://www.v2ex.com/t/939152)
+1. [后悔脱毛的第一天](https://www.v2ex.com/t/939213)
 
 ## 历史归档
 
