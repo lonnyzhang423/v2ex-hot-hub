@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-15 12:08:14 +0800`
+ `更新时间：2023-05-15 13:06:41 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [clash 这几天是不是被 gfw 攻破了](https://www.v2ex.com/t/939888)
 1. [大家的安卓机怎么传文件到 Mac？](https://www.v2ex.com/t/939881)
 1. [惊闻 V2EX PLUS 有后门，想让大家推荐一款 v 站的插件。](https://www.v2ex.com/t/940006)
+1. [家人们，你们平时在哪看新闻，推荐几个有深度的新闻站](https://www.v2ex.com/t/940017)
 1. [搞不懂为什么那么喜欢大床](https://www.v2ex.com/t/940023)
-1. [fifa23 寻好友](https://www.v2ex.com/t/940000)
 
 ## 历史归档
 
