@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-16 15:06:41 +0800`
+ `更新时间：2023-05-16 16:09:00 +0800`
 
 ## 热议话题
 
 1. [说 R.I.P 是不是一种母语羞涩的表现？](https://www.v2ex.com/t/940306)
 1. [[R.I.P] 作为高危行业程序猿（媛），我们如何规避猝死风险？](https://www.v2ex.com/t/940169)
-1. [左耳朵大佬溘然长逝，突然想到，如果换做是我自己，又该怎么办呢](https://www.v2ex.com/t/940237)
 1. [喝咖啡到底好不好](https://www.v2ex.com/t/940287)
+1. [左耳朵大佬溘然长逝，突然想到，如果换做是我自己，又该怎么办呢](https://www.v2ex.com/t/940237)
 1. [离婚了,如何告诉孩子?要不要告诉孩子?](https://www.v2ex.com/t/940203)
+1. [HHKB 是不是程序员必备键盘？人手一把？](https://www.v2ex.com/t/940375)
 1. [我裸辞了](https://www.v2ex.com/t/940275)
 1. [我就不信卷到这个地步了，干活还要倒贴钱的。活久见。](https://www.v2ex.com/t/940384)
 1. [六块钱买的随身 WiFi 刷成 Debian](https://www.v2ex.com/t/940162)
-1. [HHKB 是不是程序员必备键盘？人手一把？](https://www.v2ex.com/t/940375)
+1. [chatgpt 的虚拟卡](https://www.v2ex.com/t/940184)
 
 ## 历史归档
 
