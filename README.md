@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-17 06:05:43 +0800`
+ `更新时间：2023-05-17 07:06:13 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [HHKB 是不是程序员必备键盘？人手一把？](https://www.v2ex.com/t/940375)
 1. [喝咖啡到底好不好](https://www.v2ex.com/t/940287)
 1. [Appstore 3w+ 儿童游戏内消费退款被拒](https://www.v2ex.com/t/940416)
-1. [我裸辞了](https://www.v2ex.com/t/940275)
 1. [新手入坑 Linux 有啥推荐的系统么](https://www.v2ex.com/t/940408)
 1. [有没有过来人说说，应该选择怎样的伴侣结婚，还是随缘？](https://www.v2ex.com/t/940286)
 1. [2023-618 快到了, 请各位大佬出手来些 实用 潜在目标物](https://www.v2ex.com/t/940353)
+1. [最后选择了理想 L8 pro](https://www.v2ex.com/t/940304)
 
 ## 历史归档
 
