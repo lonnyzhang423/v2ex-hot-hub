@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-19 21:08:29 +0800`
+ `更新时间：2023-05-19 22:06:13 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [ChatGPT 出官方 ios 应用了](https://www.v2ex.com/t/941145)
 1. [科目三挂了 挂在了很煞笔的地方](https://www.v2ex.com/t/941203)
 1. [这个插件真是太好用了：沉浸式翻译](https://www.v2ex.com/t/941217)
-1. [「长沙」AI 应用团队招人，后端是 go，前端技术栈没定，全岗位都要。](https://www.v2ex.com/t/941106)
 1. [求助一个可行的隔音方案](https://www.v2ex.com/t/941237)
 1. [iPhone 要不要更新 IOS16 呢](https://www.v2ex.com/t/941238)
+1. [ChatGPT 已上架美区 App Store (GPT Plus 可以走 App Store 订阅 不用再用外币卡了)](https://www.v2ex.com/t/941149)
 
 ## 历史归档
 
