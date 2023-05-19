@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-19 23:06:43 +0800`
+ `更新时间：2023-05-20 00:07:59 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [求助一个可行的隔音方案](https://www.v2ex.com/t/941237)
 1. [iPhone 要不要更新 IOS16 呢](https://www.v2ex.com/t/941238)
 1. [ChatGPT 已上架美区 App Store (GPT Plus 可以走 App Store 订阅 不用再用外币卡了)](https://www.v2ex.com/t/941149)
+1. [V 友们， Mac 怎么选？？](https://www.v2ex.com/t/941193)
 
 ## 历史归档
 
