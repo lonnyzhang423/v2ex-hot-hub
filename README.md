@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-21 11:06:54 +0800`
+ `更新时间：2023-05-21 12:07:24 +0800`
 
 ## 热议话题
 
-1. [求推荐超稳定路由器](https://www.v2ex.com/t/941489)
 1. [有多少人从 edge 又换回 chrome 了](https://www.v2ex.com/t/941504)
 1. [湿气是真实存在的东西吗？](https://www.v2ex.com/t/941543)
 1. [人是不是高级商品](https://www.v2ex.com/t/941524)
 1. [明明是在创业，我爸却以为我不务正业](https://www.v2ex.com/t/941572)
 1. [大家用什么内核的桌面浏览器？ Firefox？ Chromium？ WebKit/Safari？](https://www.v2ex.com/t/941587)
-1. [宽带被封停？我这速率不达标](https://www.v2ex.com/t/941488)
 1. [一个新闻类产品的小想法](https://www.v2ex.com/t/941573)
 1. [我们用的是真的 GPT 4 模型吗？](https://www.v2ex.com/t/941544)
+1. [golang 做了一个批量重命名桌面软件](https://www.v2ex.com/t/941594)
+1. [mbp 就真的没有人想到一个完美的游戏解决方案吗？](https://www.v2ex.com/t/941623)
 
 ## 历史归档
 
