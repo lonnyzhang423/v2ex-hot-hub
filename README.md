@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-25 18:07:16 +0800`
+ `更新时间：2023-05-25 19:05:16 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [iCloud 存着许多与前任合照，因为美好舍不得删](https://www.v2ex.com/t/942779)
 1. [车停城中村收费停车场被刮的很严重，找不到肇事者怎么办？](https://www.v2ex.com/t/942734)
 1. [给老人让座这一点上，我需要卸下心理负担吗？](https://www.v2ex.com/t/942804)
-1. [面试人用 ChatGPT 怎么办？](https://www.v2ex.com/t/942778)
 1. [618 组装台 ITX 小主机怎么样？](https://www.v2ex.com/t/942799)
+1. [面试人用 ChatGPT 怎么办？](https://www.v2ex.com/t/942778)
 1. [关于升降台/桌，有实际在使用的老哥来聊聊体验吗？](https://www.v2ex.com/t/942738)
 1. [请教一下大伙，一年 Java 准备跳槽需要哪些？](https://www.v2ex.com/t/942767)
 
