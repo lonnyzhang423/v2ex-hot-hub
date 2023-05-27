@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-27 20:11:00 +0800`
+ `更新时间：2023-05-27 21:06:52 +0800`
 
 ## 热议话题
 
-1. [老哥们，我这是病了吗](https://www.v2ex.com/t/943291)
 1. [感情问题求老哥们解答——兼选择问题](https://www.v2ex.com/t/943323)
 1. [腾讯云海外版竟然要求上传护照](https://www.v2ex.com/t/943347)
-1. [用 depay 续费的号直接没了](https://www.v2ex.com/t/943370)
 1. [大家如何看待宝德发布的暴芯 X86 国产 CPU 神似 10 代酷睿？](https://www.v2ex.com/t/943346)
+1. [用 depay 续费的号直接没了](https://www.v2ex.com/t/943370)
+1. [OpenAI 账号今天突然被封了](https://www.v2ex.com/t/943395)
 1. [拿 H1B 长期在国内工作有什么风险么](https://www.v2ex.com/t/943404)
 1. [npm 用淘宝源替换官方源，会不会有资安问题啊？](https://www.v2ex.com/t/943410)
-1. [OpenAI 账号今天突然被封了](https://www.v2ex.com/t/943395)
 1. [vps 入购找人，或者车队](https://www.v2ex.com/t/943412)
+1. [中午被老板喊去谈话了](https://www.v2ex.com/t/943429)
 1. [有没有效果比较不错支持 Homekit 的人体存在传感器推荐？](https://www.v2ex.com/t/943321)
 
 ## 历史归档
