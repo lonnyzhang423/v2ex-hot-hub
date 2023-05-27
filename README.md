@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-27 18:06:30 +0800`
+ `更新时间：2023-05-27 19:04:17 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [拿 H1B 长期在国内工作有什么风险么](https://www.v2ex.com/t/943404)
 1. [npm 用淘宝源替换官方源，会不会有资安问题啊？](https://www.v2ex.com/t/943410)
 1. [OpenAI 账号今天突然被封了](https://www.v2ex.com/t/943395)
-1. [美区 Apple Pay 支持非美国的卡吗？](https://www.v2ex.com/t/943268)
+1. [有没有效果比较不错支持 Homekit 的人体存在传感器推荐？](https://www.v2ex.com/t/943321)
 
 ## 历史归档
 
