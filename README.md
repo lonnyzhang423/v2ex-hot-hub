@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-29 03:04:26 +0800`
+ `更新时间：2023-05-29 04:06:18 +0800`
 
 ## 热议话题
 
-1. [衰退还会持续多少？](https://www.v2ex.com/t/943546)
 1. [如何看待同事在办公室剪指甲](https://www.v2ex.com/t/943544)
 1. [你会用一杯奶茶换一个月不洗袜子嘛？](https://www.v2ex.com/t/943640)
 1. [iPhone12 换到 13mini 是好的选择吗](https://www.v2ex.com/t/943558)
