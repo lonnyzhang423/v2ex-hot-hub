@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-05-30 18:07:07 +0800`
+ `更新时间：2023-05-30 19:05:22 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [不明白为什么要用虚拟卡开 chatgpt](https://www.v2ex.com/t/944112)
 1. [献丑放一个自己的博客](https://www.v2ex.com/t/944068)
 1. [又一个自研"国产芯片"问世](https://www.v2ex.com/t/944078)
-1. [移动宽带在整治爱奇艺与迅雷？](https://www.v2ex.com/t/944089)
+1. [既不是房奴 也不是卡奴 也不是车奴后 有点不想活了怎么办？](https://www.v2ex.com/t/944264)
 1. [android 新手， hello world 无法编译。。](https://www.v2ex.com/t/944131)
+1. [移动宽带在整治爱奇艺与迅雷？](https://www.v2ex.com/t/944089)
 1. [观《我在北邮被偷喜茶后的 161 个小时》后有感](https://www.v2ex.com/t/944085)
-1. [现在大家公司 Build 镜像都喜欢用什么？ Podman？ Docker？ BuildKit？ buildpacks?](https://www.v2ex.com/t/943980)
 
 ## 历史归档
 
