@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-08 21:09:13 +0800`
+ `更新时间：2023-06-08 22:06:07 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [话说能进入 985/211 高校的多么](https://www.v2ex.com/t/946943)
 1. [关于 apple vision pro 的一些想法](https://www.v2ex.com/t/946766)
 1. [感觉 vision pro 在保护隐私方面也有一定用处，平时在人多的地方敲东西，总觉得有 n 多人在看我的屏幕。](https://www.v2ex.com/t/946812)
-1. [谈论一些有关日本程序员的工作](https://www.v2ex.com/t/946908)
 1. [macOS 近十年来最重量级更新功能，没有之一](https://www.v2ex.com/t/946772)
+1. [谈论一些有关日本程序员的工作](https://www.v2ex.com/t/946908)
 1. [大伙儿 vision pro 能做啥（游戏幻想中）](https://www.v2ex.com/t/946847)
 
 ## 历史归档
