@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-10 20:10:42 +0800`
+ `更新时间：2023-06-10 21:06:48 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469)
 1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532)
 1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478)
-1. [Java 应届生要不要换行](https://www.v2ex.com/t/947515)
+1. [eReader Kindle Kobo 我该买哪个？](https://www.v2ex.com/t/947482)
 
 ## 历史归档
 
