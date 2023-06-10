@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-10 17:06:29 +0800`
+ `更新时间：2023-06-10 18:06:25 +0800`
 
 ## 热议话题
 
-1. [小米 13 刷了类原生系统 LineageOS20 作为主力机使用满一个月啦，很满意。](https://www.v2ex.com/t/947374)
-1. [纯主观感受 gpt4 最近一个月笨的离谱](https://www.v2ex.com/t/947392)
 1. [离谱，昨天两个手机号同时被运营商封号](https://www.v2ex.com/t/947499)
-1. [acme.sh 存在 RCE 漏洞，已经被国产 HiCA 利用](https://www.v2ex.com/t/947389)
 1. [对 Java 泛型的顶级理解](https://www.v2ex.com/t/947486)
 1. [关于医院智能化的设想，有没有进来讨论一下的。](https://www.v2ex.com/t/947498)
 1. [关于机场的几个问题](https://www.v2ex.com/t/947477)
 1. [“彪子减肥法”后续——改变方法，终于减重 20 斤](https://www.v2ex.com/t/947474)
-1. [自荐一个 iPhone 家居时钟, 比 iOS 17 的待机时钟实用(付费, 送码)](https://www.v2ex.com/t/947391)
+1. [去医院看病有什么技巧](https://www.v2ex.com/t/947509)
 1. [QQ 群竟然能创建 300 个了，不需要开 VIP 会员，是马化腾心善，还是使用率低了？](https://www.v2ex.com/t/947469)
+1. [[请教] Java 开发过渡到 VSCode 的障碍](https://www.v2ex.com/t/947532)
+1. [招聘自然语言处理工程师，产品经理， Python 高级工程师](https://www.v2ex.com/t/947478)
+1. [刷机的小米 v 友们，大家都选了哪个 rom？（官方 eea，民改 eu， pe， lineageos， crdroid）有几个问题想请教下](https://www.v2ex.com/t/947422)
 
 ## 历史归档
 
