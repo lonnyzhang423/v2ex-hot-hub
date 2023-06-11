@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-11 18:06:24 +0800`
+ `更新时间：2023-06-11 19:04:42 +0800`
 
 ## 热议话题
 
 1. [造成程序员 35 岁+难找工作/失业的根本原因是不是国内企业不够重视技术？](https://www.v2ex.com/t/947727)
+1. [什么岗位越老越吃香，随着年龄和工作年限越来越有价值？](https://www.v2ex.com/t/947754)
 1. [大模型下优质中文语料匮乏问题](https://www.v2ex.com/t/947622)
 1. [平时你们喝咖啡吗，我工作日每天早上一杯，持续一年了。周六日不喝，但是感觉精神不振，没劲儿，怎么办啊？](https://www.v2ex.com/t/947713)
-1. [什么岗位越老越吃香，随着年龄和工作年限越来越有价值？](https://www.v2ex.com/t/947754)
-1. ["只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700)
 1. [光线追踪是不是一个噱头？](https://www.v2ex.com/t/947660)
+1. ["只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700)
+1. [请教下 apple watch 需要买 apple care+吗？](https://www.v2ex.com/t/947688)
 1. [Windows 使用虚拟机隔离不同生产环境，怎样做能兼顾性能与优雅？](https://www.v2ex.com/t/947613)
 1. [大老板远房亲戚天天摸鱼，做事不认真，咋办](https://www.v2ex.com/t/947650)
-1. [请教下 apple watch 需要买 apple care+吗？](https://www.v2ex.com/t/947688)
 
 ## 历史归档
 
