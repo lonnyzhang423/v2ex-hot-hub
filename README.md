@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-11 22:04:13 +0800`
+ `更新时间：2023-06-11 23:06:12 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. ["只有 GPT4 能够回答，非 GPT4 无法回答"的问题收集](https://www.v2ex.com/t/947700)
 1. [光线追踪是不是一个噱头？](https://www.v2ex.com/t/947660)
 1. [请教下 apple watch 需要买 apple care+吗？](https://www.v2ex.com/t/947688)
-1. [大老板远房亲戚天天摸鱼，做事不认真，咋办](https://www.v2ex.com/t/947650)
 1. [我尝试了所有的 AI，它们都回答不出 “如何用 3、3、7、7 算 24？” 这道题](https://www.v2ex.com/t/947721)
+1. [大老板远房亲戚天天摸鱼，做事不认真，咋办](https://www.v2ex.com/t/947650)
+1. [现在 diy AIO 的是为了什么](https://www.v2ex.com/t/947725)
 
 ## 历史归档
 
