@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-15 21:11:04 +0800`
+ `更新时间：2023-06-15 22:06:10 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [新买的 appletv 到货了,晚上回去折腾,要准备什么吗?](https://www.v2ex.com/t/948887)
 1. [租房怎样才能租到安静的](https://www.v2ex.com/t/948925)
 1. [smartgit 5 折了](https://www.v2ex.com/t/948890)
+1. [终于知道为什么 996.icu 从 19 年底就没人合并更新了](https://www.v2ex.com/t/949048)
 
 ## 历史归档
 
