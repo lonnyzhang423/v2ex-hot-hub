@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-16 19:04:55 +0800`
+ `更新时间：2023-06-16 20:12:10 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [5000 块以内的组装机都是垃圾，不服来辩](https://www.v2ex.com/t/949308)
 1. [Java21 make Java great again](https://www.v2ex.com/t/949151)
 1. [遇到这种邻居你们怎么办？](https://www.v2ex.com/t/949149)
+1. [8 年 iOS，一时冲动，直接裸辞了，面试机会都没有](https://www.v2ex.com/t/949346)
 
 ## 历史归档
 
