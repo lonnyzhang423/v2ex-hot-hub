@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-22 19:05:43 +0800`
+ `更新时间：2023-06-22 20:12:37 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [你活着的意义是什么？（你为了什么而活着？）](https://www.v2ex.com/t/950782)
 1. [活着 怎么样才更有意义](https://www.v2ex.com/t/950815)
 1. [Intel MBP 何去何从](https://www.v2ex.com/t/950784)
-1. [sogou 的输入法才是信息泄露最大的毒瘤](https://www.v2ex.com/t/950829)
 1. [Xamarin 的死掉的主因恐怕不是微软](https://www.v2ex.com/t/950795)
+1. [sogou 的输入法才是信息泄露最大的毒瘤](https://www.v2ex.com/t/950829)
 
 ## 历史归档
 
