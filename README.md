@@ -11,16 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-06-23 16:11:13 +0800`
+ `更新时间：2023-06-23 17:07:44 +0800`
 
 ## 热议话题
 
 1. [高考成绩出来了，应该选什么学校和专业呢，大家指点下](https://www.v2ex.com/t/950983)
 1. [分享目前为止对电车的调研结论，要不要买](https://www.v2ex.com/t/950916)
-1. [淘宝对假货的容忍度真高](https://www.v2ex.com/t/950878)
 1. [28 岁回到老家， 2 年多没上班，我自由了](https://www.v2ex.com/t/950966)
 1. [2023 年， Windows 平台到底应该用什么播放器？](https://www.v2ex.com/t/951012)
 1. [2302 年了， 现在才开始学 PHP ， 是否太晚了？](https://www.v2ex.com/t/950924)
+1. [Red Hat 限制 RHEL 源码可得性，源码仅通过 CentOS Stream 公开](https://www.v2ex.com/t/950933)
+1. [如何教父母做人](https://www.v2ex.com/t/950940)
 
 ## 历史归档
 
