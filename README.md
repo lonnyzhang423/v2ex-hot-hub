@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-05 13:08:06 +0800`
+ `更新时间：2023-07-05 14:10:59 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [你对 iPhone 15 有什么期待吗？](https://www.v2ex.com/t/954175)
 1. [如何解决千古难题-婆媳关系](https://www.v2ex.com/t/953990)
 1. [有没有适合 mac 的键盘，学生用， 2000 以内](https://www.v2ex.com/t/954097)
-1. [你们感觉 github copilot 怎么样？](https://www.v2ex.com/t/953968)
 1. [挺生气的，关于领导 git 管理的一顿臭骂](https://www.v2ex.com/t/954122)
-1. [噩耗：有道云笔记免费版本只能同步最多两个设备了](https://www.v2ex.com/t/953969)
 1. [不懂就问 大家说的 OP 是什么意思？](https://www.v2ex.com/t/954167)
 1. [聊聊那些在 3 个月内做，能改变现状的事情](https://www.v2ex.com/t/953989)
+1. [iPad Pro 2021 版续航尿崩，何解](https://www.v2ex.com/t/954169)
+1. [家庭网络是否应该 计算/存储分离？](https://www.v2ex.com/t/954168)
 
 ## 历史归档
 
