@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-21 19:04:44 +0800`
+ `更新时间：2023-07-21 20:12:21 +0800`
 
 ## 热议话题
 
 1. [大佬们帮忙出出主意，纠结 MacBookPro 还是 MacBook Air](https://www.v2ex.com/t/958494)
 1. [十几年了 手里还有很多域名 就像房子一样趋势一直往下](https://www.v2ex.com/t/958502)
-1. [一直有个疑问，同事之间技术交流时应该毫无保留吗？](https://www.v2ex.com/t/958464)
 1. [3000 天签到成就达成](https://www.v2ex.com/t/958476)
+1. [一直有个疑问，同事之间技术交流时应该毫无保留吗？](https://www.v2ex.com/t/958464)
 1. [新能源汽车安全性讨论](https://www.v2ex.com/t/958533)
 1. [出租屋进老鼠了,各位老哥是怎么弄的](https://www.v2ex.com/t/958534)
 1. [终于轮到我来组 All in One 了。按照惯例发上来让大家 review 一下给点意见](https://www.v2ex.com/t/958420)
-1. [win 台式和 mac mini 纠结](https://www.v2ex.com/t/958407)
+1. [年近 30，回去十八线小县城考教编（国编和特岗）是一个好的选择吗？](https://www.v2ex.com/t/958552)
 
 ## 历史归档
 
