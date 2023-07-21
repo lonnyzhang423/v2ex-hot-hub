@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-21 11:07:11 +0800`
+ `更新时间：2023-07-21 12:07:53 +0800`
 
 ## 热议话题
 
 1. [发几个大家大概率用错的成语😄](https://www.v2ex.com/t/958300)
-1. [学校录取了，但是都劝退](https://www.v2ex.com/t/958242)
-1. [我最近越来越发现一个问题，礼义廉耻是约束穷人思想的！](https://www.v2ex.com/t/958251)
-1. [小米为什么不出 NAS 产品？](https://www.v2ex.com/t/958281)
 1. [想问问老铁们一个月通勤的费用大概多少](https://www.v2ex.com/t/958311)
+1. [小米为什么不出 NAS 产品？](https://www.v2ex.com/t/958281)
 1. [阿里云盘最终还是活成最讨厌的样子](https://www.v2ex.com/t/958303)
-1. [大家怎么看房地产市场未来的走势呢](https://www.v2ex.com/t/958478)
 1. [求助 V2 大佬，电脑被检测出来了运行代理，要求卸载......](https://www.v2ex.com/t/958314)
 1. [快奔 30 的码农碎碎念，顺便求求大佬们帮忙看下简历指点一下经验](https://www.v2ex.com/t/958346)
-1. [真是什么样的公司都有！老板也离谱](https://www.v2ex.com/t/958232)
+1. [大佬们帮忙出出主意，纠结 MacBookPro 还是 MacBook Air](https://www.v2ex.com/t/958494)
+1. [3000 天签到成就达成](https://www.v2ex.com/t/958476)
+1. [做了个 GPT+画图的综合 AI 网站，发 30 个激活码](https://www.v2ex.com/t/958310)
 
 ## 历史归档
 
