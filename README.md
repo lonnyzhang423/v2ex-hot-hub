@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-23 02:07:39 +0800`
+ `更新时间：2023-07-23 03:03:55 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [中国首款量子计算机操作系统开放下载](https://www.v2ex.com/t/958759)
 1. [同一个医院里面，不同的科室能看到之前的就医记录吗？](https://www.v2ex.com/t/958752)
 1. [纠结：加拿大上学，电工 VS Computer science 本科？](https://www.v2ex.com/t/958789)
-1. [关于公司交医保，能取出来吗？](https://www.v2ex.com/t/958784)
 1. [openai 已经放弃对 ip 的限制了？](https://www.v2ex.com/t/958763)
+1. [关于公司交医保，能取出来吗？](https://www.v2ex.com/t/958784)
 
 ## 历史归档
 
