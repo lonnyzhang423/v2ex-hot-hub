@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-22 18:06:21 +0800`
+ `更新时间：2023-07-22 19:04:40 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [中国首款量子计算机操作系统开放下载](https://www.v2ex.com/t/958759)
 1. [iphone12 有必要升级 ios16 吗？](https://www.v2ex.com/t/958744)
 1. [同一个医院里面，不同的科室能看到之前的就医记录吗？](https://www.v2ex.com/t/958752)
+1. [纠结：加拿大上学，电工 VS Computer science 本科？](https://www.v2ex.com/t/958789)
 1. [固态硬盘经常用 BT 工具下载是不是特别容易坏盘？](https://www.v2ex.com/t/958739)
 1. [一个 ip 只能用在一个域名上吗？](https://www.v2ex.com/t/958706)
-1. [openai 已经放弃对 ip 的限制了？](https://www.v2ex.com/t/958763)
 
 ## 历史归档
 
