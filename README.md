@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-22 22:04:32 +0800`
+ `更新时间：2023-07-22 23:06:05 +0800`
 
 ## 热议话题
 
 1. [在我看来，称呼别人“老哥”是一种冒犯的行为](https://www.v2ex.com/t/958794)
-1. [不扔垃圾、不使用一次性塑料袋就是环保主义者？（认真讨论）](https://www.v2ex.com/t/958717)
+1. [iphone12 有必要升级 ios16 吗？](https://www.v2ex.com/t/958744)
+1. [光猫改桥接后速度降低的问题与运营商和厂商的探讨](https://www.v2ex.com/t/958813)
 1. [使用提高医保缴费或降低医保赔偿的方式，来替代对系安全带的强制要求](https://www.v2ex.com/t/958837)
 1. [中国首款量子计算机操作系统开放下载](https://www.v2ex.com/t/958759)
-1. [iphone12 有必要升级 ios16 吗？](https://www.v2ex.com/t/958744)
 1. [同一个医院里面，不同的科室能看到之前的就医记录吗？](https://www.v2ex.com/t/958752)
+1. [关于公司交医保，能取出来吗？](https://www.v2ex.com/t/958784)
 1. [纠结：加拿大上学，电工 VS Computer science 本科？](https://www.v2ex.com/t/958789)
-1. [openai 已经放弃对 ip 的限制了？](https://www.v2ex.com/t/958763)
-1. [光猫改桥接后速度降低的问题与运营商和厂商的探讨](https://www.v2ex.com/t/958813)
 
 ## 历史归档
 
