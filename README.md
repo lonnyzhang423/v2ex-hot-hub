@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-26 23:06:46 +0800`
+ `更新时间：2023-07-27 00:08:11 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [一个人做低代码平台，还有机会吗？](https://www.v2ex.com/t/959868)
 1. [你不止活一世](https://www.v2ex.com/t/959747)
 1. [Telegram 是如何做到十几个万人群还是如此流畅的？](https://www.v2ex.com/t/959739)
-1. [特斯拉为啥卖的这么好？](https://www.v2ex.com/t/959951)
 1. [2023 年了，你还在学 Nginx 吗](https://www.v2ex.com/t/959994)
+1. [特斯拉为啥卖的这么好？](https://www.v2ex.com/t/959951)
 1. [油车自驾车队里的纯电车](https://www.v2ex.com/t/959740)
 
 ## 历史归档
