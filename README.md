@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-27 20:12:38 +0800`
+ `更新时间：2023-07-27 21:09:46 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [成年人每天 5-6 个小时的睡眠时间足够么](https://www.v2ex.com/t/960074)
 1. [求助！有人知道怎么向境外银行一次性汇款 50 万美金的渠道吗？](https://www.v2ex.com/t/960011)
 1. [公司快撑不住了，倒闭能有补偿吗](https://www.v2ex.com/t/960095)
-1. [真是绝了， github 上 YunaiV/ruoyi-vue-pro 项目打着开源的旗号收费](https://www.v2ex.com/t/960003)
 1. [准备买宋 prodmi 冠军版, 新车验车得咋验啊](https://www.v2ex.com/t/960087)
 1. [网站上线后访问的人很少怎么破？](https://www.v2ex.com/t/960244)
 1. [iPad 使用场景有哪些](https://www.v2ex.com/t/960100)
