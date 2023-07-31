@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-07-31 21:12:33 +0800`
+ `更新时间：2023-07-31 22:06:38 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [怎么样才能买到土鸡蛋？](https://www.v2ex.com/t/961089)
 1. [10k+ star 的项目也搞假开源](https://www.v2ex.com/t/961178)
 1. [[抽奖] 踩楼抽奖送 OneKey Mini](https://www.v2ex.com/t/961220)
-1. [请教下前端和全栈的同学](https://www.v2ex.com/t/961053)
+1. [牙疼有啥特效药推荐没](https://www.v2ex.com/t/961066)
 
 ## 历史归档
 
