@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-03 22:06:28 +0800`
+ `更新时间：2023-08-03 23:06:56 +0800`
 
 ## 热议话题
 
 1. [GPT 联网初体验](https://www.v2ex.com/t/962006)
 1. [男朋友说想试试其他女生是玩笑话还是玩笑口吻说的真心话？](https://www.v2ex.com/t/962034)
 1. [自荐独立开发的家庭记账 App，免费送会员中...](https://www.v2ex.com/t/962025)
-1. [大家看了封神榜第一部吗? 问一句, 这电影到底好看吗?](https://www.v2ex.com/t/961966)
 1. [[抽奖送码 & macOS] Picview - 看图就是这么简单 很 Windows 免费下载！](https://www.v2ex.com/t/961998)
+1. [大家看了封神榜第一部吗? 问一句, 这电影到底好看吗?](https://www.v2ex.com/t/961966)
 1. [想问下，小区物业费一年真的需要那么多费用吗？](https://www.v2ex.com/t/961995)
 1. [上海二手 Fang 到底有没有上涨？](https://www.v2ex.com/t/962016)
 1. [普通高等教育真的越来越不值钱](https://www.v2ex.com/t/961987)
