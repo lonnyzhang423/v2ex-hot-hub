@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-04 17:06:29 +0800`
+ `更新时间：2023-08-04 18:06:57 +0800`
 
 ## 热议话题
 
 1. [在内存和存储这么便宜的当下，苹果就是倒行逆施！](https://www.v2ex.com/t/962285)
 1. [特斯拉和极氪决赛圈怎么选](https://www.v2ex.com/t/962282)
 1. [两个人， 8 年时间打磨，算工匠吗](https://www.v2ex.com/t/962266)
-1. [求美剧推荐](https://www.v2ex.com/t/962156)
-1. [手机卫星通讯还要多久才普及（救灾）？](https://www.v2ex.com/t/962326)
-1. [建议征集，闲置服务器能干嘛？大家一起来头脑风暴！](https://www.v2ex.com/t/962254)
 1. [决赛圈： Model Y vs 小鹏 G6](https://www.v2ex.com/t/962370)
-1. [同一个 4K 显示器， windows 字体清晰 mac 字体发虚且颜色偏暗是怎么回事](https://www.v2ex.com/t/962202)
+1. [建议征集，闲置服务器能干嘛？大家一起来头脑风暴！](https://www.v2ex.com/t/962254)
+1. [手机卫星通讯还要多久才普及（救灾）？](https://www.v2ex.com/t/962326)
 1. [一个创业点子：中国版 reddit 社区论坛](https://www.v2ex.com/t/962416)
+1. [同一个 4K 显示器， windows 字体清晰 mac 字体发虚且颜色偏暗是怎么回事](https://www.v2ex.com/t/962202)
+1. [半夜惊恐发作](https://www.v2ex.com/t/962390)
 
 ## 历史归档
 
