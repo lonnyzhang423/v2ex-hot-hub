@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-04 16:08:46 +0800`
+ `更新时间：2023-08-04 17:06:29 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [建议征集，闲置服务器能干嘛？大家一起来头脑风暴！](https://www.v2ex.com/t/962254)
 1. [决赛圈： Model Y vs 小鹏 G6](https://www.v2ex.com/t/962370)
 1. [同一个 4K 显示器， windows 字体清晰 mac 字体发虚且颜色偏暗是怎么回事](https://www.v2ex.com/t/962202)
-1. [机械革命机子咋样，有用过的嘛](https://www.v2ex.com/t/962263)
+1. [一个创业点子：中国版 reddit 社区论坛](https://www.v2ex.com/t/962416)
 
 ## 历史归档
 
