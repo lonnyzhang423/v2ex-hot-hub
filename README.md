@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-05 12:07:19 +0800`
+ `更新时间：2023-08-05 13:06:03 +0800`
 
 ## 热议话题
 
-1. [决赛圈： Model Y vs 小鹏 G6](https://www.v2ex.com/t/962370)
 1. [成品 nas 还是 diy](https://www.v2ex.com/t/962383)
 1. [半夜惊恐发作](https://www.v2ex.com/t/962390)
 1. [问一下 V 友都是怎么理财的？](https://www.v2ex.com/t/962386)
 1. [忍不住吐槽一下国产移动浏览器~](https://www.v2ex.com/t/962440)
 1. [为什么还有人不愿意相信手机 app 能监听？特别是不得不开录音权限的 app](https://www.v2ex.com/t/962546)
+1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567)
 1. [入职 3 年一次都没涨薪](https://www.v2ex.com/t/962465)
 1. [是否应该建议表弟专科选择计算机](https://www.v2ex.com/t/962423)
 1. [单亲家庭的无奈，想问问各位老铁的建议](https://www.v2ex.com/t/962464)
