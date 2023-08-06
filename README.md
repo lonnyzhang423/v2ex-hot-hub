@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-06 09:44:38 +0800`
+ `更新时间：2023-08-06 10:16:26 +0800`
 
 ## 热议话题
 
-1. [刷到一个台湾程序员说：来大陆两年，不理解为什么跟大陆女生出去约会时默认男生买单？](https://www.v2ex.com/t/962567)
 1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692)
 1. [学生目前想入台 MacAir，想寻求点宝贵建议](https://www.v2ex.com/t/962617)
 1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575)
@@ -24,6 +23,7 @@
 1. [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643)
 1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591)
 1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573)
+1. [不以求职为目的， 2023 年有什么值得学习的语言或框架？](https://www.v2ex.com/t/962590)
 
 ## 历史归档
 
