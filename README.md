@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-06 10:16:26 +0800`
+ `更新时间：2023-08-06 11:06:54 +0800`
 
 ## 热议话题
 
 1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692)
 1. [学生目前想入台 MacAir，想寻求点宝贵建议](https://www.v2ex.com/t/962617)
-1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575)
 1. [被裁员了~](https://www.v2ex.com/t/962616)
-1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608)
 1. [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643)
-1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591)
-1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573)
-1. [不以求职为目的， 2023 年有什么值得学习的语言或框架？](https://www.v2ex.com/t/962590)
+1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608)
+1. [iphone14 掉水里了 现在慌的一批](https://www.v2ex.com/t/962666)
+1. [使用 Python 在游戏切换到后台后将游戏进程挂起(暂停)会被视为作弊吗？目的是节省 cpu 资源](https://www.v2ex.com/t/962671)
+1. [家里出现了一个诡异的 Wi-Fi，会跟着我路由器的信道跑](https://www.v2ex.com/t/962698)
 
 ## 历史归档
 
