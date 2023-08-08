@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-08 16:09:04 +0800`
+ `更新时间：2023-08-08 17:06:32 +0800`
 
 ## 热议话题
 
-1. [你们外卖一顿 平均多少呀](https://www.v2ex.com/t/963090)
 1. [无论你去没去过海南，你怎么看海南？](https://www.v2ex.com/t/963237)
 1. [我给公司部署了一套 ChatGPT, 老板说没有目的性, 给我这件事的绩效打了个 C, 如何评价这一现象?](https://www.v2ex.com/t/963224)
 1. [你们打算干到多少岁？不喜勿进](https://www.v2ex.com/t/963275)
 1. [V 友们怎么管理自己的密码？](https://www.v2ex.com/t/963304)
 1. [给妈妈选购一辆电车](https://www.v2ex.com/t/963239)
-1. [手机更换周期](https://www.v2ex.com/t/963296)
 1. [年过 30,你买车了吗？](https://www.v2ex.com/t/963258)
+1. [手机更换周期](https://www.v2ex.com/t/963296)
 1. [降噪耳机求推荐，办公室略吵](https://www.v2ex.com/t/963289)
 
 ## 历史归档
