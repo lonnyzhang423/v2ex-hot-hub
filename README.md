@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-09 09:55:36 +0800`
+ `更新时间：2023-08-09 10:23:35 +0800`
 
 ## 热议话题
 
-1. [你们打算干到多少岁？不喜勿进](https://www.v2ex.com/t/963275)
 1. [V 友们怎么管理自己的密码？](https://www.v2ex.com/t/963304)
 1. [你身边有没有那种 “没有兴趣爱好的人” ？](https://www.v2ex.com/t/963384)
 1. [手机更换周期](https://www.v2ex.com/t/963296)
 1. [[抽奖] [优惠] 评论送十二台 OBD2 蓝牙汽车故障检测仪 ，包邮 9.9](https://www.v2ex.com/t/963309)
 1. [逐渐失控的小费](https://www.v2ex.com/t/963313)
-1. [降噪耳机求推荐，办公室略吵](https://www.v2ex.com/t/963289)
 1. [继续干开发还是去养猪](https://www.v2ex.com/t/963463)
-1. [库克今年的 m3 mini 总得换模具了吧](https://www.v2ex.com/t/963276)
 1. [官方有开放地震预警相关的 API 吗](https://www.v2ex.com/t/963300)
+1. [你们那西瓜多少钱一斤？🍉](https://www.v2ex.com/t/963433)
+1. [昨晚买了一桶切开的西瓜，冰了 24 小时了，还能吃吗](https://www.v2ex.com/t/963418)
 
 ## 历史归档
 
