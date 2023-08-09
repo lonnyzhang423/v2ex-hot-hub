@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-09 12:08:05 +0800`
+ `更新时间：2023-08-09 13:06:28 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [继续干开发还是去养猪](https://www.v2ex.com/t/963463)
 1. [半年度被打了 325 绩效,怎么办](https://www.v2ex.com/t/963630)
 1. [你们那西瓜多少钱一斤？🍉](https://www.v2ex.com/t/963433)
-1. [昨晚买了一桶切开的西瓜，冰了 24 小时了，还能吃吗](https://www.v2ex.com/t/963418)
-1. [有一个 idea 就是把邮箱当成聊天工具](https://www.v2ex.com/t/963344)
 1. [自如不让 40 岁合租了， 80 后你还好吗？](https://www.v2ex.com/t/963599)
 1. [小米手机无法更新 telegram 了](https://www.v2ex.com/t/963610)
+1. [Apple 真的环保吗?](https://www.v2ex.com/t/963600)
+1. [昨晚买了一桶切开的西瓜，冰了 24 小时了，还能吃吗](https://www.v2ex.com/t/963418)
 1. [不爱喝水怎么办](https://www.v2ex.com/t/963362)
 
 ## 历史归档
