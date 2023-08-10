@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-10 15:06:42 +0800`
+ `更新时间：2023-08-10 16:09:07 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [撑过今年，明年应该会好起来](https://www.v2ex.com/t/963963)
 1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995)
 1. [荣耀手机 ROOT 失败，以后可能直接买非国产手机了](https://www.v2ex.com/t/963863)
+1. [长期睡眠不足影响到底有多大？](https://www.v2ex.com/t/963976)
 
 ## 历史归档
 
