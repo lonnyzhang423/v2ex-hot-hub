@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-10 08:39:42 +0800`
+ `更新时间：2023-08-10 10:00:10 +0800`
 
 ## 热议话题
 
 1. [半年度被打了 325 绩效,怎么办](https://www.v2ex.com/t/963630)
-1. [小米手机无法更新 telegram 了](https://www.v2ex.com/t/963610)
 1. [关于 App 备案的猜想](https://www.v2ex.com/t/963800)
-1. [工信部史上最严限制《通知》？](https://www.v2ex.com/t/963769)
-1. [Apple 真的环保吗?](https://www.v2ex.com/t/963600)
+1. [现在某国对老百姓的监控到了什么地步了？](https://www.v2ex.com/t/963930)
 1. [一个人在工作上没有成就感，生活上没有兴趣爱好，精神层面是不是算已经死掉了？](https://www.v2ex.com/t/963633)
 1. [你买车最看重什么？](https://www.v2ex.com/t/963755)
-1. [[独立开发][送码] 简洁的粘贴板管理，快速笔记，数据筛选工具](https://www.v2ex.com/t/963587)
+1. [2023 年了，大家在用 jdk 的哪个版本？](https://www.v2ex.com/t/963756)
+1. [公司 Clash,SSR,V2ray 全部被封，求助新路子](https://www.v2ex.com/t/963849)
 
 ## 历史归档
 
