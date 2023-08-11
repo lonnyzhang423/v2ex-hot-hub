@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-11 07:06:15 +0800`
+ `更新时间：2023-08-11 08:29:37 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [HarmonyOS NEXT 不支持 Android 了，那么 Android 开发者是不是要新学习一门技术了](https://www.v2ex.com/t/963995)
 1. [撑过今年，明年应该会好起来](https://www.v2ex.com/t/963963)
 1. [长期睡眠不足影响到底有多大？](https://www.v2ex.com/t/963976)
-1. [1.v2ex 可以私信吗 2.困惑很久的一个法律问题](https://www.v2ex.com/t/963939)
 1. [为什么打工永远赚不到大钱？](https://www.v2ex.com/t/964049)
 1. [想投诉街道办工作人员，但对方拒绝提供工号怎么办？](https://www.v2ex.com/t/963992)
+1. [个人开发者的悲歌：原来我是出版业](https://www.v2ex.com/t/964112)
 
 ## 历史归档
 
