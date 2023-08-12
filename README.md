@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-12 15:05:06 +0800`
+ `更新时间：2023-08-12 16:07:45 +0800`
 
 ## 热议话题
 
 1. [分享你最爱的书！](https://www.v2ex.com/t/964501)
 1. [最近的信托爆雷会影响我的 R2 稳健型理财吗？](https://www.v2ex.com/t/964581)
-1. [疯了吧， 7 月又调整五险一金了么，工资比上个月少了近 300，工资没涨过，到手越来越少。](https://www.v2ex.com/t/964487)
 1. [[送码] 我开发了一款 Chrome 插件，利用字幕练习听力以及提升词汇量，将 YouTube 打造为你的专属英语教室。](https://www.v2ex.com/t/964624)
-1. [macOS 有什么好用的解压缩软件推荐吗？](https://www.v2ex.com/t/964467)
 1. [女朋友的 iPhone 空间占用成这样了](https://www.v2ex.com/t/964540)
 1. [前女友有男朋友了](https://www.v2ex.com/t/964528)
-1. [首次开机激活后，半小时内不要分盘](https://www.v2ex.com/t/964472)
-1. [想问下有多少人用 vscode 开发 Java 呢？坑吗](https://www.v2ex.com/t/964484)
+1. [看来 UPS 也得定时换啊，刚发现用了一年就废了](https://www.v2ex.com/t/964573)
+1. [来说说 letsencrypt 存在问题，以及生产环境使用的风险](https://www.v2ex.com/t/964589)
+1. [如何提高鼠标操作精准度](https://www.v2ex.com/t/964511)
+1. [年轻人，过于焦虑和后悔怎么办？](https://www.v2ex.com/t/964602)
 
 ## 历史归档
 
