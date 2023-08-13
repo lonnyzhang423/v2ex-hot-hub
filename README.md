@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-13 11:06:41 +0800`
+ `更新时间：2023-08-13 12:07:05 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [发哥 900 芯片 5G 随身 WiFi 了解一下](https://www.v2ex.com/t/964709)
 1. [怎么看待收稿费的自媒体写手突然告知你多了个“爸爸“ — 各种“某某之父”冠名？](https://www.v2ex.com/t/964697)
 1. [不论良率，我们真的今年就可以国产化 28 纳米芯片？](https://www.v2ex.com/t/964701)
-1. [微信读书使用体验](https://www.v2ex.com/t/964657)
-1. [有没有觉得很多电影 人声小 背景音大](https://www.v2ex.com/t/964661)
+1. [zerotier / tailscale / wireguard 怎么选？](https://www.v2ex.com/t/964767)
+1. [招商银行这类 app 中买的理财还安全吗？](https://www.v2ex.com/t/964816)
+1. [B 站能不能把播放器好好做做？](https://www.v2ex.com/t/964811)
 
 ## 历史归档
 
