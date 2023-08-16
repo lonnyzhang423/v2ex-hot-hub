@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-16 19:04:35 +0800`
+ `更新时间：2023-08-16 20:11:19 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [iPhone 14Pro 发布一年了，你们的续航怎么样？](https://www.v2ex.com/t/965642)
 1. [我说我怎么经常接到「京东」的「骚扰电话」😅](https://www.v2ex.com/t/965667)
 1. [我们现在是不是应该买 NAS 当仓鼠，以防断网](https://www.v2ex.com/t/965652)
-1. [Spring 启动时长优化是否有必要](https://www.v2ex.com/t/965669)
 1. [你们城市坐地铁会被人工安检和测水吗](https://www.v2ex.com/t/965751)
+1. [Spring 启动时长优化是否有必要](https://www.v2ex.com/t/965669)
 
 ## 历史归档
 
