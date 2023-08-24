@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-24 13:06:10 +0800`
+ `更新时间：2023-08-24 14:08:33 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [国内能用星链吗？亲戚在美丽国准备让他人肉背一套回来](https://www.v2ex.com/t/967733)
 1. [20230823 手持 A 股股票和基金的大家情绪如何了](https://www.v2ex.com/t/967654)
 1. [GitHub 启用了 TOTP，国内有没有硬件级密码器可以买得到？](https://www.v2ex.com/t/967735)
-1. [笔记本为什么不内置 SIM 卡槽呢](https://www.v2ex.com/t/967650)
-1. [大佬们来试试我的前端加密强度](https://www.v2ex.com/t/967742)
 1. [[6.6 打折+抽奖]DZ Reader Discuz X 论坛 通用阅读器](https://www.v2ex.com/t/967724)
+1. [大佬们来试试我的前端加密强度](https://www.v2ex.com/t/967742)
+1. [笔记本为什么不内置 SIM 卡槽呢](https://www.v2ex.com/t/967650)
 
 ## 历史归档
 
