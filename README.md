@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-25 09:39:51 +0800`
+ `更新时间：2023-08-25 10:13:25 +0800`
 
 ## 热议话题
 
 1. [🎉全新升级 Xterminal 内测啦！轻松管理服务器，效率拉满！](https://www.v2ex.com/t/967928)
 1. [吐槽公司产品，感觉产品就很离谱，你们公司的产品也是这样的吗？](https://www.v2ex.com/t/967873)
-1. [Apple TV 可以当软路由了](https://www.v2ex.com/t/967837)
-1. [吐个槽，被吹得厉害的 termius，免费版居然不支持 http/socks proxy](https://www.v2ex.com/t/967889)
+1. [我所居住的地方离福岛核电站排污口仅 150km](https://www.v2ex.com/t/968096)
+1. [国内首款适配国产操作系统、自主可控的 IDE 发布](https://www.v2ex.com/t/968064)
 
 ## 历史归档
 
