@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-27 03:03:41 +0800`
+ `更新时间：2023-08-27 04:06:24 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [请教各位老哥，两地相距 350 米，如何共用宽带上网？](https://www.v2ex.com/t/968482)
 1. [折腾多年的网络体会](https://www.v2ex.com/t/968451)
 1. [今年一年的跑量超过之前四年了](https://www.v2ex.com/t/968406)
-1. [来杭啦，应届生第一次租房，大伙分享下有什么坑要避免](https://www.v2ex.com/t/968445)
 1. [太 TM 烦了， telegram 就是收不到验证码！](https://www.v2ex.com/t/968400)
+1. [来杭啦，应届生第一次租房，大伙分享下有什么坑要避免](https://www.v2ex.com/t/968445)
 1. [快 9 月了，强烈建议预算够上 pro/pro max](https://www.v2ex.com/t/968437)
 1. [刚买 appletv 有什么软件推荐吗](https://www.v2ex.com/t/968441)
 
