@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-26 16:08:26 +0800`
+ `更新时间：2023-08-26 17:05:00 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,7 @@
 1. [今年一年的跑量超过之前四年了](https://www.v2ex.com/t/968406)
 1. [快 9 月了，强烈建议预算够上 pro/pro max](https://www.v2ex.com/t/968437)
 1. [在杭州工作了 4 年，感觉每次盛传"不加班"的公司最后都"变质"了](https://www.v2ex.com/t/968382)
-1. [刚买 appletv 有什么软件推荐吗](https://www.v2ex.com/t/968441)
-1. [数字广东就 CEC-IDE 事件致歉](https://www.v2ex.com/t/968466)
+1. [請問零基礎如何快速學會粵語？](https://www.v2ex.com/t/968426)
 
 ## 历史归档
 
