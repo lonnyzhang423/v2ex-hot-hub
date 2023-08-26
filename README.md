@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-26 10:10:11 +0800`
+ `更新时间：2023-08-26 11:06:39 +0800`
 
 ## 热议话题
 
-1. [摸鱼又发现一个有意思的东西，国产编辑器实现弯道超车](https://www.v2ex.com/t/968207)
 1. [学到什么样的水平，可以 run 出国工作。不考虑英语水平的话](https://www.v2ex.com/t/968251)
 1. [V 友们，侄女考上 985 了， 2023 求推荐续航好的 WIN 电脑。](https://www.v2ex.com/t/968264)
-1. [向你介绍「播客学英语」iOS app](https://www.v2ex.com/t/968203)
 1. [新来不到一个月的同事](https://www.v2ex.com/t/968226)
 1. [为什么计算机行业没有越老越吃香](https://www.v2ex.com/t/968237)
-1. [小姨子 9 月上大学，来推荐个笔记本吧](https://www.v2ex.com/t/968227)
 1. [笔记本自己换内存难吗？](https://www.v2ex.com/t/968236)
+1. [小姨子 9 月上大学，来推荐个笔记本吧](https://www.v2ex.com/t/968227)
 1. [十一去香港玩是不是一个很弱智的决定？](https://www.v2ex.com/t/968291)
+1. [中文姓氏该怎么用英文表述？张三是 Zhang San 还是 San Zhang？](https://www.v2ex.com/t/968343)
 
 ## 历史归档
 
