@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-28 04:06:13 +0800`
+ `更新时间：2023-08-28 05:04:26 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [IPV6 好啊， IPV6 好， IPV6 郭嘉网民地位高](https://www.v2ex.com/t/968683)
 1. [31 了， 965offer 底薪比原公司高三分之一，另一家 996offer 开的比原公司高大概一倍，选哪个？](https://www.v2ex.com/t/968646)
 1. [澳洲银行人民币存款利率很高？](https://www.v2ex.com/t/968600)
-1. [来拼车 Apple 开发者账户，实现在 macOS 上安装任意 iOSApp](https://www.v2ex.com/t/968643)
+1. [被自学 it 网骗了 398 大洋，果然不该信盗版。](https://www.v2ex.com/t/968680)
 
 ## 历史归档
 
