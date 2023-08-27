@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-27 11:06:55 +0800`
+ `更新时间：2023-08-27 12:07:22 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [大家有没有什么压箱底的笑话（真笑话）？](https://www.v2ex.com/t/968485)
 1. [关于农村老人养老金问题（希望能帮到某些人）](https://www.v2ex.com/t/968489)
 1. [快 9 月了，强烈建议预算够上 pro/pro max](https://www.v2ex.com/t/968437)
-1. [Obsidian Sync 拼车](https://www.v2ex.com/t/968424)
-1. [請問零基礎如何快速學會粵語？](https://www.v2ex.com/t/968426)
 1. [刚买 appletv 有什么软件推荐吗](https://www.v2ex.com/t/968441)
+1. [搞了一个一元机场后想把原来的节点卖了](https://www.v2ex.com/t/968583)
+1. [Java 中的 Optional 应该什么时候用呢，总感觉这样不如直接 if 判断](https://www.v2ex.com/t/968493)
 
 ## 历史归档
 
