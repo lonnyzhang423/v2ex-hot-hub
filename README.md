@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-29 17:06:44 +0800`
+ `更新时间：2023-08-29 18:07:07 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [如今手机充电器价格造成的畸形现象](https://www.v2ex.com/t/969133)
 1. [5G 在哪里？](https://www.v2ex.com/t/969070)
 1. [推荐个国产牌子的安卓手机吧。。。。。。。](https://www.v2ex.com/t/969089)
-1. [有 iPhone 同时也有 mac，请问大家还有用 iPad 的场景吗？](https://www.v2ex.com/t/968976)
 1. [不支持 PD 协议的高功率快充都是刷流氓](https://www.v2ex.com/t/969137)
-1. [闲鱼账号突然被封，站内有贵公司的人吗，愿付费解决](https://www.v2ex.com/t/969062)
+1. [华为 mate60 pro 官网直接上线预售了](https://www.v2ex.com/t/969171)
+1. [有 iPhone 同时也有 mac，请问大家还有用 iPad 的场景吗？](https://www.v2ex.com/t/968976)
 
 ## 历史归档
 
