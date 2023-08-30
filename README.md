@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-08-30 13:06:17 +0800`
+ `更新时间：2023-08-30 14:08:41 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,10 @@
 1. [一起来练五笔](https://www.v2ex.com/t/969311)
 1. [麒麟“9000s”真的是 7nm？有可靠的信息来源吗](https://www.v2ex.com/t/969373)
 1. [华为 Mate60 开卖了，不知道是否支持 5G？](https://www.v2ex.com/t/969203)
+1. [广州认房不认贷了，一触即发](https://www.v2ex.com/t/969407)
 1. [🔥 [工具分享] ， InfyniDock Beta 发布，全新 MacOS Dock 替代品，欢迎大家试用！](https://www.v2ex.com/t/969249)
+1. [Apple 9 月 13 日 凌晨一点特别活动](https://www.v2ex.com/t/969340)
+1. [微信号被永久封了,有办法能给恢复回来吗](https://www.v2ex.com/t/969251)
 
 ## 历史归档
 
