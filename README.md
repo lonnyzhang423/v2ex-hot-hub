@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-01 20:11:39 +0800`
+ `更新时间：2023-09-01 21:08:30 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [做了一个阿里云盘的搜索引擎](https://www.v2ex.com/t/969938)
 1. [新款 model 3 评测](https://www.v2ex.com/t/969951)
 1. [开车时间不久的司机如何高效的有遇见性的看地图导航](https://www.v2ex.com/t/969983)
-1. [看到 6.6 netdev 贡献排名，笑死，国内大厂猛刷 patch 数量， review 都是负分，啥时候能不倦 kpi 了](https://www.v2ex.com/t/969955)
 1. [你们手机相册会保存大量照片/视频吗?](https://www.v2ex.com/t/970059)
+1. [看到 6.6 netdev 贡献排名，笑死，国内大厂猛刷 patch 数量， review 都是负分，啥时候能不倦 kpi 了](https://www.v2ex.com/t/969955)
 1. [为什么自己的屁是香的，别人的屁是臭的？](https://www.v2ex.com/t/970009)
 
 ## 历史归档
