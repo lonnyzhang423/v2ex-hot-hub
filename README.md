@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-01 19:05:18 +0800`
+ `更新时间：2023-09-01 20:11:39 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [看到 6.6 netdev 贡献排名，笑死，国内大厂猛刷 patch 数量， review 都是负分，啥时候能不倦 kpi 了](https://www.v2ex.com/t/969955)
 1. [你们手机相册会保存大量照片/视频吗?](https://www.v2ex.com/t/970059)
 1. [为什么自己的屁是香的，别人的屁是臭的？](https://www.v2ex.com/t/970009)
-1. [新款 model3 有人冲吗](https://www.v2ex.com/t/969948)
 
 ## 历史归档
 
