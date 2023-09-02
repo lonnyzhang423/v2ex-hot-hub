@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-03 01:04:30 +0800`
+ `更新时间：2023-09-03 02:07:22 +0800`
 
 ## 热议话题
 
-1. [关于 [春松客服] SPAM 事件的回顾](https://www.v2ex.com/t/970315)
 1. [大佬们，现在买房就一定要维权吗？](https://www.v2ex.com/t/970297)
+1. [关于 [春松客服] SPAM 事件的回顾](https://www.v2ex.com/t/970315)
 1. [拼多多是我见过最恶心的平台，没有之一！](https://www.v2ex.com/t/970281)
 1. [求推荐手机浏览器](https://www.v2ex.com/t/970283)
 1. [在河南郑州除了 vpn 还有访问自建 http/https 服务的途径吗，杀疯了](https://www.v2ex.com/t/970368)
