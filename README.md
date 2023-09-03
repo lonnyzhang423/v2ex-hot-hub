@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-04 03:03:29 +0800`
+ `更新时间：2023-09-04 04:06:09 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [看完《奥本海默》怀疑自己了](https://www.v2ex.com/t/970545)
 1. [哎， twitter 看网黄被封了](https://www.v2ex.com/t/970467)
 1. [提升从英国访问国内家中 NAS 速度](https://www.v2ex.com/t/970555)
-1. [线上辅导初中生有何最佳实践](https://www.v2ex.com/t/970470)
 1. [大家家里办的多大的宽带套餐，使用率怎么样？](https://www.v2ex.com/t/970503)
+1. [线上辅导初中生有何最佳实践](https://www.v2ex.com/t/970470)
 1. [浅谈联通卡在 iPhone 上的信号网速问题](https://www.v2ex.com/t/970490)
 
 ## 历史归档
