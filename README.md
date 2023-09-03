@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-03 15:05:19 +0800`
+ `更新时间：2023-09-03 16:07:40 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,11 @@
 1. [放弃光纤改用 5g 无线家宽](https://www.v2ex.com/t/970460)
 1. [大家觉得前端的核心竞争力是什么呢？](https://www.v2ex.com/t/970378)
 1. [iPhone 15 马上发布了，你换吗？](https://www.v2ex.com/t/970387)
-1. [GKD - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP](https://www.v2ex.com/t/970406)
 1. [有没有可能世界上的 Android 比中国的更费电](https://www.v2ex.com/t/970505)
+1. [GKD - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP](https://www.v2ex.com/t/970406)
 1. [哎， twitter 看网黄被封了](https://www.v2ex.com/t/970467)
 1. [手里有 100 万，有没有好的路子可以利用起来，创业、投资，大家给点意见](https://www.v2ex.com/t/970372)
 1. [大 V 真的超级赚钱](https://www.v2ex.com/t/970374)
-1. [同学朋友结婚大家一般随礼多少](https://www.v2ex.com/t/970355)
 
 ## 历史归档
 
