@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-04 20:12:20 +0800`
+ `更新时间：2023-09-04 21:08:55 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [躺平 2 年突然迷茫了](https://www.v2ex.com/t/970742)
 1. [本人是 iOS 开发，准备自己创业开发 APP，要自学一门后端语言， Java 、 PHP 、Go、 Python 、Node.js,请各位大佬推荐一下学习哪个，主要应用场景是给 iOS 客户端用的 API](https://www.v2ex.com/t/970816)
 1. [[送码] MagicNotch: 给你的 Macbook 加上灵动岛](https://www.v2ex.com/t/970655)
-1. [吐槽一下 少数派 ~](https://www.v2ex.com/t/970812)
+1. [国庆开长途回老家，有啥合适的车险么？](https://www.v2ex.com/t/970791)
 
 ## 历史归档
 
