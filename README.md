@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-05 21:09:20 +0800`
+ `更新时间：2023-09-05 22:06:21 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [很好奇，为何那么多内地国人抗拒使用 Microsoft Store，而乐此不彼的亢奋的使用 Apple Store 呢？](https://www.v2ex.com/t/971118)
 1. [现在深圳适合买房吗？](https://www.v2ex.com/t/970972)
 1. [瑞幸+茅台的爆火，我感受到的是公司对开发人员的冷落](https://www.v2ex.com/t/971133)
-1. [不看文档的前端我真的很反感](https://www.v2ex.com/t/970995)
+1. [🎉🎉🎉[Xterminal] 新版本发布一周多已获 1W+用户，又又有更新新功能啦！🎉🎉🎉](https://www.v2ex.com/t/971121)
 
 ## 历史归档
 
