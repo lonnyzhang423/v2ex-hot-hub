@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-09 00:07:59 +0800`
+ `更新时间：2023-09-09 01:05:33 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [在公司摸鱼写自己小项目，如何尽量安全地 push 出去？](https://www.v2ex.com/t/971896)
 1. [开发了六年的产品迎来了第一个商业客户](https://www.v2ex.com/t/971996)
 1. [深圳暴雨](https://www.v2ex.com/t/971923)
-1. [前后端 api 接口 url 格式问题讨论](https://www.v2ex.com/t/971993)
 1. [淘宝的用户名，是否记着你第一个无法启齿的网名](https://www.v2ex.com/t/971932)
+1. [前后端 api 接口 url 格式问题讨论](https://www.v2ex.com/t/971993)
 1. [我来网暴一家杭州公司，杭州的宝宝，和吃瓜的兄弟搬好板凳。](https://www.v2ex.com/t/972102)
 1. [各位 Coder，高刷屏幕对写代码有加成没😁](https://www.v2ex.com/t/972050)
 
