@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-09 12:07:32 +0800`
+ `更新时间：2023-09-09 13:05:58 +0800`
 
 ## 热议话题
 
 1. [我来网暴一家杭州公司，杭州的宝宝，和吃瓜的兄弟搬好板凳。](https://www.v2ex.com/t/972102)
 1. [各位 Coder，高刷屏幕对写代码有加成没😁](https://www.v2ex.com/t/972050)
+1. [生孩子的意义是什么？](https://www.v2ex.com/t/972200)
+1. [孩子学编程是不是首选 C++](https://www.v2ex.com/t/972165)
 1. [求推荐敲代码键盘](https://www.v2ex.com/t/972024)
 1. [注册 outlook 邮箱要崩溃了！](https://www.v2ex.com/t/972036)
 1. [关于房贷利率](https://www.v2ex.com/t/972044)
-1. [生孩子的意义是什么？](https://www.v2ex.com/t/972200)
 1. [[iOS] 倒数鸭 - 全新设计的倒数正数纪念日 app](https://www.v2ex.com/t/972076)
-1. [孩子学编程是不是首选 C++](https://www.v2ex.com/t/972165)
 1. [求助 nginx 相关问题！ v2er 救救孩子吧!呜呜呜！](https://www.v2ex.com/t/972086)
 
 ## 历史归档
