@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-11 09:41:08 +0800`
+ `更新时间：2023-09-11 10:14:14 +0800`
 
 ## 热议话题
 
 1. [那些坚持独身一生的人，有打算提前安排自己的身后事吗](https://www.v2ex.com/t/972457)
 1. [iPhone 相对 Android 的优势](https://www.v2ex.com/t/972498)
 1. [吐槽 A 股亏钱](https://www.v2ex.com/t/972509)
+1. [记得有文章说， 取名字是最难的事之一， 大家有什么经验分享吗](https://www.v2ex.com/t/972474)
+1. [TB 通过员工优惠购买 MacbookPro 遭遇到了诈骗](https://www.v2ex.com/t/972466)
 1. [去的新公司，老板让我自己买电脑去上班。。。。](https://www.v2ex.com/t/972486)
 1. [你的 mac 多久没关机或者重启了？](https://www.v2ex.com/t/972515)
-1. [记得有文章说， 取名字是最难的事之一， 大家有什么经验分享吗](https://www.v2ex.com/t/972474)
-1. [一個悲觀的預測](https://www.v2ex.com/t/972589)
-1. [TB 通过员工优惠购买 MacbookPro 遭遇到了诈骗](https://www.v2ex.com/t/972466)
 1. [准备去 KR 旅游，哪里可以买到 5G 的流量卡？](https://www.v2ex.com/t/972470)
 
 ## 历史归档
