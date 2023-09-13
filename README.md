@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-13 19:04:55 +0800`
+ `更新时间：2023-09-13 20:12:33 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [想问一下买 Apple watch 的人是怎样的使用习惯？](https://www.v2ex.com/t/973214)
 1. [十年 iPhone 用户，因为 14pro 体验槽糕看完发布会准备转安卓试试了，求推荐安卓手机](https://www.v2ex.com/t/973410)
 1. [国庆计划开车 2000 多公里，有什么建议或心得吗？](https://www.v2ex.com/t/973375)
-1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294)
 1. [都在说 iPhone15，有没有关注问界 M7 的？](https://www.v2ex.com/t/973334)
+1. [就连 Type-C 对老用户来说都不见得是升级啊...](https://www.v2ex.com/t/973294)
 
 ## 历史归档
 
