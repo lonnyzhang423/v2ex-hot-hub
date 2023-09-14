@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-14 16:09:04 +0800`
+ `更新时间：2023-09-14 17:06:58 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [10 年 iPhone 用户换了安卓后一点感想~~~~](https://www.v2ex.com/t/973658)
 1. [为什么特斯拉和其他国产新能源对比，吵架没赢过销量没输过](https://www.v2ex.com/t/973606)
 1. [世界有外星人？](https://www.v2ex.com/t/973598)
-1. [Edge 怎么这么犯贱啊？？](https://www.v2ex.com/t/973523)
 1. [国庆去那玩，有想法吗？](https://www.v2ex.com/t/973609)
+1. [Edge 怎么这么犯贱啊？？](https://www.v2ex.com/t/973523)
 1. [求 V 友推荐一辆家用车，预算 25-40](https://www.v2ex.com/t/973630)
+1. [iPhone 用户为什么永远觉得安卓会卡](https://www.v2ex.com/t/973730)
 1. [自用电脑如何搭建 Linux 系统进行开发？](https://www.v2ex.com/t/973553)
 1. [iPhone 换电池又涨价了，厨子他凭啥啊](https://www.v2ex.com/t/973642)
 
