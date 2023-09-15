@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-15 20:12:02 +0800`
+ `更新时间：2023-09-15 21:08:52 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [请问 debian 和 ubuntu 之间怎么做选择？](https://www.v2ex.com/t/974059)
 1. [联通宽带电话回访服务评价选了个[一般]，然后接连接到三个师傅电话](https://www.v2ex.com/t/974122)
 1. [iPhone 15 使用 USB 2.0 的原因](https://www.v2ex.com/t/974024)
-1. [为什么大家宁愿自己付费或用 pojie 软件也不愿意找公司购买或者报销？](https://www.v2ex.com/t/973876)
 1. [老板在办公室抽雪茄，办公区弥漫着巨大的烟味，怎么破，提桶是唯一的选择吗？](https://www.v2ex.com/t/974078)
+1. [圈 x 出 MAC 版本了，出 surge5 激活码～](https://www.v2ex.com/t/973948)
 
 ## 历史归档
 
