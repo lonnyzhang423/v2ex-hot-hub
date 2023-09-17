@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-17 15:05:20 +0800`
+ `更新时间：2023-09-17 16:07:41 +0800`
 
 ## 热议话题
 
-1. [ProductHunt 点赞送 $19.99 永久会员。v0.dev： Vercel 刚刚发布的 AI 生成 web UI 的工具，跟我做的 Chrome 插件 WindChat 异曲同工呀。](https://www.v2ex.com/t/974403)
 1. [各位，如果让你推荐 3 本书，你会推荐哪 3 本啊](https://www.v2ex.com/t/974506)
-1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448)
 1. [一件事再次让我对身边亲近的人感到无奈](https://www.v2ex.com/t/974487)
+1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448)
 1. [尚硅谷和黑马哪家比较好？](https://www.v2ex.com/t/974453)
 1. [iPhone 15 发布了， iPhone 11 pro 还可以用几年呢？](https://www.v2ex.com/t/974418)
-1. [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405)
 1. [爬虫工程师兼职 (远程岗位) 3K 到 5K](https://www.v2ex.com/t/974470)
+1. [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405)
 1. [我用以下方法证明了 如果用 homebrew 装软件，就卸载不干净了？](https://www.v2ex.com/t/974517)
-1. [pve 最佳 mini 主机是什么？](https://www.v2ex.com/t/974398)
+1. [[号码泄露]静默三年的手机卡的副号，绑定云上贵州的第三天凌晨收到诈骗短信](https://www.v2ex.com/t/974527)
+1. [iPhone 15 买什么壳，介绍一下买壳经验](https://www.v2ex.com/t/974514)
 
 ## 历史归档
 
