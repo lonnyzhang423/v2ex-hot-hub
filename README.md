@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-17 08:33:41 +0800`
+ `更新时间：2023-09-17 09:43:04 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [有没有必要去马来西亚读个硕士？](https://www.v2ex.com/t/974389)
 1. [如果从两岁开始给小朋友只看英语动画片，会不会对他们未来的英语学习有极大帮助？](https://www.v2ex.com/t/974448)
 1. [独立开发者是怎么做 UI 设计的？](https://www.v2ex.com/t/974366)
+1. [iPhone 15 发布了， iPhone 11 pro 还可以用几年呢？](https://www.v2ex.com/t/974418)
 1. [首发 15 pro，兄弟们准备在哪买手机壳](https://www.v2ex.com/t/974405)
 1. [驾考还在北京没考完! 快要过期了 又是纠结](https://www.v2ex.com/t/974351)
-1. [iPhone 15 发布了， iPhone 11 pro 还可以用几年呢？](https://www.v2ex.com/t/974418)
 
 ## 历史归档
 
