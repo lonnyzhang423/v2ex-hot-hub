@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-18 17:07:11 +0800`
+ `更新时间：2023-09-18 18:07:14 +0800`
 
 ## 热议话题
 
 1. [本次经济不景气的根本原因是什么，或者怎么个逻辑？](https://www.v2ex.com/t/974782)
 1. [大伙儿这两天喉咙痛吗](https://www.v2ex.com/t/974726)
 1. [亲手造成的运维事故：在 Live CD 环境下部署并运行了 8 个月](https://www.v2ex.com/t/974678)
-1. [求证实，虽然经常被夸大，经过对比测试发现安卓内存确实没有 iPhone 的耐用，这个对比是否科学？](https://www.v2ex.com/t/974608)
 1. [正在考虑逃离苹果生态](https://www.v2ex.com/t/974836)
 1. [随着中国的基建减少，需求减少，大量的民工与进厂的人何去何从？](https://www.v2ex.com/t/974711)
-1. [iPhone 14 Pro 和 iPhone 15 怎么选](https://www.v2ex.com/t/974702)
 1. [茅台近期的联动看上去是想打开青少年间的市场。你们会主动喝白酒吗？](https://www.v2ex.com/t/974760)
+1. [iPhone 14 Pro 和 iPhone 15 怎么选](https://www.v2ex.com/t/974702)
 1. [怎么平衡与家里人观念的差异？](https://www.v2ex.com/t/974626)
+1. [做什么事，会让你废寝忘食？](https://www.v2ex.com/t/974831)
 
 ## 历史归档
 
