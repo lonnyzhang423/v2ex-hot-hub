@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-19 11:07:30 +0800`
+ `更新时间：2023-09-19 12:07:52 +0800`
 
 ## 热议话题
 
 1. [正在考虑逃离苹果生态](https://www.v2ex.com/t/974836)
-1. [做什么事，会让你废寝忘食？](https://www.v2ex.com/t/974831)
-1. [大家认为历代 iPhone 里最拉胯的是哪一款](https://www.v2ex.com/t/974940)
-1. [如何看待演员刘金在苹果店怒砸 iphone13ProMax](https://www.v2ex.com/t/975013)
 1. [ios17——苹果失去了创新力？](https://www.v2ex.com/t/975042)
+1. [做什么事，会让你废寝忘食？](https://www.v2ex.com/t/974831)
+1. [如何看待演员刘金在苹果店怒砸 iphone13ProMax](https://www.v2ex.com/t/975013)
+1. [大家认为历代 iPhone 里最拉胯的是哪一款](https://www.v2ex.com/t/974940)
 1. [现在小米系统还能使用谷歌服务吗？真的接入了反诈 api ？](https://www.v2ex.com/t/974904)
-1. [[求职] 资深 Android 工程师， 7 年工作经验](https://www.v2ex.com/t/974769)
+1. [我出生了才有这个世界，我没了这个世界也就没了，所以，我就是这个世界？](https://www.v2ex.com/t/975056)
 1. [为什么 HN 的英文这么难读？](https://www.v2ex.com/t/974928)
+1. [出一套广州的房子](https://www.v2ex.com/t/974799)
 
 ## 历史归档
 
