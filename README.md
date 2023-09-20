@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-20 13:06:17 +0800`
+ `更新时间：2023-09-20 14:09:07 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,8 @@
 1. [想问下大家平时在高速上速度开到多少？](https://www.v2ex.com/t/975258)
 1. [为什么这么多后端开发上下游不分?](https://www.v2ex.com/t/975243)
 1. [老生常谈-讨论苹果生态下科学上网最佳 App](https://www.v2ex.com/t/975377)
-1. [分享下 iPhone 切到 Android 的感受](https://www.v2ex.com/t/975237)
+1. [传 iPhone15 可以严格限制充电不超过 80%](https://www.v2ex.com/t/975452)
+1. [亲戚深陷资金盘，投了三十几万，怎么劝](https://www.v2ex.com/t/975393)
 
 ## 历史归档
 
