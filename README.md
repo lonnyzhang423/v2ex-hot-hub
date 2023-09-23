@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-23 09:37:49 +0800`
+ `更新时间：2023-09-23 10:11:09 +0800`
 
 ## 热议话题
 
-1. [Redmi k40(Poco F3),一代神機](https://www.v2ex.com/t/976074)
 1. [纠结买不买电视](https://www.v2ex.com/t/976133)
 1. [[送码 永久会员] 开发了一个 Todo List，看看是不是你想要的吧。](https://www.v2ex.com/t/976150)
-1. [老婆法考通过，恰逢纪念日，送智能手表 V 友有推荐不？](https://www.v2ex.com/t/976067)
 1. [一个外包同事，插入 200 条数据，调用了四万次人员查询接口](https://www.v2ex.com/t/976149)
-1. [相约十年， 2023 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/976071)
-1. [Mac 上的 Clash for Windows 日常占用内存四五百 MB，这正常吗？](https://www.v2ex.com/t/976075)
+1. [第一次当黄牛，别喷我。](https://www.v2ex.com/t/976124)
+1. [iPhone 15pro 到手体验](https://www.v2ex.com/t/976205)
+1. [坏了， flutter 可能白学了。早知道不听 V 友们劝了](https://www.v2ex.com/t/976134)
+1. [手機帶殼的防摔能力是不帶殼的 100 倍](https://www.v2ex.com/t/976130)
 
 ## 历史归档
 
