@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-09-24 13:06:28 +0800`
+ `更新时间：2023-09-24 14:07:59 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [未获得原作者许可，翻译了国外软件的文档，是否可以用“版权”阻止他人“盗用”已翻译的文档？](https://www.v2ex.com/t/976625)
 1. [最近在犹豫 ix3、特斯拉、蔚来和 3 系，听说电车以后换电池成本很高，是真的吗？](https://www.v2ex.com/t/976482)
 1. [咨询一下 dalao 关于 Google Passkeys](https://www.v2ex.com/t/976513)
-1. [iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路](https://www.v2ex.com/t/976460)
 1. [语言表达能力退化严重，大家伙有这种症状吗？](https://www.v2ex.com/t/976621)
+1. [iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路](https://www.v2ex.com/t/976460)
 
 ## 历史归档
 
