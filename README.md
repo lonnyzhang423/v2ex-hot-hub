@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-02 01:04:26 +0800`
+ `更新时间：2023-10-02 02:07:29 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401)
 1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396)
 1. [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493)
-1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395)
 1. [程序员装备向： 9999， M2 air， 16+256 或者买个 32g+1T 的游戏本](https://www.v2ex.com/t/978470)
+1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395)
 1. [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479)
 1. [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482)
 1. [各位官方订单有没有提前发货的迹象啊](https://www.v2ex.com/t/978407)
