@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-01 09:52:17 +0800`
+ `更新时间：2023-10-01 10:20:31 +0800`
 
 ## 热议话题
 
-1. [大家有什么好的非国产非国行的 Android 手机推荐](https://www.v2ex.com/t/978244)
 1. [白花花的 1G 对等闲置着](https://www.v2ex.com/t/978262)
 1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290)
 1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301)
@@ -25,6 +24,7 @@
 1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305)
 1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259)
 1. [google one 30T 都撸了吗](https://www.v2ex.com/t/978341)
+1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306)
 
 ## 历史归档
 
