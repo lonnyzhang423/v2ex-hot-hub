@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-01 16:08:09 +0800`
+ `更新时间：2023-10-01 17:06:06 +0800`
 
 ## 热议话题
 
 1. [V 友们救我啊，关于手机忘记锁屏密码的事情](https://www.v2ex.com/t/978401)
-1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301)
-1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396)
 1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422)
-1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306)
-1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305)
+1. [港版首发 iPhone 15 pro 翻车了](https://www.v2ex.com/t/978396)
+1. [写代码或读文档的时候听什么歌？](https://www.v2ex.com/t/978361)
 1. [山东双非计算机 acm 败犬现大三，未来应该怎么规划？](https://www.v2ex.com/t/978372)
 1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395)
-1. [写代码或读文档的时候听什么歌？](https://www.v2ex.com/t/978361)
+1. [tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵](https://www.v2ex.com/t/978343)
+1. [程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了](https://www.v2ex.com/t/978399)
 
 ## 历史归档
 
