@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-02 18:07:16 +0800`
+ `更新时间：2023-10-02 19:05:33 +0800`
 
 ## 热议话题
 
 1. [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493)
-1. [早生孩子好？还是晚生孩子好？](https://www.v2ex.com/t/978479)
-1. [阿里云王坚 科研能力怎么样](https://www.v2ex.com/t/978478)
 1. [各位 CSGO 玩家，评价一下 CS2](https://www.v2ex.com/t/978558)
 1. [建网站 vps 使用 lightsail 还是 DigitalOcean, Azure?](https://www.v2ex.com/t/978482)
-1. [你能接受你女朋友曾经和前任联系过吗？](https://www.v2ex.com/t/978595)
 1. [广州还真是一个神奇的地方](https://www.v2ex.com/t/978498)
 1. [高速上蹭了个奇葩的车！](https://www.v2ex.com/t/978495)
+1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553)
+1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574)
 
 ## 历史归档
 
