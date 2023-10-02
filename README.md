@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-02 21:09:49 +0800`
+ `更新时间：2023-10-02 22:06:25 +0800`
 
 ## 热议话题
 
-1. [我在全职开发新编程语言，寻找对语言设计有想法的同学](https://www.v2ex.com/t/978493)
 1. [各位 CSGO 玩家，评价一下 CS2](https://www.v2ex.com/t/978558)
-1. [广州还真是一个神奇的地方](https://www.v2ex.com/t/978498)
-1. [高速上蹭了个奇葩的车！](https://www.v2ex.com/t/978495)
-1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553)
 1. [vercel 跪了，静态博客该搬到哪里](https://www.v2ex.com/t/978574)
+1. [家用 NAS 私有云 求推荐](https://www.v2ex.com/t/978553)
 1. [Apple： iPhone 15 Pro 过热是由于 iOS 17 bug 和第三方 App 导致，而非硬件问题](https://www.v2ex.com/t/978532)
+1. [首发买的 14Pro Max 电池健康已经 86 了](https://www.v2ex.com/t/978552)
+1. [100W 数据量，数据库主键选择](https://www.v2ex.com/t/978599)
+1. [大家用了两年的键盘现在都是啥样了？](https://www.v2ex.com/t/978550)
 
 ## 历史归档
 
