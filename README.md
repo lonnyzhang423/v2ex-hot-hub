@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-04 08:32:28 +0800`
+ `更新时间：2023-10-04 09:43:01 +0800`
 
 ## 热议话题
 
 1. [今年十一长假你快乐么](https://www.v2ex.com/t/978680)
 1. [退休老教师，在深圳，能找到什么样的工作呢？](https://www.v2ex.com/t/978678)
-1. [Debian 还是 Ubuntu server](https://www.v2ex.com/t/978670)
+1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753)
 1. [X 阅读器 v3，鸽了好久，年度更新放码。](https://www.v2ex.com/t/978710)
 1. [军工级别防摔手机壳, 有哪些推荐?](https://www.v2ex.com/t/978696)
-1. [中国电信宽带想移机太难了！](https://www.v2ex.com/t/978753)
-1. [想问下大家 Android 开发 目前前景怎么样](https://www.v2ex.com/t/978676)
 1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748)
-1. [目前兼顾编程与娱乐的显示器 5120x2160 的 LG 屏是不是个好的选择](https://www.v2ex.com/t/978675)
 1. [Youtube 禁止使用 Adblock 了](https://www.v2ex.com/t/978733)
+1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743)
+1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731)
+1. [“蒸发型加湿器”有可能是智商税吗？](https://www.v2ex.com/t/978788)
 
 ## 历史归档
 
