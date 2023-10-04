@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-04 14:09:27 +0800`
+ `更新时间：2023-10-04 15:06:19 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743)
 1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731)
 1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821)
-1. [Python 3.12 稳定版发布啦，哪个改动最有吸引力？](https://www.v2ex.com/t/978716)
+1. [求推荐一下 iOS 无广告的浏览器](https://www.v2ex.com/t/978813)
 
 ## 历史归档
 
