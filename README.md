@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-05 00:08:46 +0800`
+ `更新时间：2023-10-05 01:06:04 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888)
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819)
 1. [求推荐一下 iOS 无广告的浏览器](https://www.v2ex.com/t/978813)
-1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875)
 1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836)
+1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875)
 
 ## 历史归档
 
