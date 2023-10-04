@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-05 06:06:06 +0800`
+ `更新时间：2023-10-05 07:06:41 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888)
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819)
 1. [求推荐一下 iOS 无广告的浏览器](https://www.v2ex.com/t/978813)
-1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943)
 1. [是回国呢？还是继续坚持一下？](https://www.v2ex.com/t/978953)
+1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943)
 
 ## 历史归档
 
