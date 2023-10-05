@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-05 11:06:58 +0800`
+ `更新时间：2023-10-05 12:08:12 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,10 @@
 1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877)
 1. [实在是不知道选哪个了。](https://www.v2ex.com/t/978880)
 1. [普通人(普通程序员)如何抓住生成式 AI 的风口？](https://www.v2ex.com/t/978888)
-1. [内置反诈，是法律规定还是厂家主动的？](https://www.v2ex.com/t/978952)
 1. [备案实施后，国区 appstore 中购买的收费国外 app 会怎样](https://www.v2ex.com/t/978943)
-1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875)
 1. [求情侣在线同步看电影解决方案](https://www.v2ex.com/t/978962)
-1. [安卓手机有办法查看电池健康度么？](https://www.v2ex.com/t/978836)
+1. [Python 有没有好用的本地文件实现的 key， value 存储](https://www.v2ex.com/t/978875)
+1. [[拼多多] 海外 temu 招后端](https://www.v2ex.com/t/978899)
 
 ## 历史归档
 
