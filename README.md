@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-06 23:07:18 +0800`
+ `更新时间：2023-10-07 00:08:18 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [淦，买了才三年多的 filco 键盘竟然坏了。](https://www.v2ex.com/t/979193)
 1. [Google voice 保号方案](https://www.v2ex.com/t/979173)
 1. [送鸡蛋 酷圈 ku0.com 一个学习与摸鱼社区 by 离谱](https://www.v2ex.com/t/979164)
-1. [为什么 MySQL 有缓存，还要使用 Redis？](https://www.v2ex.com/t/979119)
 1. [你们的 icloud 数据会和肉身在一个地区吗](https://www.v2ex.com/t/979146)
+1. [macOS Sonoma 用着怎么样？](https://www.v2ex.com/t/979167)
 
 ## 历史归档
 
