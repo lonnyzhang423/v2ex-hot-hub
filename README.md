@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-06 08:31:53 +0800`
+ `更新时间：2023-10-06 09:41:22 +0800`
 
 ## 热议话题
 
-1. [Pixel8 确认提供 7 年的系统更新，一个手机可以用到 Android 21 了](https://www.v2ex.com/t/978971)
 1. [你的主力 apple id 是哪个区的？](https://www.v2ex.com/t/979034)
 1. [求个安卓好用的邮箱客户端](https://www.v2ex.com/t/978976)
 1. [堂弟在德国读硕士 5 年了还在读是咋回事？](https://www.v2ex.com/t/978984)
 1. [星际旅行有什么意义？](https://www.v2ex.com/t/979012)
-1. [计算机大三，准备明年考研，在考研之前有什么值得做的事情吗？](https://www.v2ex.com/t/978970)
-1. [有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011)
 1. [来芬兰读 CS 硕一个半月，我的感想和观察](https://www.v2ex.com/t/979019)
+1. [有没有什么开源自建的 WebVPN？](https://www.v2ex.com/t/979011)
 1. [新房装修， E1 板材，柜子比较多，怎么除甲醛？](https://www.v2ex.com/t/978980)
 1. [寻找一款流量卡，一个月 100G 左右就行。](https://www.v2ex.com/t/978997)
+1. [微软拼音又开始折磨用户了](https://www.v2ex.com/t/979025)
+1. [Aqara 这种智能家居是否存在隐私隐患？](https://www.v2ex.com/t/979003)
 
 ## 历史归档
 
