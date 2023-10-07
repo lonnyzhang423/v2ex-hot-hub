@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-07 19:04:22 +0800`
+ `更新时间：2023-10-07 20:10:58 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [咨询一下，近期想买比亚迪宋 plus dmi 2023 150km 的，有哪些坑可以避开](https://www.v2ex.com/t/979379)
 1. [武汉还是杭州？](https://www.v2ex.com/t/979358)
 1. [发现很多人分不清 jwt 和类 session token 的区别？](https://www.v2ex.com/t/979326)
-1. [进来试试你的设备支不支持真*HDR 图片](https://www.v2ex.com/t/979304)
 1. [你是怎么渡过自己人生低谷期的](https://www.v2ex.com/t/979401)
-1. [[独立开发] 碎片化信息の终结者](https://www.v2ex.com/t/979387)
+1. [进来试试你的设备支不支持真*HDR 图片](https://www.v2ex.com/t/979304)
+1. [我的独立开发故事：尝试了各种方法，但还是失败](https://www.v2ex.com/t/979474)
 
 ## 历史归档
 
