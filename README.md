@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-10 19:05:19 +0800`
+ `更新时间：2023-10-10 20:12:32 +0800`
 
 ## 热议话题
 
 1. [被月嫂给整破防了...](https://www.v2ex.com/t/980525)
 1. [买车送女朋友，求推荐，预算是落地 16w 内](https://www.v2ex.com/t/980477)
-1. [保姆的工资怎么算比较合适？](https://www.v2ex.com/t/980375)
 1. [刚买的羽毛球拍打了一次 不小心掉漆了怎么办？](https://www.v2ex.com/t/980465)
 1. [自动炒股，帮忙构思一下技术项吧](https://www.v2ex.com/t/980522)
 1. [远程工作 200 天了，感觉还是有点迷茫。# iOS 开发](https://www.v2ex.com/t/980628)
 1. [只因列表滑动让我第三次 iPhone 转安卓失败了](https://www.v2ex.com/t/980471)
 1. [法拍房有问必答](https://www.v2ex.com/t/980506)
 1. [Mac 重度使用者，升级系统是不可能升级的](https://www.v2ex.com/t/980635)
+1. [NanUI 暂停开发，作者去卖钢材了](https://www.v2ex.com/t/980517)
 
 ## 历史归档
 
