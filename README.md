@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-15 08:34:53 +0800`
+ `更新时间：2023-10-15 09:45:45 +0800`
 
 ## 热议话题
 
 1. [公司不让用苹果手机了，求安卓机推荐](https://www.v2ex.com/t/981906)
 1. [房子&女友&人&利益](https://www.v2ex.com/t/981950)
 1. [楼上小孩 11 点跳绳，能否用分贝仪测出？以及后续应对方案。](https://www.v2ex.com/t/981920)
-1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942)
 1. [努力真的可以改变命运吗](https://www.v2ex.com/t/982033)
+1. [各位有被楼上噪音困扰么？](https://www.v2ex.com/t/981942)
 1. [69 元到手腾讯 VIP 年卡+8 个会员 超级简单！](https://www.v2ex.com/t/981919)
 1. [国外公司上班要打卡吗？](https://www.v2ex.com/t/981970)
-1. [失业 8 个月，各种探索开发 APP，几乎 0 收入，最近又折腾了一个设计走查工具，大家给给建议](https://www.v2ex.com/t/981893)
-1. [用上了 appletv 当软路由，感觉很舒服](https://www.v2ex.com/t/981895)
 1. [老乡介绍的光伏发电的合同太坑了，他们可以挣多少呢](https://www.v2ex.com/t/981926)
+1. [升级到 10.0，续航明显下降](https://www.v2ex.com/t/981943)
+1. [组网方案选择， frp or cf tunnel or headscale?](https://www.v2ex.com/t/982006)
 
 ## 历史归档
 
