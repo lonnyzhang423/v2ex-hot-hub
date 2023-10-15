@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-15 16:08:16 +0800`
+ `更新时间：2023-10-15 17:05:55 +0800`
 
 ## 热议话题
 
 1. [努力真的可以改变命运吗](https://www.v2ex.com/t/982033)
 1. [关于开后门](https://www.v2ex.com/t/982058)
 1. [这种插座火线怎么接](https://www.v2ex.com/t/982125)
-1. [国外公司上班要打卡吗？](https://www.v2ex.com/t/981970)
 1. [c 和 c++同时学合适吗](https://www.v2ex.com/t/982016)
 1. [DHH 移除 TypeScript 后的反静态类型主义营销号刷屏有点让人绷不住](https://www.v2ex.com/t/982063)
 1. [老铁们在线求助，闲鱼面交被骗，闲鱼不纰漏对方信息怎么办，小地方，没有对方信息（很可能）不立案](https://www.v2ex.com/t/981997)
 1. [组网方案选择， frp or cf tunnel or headscale?](https://www.v2ex.com/t/982006)
+1. [CPU（比如 13700）不超频可以不配散热吗……](https://www.v2ex.com/t/982126)
 1. [也分享一下自己的博客](https://www.v2ex.com/t/982101)
 
 ## 历史归档
