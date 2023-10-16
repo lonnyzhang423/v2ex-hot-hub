@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-16 23:07:19 +0800`
+ `更新时间：2023-10-17 00:08:49 +0800`
 
 ## 热议话题
 
 1. [决赛圈了，小鹏 G92024 702 Max 和理想 L7 Pro,怎么选](https://www.v2ex.com/t/982276)
-1. [感觉心好累](https://www.v2ex.com/t/982237)
 1. [我亲历的现代版祥林嫂](https://www.v2ex.com/t/982321)
 1. [15pro Max 到手前一天查 N 次快递, 激活后索然无味](https://www.v2ex.com/t/982312)
 1. [help，宋 plus 和星越 L 二选一](https://www.v2ex.com/t/982327)
 1. [为什么有些人喜欢听“得到”，而有些人喜欢听“樊登”？ 不同 APP 的用户有什么特点？](https://www.v2ex.com/t/982275)
+1. [关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338)
 1. [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
 
 ## 历史归档
