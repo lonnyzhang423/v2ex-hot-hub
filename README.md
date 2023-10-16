@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-16 20:13:24 +0800`
+ `更新时间：2023-10-16 21:10:39 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [15pro Max 到手前一天查 N 次快递, 激活后索然无味](https://www.v2ex.com/t/982312)
 1. [help，宋 plus 和星越 L 二选一](https://www.v2ex.com/t/982327)
 1. [为什么有些人喜欢听“得到”，而有些人喜欢听“樊登”？ 不同 APP 的用户有什么特点？](https://www.v2ex.com/t/982275)
-1. [GoDaddy lol 域名 14 块 10 年](https://www.v2ex.com/t/982215)
+1. [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
 
 ## 历史归档
 
