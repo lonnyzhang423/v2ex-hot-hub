@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-17 10:15:46 +0800`
+ `更新时间：2023-10-17 11:07:27 +0800`
 
 ## 热议话题
 
-1. [我亲历的现代版祥林嫂](https://www.v2ex.com/t/982321)
-1. [15pro Max 到手前一天查 N 次快递, 激活后索然无味](https://www.v2ex.com/t/982312)
-1. [help，宋 plus 和星越 L 二选一](https://www.v2ex.com/t/982327)
-1. [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
 1. [有多少人卸载了抖音](https://www.v2ex.com/t/982588)
-1. [前端开发女 离职了可以干点什么](https://www.v2ex.com/t/982445)
-1. [关于程序员秃头，从梗到刻板印象](https://www.v2ex.com/t/982338)
+1. [为什么网上很多人把“XX 万”说成“XX 个”？](https://www.v2ex.com/t/982448)
+1. [某芬新款电动牙刷，如何评价？](https://www.v2ex.com/t/982624)
+1. [各位，我也进决赛圈了，凯美瑞、雅阁、沃尔沃怎么选？](https://www.v2ex.com/t/982486)
+1. [appletv 好不好用？](https://www.v2ex.com/t/982392)
+1. [PDD 上看到的主机，帮忙看看](https://www.v2ex.com/t/982370)
 
 ## 历史归档
 
