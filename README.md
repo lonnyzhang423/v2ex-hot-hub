@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-18 08:32:21 +0800`
+ `更新时间：2023-10-18 09:42:11 +0800`
 
 ## 热议话题
 
 1. [买到高位的房子你们怎么心里平衡的？](https://www.v2ex.com/t/982705)
-1. [某芬新款电动牙刷，如何评价？](https://www.v2ex.com/t/982624)
 1. [有些开发人员为什么执着要系统最大权限？](https://www.v2ex.com/t/982696)
-1. [有人讨论一下小米刚刚官宣的澎湃 OS 么？](https://www.v2ex.com/t/982673)
 1. [不善社交的管理方式](https://www.v2ex.com/t/982727)
-1. [电瓶车上不去坡是什么问题？](https://www.v2ex.com/t/982656)
+1. [有人讨论一下小米刚刚官宣的澎湃 OS 么？](https://www.v2ex.com/t/982673)
 1. [golang 是单进程的吗?](https://www.v2ex.com/t/982738)
-1. [侄女 10 岁生日,送什么礼物好呢](https://www.v2ex.com/t/982633)
-1. [gpt4 现在买的号每个月 260，有没有便宜点的](https://www.v2ex.com/t/982658)
+1. [电瓶车上不去坡是什么问题？](https://www.v2ex.com/t/982656)
 1. [卧式吸尘器 真的“逆天”](https://www.v2ex.com/t/982683)
+1. [gpt4 现在买的号每个月 260，有没有便宜点的](https://www.v2ex.com/t/982658)
+1. [去香港办事，还有什么值得做的事情？](https://www.v2ex.com/t/982770)
+1. [大家在北上广工作了多少年了？](https://www.v2ex.com/t/982820)
 
 ## 历史归档
 
