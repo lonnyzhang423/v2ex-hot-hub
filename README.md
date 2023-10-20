@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-20 09:41:28 +0800`
+ `更新时间：2023-10-20 10:14:49 +0800`
 
 ## 热议话题
 
 1. [写了个支持自己‘训练’任何数据的 Gpt 网页，免费送会员](https://www.v2ex.com/t/983404)
-1. [现在 A 股是不是大底了？](https://www.v2ex.com/t/983365)
 1. [港澳通行证被学校没收怎么办](https://www.v2ex.com/t/983522)
-1. [裸辞一年了，焦虑](https://www.v2ex.com/t/983360)
 1. [好奇 V 友们多有人有至少一台 kindle，主要用来阅读什么内容？](https://www.v2ex.com/t/983414)
 1. [有没有手出汗的同学，怎么彻底根除的](https://www.v2ex.com/t/983499)
 1. [为什么很多人对高端显卡这么执着？](https://www.v2ex.com/t/983407)
-1. [为什么会有这么多精神资本家？](https://www.v2ex.com/t/983364)
+1. [大家在家都养过什么有趣有特点的动物？](https://www.v2ex.com/t/983426)
+1. [Infuse 的体验怎么样？以及求使用 Infuse 的方式](https://www.v2ex.com/t/983468)
+1. [广州买房](https://www.v2ex.com/t/983391)
+1. [老哥们，剃胡刀怎么选？](https://www.v2ex.com/t/983408)
 
 ## 历史归档
 
