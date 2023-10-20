@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-20 15:06:50 +0800`
+ `更新时间：2023-10-20 16:09:10 +0800`
 
 ## 热议话题
 
 1. [港澳通行证被学校没收怎么办](https://www.v2ex.com/t/983522)
-1. [有没有手出汗的同学，怎么彻底根除的](https://www.v2ex.com/t/983499)
+1. [现在大家选车都不怎么选油车了吗？看了下汽车板块大部分讨论的都是电车](https://www.v2ex.com/t/983745)
 1. [新房装修，应该用什么网线](https://www.v2ex.com/t/983669)
 1. [谈谈 星闪 的未来](https://www.v2ex.com/t/983630)
-1. [大家的笔记怎么同步的？](https://www.v2ex.com/t/983507)
-1. [现在大家选车都不怎么选油车了吗？看了下汽车板块大部分讨论的都是电车](https://www.v2ex.com/t/983745)
-1. [iPhone Apple Care+不要购买 不要购买 不要购买](https://www.v2ex.com/t/983570)
+1. [减肥！ 14.5km 骑自行车上下班如何？如果可行 2000 以内推荐什么车？各位大佬怎么看？](https://www.v2ex.com/t/983676)
 1. [我的新版个人网站上线啦！](https://www.v2ex.com/t/983646)
+1. [iPhone Apple Care+不要购买 不要购买 不要购买](https://www.v2ex.com/t/983570)
+1. [推荐个男士双肩包吧， ja 人们](https://www.v2ex.com/t/983741)
 1. [有没有好用的外国手机号推荐，主要是用来外区 app 注册。](https://www.v2ex.com/t/983553)
+1. [watch4 电池监控低于 80%了，保外。修电池是给新机吗？](https://www.v2ex.com/t/983665)
 
 ## 历史归档
 
