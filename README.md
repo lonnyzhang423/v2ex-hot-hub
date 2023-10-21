@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-21 13:06:08 +0800`
+ `更新时间：2023-10-21 14:08:30 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [家人们 我买的房子同小区同户型的房子降价了 60 万](https://www.v2ex.com/t/983903)
 1. [老电视 1080P 有必要上最新款 7 代 128G 吗？](https://www.v2ex.com/t/983846)
 1. [Jupyter Notebook 到底是用来干啥的？](https://www.v2ex.com/t/983911)
-1. [刚刚 JD 爱回收上门把旧的 14PM 收走了 6050 块钱还行吗 感觉挺方便的](https://www.v2ex.com/t/983795)
-1. [Macbook 外接 4K 显示器， 24 寸 or27 寸？](https://www.v2ex.com/t/983824)
 1. [急问， mini 7 没出，决定买 6 了，容量选多大？](https://www.v2ex.com/t/983973)
+1. [Macbook 外接 4K 显示器， 24 寸 or27 寸？](https://www.v2ex.com/t/983824)
+1. [用 flask 写了几个 API，感觉内存泄露好严重](https://www.v2ex.com/t/983833)
 
 ## 历史归档
 
