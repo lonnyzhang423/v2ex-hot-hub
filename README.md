@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-21 19:04:20 +0800`
+ `更新时间：2023-10-21 20:10:58 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [新写的一个方便大家发邀请码的网站 https://invitecode.cc/](https://www.v2ex.com/t/984006)
 1. [大家都是怎么用台前调度的](https://www.v2ex.com/t/984025)
 1. [有没有用过睡眠耳机的](https://www.v2ex.com/t/983996)
-1. [全网找一个优秀的 PHP 工程师](https://www.v2ex.com/t/983932)
 1. [nas 加装 ssd 使用问题](https://www.v2ex.com/t/983977)
+1. [我的 SMB 传输速度为什么这么慢？](https://www.v2ex.com/t/983981)
 
 ## 历史归档
 
