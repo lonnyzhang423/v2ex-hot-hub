@@ -11,15 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-21 18:06:14 +0800`
+ `更新时间：2023-10-21 19:04:20 +0800`
 
 ## 热议话题
 
 1. [空闲时间写了一个 Apple TV 的聚合直播，欢迎下载](https://www.v2ex.com/t/984001)
-1. [家人们 我买的房子同小区同户型的房子降价了 60 万](https://www.v2ex.com/t/983903)
 1. [[安卓] 装了太多应用找不到？让我帮你一秒开启应用](https://www.v2ex.com/t/983972)
-1. [急问， mini 7 没出，决定买 6 了，容量选多大？](https://www.v2ex.com/t/983973)
 1. [Jupyter Notebook 到底是用来干啥的？](https://www.v2ex.com/t/983911)
+1. [急问， mini 7 没出，决定买 6 了，容量选多大？](https://www.v2ex.com/t/983973)
 1. [新写的一个方便大家发邀请码的网站 https://invitecode.cc/](https://www.v2ex.com/t/984006)
 1. [大家都是怎么用台前调度的](https://www.v2ex.com/t/984025)
 1. [有没有用过睡眠耳机的](https://www.v2ex.com/t/983996)
