@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-26 13:06:38 +0800`
+ `更新时间：2023-10-26 14:09:12 +0800`
 
 ## 热议话题
 
-1. [大家身边失业的人多吗](https://www.v2ex.com/t/985245)
+1. [知识付费就是一个笑话。](https://www.v2ex.com/t/985433)
 1. [今天高通发布了 Snapdragon X Elite，属于 Windows 的 M1 Moment 要来了吗？](https://www.v2ex.com/t/985309)
 1. [各位大佬帮我出出主意。我在摆摊卖鸭脖，有什么来不及实践的营销方法都说出来，我给你们实践一下。](https://www.v2ex.com/t/985341)
-1. [知识付费就是一个笑话。](https://www.v2ex.com/t/985433)
 1. [在有外国人的环境里，某个中国人想和另一个中国人交流，说中文是“失礼”的表现么？](https://www.v2ex.com/t/985392)
-1. [大家在开发过程中是如何管理多个项目不同的 NodeJS 版本的?](https://www.v2ex.com/t/985260)
 1. [深圳到底去哪里玩！](https://www.v2ex.com/t/985277)
 1. [115 会员 500 元 8 年](https://www.v2ex.com/t/985483)
 1. [预算 5k 推荐下电视](https://www.v2ex.com/t/985488)
+1. [部落冲突公益养老服有人玩么](https://www.v2ex.com/t/985489)
+1. [刚入手了一个 apple tv 7 代 128G 港版，想问问该买什么电视好](https://www.v2ex.com/t/985313)
 
 ## 历史归档
 
