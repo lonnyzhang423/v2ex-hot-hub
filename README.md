@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-28 10:11:57 +0800`
+ `更新时间：2023-10-28 11:07:12 +0800`
 
 ## 热议话题
 
-1. [感叹手机价格越来越贵了](https://www.v2ex.com/t/985919)
 1. [我想问下不支持不买电车的那波人是在担心什么？](https://www.v2ex.com/t/985987)
 1. [如果可以不工作，你想做什么？](https://www.v2ex.com/t/985967)
 1. [难道就这样过完一生吗？](https://www.v2ex.com/t/986042)
-1. [阿里云 e 系列服务器最低价购买（无 aff）](https://www.v2ex.com/t/985901)
 1. [阿里网盘 8T 版 3 年 3 个月 328 元 是否值得购买？](https://www.v2ex.com/t/985950)
 1. [自学 PHP 找工作有没有钱途](https://www.v2ex.com/t/986033)
 1. [国产安卓海外用，小米还是一加？](https://www.v2ex.com/t/986024)
 1. [还有哪些是反常识的冷知识](https://www.v2ex.com/t/985962)
+1. [ACME http-01 验证的缺陷： ISP 可以合法地签发伪造的 SSL 证书](https://www.v2ex.com/t/985964)
+1. [想换手机，各位能否给我提供一些建议？](https://www.v2ex.com/t/986041)
 
 ## 历史归档
 
