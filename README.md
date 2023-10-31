@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-10-31 11:07:10 +0800`
+ `更新时间：2023-10-31 12:08:17 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,12 @@
 1. [又是一年的牙膏，除了 CPU 迭代一下，基本啥都没变，没有 Face ID，没有额外的显示器支持， 8G 内存起售，居然拿 Intel MBP 出来鞭尸...](https://www.v2ex.com/t/986922)
 1. [在 V2EX 已经找到了适合自己的洗面奶，但没找到面霜](https://www.v2ex.com/t/986665)
 1. [新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919)
+1. [理性讨论：苹果是否属于奢侈品](https://www.v2ex.com/t/986990)
 1. [给各位做远程项目的人一个警示](https://www.v2ex.com/t/986881)
-1. [生日当天有什么羊毛可以撸嘛？](https://www.v2ex.com/t/986664)
-1. [新买了个 iPad air，想问有哪些应用搭配可使平板成为生产力？](https://www.v2ex.com/t/986726)
 1. [被电信装宽带的师傅坑了](https://www.v2ex.com/t/986690)
+1. [问问 i 人应该发什么朋友圈](https://www.v2ex.com/t/986952)
+1. [新买了个 iPad air，想问有哪些应用搭配可使平板成为生产力？](https://www.v2ex.com/t/986726)
+1. [如何提醒老人家出门记得关燃气灶](https://www.v2ex.com/t/986963)
 
 ## 历史归档
 
