@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-01 07:06:20 +0800`
+ `更新时间：2023-11-01 08:34:39 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [如何提醒老人家出门记得关燃气灶](https://www.v2ex.com/t/986963)
 1. [问问 i 人应该发什么朋友圈](https://www.v2ex.com/t/986952)
 1. [北京月付 206 的联通 1000M 宽带套餐来了](https://www.v2ex.com/t/986961)
-1. [新 MacBook pro14 大降价！](https://www.v2ex.com/t/986919)
 1. [这个 18GB、36GB 给我看笑了，苹果真的是太良心了](https://www.v2ex.com/t/986981)
 1. [再也不点外卖了!就是别人吃剩的](https://www.v2ex.com/t/987074)
+1. [全网最低价的 GPT-4-32k API，价格为官网的三分之一](https://www.v2ex.com/t/987214)
 
 ## 历史归档
 
