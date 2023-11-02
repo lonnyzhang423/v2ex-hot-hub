@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-03 01:06:19 +0800`
+ `更新时间：2023-11-03 02:08:28 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [舌尖有一个溃疡，说话都疼，有没有什么快速缓解办法？](https://www.v2ex.com/t/987754)
 1. [如果不做程序员了](https://www.v2ex.com/t/987785)
 1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699)
-1. [市场需要竞争， Apple 也需要教育](https://www.v2ex.com/t/987737)
 1. [看到有人吐槽合租的室友，我也来让你们开开眼吧...](https://www.v2ex.com/t/987867)
 1. [以后一个 App 是不是要重复开发 10 遍](https://www.v2ex.com/t/987761)
 1. [结婚对戒材质选择](https://www.v2ex.com/t/987881)
