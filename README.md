@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-02 15:06:53 +0800`
+ `更新时间：2023-11-02 16:08:50 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [如果不做程序员了](https://www.v2ex.com/t/987785)
 1. [ITX、迷你主机还是笔记本](https://www.v2ex.com/t/987659)
 1. [[DLPlay 半价+抽奖活动]双十一 DLPlay 钜惠](https://www.v2ex.com/t/987699)
+1. [clash_for_windows 好像删库了](https://www.v2ex.com/t/987884)
 1. [市场需要竞争， Apple 也需要教育](https://www.v2ex.com/t/987737)
 
 ## 历史归档
