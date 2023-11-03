@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-03 19:06:03 +0800`
+ `更新时间：2023-11-03 20:12:25 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [紫微斗数 | 对算命有兴趣的程序员请进](https://www.v2ex.com/t/988131)
 1. [朋友的孩子厌学，我该怎样帮她](https://www.v2ex.com/t/988088)
 1. [大家用什么记账软件？](https://www.v2ex.com/t/988094)
-1. [何同学两日体验卡！](https://www.v2ex.com/t/988004)
 1. [Go-Spring 轻装上阵，重新出发 v1.0.0 !](https://www.v2ex.com/t/988146)
 1. [好奇大家写代码都用的什么字体](https://www.v2ex.com/t/988286)
+1. [Java 转 GO 还是 Rust](https://www.v2ex.com/t/988098)
 
 ## 历史归档
 
