@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-06 06:05:36 +0800`
+ `更新时间：2023-11-06 07:06:16 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [公司不给单独配 4k 显示器](https://www.v2ex.com/t/988731)
 1. [GPT 4 是要开放给所有用户了吗？](https://www.v2ex.com/t/988720)
 1. [为什么要读原著、悟原理？](https://www.v2ex.com/t/988761)
-1. [目前还有没有国内访问比较友好的静态网页托管服务](https://www.v2ex.com/t/988715)
 1. [刚发布的 m3 系列定价真高呀](https://www.v2ex.com/t/988750)
 1. [如何拒绝别人？老是被问一些很小儿科的问题咋办？](https://www.v2ex.com/t/988785)
+1. [校招接了小米 offer， Java 后端转 Android Framework 开发，想请教各位前辈有没有什么指导与建议](https://www.v2ex.com/t/988753)
 
 ## 历史归档
 
