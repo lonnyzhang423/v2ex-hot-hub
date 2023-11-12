@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-12 16:08:03 +0800`
+ `更新时间：2023-11-12 17:05:55 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,8 @@
 1. [微信简单聊天记账](https://www.v2ex.com/t/991076)
 1. [问下各位 v 友 15pro 的真实续航](https://www.v2ex.com/t/991053)
 1. [大厂低 p 工作几年的感悟和大实话](https://www.v2ex.com/t/991077)
-1. [西藏-318 旅游照片和部分视频](https://www.v2ex.com/t/991052)
-1. [广电 1000M 宽带值得办吗？](https://www.v2ex.com/t/990960)
 1. [今天发现有人在国内上传了 google 街景](https://www.v2ex.com/t/991079)
+1. [西藏-318 旅游照片和部分视频](https://www.v2ex.com/t/991052)
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091)
 
 ## 历史归档
