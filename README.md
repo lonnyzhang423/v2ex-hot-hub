@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-13 07:06:27 +0800`
+ `更新时间：2023-11-13 08:34:06 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169)
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091)
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122)
-1. [纯好奇小调查，你们有在网上买过药吗？](https://www.v2ex.com/t/991234)
 1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208)
 
 ## 历史归档
