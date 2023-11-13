@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-13 08:34:06 +0800`
+ `更新时间：2023-11-13 09:46:18 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [再一次被 MAC 外接屏幕系统震惊，说好的环保呢](https://www.v2ex.com/t/991224)
 1. [阿里云崩了？](https://www.v2ex.com/t/991212)
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169)
+1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208)
 1. [TIM - QQ 办公简洁版寄了？](https://www.v2ex.com/t/991091)
 1. [Google play 订阅 ChatGPT plus 方法求教](https://www.v2ex.com/t/991122)
-1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208)
 
 ## 历史归档
 
