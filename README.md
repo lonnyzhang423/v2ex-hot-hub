@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-13 13:06:45 +0800`
+ `更新时间：2023-11-13 14:09:39 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [如何看待放假还被 @？](https://www.v2ex.com/t/991169)
 1. [阿里云崩了？](https://www.v2ex.com/t/991212)
 1. [Macos 换回 win，求教目前好用的 airdrop 平替方案](https://www.v2ex.com/t/991208)
-1. [搭建私人像册，最合适/经济的机型是什么？](https://www.v2ex.com/t/991318)
 
 ## 历史归档
 
