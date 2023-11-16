@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-16 21:10:15 +0800`
+ `更新时间：2023-11-16 22:06:49 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [[送码] 数独游戏 -- Hi Sudoku 上线，送一些终身会员和订阅兑换码](https://www.v2ex.com/t/992373)
 1. [想看看你们的桌面壁纸](https://www.v2ex.com/t/992334)
 1. [初入 Java ，看不懂 各种奇奇怪怪的 PO、VO、DTO、BO、**O…求一份攻略](https://www.v2ex.com/t/992296)
-1. [裸辞 965 的程序员工作 4 年之后，我找到一份 776 的保安工作](https://www.v2ex.com/t/992244)
 1. [官方 trade in 到手刀严重](https://www.v2ex.com/t/992388)
+1. [父母离去，单身一人是什么感觉？](https://www.v2ex.com/t/992342)
 
 ## 历史归档
 
