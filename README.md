@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-19 10:23:03 +0800`
+ `更新时间：2023-11-19 11:07:30 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [老生常谈，在写这种代码给这些字段命名的时候是真的难受](https://www.v2ex.com/t/993051)
 1. [由于域名被某司抢注了，于是我们做了一个艰难的决定，决定改为 LafTools，另外送礼品卡！](https://www.v2ex.com/t/993044)
 1. [求推荐 Windows 下的图片查看器](https://www.v2ex.com/t/993040)
-1. [京东上那些 19 块 100G 的流量卡靠谱吗？](https://www.v2ex.com/t/992998)
 1. [汽车轮胎只换一个，可以吗？不同品牌的，但规格一样](https://www.v2ex.com/t/993053)
-1. [去西安华为 od or 留在成都小公司 ？](https://www.v2ex.com/t/993067)
 1. [windows 远程桌面， rdp 通过端口映射开放到公网访问，有什么好的安全措施吗](https://www.v2ex.com/t/993104)
+1. [去西安华为 od or 留在成都小公司 ？](https://www.v2ex.com/t/993067)
+1. [windows 系统如何对整个硬盘进行克隆](https://www.v2ex.com/t/993014)
 
 ## 历史归档
 
