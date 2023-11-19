@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-19 19:04:45 +0800`
+ `更新时间：2023-11-19 20:11:43 +0800`
 
 ## 热议话题
 
-1. [一次 github 跟开源大佬的抬杠经历](https://www.v2ex.com/t/993100)
 1. [Windows10 已经成为了最好的 Linux 发行版](https://www.v2ex.com/t/993189)
-1. [windows 远程桌面， rdp 通过端口映射开放到公网访问，有什么好的安全措施吗](https://www.v2ex.com/t/993104)
 1. [安卓给自己推送消息有什么解决方案](https://www.v2ex.com/t/993205)
 1. [大家 NAS 防尘有什么妙招没？](https://www.v2ex.com/t/993142)
-1. [云数据库也太贵了，小规模使用有什么优势吗？](https://www.v2ex.com/t/993114)
 1. [如何看待苹果预计 2025 年更换具有突破性的内部电池](https://www.v2ex.com/t/993173)
+1. [云数据库也太贵了，小规模使用有什么优势吗？](https://www.v2ex.com/t/993114)
 1. [小白求指点：回国，海外的家庭网络是否可以设置成国内可用的住宅 IP?](https://www.v2ex.com/t/993156)
-1. [iCloud or OneDrive?](https://www.v2ex.com/t/993158)
 1. [今天才发现，八十多块钱就能随便吃牛肉](https://www.v2ex.com/t/993197)
+1. [iCloud or OneDrive?](https://www.v2ex.com/t/993158)
+1. [转正前 1 天被告知试用期不通过，如何避免踩雷？](https://www.v2ex.com/t/993191)
 
 ## 历史归档
 
