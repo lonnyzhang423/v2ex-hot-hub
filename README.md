@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-19 21:07:12 +0800`
+ `更新时间：2023-11-19 22:05:03 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [如何看待苹果预计 2025 年更换具有突破性的内部电池](https://www.v2ex.com/t/993173)
 1. [小白求指点：回国，海外的家庭网络是否可以设置成国内可用的住宅 IP?](https://www.v2ex.com/t/993156)
 1. [今天才发现，八十多块钱就能随便吃牛肉](https://www.v2ex.com/t/993197)
-1. [iCloud or OneDrive?](https://www.v2ex.com/t/993158)
 1. [转正前 1 天被告知试用期不通过，如何避免踩雷？](https://www.v2ex.com/t/993191)
+1. [iCloud or OneDrive?](https://www.v2ex.com/t/993158)
+1. [考研上岸的老哥请教个问题：关于政治的](https://www.v2ex.com/t/993196)
 1. [用 Sublime 写日记？](https://www.v2ex.com/t/993219)
 
 ## 历史归档
