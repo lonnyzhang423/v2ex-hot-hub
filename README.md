@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-20 16:10:08 +0800`
+ `更新时间：2023-11-20 17:08:02 +0800`
 
 ## 热议话题
 
 1. [各位尊贵的爱疯用户都用什么输入法](https://www.v2ex.com/t/993287)
 1. [怀疑楼上邻居在吸毒，有没有大佬知道毒品是什么味道的？](https://www.v2ex.com/t/993357)
-1. [女儿喜欢 youtube 短视频，拒绝看动画片、电影之类的长视频](https://www.v2ex.com/t/993313)
 1. [V 友们 你们使用的数据库管理工具是什么](https://www.v2ex.com/t/993341)
 1. [还是没找到 notepad++的替代品，又装了回来](https://www.v2ex.com/t/993408)
+1. [女儿喜欢 youtube 短视频，拒绝看动画片、电影之类的长视频](https://www.v2ex.com/t/993313)
 1. [大家怀念小时的自己吗](https://www.v2ex.com/t/993348)
 1. [加湿器挑花了眼，想抄一下 V 友们的作业](https://www.v2ex.com/t/993247)
 1. [自制一周预制菜可行性](https://www.v2ex.com/t/993300)
