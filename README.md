@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-23 15:06:36 +0800`
+ `更新时间：2023-11-23 16:09:22 +0800`
 
 ## 热议话题
 
 1. [如果岳父母和你争头胎冠姓权，你会同意吗？](https://www.v2ex.com/t/994383)
-1. [有个疑问，如果都觉得 Electron 是电子垃圾，那为啥不直接用用户的浏览器做 UI 而不是自己封一个 Chromium](https://www.v2ex.com/t/994305)
 1. [请教下大佬都有什么咖啡日常解决方案](https://www.v2ex.com/t/994422)
+1. [有个疑问，如果都觉得 Electron 是电子垃圾，那为啥不直接用用户的浏览器做 UI 而不是自己封一个 Chromium](https://www.v2ex.com/t/994305)
 1. [对于 PDD，不屑---理解---加入---真香](https://www.v2ex.com/t/994218)
 1. [大家是怎么看待死亡的呢？](https://www.v2ex.com/t/994337)
 1. [和 mentor 代码习惯不一样，好头痛](https://www.v2ex.com/t/994435)
