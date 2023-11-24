@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-24 11:07:32 +0800`
+ `更新时间：2023-11-24 12:08:28 +0800`
 
 ## 热议话题
 
 1. [不过了, ChatGPT Plus 免费送](https://www.v2ex.com/t/994585)
 1. [快被疾病折磨崩溃了，有没有相似病的？](https://www.v2ex.com/t/994593)
 1. [大鼠标求推荐](https://www.v2ex.com/t/994503)
-1. [关于大学的心结，怎么破](https://www.v2ex.com/t/994470)
 1. [想问一下买了 15pro 的各位，续航血崩吗？](https://www.v2ex.com/t/994576)
 1. [公司竟然管员工头发，男生不准留长发](https://www.v2ex.com/t/994700)
 1. [求你们了，别用微信公众号做技术分享了行不行！](https://www.v2ex.com/t/994498)
 1. [年底被裁，不知道接下来干嘛](https://www.v2ex.com/t/994535)
+1. [关于规范公司空调使用的通知](https://www.v2ex.com/t/994729)
 
 ## 历史归档
 
