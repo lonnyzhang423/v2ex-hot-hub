@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-25 09:42:00 +0800`
+ `更新时间：2023-11-25 10:16:07 +0800`
 
 ## 热议话题
 
 1. [敢不敢说说你曾经写过那些地动山摇的 BUG？](https://www.v2ex.com/t/994763)
 1. [请问这款不到 5 元每斤的猫粮可以长期吃吗？](https://www.v2ex.com/t/994738)
 1. [想做一个网站：互联网的记忆](https://www.v2ex.com/t/994818)
-1. [关于规范公司空调使用的通知](https://www.v2ex.com/t/994729)
 1. [关于在日本购买免税 iPhone](https://www.v2ex.com/t/994777)
-1. [用了两年的 MacBook Pro 14 拆开来清灰，震惊了](https://www.v2ex.com/t/994725)
 1. [新人 NAS 方案推荐](https://www.v2ex.com/t/994862)
-1. [有没有正常的程序员交流群？](https://www.v2ex.com/t/994819)
 1. [国产电车在割韭菜吗？](https://www.v2ex.com/t/994845)
-1. [v2ex 增加实时话题聊天室的功能会很酷](https://www.v2ex.com/t/994721)
+1. [有没有正常的程序员交流群？](https://www.v2ex.com/t/994819)
+1. [怎么劝解我妈要租新房呢？](https://www.v2ex.com/t/994848)
+1. [[第一次送码] 从未设想过 AI Bot 能活到今天,甚至有了收益，感谢 V 站许多人的支持](https://www.v2ex.com/t/995010)
+1. [马云成立“马家厨房”进军预制菜，未来生活什么变化吗？](https://www.v2ex.com/t/994875)
 
 ## 历史归档
 
