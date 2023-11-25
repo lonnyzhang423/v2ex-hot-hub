@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-25 20:11:05 +0800`
+ `更新时间：2023-11-25 21:07:05 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [1024，我从腾讯裸辞了](https://www.v2ex.com/t/995048)
 1. [网络盒子看电视寄了，只能重拾机顶盒 IPTV，如何隔空传信号请教](https://www.v2ex.com/t/995079)
 1. [某位大神创作的可以吊打 Vue 的前端框架](https://www.v2ex.com/t/994964)
-1. [G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116)
 1. [不要 5G，不要拍照，有没有 1000-2000 的给家里人刷刷抖音的手机](https://www.v2ex.com/t/995030)
+1. [G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116)
 
 ## 历史归档
 
