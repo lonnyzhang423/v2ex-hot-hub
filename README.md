@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-26 14:08:21 +0800`
+ `更新时间：2023-11-26 15:06:06 +0800`
 
 ## 热议话题
 
 1. [我准备从 Chrome 转向 Edge，你们做何选择？](https://www.v2ex.com/t/995182)
-1. [G304,GPW,Anywhere 3 鼠标选择](https://www.v2ex.com/t/995116)
 1. [买车强烈不推荐 比亚迪 背刺王](https://www.v2ex.com/t/995123)
 1. [预感 M1 Air 将会成为 Mid 2015 后的又一个钉子户，厨子的眼中钉](https://www.v2ex.com/t/995147)
-1. [墙裂推荐大家用 orbstack 代替 docker desktop](https://www.v2ex.com/t/995120)
 1. [毕业 3-5 年的兄弟们，你们现在咋样？](https://www.v2ex.com/t/995249)
-1. [我还是那个失业的产品经理，我又写了一个程序： IP 工具箱](https://www.v2ex.com/t/995158)
 1. [多节点间加密通信的安全问题](https://www.v2ex.com/t/995144)
+1. [我还是那个失业的产品经理，我又写了一个程序： IP 工具箱](https://www.v2ex.com/t/995158)
 1. [爸妈在老家接了个快递点，每月钱也不多，能兼做点其他的什么增加点收入呢](https://www.v2ex.com/t/995170)
 1. [关于可读性与高级技巧之间的折衷](https://www.v2ex.com/t/995145)
+1. [各位都把 self-host 项目 部署在什么上了](https://www.v2ex.com/t/995188)
+1. [保持手机常年运行的方法？](https://www.v2ex.com/t/995231)
 
 ## 历史归档
 
