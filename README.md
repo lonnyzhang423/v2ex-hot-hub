@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-26 20:11:31 +0800`
+ `更新时间：2023-11-26 21:07:27 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [有什么手表能控制手机上的油管播放，比如后腿几秒](https://www.v2ex.com/t/995275)
 1. [快 2024 了现在 M 系列 MacBook 外接显示器还有闪屏吗](https://www.v2ex.com/t/995278)
 1. [保持手机常年运行的方法？](https://www.v2ex.com/t/995231)
-1. [各位都把 self-host 项目 部署在什么上了](https://www.v2ex.com/t/995188)
-1. [有关拔牙，求助 V 站上的牙医](https://www.v2ex.com/t/995229)
 1. [大多数人最后都是怎么死的？](https://www.v2ex.com/t/995314)
+1. [有关拔牙，求助 V 站上的牙医](https://www.v2ex.com/t/995229)
 1. [请问支付宝买境外 vps 安全吗](https://www.v2ex.com/t/995262)
+1. [各位都把 self-host 项目 部署在什么上了](https://www.v2ex.com/t/995188)
 
 ## 历史归档
 
