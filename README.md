@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-11-26 15:06:06 +0800`
+ `更新时间：2023-11-26 16:08:13 +0800`
 
 ## 热议话题
 
 1. [我准备从 Chrome 转向 Edge，你们做何选择？](https://www.v2ex.com/t/995182)
-1. [买车强烈不推荐 比亚迪 背刺王](https://www.v2ex.com/t/995123)
 1. [预感 M1 Air 将会成为 Mid 2015 后的又一个钉子户，厨子的眼中钉](https://www.v2ex.com/t/995147)
 1. [毕业 3-5 年的兄弟们，你们现在咋样？](https://www.v2ex.com/t/995249)
 1. [多节点间加密通信的安全问题](https://www.v2ex.com/t/995144)
@@ -25,6 +24,7 @@
 1. [关于可读性与高级技巧之间的折衷](https://www.v2ex.com/t/995145)
 1. [各位都把 self-host 项目 部署在什么上了](https://www.v2ex.com/t/995188)
 1. [保持手机常年运行的方法？](https://www.v2ex.com/t/995231)
+1. [有关拔牙，求助 V 站上的牙医](https://www.v2ex.com/t/995229)
 
 ## 历史归档
 
