@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-02 12:08:06 +0800`
+ `更新时间：2023-12-02 13:06:31 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [那些想带女生入门编程的 过来看看， 我都被整破防了！](https://www.v2ex.com/t/996932)
 1. [买整机求推荐个靠谱的店铺](https://www.v2ex.com/t/996836)
 1. [准备把系统由 Windows 10 换成 Arch Linux 了，求打醒！](https://www.v2ex.com/t/996987)
-1. [招募一点认真学英语的种子选手](https://www.v2ex.com/t/996803)
+1. [普通人花多少钱能享受类似血槽姐的紧急医疗待遇？](https://www.v2ex.com/t/997047)
 1. [大家的 iPhone 15 系列循环多少次了](https://www.v2ex.com/t/996840)
-1. [有没有入手 M3 Pro 的大佬来说说体验](https://www.v2ex.com/t/996915)
 1. [国外的宽带是怎么交付的呢？](https://www.v2ex.com/t/996829)
+1. [有没有入手 M3 Pro 的大佬来说说体验](https://www.v2ex.com/t/996915)
 
 ## 历史归档
 
