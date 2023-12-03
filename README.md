@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-03 17:06:19 +0800`
+ `更新时间：2023-12-03 18:06:40 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [招聘： go/ Java ， IM 技术，热爱钻研 IM 即时通讯](https://www.v2ex.com/t/997154)
 1. [应该买一辆豪华品牌的车满足自己的虚荣感吗？](https://www.v2ex.com/t/997187)
 1. [可能很多人不知道 hoppscotch 比 postman 更好用，这个 postman 要强制登录了](https://www.v2ex.com/t/997157)
-1. [大家针对 MacBook 键盘的“满面油光”是怎么处理的](https://www.v2ex.com/t/997206)
+1. [大师用一辈子寻找真理的行为有意义吗？](https://www.v2ex.com/t/997241)
 1. [2023 年做的一些改变](https://www.v2ex.com/t/997199)
-1. [Vue 项目中，每个页面都有 2~3 个对话框，应该如何整理存放和复用？](https://www.v2ex.com/t/997210)
+1. [大家针对 MacBook 键盘的“满面油光”是怎么处理的](https://www.v2ex.com/t/997206)
 
 ## 历史归档
 
