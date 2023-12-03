@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-03 09:52:04 +0800`
+ `更新时间：2023-12-03 10:21:44 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [各位写 C++有成就感吗](https://www.v2ex.com/t/997106)
 1. [你们 Java 在深圳多少 k 啊](https://www.v2ex.com/t/997044)
 1. [那个后端干了前端活儿的项目，发布到生产环境了](https://www.v2ex.com/t/997058)
-1. [开发用词强迫症？](https://www.v2ex.com/t/997057)
+1. [把老的 intel mac 挂某鱼，居然无人问津。](https://www.v2ex.com/t/997171)
 
 ## 历史归档
 
