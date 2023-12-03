@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-03 14:08:21 +0800`
+ `更新时间：2023-12-03 15:05:56 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,8 @@
 1. [把老的 intel mac 挂某鱼，居然无人问津。](https://www.v2ex.com/t/997171)
 1. [应该买一辆豪华品牌的车满足自己的虚荣感吗？](https://www.v2ex.com/t/997187)
 1. [招聘： go/ Java ， IM 技术，热爱钻研 IM 即时通讯](https://www.v2ex.com/t/997154)
-1. [那些听本地音乐的人，是从哪里下载的音乐？](https://www.v2ex.com/t/997213)
 1. [如果要在每天出行的背包里放一本纸质书你会放哪个？](https://www.v2ex.com/t/997103)
 1. [可能很多人不知道 hoppscotch 比 postman 更好用，这个 postman 要强制登录了](https://www.v2ex.com/t/997157)
-1. [2023 年做的一些改变](https://www.v2ex.com/t/997199)
 
 ## 历史归档
 
