@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-10 02:07:59 +0800`
+ `更新时间：2023-12-10 03:04:25 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [Clash For Windows 自己疯狂跑流量是怎么回事](https://www.v2ex.com/t/998922)
 1. [为啥独立开发者的产品同行都不愿意付费呢？看不上吗？](https://www.v2ex.com/t/998941)
 1. [近期安卓新机出了一堆，纠结了很久](https://www.v2ex.com/t/998995)
-1. [大家觉得这两份工作应该怎么选](https://www.v2ex.com/t/998866)
 1. [马上 4202 了，你还没学会 k8s 吗（k8s 教程）](https://www.v2ex.com/t/998891)
 1. [京东购买智能马桶发货错误维权之路（不定时更新）](https://www.v2ex.com/t/998889)
 1. [邻居经常半夜吵架](https://www.v2ex.com/t/998879)
+1. [Macbook Pro 使用总结](https://www.v2ex.com/t/998904)
 
 ## 历史归档
 
