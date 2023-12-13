@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-13 18:07:51 +0800`
+ `更新时间：2023-12-13 19:06:12 +0800`
 
 ## 热议话题
 
 1. [程序员如何从公司上班转型](https://www.v2ex.com/t/1000000)
-1. [家里厕所应该装一个站立式小便池，有没有认同的？](https://www.v2ex.com/t/999785)
 1. [2023 年我关注的 Telegram 频道](https://www.v2ex.com/t/999882)
 1. [第一次在杭州过冬，有没有推荐的取暖方式？](https://www.v2ex.com/t/999921)
 1. [问一个并发程序可见性的问题， golang 语言](https://www.v2ex.com/t/999936)
@@ -25,6 +24,7 @@
 1. [学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备](https://www.v2ex.com/t/999853)
 1. [圈 X 和 loon 怎么选？是否有其他推荐的代理 APP？](https://www.v2ex.com/t/999913)
 1. [你们手机 256G 都不够用的，主要存放的是什么？](https://www.v2ex.com/t/999925)
+1. [下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？](https://www.v2ex.com/t/999856)
 
 ## 历史归档
 
