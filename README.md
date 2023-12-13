@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-13 15:06:40 +0800`
+ `更新时间：2023-12-13 16:09:31 +0800`
 
 ## 热议话题
 
 1. [🎉[福利] iOS & macOS 福利放送， 150 位， 5 选 1](https://www.v2ex.com/t/999774)
+1. [程序员如何从公司上班转型](https://www.v2ex.com/t/1000000)
 1. [家里厕所应该装一个站立式小便池，有没有认同的？](https://www.v2ex.com/t/999785)
 1. [问一个并发程序可见性的问题， golang 语言](https://www.v2ex.com/t/999936)
-1. [程序员如何从公司上班转型](https://www.v2ex.com/t/1000000)
 1. [客户一定要我给他设计的程序里他的 UID 为 88888](https://www.v2ex.com/t/999917)
 1. [第一次在杭州过冬，有没有推荐的取暖方式？](https://www.v2ex.com/t/999921)
 1. [2023 年我关注的 Telegram 频道](https://www.v2ex.com/t/999882)
