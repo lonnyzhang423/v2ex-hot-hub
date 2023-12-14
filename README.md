@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-15 05:06:29 +0800`
+ `更新时间：2023-12-15 06:06:50 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [知乎问题：大家身边有没有那种与社会格格不入的人](https://www.v2ex.com/t/1000214)
 1. [有人注意过自己的身体状态吗？三十岁，最近痛风了？](https://www.v2ex.com/t/1000334)
 1. [关于谈一个医护行业的女朋友](https://www.v2ex.com/t/1000349)
-1. [感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331)
 1. [情侣双方家庭经济条件差距大会对双方日常交往和生活产生巨大影响吗？](https://www.v2ex.com/t/1000225)
+1. [感觉 C# 在蚕食 Python 的生态](https://www.v2ex.com/t/1000331)
 1. [货运铁路旁边的房子能不能买？](https://www.v2ex.com/t/1000212)
-1. [m3 max 和 13900k cpu 性能的简单对比](https://www.v2ex.com/t/1000236)
+1. [Joplin 和 Obsidian 作为笔记软件哪个更好](https://www.v2ex.com/t/1000378)
 
 ## 历史归档
 
