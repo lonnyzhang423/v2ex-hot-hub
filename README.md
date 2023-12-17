@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-18 02:08:05 +0800`
+ `更新时间：2023-12-18 03:04:43 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [我的情况有必要买车损险吗?](https://www.v2ex.com/t/1001035)
 1. [生活真的不易，我早已忘了开心的味道](https://www.v2ex.com/t/1001128)
 1. [程序员在学英语](https://www.v2ex.com/t/1001042)
-1. [1800 欧值得入手 Studio Display 吗？](https://www.v2ex.com/t/1001030)
 1. [英语的重音到底是个什么东西呢？看了几天资料我连 present 都不会发音了](https://www.v2ex.com/t/1001098)
+1. [X 东的百 X 补贴不能开企业票是否合规？](https://www.v2ex.com/t/1001122)
 
 ## 历史归档
 
