@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-23 17:06:11 +0800`
+ `更新时间：2023-12-23 18:06:25 +0800`
 
 ## 热议话题
 
-1. [董宇辉为什么可以这么火？](https://www.v2ex.com/t/1002717)
 1. [家庭网络固定公网 ip 似乎会导致严重的问题](https://www.v2ex.com/t/1002761)
-1. [入了一把几十块的薄膜键盘，非常好用。](https://www.v2ex.com/t/1002718)
 1. [今天通知裁员了，部门解散。](https://www.v2ex.com/t/1002781)
 1. [断开某个网络驱动器造成双击此电脑卡 10 几秒](https://www.v2ex.com/t/1002754)
-1. [今天整了个活，用纯 http post 做了一个反向代理/内网穿透的工具](https://www.v2ex.com/t/1002777)
 1. [大家最近新项目用什么 Web 框架？](https://www.v2ex.com/t/1002736)
+1. [今天整了个活，用纯 http post 做了一个反向代理/内网穿透的工具](https://www.v2ex.com/t/1002777)
+1. [每年到年底总结工作述职的时候感觉自己好像啥都没干](https://www.v2ex.com/t/1002803)
 1. [idea 的编译真的是让人难受](https://www.v2ex.com/t/1002742)
+1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850)
 1. [过完大年 30 然后自己去西藏](https://www.v2ex.com/t/1002745)
-1. [公司发的电脑](https://www.v2ex.com/t/1002792)
 
 ## 历史归档
 
