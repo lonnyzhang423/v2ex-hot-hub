@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-24 13:06:30 +0800`
+ `更新时间：2023-12-24 14:08:38 +0800`
 
 ## 热议话题
 
 1. [送码与抽奖👏 英语学习插件 EnglishXYZ 送年度或永久会员等](https://www.v2ex.com/t/1002901)
-1. [Gemini-Next-Web 来了，基于 ChatGPT-Next-Web 开发的 Google Gemini 对话工具，速度飞快](https://www.v2ex.com/t/1002850)
 1. [水龙头的位置离热水器太远，放热水要放很久](https://www.v2ex.com/t/1002896)
 1. [[打折] 2023 年最后一周， App 打折啦🎉🎉](https://www.v2ex.com/t/1002884)
-1. [下班后喜欢做什么来放松自己？](https://www.v2ex.com/t/1002865)
 1. [我喝完酒后，完全就是另一个人](https://www.v2ex.com/t/1002931)
-1. [大家都是怎样忍受低频噪音的啊](https://www.v2ex.com/t/1002843)
+1. [下班后喜欢做什么来放松自己？](https://www.v2ex.com/t/1002865)
+1. [小学生寒假应该干什么？](https://www.v2ex.com/t/1002971)
 1. [求教 23 年 12 月买 1000-1500 左右备用机](https://www.v2ex.com/t/1002868)
+1. [自学编程求大家给个思路](https://www.v2ex.com/t/1002859)
 
 ## 历史归档
 
