@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-25 09:47:27 +0800`
+ `更新时间：2023-12-25 10:20:54 +0800`
 
 ## 热议话题
 
 1. [小 x 书上也有很多负债逾期的](https://www.v2ex.com/t/1002975)
-1. [paypal 有 100 刀, 提取到银行卡太麻烦, 可以干点啥](https://www.v2ex.com/t/1002970)
+1. [34 岁是否放弃二线银行科技岗重新回归一线互联网](https://www.v2ex.com/t/1003097)
 1. [24 届应届生 OFFER 选择求建议 银行 or 互联网？](https://www.v2ex.com/t/1003010)
 1. [家庭服务器、纯固态 nas 折腾分享](https://www.v2ex.com/t/1003004)
+1. [paypal 有 100 刀, 提取到银行卡太麻烦, 可以干点啥](https://www.v2ex.com/t/1002970)
 1. [为什么我的 ssd 的文件存放的寿命如此的长呢？ 断电放了 4 年了，文件都在](https://www.v2ex.com/t/1003087)
 1. [周末整了一款个人博客](https://www.v2ex.com/t/1002981)
 1. [大家的 iOS 设备都用什么 V2EX 客户端？求推荐](https://www.v2ex.com/t/1002963)
-1. [M3 系列 Mac 播放 AV1 编码的 YouTube 视频有没有史诗级提升](https://www.v2ex.com/t/1003035)
 
 ## 历史归档
 
