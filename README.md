@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-27 19:05:47 +0800`
+ `更新时间：2023-12-27 20:12:04 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [各位程序员，你们一次能做多少个俯卧撑？](https://www.v2ex.com/t/1003785)
 1. [信息贩卖真的无解吗？朋友差点被诈骗了](https://www.v2ex.com/t/1003688)
 1. [mac 刚到 交出你们的 mac 都装了什么软件](https://www.v2ex.com/t/1003846)
-1. [一款颜值在线的 React 后台模板-- Slash Admin](https://www.v2ex.com/t/1003619)
 1. [除了 VPN，还有什么安全方式在外网访问公司资源？](https://www.v2ex.com/t/1003747)
 
 ## 历史归档
