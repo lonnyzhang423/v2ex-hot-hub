@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2023-12-28 19:05:40 +0800`
+ `更新时间：2023-12-28 20:12:18 +0800`
 
 ## 热议话题
 
 1. [国产车机迭代速度是真的快](https://www.v2ex.com/t/1004012)
 1. [注册 V2EX 五年了，聊一下我这几年生活！](https://www.v2ex.com/t/1004101)
 1. [打工人带焖烧杯解决午饭靠谱吗？](https://www.v2ex.com/t/1003998)
-1. [2023 年了，还有人用 intel 的 mac 吗](https://www.v2ex.com/t/1003922)
-1. [将 Github Copilot Chat 请求转换为 ChatGPT 请求，免费使用 GPT-4 模型，欢迎大家体验使用](https://www.v2ex.com/t/1004009)
 1. [国产软件征集中文名字](https://www.v2ex.com/t/1004053)
+1. [将 Github Copilot Chat 请求转换为 ChatGPT 请求，免费使用 GPT-4 模型，欢迎大家体验使用](https://www.v2ex.com/t/1004009)
 1. [分享下我对电车的观点](https://www.v2ex.com/t/1004059)
 1. [我也年轻过，但是却不知道如何与年轻人对话](https://www.v2ex.com/t/1004081)
-1. [2023，程序员佛系减肥在路上](https://www.v2ex.com/t/1003992)
 1. [相信 V 友的品味，推荐几首纯音乐吧](https://www.v2ex.com/t/1004049)
+1. [2023，程序员佛系减肥在路上](https://www.v2ex.com/t/1003992)
+1. [一起讨论下「小米汽车技术发布会」？](https://www.v2ex.com/t/1004118)
 
 ## 历史归档
 
