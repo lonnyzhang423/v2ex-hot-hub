@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-01 00:07:55 +0800`
+ `更新时间：2024-01-01 01:05:43 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [有什么 git 项目管理的 GUI 工具 类似 sourcetree 的？](https://www.v2ex.com/t/1004799)
 1. [有没有哪个智能音箱能老实的不问不发声](https://www.v2ex.com/t/1004772)
 1. [问一下大家在使用 ide 中，上下左右会有自己的键位吗](https://www.v2ex.com/t/1004757)
-1. [有没有失业的 go，闲着没事的，一起合作搞 saas 项目](https://www.v2ex.com/t/1004727)
+1. [V 友们 2024 新年快乐！](https://www.v2ex.com/t/1004877)
 
 ## 历史归档
 
