@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-01 11:08:19 +0800`
+ `更新时间：2024-01-01 12:09:08 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,8 @@
 1. [香港游个人体验+攻略](https://www.v2ex.com/t/1004788)
 1. [2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896)
 1. [有什么 git 项目管理的 GUI 工具 类似 sourcetree 的？](https://www.v2ex.com/t/1004799)
-1. [有没有哪个智能音箱能老实的不问不发声](https://www.v2ex.com/t/1004772)
 1. [V 友有什么生活中集体主义/团结就是力量的好事例不？](https://www.v2ex.com/t/1004890)
-1. [2500 左右，买哪款安卓机好使](https://www.v2ex.com/t/1004768)
+1. [Pixel7a + 移动 NFC-SIM 怎么才可以使用 NFC 刷公交，门禁](https://www.v2ex.com/t/1004801)
 
 ## 历史归档
 
