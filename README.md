@@ -11,17 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-01 14:10:30 +0800`
+ `更新时间：2024-01-01 15:07:07 +0800`
 
 ## 热议话题
 
-1. [怎么样才能真正的戒掉手冲?](https://www.v2ex.com/t/1004819)
-1. [唉，彻底结束了。难受了一个下午。](https://www.v2ex.com/t/1004809)
 1. [2024 了，又长了一岁，大厂干不下去了，要润吗？](https://www.v2ex.com/t/1004896)
 1. [V 友们 2024 新年快乐！](https://www.v2ex.com/t/1004877)
-1. [V 友有什么生活中集体主义/团结就是力量的好事例不？](https://www.v2ex.com/t/1004890)
-1. [有什么 git 项目管理的 GUI 工具 类似 sourcetree 的？](https://www.v2ex.com/t/1004799)
 1. [如果在 vivo X100 Pro 和 OPPO 一加 12 之间进行选择，你会选择哪一款？](https://www.v2ex.com/t/1004916)
+1. [被 1Password 原价割了五年，新年第一天终于转到了土区订阅了](https://www.v2ex.com/t/1004913)
 
 ## 历史归档
 
