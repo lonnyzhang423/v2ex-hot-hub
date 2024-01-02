@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-02 15:06:52 +0800`
+ `更新时间：2024-01-02 16:09:45 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [家用主机用 win 还是 mac？](https://www.v2ex.com/t/1005068)
 1. [2024 上班第一天有啥感想没？](https://www.v2ex.com/t/1005080)
 1. [win10 or win11？](https://www.v2ex.com/t/1005072)
-1. [每天深蹲+俯卧撑，是不是对于普通来说基本够用了](https://www.v2ex.com/t/1004978)
+1. [好用的 git 工具](https://www.v2ex.com/t/1005026)
 
 ## 历史归档
 
