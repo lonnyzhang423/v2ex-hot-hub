@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-03 08:33:56 +0800`
+ `更新时间：2024-01-03 09:45:40 +0800`
 
 ## 热议话题
 
-1. [硬件是怎么做出来的？带你从软件的视角，揭开神秘面纱](https://www.v2ex.com/t/1005031)
-1. [大家有什么助眠的好方法](https://www.v2ex.com/t/1005047)
-1. [本田质量不行](https://www.v2ex.com/t/1005056)
 1. [每个月四千多的房贷，对于我 24 岁的人来说压力大嘛](https://www.v2ex.com/t/1005153)
+1. [本田质量不行](https://www.v2ex.com/t/1005056)
 1. [win10 or win11？](https://www.v2ex.com/t/1005072)
-1. [家用主机用 win 还是 mac？](https://www.v2ex.com/t/1005068)
 1. [2024 上班第一天有啥感想没？](https://www.v2ex.com/t/1005080)
+1. [家用主机用 win 还是 mac？](https://www.v2ex.com/t/1005068)
 1. [[杭州]买车容易停车难](https://www.v2ex.com/t/1005156)
+1. [一到冬天人就犯懒什么都不想做，甚至生存的欲望都没了](https://www.v2ex.com/t/1005084)
+1. [Java 日子人想学点其他的语言来丰富下自己的技能点，是继续 JVM 系列的语言还是搞点新潮的 rust/next.js？](https://www.v2ex.com/t/1005197)
 
 ## 历史归档
 
