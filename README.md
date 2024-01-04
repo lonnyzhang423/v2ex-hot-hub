@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-05 05:06:31 +0800`
+ `更新时间：2024-01-05 06:06:39 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用](https://www.v2ex.com/t/1005841)
 1. [Windows 下开发小应用 GUI，真的很难选方案](https://www.v2ex.com/t/1005903)
 1. [新年快乐🎉， 2024 你还在学英语吗 [招内测用户]](https://www.v2ex.com/t/1005693)
-1. [有感于一个帖子好些老哥说 2024 年想买 Vision Pro，打算建一个群，有兴趣的组队去美国～](https://www.v2ex.com/t/1005671)
 1. [现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711)
+1. [有感于一个帖子好些老哥说 2024 年想买 Vision Pro，打算建一个群，有兴趣的组队去美国～](https://www.v2ex.com/t/1005671)
 
 ## 历史归档
 
