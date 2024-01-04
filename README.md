@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-04 07:07:44 +0800`
+ `更新时间：2024-01-04 08:34:49 +0800`
 
 ## 热议话题
 
 1. [各位， 2024 年有啥准备购入的数码产品吗](https://www.v2ex.com/t/1005346)
-1. [你们都是用啥笔记类平台？ notion？飞书？语雀？](https://www.v2ex.com/t/1005393)
 1. [上海联通坐标普陀，因 PT 被运营商直接停机](https://www.v2ex.com/t/1005459)
+1. [你们都是用啥笔记类平台？ notion？飞书？语雀？](https://www.v2ex.com/t/1005393)
 1. [你们是怎么部署 nodejs 的？](https://www.v2ex.com/t/1005371)
 1. [如果我开发一款聊天 APP 能自定义信息提示音，能否超越微信?](https://www.v2ex.com/t/1005514)
-1. [2024 年了，有必要上软路由吗](https://www.v2ex.com/t/1005335)
 1. [大家的工作中会有 Code Review 吗？](https://www.v2ex.com/t/1005441)
 1. [一百万如何进行简单的理财](https://www.v2ex.com/t/1005508)
 1. [百度也在经历“开猿节流，降本增笑”吗，感觉都要嘎了](https://www.v2ex.com/t/1005379)
+1. [千万不要买红米的 13notePro，红米是不是都评测吹的性价比神机，但实际表现拉胯的一笔？](https://www.v2ex.com/t/1005390)
 
 ## 历史归档
 
