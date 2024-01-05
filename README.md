@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-05 10:21:04 +0800`
+ `更新时间：2024-01-05 11:07:49 +0800`
 
 ## 热议话题
 
 1. [这些年最明智的决策之一：先买房后买车](https://www.v2ex.com/t/1005799)
 1. [graalvm 拯救了 Java 的启动速度，但没法拯救 Java 的内存占用](https://www.v2ex.com/t/1005841)
 1. [Windows 下开发小应用 GUI，真的很难选方案](https://www.v2ex.com/t/1005903)
-1. [现在 flutter 的桌面端都这么成熟了吗？](https://www.v2ex.com/t/1005711)
+1. [微信什么时候倒闭啊？？](https://www.v2ex.com/t/1006004)
 1. [灵活就业人员社保缴纳基数又变了...](https://www.v2ex.com/t/1005748)
-1. [分享一条来自淘宝官方亲自认可的致富法子，教你如何开店卷款、诈骗跑路](https://www.v2ex.com/t/1005742)
-1. [求助：一道小学三年级数学题](https://www.v2ex.com/t/1005710)
-1. [Postman 的 MacOS 端平替， RapidAPI（原名 Paw），问题越来越多了……难道接口请求就没有好用的工具吗？](https://www.v2ex.com/t/1005826)
 1. [苹果闹钟今天没响](https://www.v2ex.com/t/1006003)
+1. [分享一条来自淘宝官方亲自认可的致富法子，教你如何开店卷款、诈骗跑路](https://www.v2ex.com/t/1005742)
+1. [Postman 的 MacOS 端平替， RapidAPI（原名 Paw），问题越来越多了……难道接口请求就没有好用的工具吗？](https://www.v2ex.com/t/1005826)
+1. [前端一年经验应届生花了 99r 在 b 站找人优化简历，大佬们看看能值多少](https://www.v2ex.com/t/1005917)
+1. [日期区间的终点是用第二天的 00:00:00 还是当天的 23:59:59 比较好?](https://www.v2ex.com/t/1006014)
 
 ## 历史归档
 
