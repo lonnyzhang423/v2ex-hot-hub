@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-12 18:07:53 +0800`
+ `更新时间：2024-01-12 19:06:02 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [室友的故事｜给字节卖命两年，被恶意劝退并要求退还全部工资｜欢迎转发](https://www.v2ex.com/t/1007937)
 1. [mate60 真实销量很多？](https://www.v2ex.com/t/1008109)
 1. [兄弟们，我维护了一个股票黑名单](https://www.v2ex.com/t/1008018)
+1. [苹果为什么不做指纹](https://www.v2ex.com/t/1008120)
 1. [在中国普通个人如何对冲房地产的不确定风险？](https://www.v2ex.com/t/1008009)
 1. [亮出你们的 YouTube 测速](https://www.v2ex.com/t/1007991)
-1. [苹果为什么不做指纹](https://www.v2ex.com/t/1008120)
 1. [准备买个新的 mac，是买 macbook 还是 mac mini ？在家上班](https://www.v2ex.com/t/1007975)
 
 ## 历史归档
