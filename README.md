@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-12 22:06:59 +0800`
+ `更新时间：2024-01-12 23:06:42 +0800`
 
 ## 热议话题
 
@@ -19,7 +19,7 @@
 1. [在中国普通个人如何对冲房地产的不确定风险？](https://www.v2ex.com/t/1008009)
 1. [准备买个新的 mac，是买 macbook 还是 mac mini ？在家上班](https://www.v2ex.com/t/1007975)
 1. [到底是喜欢重要还是合适更重要](https://www.v2ex.com/t/1008036)
-1. [实在受不了啦，收一个 49.9 刀的搬瓦工 CN2 GIA！](https://www.v2ex.com/t/1008025)
+1. [Java 应用内存不断增长](https://www.v2ex.com/t/1007983)
 
 ## 历史归档
 
