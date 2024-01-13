@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-13 17:06:34 +0800`
+ `更新时间：2024-01-13 18:06:36 +0800`
 
 ## 热议话题
 
-1. [有必要给孩子上台湾户口吗？](https://www.v2ex.com/t/1008325)
 1. [在我的心里， Mac 从小甜甜变成了牛夫人](https://www.v2ex.com/t/1008246)
 1. [24 寸显示器 1080P 能用吗？懂的老哥说下](https://www.v2ex.com/t/1008267)
 1. [各位用 vim 键位的, 是怎么解决 esc 频繁按键的问题的呢?](https://www.v2ex.com/t/1008294)
@@ -24,7 +23,7 @@
 1. [想请教一下站内大神，两台手机之间能不能通过 c 口直接传数据？](https://www.v2ex.com/t/1008307)
 1. [mac 端 QQ 音乐拿着用户的带宽当 CDN](https://www.v2ex.com/t/1008319)
 1. [vaultwarden 备份思路](https://www.v2ex.com/t/1008203)
-1. [apple vision pro 对戴眼镜用户不友好？](https://www.v2ex.com/t/1008265)
+1. [宽带运营是不是会给用户垃圾 ip 这个说法？](https://www.v2ex.com/t/1008259)
 
 ## 历史归档
 
