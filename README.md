@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-13 22:06:12 +0800`
+ `更新时间：2024-01-13 23:06:23 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [各位用 vim 键位的, 是怎么解决 esc 频繁按键的问题的呢?](https://www.v2ex.com/t/1008294)
 1. [想请教一下站内大神，两台手机之间能不能通过 c 口直接传数据？](https://www.v2ex.com/t/1008307)
 1. [mac 端 QQ 音乐拿着用户的带宽当 CDN](https://www.v2ex.com/t/1008319)
-1. [想下载 go 安装包，被告知“已被贵组织屏蔽”](https://www.v2ex.com/t/1008273)
 1. [以我的粗浅分析，苹果大概率没有解决输入法卡顿的问题，或者说根本解决不了。](https://www.v2ex.com/t/1008334)
-1. [apple vision pro 对戴眼镜用户不友好？](https://www.v2ex.com/t/1008265)
+1. [想下载 go 安装包，被告知“已被贵组织屏蔽”](https://www.v2ex.com/t/1008273)
 1. [Windows11 怎么这么贱啊！](https://www.v2ex.com/t/1008375)
+1. [apple vision pro 对戴眼镜用户不友好？](https://www.v2ex.com/t/1008265)
 
 ## 历史归档
 
