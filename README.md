@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-20 20:11:35 +0800`
+ `更新时间：2024-01-20 21:07:21 +0800`
 
 ## 热议话题
 
 1. [才发现宝玉和黛玉是表兄妹](https://www.v2ex.com/t/1010184)
 1. [腾讯口碑最好的 app](https://www.v2ex.com/t/1010248)
-1. [[不懂就问] 为什么要开通 ChatGPT Plus，免费的 ChatGPT 3.5 不够用吗？](https://www.v2ex.com/t/1010119)
 1. [2024， 大家还会在 windows 上装杀毒软件 ？](https://www.v2ex.com/t/1010270)
 1. [分享 2023 年度我最爱的 5 个 Android App](https://www.v2ex.com/t/1010194)
-1. [春节快到了有什么方法，可以快速高效的抢到票？](https://www.v2ex.com/t/1010205)
 1. [大家认为现在还能去外企吗，会不会真的脱钩导致外企全部撤离呢](https://www.v2ex.com/t/1010130)
-1. [最早用箭头(->或=>)来代表 lambda 表达式/匿名函数的语言是什么?](https://www.v2ex.com/t/1010222)
+1. [春节快到了有什么方法，可以快速高效的抢到票？](https://www.v2ex.com/t/1010205)
+1. [[回复参与抽奖] 养猫的小伙伴看过来，我做的天然钠基猫砂，免费送 10 桶 9kg 猫砂](https://www.v2ex.com/t/1010298)
 1. [mac 上的 office 真的是邪教，听 v2 的劝用了 google sheet 之后，清爽了很多](https://www.v2ex.com/t/1010128)
+1. [最早用箭头(->或=>)来代表 lambda 表达式/匿名函数的语言是什么?](https://www.v2ex.com/t/1010222)
 
 ## 历史归档
 
