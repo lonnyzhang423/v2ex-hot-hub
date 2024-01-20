@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-20 22:05:53 +0800`
+ `更新时间：2024-01-20 23:06:23 +0800`
 
 ## 热议话题
 
 1. [才发现宝玉和黛玉是表兄妹](https://www.v2ex.com/t/1010184)
 1. [腾讯口碑最好的 app](https://www.v2ex.com/t/1010248)
-1. [2024， 大家还会在 windows 上装杀毒软件 ？](https://www.v2ex.com/t/1010270)
 1. [[回复参与抽奖] 养猫的小伙伴看过来，我做的天然钠基猫砂，免费送 10 桶 9kg 猫砂](https://www.v2ex.com/t/1010298)
+1. [2024， 大家还会在 windows 上装杀毒软件 ？](https://www.v2ex.com/t/1010270)
+1. [幽默老中，家里砌墙](https://www.v2ex.com/t/1010315)
 1. [分享 2023 年度我最爱的 5 个 Android App](https://www.v2ex.com/t/1010194)
 1. [春节快到了有什么方法，可以快速高效的抢到票？](https://www.v2ex.com/t/1010205)
 1. [最早用箭头(->或=>)来代表 lambda 表达式/匿名函数的语言是什么?](https://www.v2ex.com/t/1010222)
-1. [三星的 s24 系列这个 AI 外版插国内卡会送中变百度吗？](https://www.v2ex.com/t/1010211)
+1. [看到网友分享， tiktok 不再检测 sim 卡地区。真的吗？](https://www.v2ex.com/t/1010296)
 1. [小米手机是否支持禁止安装除小米商店外的应用](https://www.v2ex.com/t/1010185)
 
 ## 历史归档
