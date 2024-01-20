@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-20 11:07:41 +0800`
+ `更新时间：2024-01-20 12:08:55 +0800`
 
 ## 热议话题
 
-1. [你们的 mac 每天都会关机吗？](https://www.v2ex.com/t/1009956)
-1. [nas 硬盘太吵了，有什么解决方案吗](https://www.v2ex.com/t/1009959)
 1. [假如手里面有 300w， 35 岁之后回老家能干什么，怎么才能避免焦虑。](https://www.v2ex.com/t/1010068)
 1. [耗时一个月我开发了一个 PDF 转 Word 的在线工具](https://www.v2ex.com/t/1009978)
-1. [我的人生道路交叉口，该如何抉择？](https://www.v2ex.com/t/1009949)
-1. [关于代码对比工具](https://www.v2ex.com/t/1009945)
+1. [老大王卡日租宝用户，年底想换套餐，大佬们有啥优化建议](https://www.v2ex.com/t/1009997)
 1. [有人（个人）自己使用开源的 LLM 大模型吗？](https://www.v2ex.com/t/1009988)
+1. [[不懂就问] 为什么要开通 ChatGPT Plus，免费的 ChatGPT 3.5 不够用吗？](https://www.v2ex.com/t/1010119)
+1. [关于裁员赔偿按照当地平均工资 3 倍问题](https://www.v2ex.com/t/1009976)
+1. [其实现在的 MacBook 的屏幕是能够直接用酒精棉片擦的](https://www.v2ex.com/t/1010000)
 
 ## 历史归档
 
