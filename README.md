@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-22 01:06:03 +0800`
+ `更新时间：2024-01-22 02:08:43 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [面试一个月，拿了几个 offer，但都不太行。。。。。](https://www.v2ex.com/t/1010401)
 1. [从 Mac 工作本转到 Window11，突然觉的竟然更丝滑了？](https://www.v2ex.com/t/1010377)
 1. [国内曾经风靡一时的巴西烤肉，现在都消失了](https://www.v2ex.com/t/1010396)
-1. [49 年加入了国军，买了 国行 iPad mini6](https://www.v2ex.com/t/1010376)
 1. [感情爆雷了，我是那个经常发帖的大怨种。](https://www.v2ex.com/t/1010459)
+1. [49 年加入了国军，买了 国行 iPad mini6](https://www.v2ex.com/t/1010376)
 1. [感觉网易云的音质要好于 Spotify？](https://www.v2ex.com/t/1010456)
 1. [如何将文章翻译上下行对照排版？](https://www.v2ex.com/t/1010360)
 
