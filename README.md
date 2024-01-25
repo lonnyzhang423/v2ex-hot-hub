@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-25 22:07:02 +0800`
+ `更新时间：2024-01-25 23:07:37 +0800`
 
 ## 热议话题
 
-1. [我挣了 10w，就用了 1 个月](https://www.v2ex.com/t/1011400)
 1. [Firefox 的没落的根本原因?](https://www.v2ex.com/t/1011474)
+1. [我挣了 10w，就用了 1 个月](https://www.v2ex.com/t/1011400)
 1. [百度输入法已经完全无下限了，远离百度，珍爱一生。](https://www.v2ex.com/t/1011440)
 1. [感觉现在的 iPhone 很无聊](https://www.v2ex.com/t/1011377)
 1. [有多少人我和一样，从疫情开始后就没有再涨过工资了](https://www.v2ex.com/t/1011333)
