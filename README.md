@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-26 21:06:48 +0800`
+ `更新时间：2024-01-26 22:06:41 +0800`
 
 ## 热议话题
 
 1. [亲姐的女儿在北方老家马上考大学了，问我未来选什么专业好，给什么建议合适？](https://www.v2ex.com/t/1011683)
 1. [为什么一定要尽快用上 ChatGPT 等大语言模型?](https://www.v2ex.com/t/1011694)
 1. [每晚睡觉，容易出汗，一晚上秋衣能湿好几次怎么办？](https://www.v2ex.com/t/1011636)
-1. [你会有请假恐惧症吗？](https://www.v2ex.com/t/1011716)
 1. [为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737)
+1. [你会有请假恐惧症吗？](https://www.v2ex.com/t/1011716)
 1. [为什么 Laravel 这么优秀](https://www.v2ex.com/t/1011696)
 1. [[求助]上初一的外甥喜欢编程，目前在学 Python ，春节送他什么礼物合适？](https://www.v2ex.com/t/1011670)
 1. [想听听各位做了近视眼矫正手术过来人的经验](https://www.v2ex.com/t/1011642)
