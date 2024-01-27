@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-01-27 21:06:09 +0800`
+ `更新时间：2024-01-27 22:06:12 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [空闲时间对接 AI 做了个 icon 生成器，目前免费免注册，直接用](https://www.v2ex.com/t/1011999)
 1. [Bard (Gemini Pro)排名已升至第 2](https://www.v2ex.com/t/1011958)
 1. [有什么好用的邮件客户端推荐？](https://www.v2ex.com/t/1011975)
-1. [怎么优雅地借给朋友三星手机](https://www.v2ex.com/t/1011995)
 
 ## 历史归档
 
