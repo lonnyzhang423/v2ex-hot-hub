@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-03 13:06:12 +0800`
+ `更新时间：2024-02-03 14:08:22 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,8 @@
 1. [Apple Vision Pro 首发体验](https://www.v2ex.com/t/1013780)
 1. [我理解了 为什么大家觉得 2w 的活儿太少了](https://www.v2ex.com/t/1013721)
 1. [从一线降薪一半回成都怎么样？](https://www.v2ex.com/t/1013694)
-1. [想把电动车从深圳运到广州 最划算的方式是什么](https://www.v2ex.com/t/1013655)
+1. [tauri 真的太难用了，浪费了我整整一天](https://www.v2ex.com/t/1013792)
+1. [有必要升级到 win11 吗](https://www.v2ex.com/t/1013804)
 
 ## 历史归档
 
