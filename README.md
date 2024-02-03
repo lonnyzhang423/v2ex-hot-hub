@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-03 15:06:39 +0800`
+ `更新时间：2024-02-03 16:07:55 +0800`
 
 ## 热议话题
 
 1. [苹果 Apple ID 被停用，却严重到设备无法正常使用](https://www.v2ex.com/t/1013730)
 1. [Apple Vision Pro 首发体验](https://www.v2ex.com/t/1013780)
 1. [我理解了 为什么大家觉得 2w 的活儿太少了](https://www.v2ex.com/t/1013721)
-1. [有必要升级到 win11 吗](https://www.v2ex.com/t/1013804)
 1. [今天才知道年终奖一次性计税的惊天 bug](https://www.v2ex.com/t/1013749)
+1. [有必要升级到 win11 吗](https://www.v2ex.com/t/1013804)
+1. [Zed 编辑器前景如何？能否撼动 VSCode 的地位](https://www.v2ex.com/t/1013847)
 1. [tauri 真的太难用了，浪费了我整整一天](https://www.v2ex.com/t/1013792)
-1. [从一线降薪一半回成都怎么样？](https://www.v2ex.com/t/1013694)
-1. [坐标北京昌平立水桥， 3 月要搬家，不想搬太远，多半要和陌生人合租，要问问和陌生人合租可能会遇到哪些坑？](https://www.v2ex.com/t/1013725)
 1. [都陆续放假了，我还要连上四天，要吐了。。。。](https://www.v2ex.com/t/1013811)
+1. [坐标北京昌平立水桥， 3 月要搬家，不想搬太远，多半要和陌生人合租，要问问和陌生人合租可能会遇到哪些坑？](https://www.v2ex.com/t/1013725)
+1. [突然被十几年的老歌惊到](https://www.v2ex.com/t/1013726)
 
 ## 历史归档
 
