@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-06 16:09:50 +0800`
+ `更新时间：2024-02-06 17:06:50 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [我也试试来免费送 GPT-4，送 ChatGPT plus](https://www.v2ex.com/t/1014462)
 1. [快过年了，有没有推荐火车上休闲娱乐的手机游戏](https://www.v2ex.com/t/1014551)
 1. [快过年了，推荐一个看电视的 app： WKTV，支持 AppleTV 和 AndroidTV](https://www.v2ex.com/t/1014488)
-1. [过年回家怎么喝咖啡？](https://www.v2ex.com/t/1014565)
 1. [求推荐 无线鼠标 放电池的不要充电的！](https://www.v2ex.com/t/1014566)
+1. [过年回家怎么喝咖啡？](https://www.v2ex.com/t/1014565)
 1. [无解的题：楼上走路声音直击脑门，怎么办？](https://www.v2ex.com/t/1014574)
 1. [本 1.5，想换个环境，但是又十分自卑，怎么破](https://www.v2ex.com/t/1014568)
 
