@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-07 13:07:26 +0800`
+ `更新时间：2024-02-07 14:09:12 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [大佬们都是如何解决 Mac 做开发+Windows 玩游戏问题的？](https://www.v2ex.com/t/1014742)
 1. [淘宝的春节不打烊就是个笑话](https://www.v2ex.com/t/1014782)
 1. [开发转做运维开发，有什么需要注意的？需要额外学习和掌握什么？](https://www.v2ex.com/t/1014654)
-1. [clash-for-windows 换成了 clash-verge-rev，体感变卡了](https://www.v2ex.com/t/1014630)
 
 ## 历史归档
 
