@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-12 01:06:14 +0800`
+ `更新时间：2024-02-12 02:08:55 +0800`
 
 ## 热议话题
 
-1. [大佬们有没有什么办法可以让原生安卓使用 socks 代理的](https://www.v2ex.com/t/1015294)
 1. [过年无聊怎么办？](https://www.v2ex.com/t/1015308)
 1. [如何防止国产软件在 explorer 里乱改？](https://www.v2ex.com/t/1015320)
+1. [可暂停加速器的计费逻辑/数据库设计疑问](https://www.v2ex.com/t/1015307)
 1. [Tailscale 是使用官方服务还是自建 Control server？](https://www.v2ex.com/t/1015317)
 1. [有关屋内烧香的一些看法](https://www.v2ex.com/t/1015319)
 1. [我终于不再懒惰，开了自己的博客，欢迎访问！](https://www.v2ex.com/t/1015298)
-1. [可暂停加速器的计费逻辑/数据库设计疑问](https://www.v2ex.com/t/1015307)
-1. [安卓输入法的多语言切换怎么才能更丝滑一点？](https://www.v2ex.com/t/1015349)
 1. [养老保险最低一千](https://www.v2ex.com/t/1015333)
+1. [安卓输入法的多语言切换怎么才能更丝滑一点？](https://www.v2ex.com/t/1015349)
+1. [有没有非智能电视？](https://www.v2ex.com/t/1015354)
 
 ## 历史归档
 
