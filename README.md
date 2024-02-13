@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-14 05:05:57 +0800`
+ `更新时间：2024-02-14 06:07:54 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [“大病医疗专项附加扣除”条件这么苛刻吗？](https://www.v2ex.com/t/1015476)
 1. [考研真的要买各种资料吗](https://www.v2ex.com/t/1015488)
 1. [请问: 如何让 chatGPT 总结视频的内容?](https://www.v2ex.com/t/1015459)
-1. [怎么远程让微信号永久封禁](https://www.v2ex.com/t/1015525)
 1. [有没有选择抵制 jakarta 坚守 javax 的？](https://www.v2ex.com/t/1015516)
+1. [怎么远程让微信号永久封禁](https://www.v2ex.com/t/1015525)
 
 ## 历史归档
 
