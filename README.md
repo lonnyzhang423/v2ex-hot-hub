@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-14 14:10:04 +0800`
+ `更新时间：2024-02-14 15:07:31 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [看完《热辣滚烫》后你有什么感触呢？](https://www.v2ex.com/t/1015563)
 1. [我做了一款自动剪辑音频的应用，如何推广它成了难题，谁给支个招？](https://www.v2ex.com/t/1015529)
 1. [MySQL 两亿条数据的表用索引也要 1 秒才能查出结果，还有办法优化吗？](https://www.v2ex.com/t/1015507)
-1. [有没有选择抵制 jakarta 坚守 javax 的？](https://www.v2ex.com/t/1015516)
 1. [同事是老油条该咋办](https://www.v2ex.com/t/1015575)
+1. [有没有选择抵制 jakarta 坚守 javax 的？](https://www.v2ex.com/t/1015516)
+1. [走亲戚太无聊，来点春节见闻](https://www.v2ex.com/t/1015569)
 1. [考研真的要买各种资料吗](https://www.v2ex.com/t/1015488)
-1. [运营了一个异步工作公司一年了](https://www.v2ex.com/t/1015557)
 
 ## 历史归档
 
