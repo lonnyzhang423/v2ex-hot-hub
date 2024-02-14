@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-15 04:07:01 +0800`
+ `更新时间：2024-02-15 05:06:46 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [室友是巨婴，麻了](https://www.v2ex.com/t/1015556)
 1. [第一次出国（阿联酋迪拜），需要注意什么？](https://www.v2ex.com/t/1015579)
 1. [iPhone 免越狱支持通话自动录音了！就差 NFC 模拟卡片了！](https://www.v2ex.com/t/1015585)
-1. [求推荐 iOS 天气 App](https://www.v2ex.com/t/1015639)
+1. [搜索污染已经遍及 youtube 了，还能让人好好上网么？](https://www.v2ex.com/t/1015630)
 
 ## 历史归档
 
