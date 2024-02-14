@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-14 15:07:31 +0800`
+ `更新时间：2024-02-14 16:09:21 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [同事是老油条该咋办](https://www.v2ex.com/t/1015575)
 1. [有没有选择抵制 jakarta 坚守 javax 的？](https://www.v2ex.com/t/1015516)
 1. [走亲戚太无聊，来点春节见闻](https://www.v2ex.com/t/1015569)
-1. [考研真的要买各种资料吗](https://www.v2ex.com/t/1015488)
+1. [室友是巨婴，麻了](https://www.v2ex.com/t/1015556)
 
 ## 历史归档
 
