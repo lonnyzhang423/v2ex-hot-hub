@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-19 20:12:31 +0800`
+ `更新时间：2024-02-19 21:06:58 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [NAS 求推荐](https://www.v2ex.com/t/1016490)
 1. [你说拜新年到底图个啥](https://www.v2ex.com/t/1016467)
 1. [做外包新年开工第一天，工位被取缔](https://www.v2ex.com/t/1016412)
-1. [求建议，留深圳 or 回成都 or 去上海？](https://www.v2ex.com/t/1016551)
 1. [工作 8 年，职业倦怠如何破局](https://www.v2ex.com/t/1016579)
+1. [求建议，留深圳 or 回成都 or 去上海？](https://www.v2ex.com/t/1016551)
 1. [煞笔苹果](https://www.v2ex.com/t/1016364)
 
 ## 历史归档
