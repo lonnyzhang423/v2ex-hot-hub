@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-02-24 19:03:48 +0800`
+ `更新时间：2024-02-24 20:10:42 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [[进送年卡，评论抽 100 永久] 一键拷贝网站指定区域代码，粘贴可用，快速起 mvp，还允许您将代码克隆为 JSX 或 Tailwind CSS 的组件](https://www.v2ex.com/t/1018061)
 1. [想请教一下回国的注意事项](https://www.v2ex.com/t/1018103)
 1. [一个人租住公寓，一日三餐怎么解决？](https://www.v2ex.com/t/1018051)
-1. [开发出 GPT 的为什么不是 Google? Google 明显比 OpenAI 早研究 AI,做搜索的在数据集上应该也比 OpenAI 有优势,Gemini 明显还是比 GPT4 弱很多,出来的代码全是废话+Bug,指出来都不给修改](https://www.v2ex.com/t/1017980)
-1. [入职远程工作两周,感觉不舒服要不要辞职?](https://www.v2ex.com/t/1018062)
 1. [分享神级去除 IOS 应用开屏广告的方法](https://www.v2ex.com/t/1018073)
+1. [入职远程工作两周,感觉不舒服要不要辞职?](https://www.v2ex.com/t/1018062)
+1. [元宵佳节免费送 GPT-4，免费送 GPT PLUS](https://www.v2ex.com/t/1018080)
 
 ## 历史归档
 
