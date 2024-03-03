@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-03 15:05:43 +0800`
+ `更新时间：2024-03-03 16:09:12 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [分享一下目前你们家庭饮用热水烧水方案？](https://www.v2ex.com/t/1020149)
 1. [USB A to C 充电疑问](https://www.v2ex.com/t/1020109)
 1. [用 WireGuard 连回家经常断， OpenVPN 稳得一匹](https://www.v2ex.com/t/1020069)
-1. [2024 应届，私企 还是 银行？求教各位大佬](https://www.v2ex.com/t/1020104)
 1. [esim 会最终代替实体卡吗](https://www.v2ex.com/t/1020161)
+1. [2024 应届，私企 还是 银行？求教各位大佬](https://www.v2ex.com/t/1020104)
 
 ## 历史归档
 
