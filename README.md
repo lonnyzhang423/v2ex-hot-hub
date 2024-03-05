@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-05 21:06:52 +0800`
+ `更新时间：2024-03-05 22:06:30 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [所以苹果是真心觉得对于 MacOS 来说 8G 是够用的？](https://www.v2ex.com/t/1020625)
 1. [工作日下班后或周末，大家都会做些什么活动呢，有哪些兴趣爱好可以分享](https://www.v2ex.com/t/1020637)
 1. [这两天是不是开大会，鉴定 VPS 的时刻到了。](https://www.v2ex.com/t/1020683)
-1. [m3 的 MacBook Air 线上发布了，发布会都不开的吗](https://www.v2ex.com/t/1020580)
 1. [直属领导威胁要揍我，该怎么办？](https://www.v2ex.com/t/1020754)
 1. [关于人情世故 昨天学到了](https://www.v2ex.com/t/1020645)
-1. [现在买 8GB 运行内存的 MacBook 真能用吗？](https://www.v2ex.com/t/1020583)
+1. [对于国外的人来说， macbook 8G 内存是绝对够用的](https://www.v2ex.com/t/1020715)
+1. [老人把旧台式卖了，硬盘没格式化，怎么止损？](https://www.v2ex.com/t/1020733)
 
 ## 历史归档
 
