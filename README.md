@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-06 11:07:20 +0800`
+ `更新时间：2024-03-06 12:08:29 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [Arc 浏览器 Windows Beta 测试邀请](https://www.v2ex.com/t/1020905)
 1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962)
 1. [直属领导威胁要揍我，该怎么办？](https://www.v2ex.com/t/1020754)
-1. [对于国外的人来说， macbook 8G 内存是绝对够用的](https://www.v2ex.com/t/1020715)
-1. [大家平时用的都是什么邮箱捏？](https://www.v2ex.com/t/1020706)
 1. [Arc 浏览器 Windows 版邀请（限 5 人）](https://www.v2ex.com/t/1020899)
 1. [被苹果生态绑住了](https://www.v2ex.com/t/1020840)
-1. [老人把旧台式卖了，硬盘没格式化，怎么止损？](https://www.v2ex.com/t/1020733)
 1. [发 10 个 Linux .do 站的邀请，三天有效](https://www.v2ex.com/t/1020970)
+1. [老人把旧台式卖了，硬盘没格式化，怎么止损？](https://www.v2ex.com/t/1020733)
+1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955)
+1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002)
 
 ## 历史归档
 
