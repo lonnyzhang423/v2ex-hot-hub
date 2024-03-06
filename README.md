@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-06 13:06:53 +0800`
+ `更新时间：2024-03-06 14:10:15 +0800`
 
 ## 热议话题
 
 1. [跟丈母娘吵架，还有救吗](https://www.v2ex.com/t/1020932)
 1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962)
 1. [Arc 浏览器 Windows Beta 测试邀请](https://www.v2ex.com/t/1020905)
-1. [直属领导威胁要揍我，该怎么办？](https://www.v2ex.com/t/1020754)
 1. [被苹果生态绑住了](https://www.v2ex.com/t/1020840)
 1. [Arc 浏览器 Windows 版邀请（限 5 人）](https://www.v2ex.com/t/1020899)
 1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955)
 1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002)
+1. [AI 大模型那么火，真的有那么多公司在业务场景落地了么？](https://www.v2ex.com/t/1020813)
 
 ## 历史归档
 
