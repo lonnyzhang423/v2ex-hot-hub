@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-07 08:26:40 +0800`
+ `更新时间：2024-03-07 09:24:50 +0800`
 
 ## 热议话题
 
 1. [Arc windows 测试版本邀请](https://www.v2ex.com/t/1020962)
 1. [坐标杭州，买公寓后悔了，有没有老哥开导开导](https://www.v2ex.com/t/1021002)
-1. [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955)
-1. [比特币昨晚涨到 69000 后大跌是什么逻辑，为啥不能突破。](https://www.v2ex.com/t/1020953)
 1. [劳烦各位大佬们，帮忙对买房选择投下票呗~](https://www.v2ex.com/t/1020992)
 1. [如果工作本身没意义，那上班真的比上坟都难受](https://www.v2ex.com/t/1021004)
-1. [如果你是 boss 直聘的产品经理，面对大量的已读不回所造成的很差的用户体验，你会怎么做？](https://www.v2ex.com/t/1020945)
+1. [意外险遭遇保险拒赔问题咨询](https://www.v2ex.com/t/1021082)
+1. [做项目选择 golang 而不是 Java 的理由?](https://www.v2ex.com/t/1021175)
+1. [claude 封号](https://www.v2ex.com/t/1020996)
 
 ## 历史归档
 
