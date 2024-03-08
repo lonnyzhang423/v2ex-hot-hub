@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-08 11:07:40 +0800`
+ `更新时间：2024-03-08 12:08:56 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [[求推荐] 你们都用什么擦屏幕？](https://www.v2ex.com/t/1021409)
 1. [不用密码记录器，实在顶不住了](https://www.v2ex.com/t/1021658)
 1. [请教大佬们推荐博客系统?](https://www.v2ex.com/t/1021421)
+1. [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687)
 1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682)
 1. [我被苹果生态绑定的原因就只有一个](https://www.v2ex.com/t/1021420)
-1. [和父亲彻底闹僵了！](https://www.v2ex.com/t/1021656)
 
 ## 历史归档
 
