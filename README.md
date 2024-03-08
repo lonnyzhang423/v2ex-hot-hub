@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-09 05:06:54 +0800`
+ `更新时间：2024-03-09 06:08:10 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [在苏州，生活体验真的贼差！](https://www.v2ex.com/t/1021659)
 1. [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705)
 1. [今年和去年相比，行情变好了还是变差了？](https://www.v2ex.com/t/1021672)
-1. [和父亲彻底闹僵了！](https://www.v2ex.com/t/1021656)
 1. [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682)
+1. [将旧手机打造为超低功耗 NAS](https://www.v2ex.com/t/1021805)
 
 ## 历史归档
 
