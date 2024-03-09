@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-10 04:06:30 +0800`
+ `更新时间：2024-03-10 05:07:19 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [纠结是否加钱升级 100m 上传](https://www.v2ex.com/t/1022067)
 1. [馒头账号 41 天未登录被删了](https://www.v2ex.com/t/1022147)
 1. [请问要怎么在路由层面,把电视上的小视频都限制一下?](https://www.v2ex.com/t/1022115)
-1. [转 React 还是继续 Java](https://www.v2ex.com/t/1022097)
 1. [全平台密码管理器咨询](https://www.v2ex.com/t/1022177)
+1. [转 React 还是继续 Java](https://www.v2ex.com/t/1022097)
 
 ## 历史归档
 
