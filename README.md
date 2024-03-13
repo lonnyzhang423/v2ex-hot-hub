@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-13 18:07:42 +0800`
+ `更新时间：2024-03-13 19:07:38 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [如何在睡觉的时候不胡思乱想](https://www.v2ex.com/t/1023202)
 1. [应届生的求职迷茫&Offer 选择，渴望得到前辈们的一些指点](https://www.v2ex.com/t/1023056)
 1. [新楼盘开发商卖车位的价格，和交房以后物业卖车位的价格，哪个便宜点？](https://www.v2ex.com/t/1023077)
-1. [关于 apple watch 长期单独使用](https://www.v2ex.com/t/1023079)
 1. [大家好， mac 上有哪款 git GUI 工具好用呢？](https://www.v2ex.com/t/1023248)
+1. [关于 apple watch 长期单独使用](https://www.v2ex.com/t/1023079)
 1. [移动套餐合约到期，想要换一个便宜的套餐却发现落差极大？](https://www.v2ex.com/t/1023116)
 
 ## 历史归档
