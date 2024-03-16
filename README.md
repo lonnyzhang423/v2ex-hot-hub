@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-16 19:04:33 +0800`
+ `更新时间：2024-03-16 20:12:51 +0800`
 
 ## 热议话题
 
 1. [宅老家半年，被邻居认为是贼，澄清也没用，我该怎么办？](https://www.v2ex.com/t/1024185)
 1. [全球范围内 Windows 的正版率大概是多少](https://www.v2ex.com/t/1024210)
+1. [欢迎加入 Ai-hub，您可以优惠的价格畅享 OpenAI 服务，也可以参与推广实现 GPT-4 自由并获得被动收入](https://www.v2ex.com/t/1024256)
 1. [假护照是怎么离境的](https://www.v2ex.com/t/1024169)
 1. [差点猝死](https://www.v2ex.com/t/1024108)
-1. [欢迎加入 Ai-hub，您可以优惠的价格畅享 OpenAI 服务，也可以参与推广实现 GPT-4 自由并获得被动收入](https://www.v2ex.com/t/1024256)
-1. [macbook 新人想请教一些问题。](https://www.v2ex.com/t/1024195)
 1. [生活积极的正常人一天都在做什么呢，可以分享下吗](https://www.v2ex.com/t/1024229)
+1. [macbook 新人想请教一些问题。](https://www.v2ex.com/t/1024195)
 
 ## 历史归档
 
