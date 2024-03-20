@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-20 10:13:40 +0800`
+ `更新时间：2024-03-20 11:08:28 +0800`
 
 ## 热议话题
 
-1. [[求笔记本推荐！] 女生，预算 9000+-500，纯办公 word/ecel](https://www.v2ex.com/t/1024975)
 1. [噗，在国内做独立开发者，门槛比情敌还高](https://www.v2ex.com/t/1025007)
-1. [对开源软件售卖、倒卖、骗赞、付费打包都是正当合法，值得鼓励的](https://www.v2ex.com/t/1024977)
-1. [20W 落地，准备这两个月上路，各位兄弟们有没有推荐](https://www.v2ex.com/t/1024985)
 1. [被苹果 MBP 16 寸的音质震撼到了，有没有类似这种音质的小音箱，或者这种喇叭哪里可以买到？](https://www.v2ex.com/t/1025073)
-1. [入手了一台 xps13](https://www.v2ex.com/t/1024966)
 1. [大家都是怎么交新朋友的？](https://www.v2ex.com/t/1025029)
 1. [觉得我爸的精神状况有点问题？](https://www.v2ex.com/t/1025022)
+1. [kotlin 可以完美平替 Java 吗?](https://www.v2ex.com/t/1025262)
+1. [我的老婆确诊肺癌,希望能得到你的帮助](https://www.v2ex.com/t/1025234)
+1. [请问一下大家意见我是否需要换车？](https://www.v2ex.com/t/1025275)
+1. [Macos 现在的代理软件 sing-box 还是 quanx](https://www.v2ex.com/t/1025167)
 
 ## 历史归档
 
