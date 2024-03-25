@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-25 08:34:28 +0800`
+ `更新时间：2024-03-25 09:41:43 +0800`
 
 ## 热议话题
 
 1. [28 岁，又是被上海户口烦恼到做噩梦的一天](https://www.v2ex.com/t/1026490)
 1. [我该如何判断自己家半夜断过电](https://www.v2ex.com/t/1026489)
-1. [程序员的理性讨论,以及我为什么选择考公](https://www.v2ex.com/t/1026475)
-1. [有个 eSIM 手机必要性](https://www.v2ex.com/t/1026440)
-1. [150 左右有啥好用的办公鼠标吗](https://www.v2ex.com/t/1026441)
 1. [放弃幻想吧，苦逼的码农们](https://www.v2ex.com/t/1026580)
+1. [程序员的理性讨论,以及我为什么选择考公](https://www.v2ex.com/t/1026475)
 1. [做了六七年的 Java 开发，换工作也从未停歇，实在是有些累了](https://www.v2ex.com/t/1026492)
-1. [使用 Suno.AI，你也可以制作出高品质的音乐](https://www.v2ex.com/t/1026471)
-1. [有做过餐厅点餐小程序的大佬吗？](https://www.v2ex.com/t/1026469)
 1. [兄弟们，现在入 M1 Pro 丐版 值不值](https://www.v2ex.com/t/1026506)
+1. [打算买辆山地车，通勤+锻炼，有点疑虑？](https://www.v2ex.com/t/1026535)
+1. [有做过餐厅点餐小程序的大佬吗？](https://www.v2ex.com/t/1026469)
+1. [使用 Suno.AI，你也可以制作出高品质的音乐](https://www.v2ex.com/t/1026471)
+1. [[前端求职] V2EX Polish 作者在线找工作（4 年经验｜深圳/广州｜ React｜附简历）](https://www.v2ex.com/t/1026619)
 
 ## 历史归档
 
