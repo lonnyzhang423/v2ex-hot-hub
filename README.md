@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-26 17:06:53 +0800`
+ `更新时间：2024-03-26 18:08:28 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [开发 API 的时候 http method 应该使用 PUT、PATCH、DELETE 等协议还得直接用 GET、POST](https://www.v2ex.com/t/1026944)
 1. [年轻人租房高楼步梯会有啥劝退点吗](https://www.v2ex.com/t/1027055)
 1. [已经不在乎绩效了，公司也不会裁员，怎么优雅的拒绝活儿？](https://www.v2ex.com/t/1027121)
-1. [闲来无事，给自己的小电驴加装了一个蓝牙靠近解锁启动的装置](https://www.v2ex.com/t/1027088)
+1. [房价再这样跌下去，当初高位入手的房贷会咋咧个办呢？](https://www.v2ex.com/t/1027163)
 1. [大家还在用 QQ 吗？](https://www.v2ex.com/t/1027062)
-1. [iPhone13 相机很卡且杀后台](https://www.v2ex.com/t/1026898)
+1. [闲来无事，给自己的小电驴加装了一个蓝牙靠近解锁启动的装置](https://www.v2ex.com/t/1027088)
 
 ## 历史归档
 
