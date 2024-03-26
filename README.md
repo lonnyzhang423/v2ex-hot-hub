@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-26 20:13:07 +0800`
+ `更新时间：2024-03-26 21:06:58 +0800`
 
 ## 热议话题
 
 1. [HackerNews 上看到的 [丑丑头像生成器]](https://www.v2ex.com/t/1027006)
-1. [可以看看各位大佬的博客吗， 4042 年还有人写博客吗？](https://www.v2ex.com/t/1026924)
 1. [如果能回到过去，你最想回到哪一年？](https://www.v2ex.com/t/1027003)
-1. [开发 API 的时候 http method 应该使用 PUT、PATCH、DELETE 等协议还得直接用 GET、POST](https://www.v2ex.com/t/1026944)
 1. [已经不在乎绩效了，公司也不会裁员，怎么优雅的拒绝活儿？](https://www.v2ex.com/t/1027121)
-1. [年轻人租房高楼步梯会有啥劝退点吗](https://www.v2ex.com/t/1027055)
+1. [开发 API 的时候 http method 应该使用 PUT、PATCH、DELETE 等协议还得直接用 GET、POST](https://www.v2ex.com/t/1026944)
 1. [房价再这样跌下去，当初高位入手的房贷会咋咧个办呢？](https://www.v2ex.com/t/1027163)
+1. [年轻人租房高楼步梯会有啥劝退点吗](https://www.v2ex.com/t/1027055)
 1. [大家还在用 QQ 吗？](https://www.v2ex.com/t/1027062)
 1. [闲来无事，给自己的小电驴加装了一个蓝牙靠近解锁启动的装置](https://www.v2ex.com/t/1027088)
+1. [网易云挂羊头卖狗肉，掩人耳目，没版权就这么干 ？！ 真恶心](https://www.v2ex.com/t/1027014)
 
 ## 历史归档
 
