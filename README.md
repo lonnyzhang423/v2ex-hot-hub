@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-03-29 17:07:03 +0800`
+ `更新时间：2024-03-29 18:08:06 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [应届生应该选大厂还是公务员](https://www.v2ex.com/t/1027933)
 1. [全覆盖 170㎡房子，各位大佬有什么路由器推荐的吗？](https://www.v2ex.com/t/1027973)
 1. [看完小米汽车发布会，感觉极氪更香了](https://www.v2ex.com/t/1028042)
-1. [有没有必要从 jetbrains idea 换到 vs code](https://www.v2ex.com/t/1028031)
 1. [小米汽车 SU7 定价是不是有点低了，预定这么多，雷军心里慌不慌？](https://www.v2ex.com/t/1027959)
+1. [有没有必要从 jetbrains idea 换到 vs code](https://www.v2ex.com/t/1028031)
 1. [求推荐 85 寸电视](https://www.v2ex.com/t/1027985)
 
 ## 历史归档
