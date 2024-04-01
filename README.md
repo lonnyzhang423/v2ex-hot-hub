@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-01 22:06:55 +0800`
+ `更新时间：2024-04-01 23:07:20 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [最终，我还是选择了买 SU7](https://www.v2ex.com/t/1028734)
 1. [很多人献殷勤 真心喜欢你的人有几个呢？](https://www.v2ex.com/t/1028642)
 1. [请教买车建议（人生第一辆车）](https://www.v2ex.com/t/1028707)
-1. [这大概是 yyx 的愚人节玩笑？](https://www.v2ex.com/t/1028662)
 1. [你相信世界是虚构的 人出生时所有事情是定好的吗](https://www.v2ex.com/t/1028680)
+1. [这大概是 yyx 的愚人节玩笑？](https://www.v2ex.com/t/1028662)
 1. [用 Vue 仿了一个抖音，大佬们看下算是什么水平？](https://www.v2ex.com/t/1028678)
 1. [你看剧会开弹幕吗](https://www.v2ex.com/t/1028643)
 1. [为什么用 telegram 的人这么多](https://www.v2ex.com/t/1028778)
