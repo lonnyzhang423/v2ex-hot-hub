@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-08 13:07:10 +0800`
+ `更新时间：2024-04-08 14:10:22 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [程序员的思维逻辑能力会不会更强？](https://www.v2ex.com/t/1030433)
 1. [终于收到期盼已久的 Google Adsense PIN 码](https://www.v2ex.com/t/1030273)
 1. [Windows 10 自动安装“电脑管家”](https://www.v2ex.com/t/1030431)
-1. [自学钢琴可行么](https://www.v2ex.com/t/1030306)
 1. [朋友们，买个房车或者床车在里面生活如何呢？我之前实在受够了楼上和楼下的邻居了。](https://www.v2ex.com/t/1030363)
+1. [自学钢琴可行么](https://www.v2ex.com/t/1030306)
 1. [白天上班好累，晚上没有动力学习怎么办](https://www.v2ex.com/t/1030287)
 
 ## 历史归档
