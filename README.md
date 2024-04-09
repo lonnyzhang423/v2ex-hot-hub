@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-09 07:07:47 +0800`
+ `更新时间：2024-04-09 08:33:48 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [腾讯云大量服务报错 控制台登入后无数据](https://www.v2ex.com/t/1030613)
 1. [新人买相机](https://www.v2ex.com/t/1030486)
 1. [想开发运营一个 真实的、靠谱的相亲小程序，大家觉得有人用吗？](https://www.v2ex.com/t/1030625)
-1. [程序员的思维逻辑能力会不会更强？](https://www.v2ex.com/t/1030433)
 1. [电视型号推荐，主要是打 ps 和 switch 游戏，偶尔看电影](https://www.v2ex.com/t/1030479)
 1. [Magic Trackpad 妙控板可以代替鼠标吗](https://www.v2ex.com/t/1030468)
 1. [本人今年 29 了，而立之年，一无所获，每天都很焦虑](https://www.v2ex.com/t/1030575)
-1. [Windows 10 自动安装“电脑管家”](https://www.v2ex.com/t/1030431)
+1. [手握 30w，你会选择小米 SU7 Max 还是特斯拉 model 3+？](https://www.v2ex.com/t/1030628)
+1. [联通号卡 28 月租以上的可以自助打开 5G 基础速率 (300Mbps) - 可能是村网通, 但请轻喷](https://www.v2ex.com/t/1030450)
 
 ## 历史归档
 
