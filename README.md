@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-11 07:08:17 +0800`
+ `更新时间：2024-04-11 08:34:02 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [深圳租房指南 v2（即使你不住深圳，我也自信能帮到你）](https://www.v2ex.com/t/1031215)
 1. [请教大佬们一个局域网自定义 DNS 的问题](https://www.v2ex.com/t/1031174)
 1. [wsl1, wsl2, VMware 如何选择](https://www.v2ex.com/t/1031241)
-1. [被毕业了，唉](https://www.v2ex.com/t/1031171)
+1. [如何看待智己 ceo 的自我感动](https://www.v2ex.com/t/1031299)
 
 ## 历史归档
 
