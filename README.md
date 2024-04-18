@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-19 00:08:31 +0800`
+ `更新时间：2024-04-19 01:06:35 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [五一去北京旅游是不是想不开, 有没推荐](https://www.v2ex.com/t/1033518)
 1. [Delta Emulator 在美区可下载了，大家有什么推荐的游戏吗？](https://www.v2ex.com/t/1033473)
 1. [nuc 小主机到底值不值得买？](https://www.v2ex.com/t/1033486)
+1. [求开源自建的笔记服务推荐](https://www.v2ex.com/t/1033475)
 1. [各位洗碗是用洗洁精还是不用？](https://www.v2ex.com/t/1033519)
-1. [在 coinrisen 上交易提现失败，求高人指点](https://www.v2ex.com/t/1033567)
 
 ## 历史归档
 
