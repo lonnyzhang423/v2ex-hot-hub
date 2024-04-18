@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-18 21:07:23 +0800`
+ `更新时间：2024-04-18 22:06:48 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [父母不想你回家](https://www.v2ex.com/t/1033612)
 1. [Delta Emulator 在美区可下载了，大家有什么推荐的游戏吗？](https://www.v2ex.com/t/1033473)
 1. [nuc 小主机到底值不值得买？](https://www.v2ex.com/t/1033486)
-1. [今日挖坑，感觉日常用电脑不编程的话，内存 16g 妥妥够用](https://www.v2ex.com/t/1033408)
+1. [Ruby on Rails 国内使用情况](https://www.v2ex.com/t/1033505)
 
 ## 历史归档
 
