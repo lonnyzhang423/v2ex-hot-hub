@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-19 17:07:18 +0800`
+ `更新时间：2024-04-19 18:07:39 +0800`
 
 ## 热议话题
 
 1. [宽带因为挂 NAS 被封了](https://www.v2ex.com/t/1033800)
+1. [大家怎么看华为新出的 pura 70？](https://www.v2ex.com/t/1033931)
 1. [有啥个人可以高效利用睡眠时间的方法？](https://www.v2ex.com/t/1033796)
 1. [[抽奖送码] 我知道竞品很多，但几个月"干饭"迭代 截图 + 贴图 + OCR + 录屏 + 屏幕测量 功能都有了，推荐下！](https://www.v2ex.com/t/1033803)
-1. [Rust 找工作也太难了吧= =](https://www.v2ex.com/t/1033729)
-1. [大家怎么看华为新出的 pura 70？](https://www.v2ex.com/t/1033931)
-1. [offer 怎么选？出国还是国内央企？](https://www.v2ex.com/t/1033840)
 1. [炒股风波](https://www.v2ex.com/t/1033945)
-1. [有没有类似或媲美 1Password 的 app？](https://www.v2ex.com/t/1033795)
+1. [Rust 找工作也太难了吧= =](https://www.v2ex.com/t/1033729)
+1. [offer 怎么选？出国还是国内央企？](https://www.v2ex.com/t/1033840)
 1. [求助：公司加班问题该怎么仲裁](https://www.v2ex.com/t/1033844)
+1. [有没有类似或媲美 1Password 的 app？](https://www.v2ex.com/t/1033795)
 
 ## 历史归档
 
