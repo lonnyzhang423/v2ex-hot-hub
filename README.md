@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-19 22:05:53 +0800`
+ `更新时间：2024-04-19 23:07:52 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [有没有类似或媲美 1Password 的 app？](https://www.v2ex.com/t/1033795)
 1. [关于显卡 老婆一句话给我整破防了](https://www.v2ex.com/t/1033919)
 1. [求助：公司加班问题该怎么仲裁](https://www.v2ex.com/t/1033844)
+1. [什么场景/条件下你选择使用 Safari 而不是 Chrome？](https://www.v2ex.com/t/1033954)
 
 ## 历史归档
 
