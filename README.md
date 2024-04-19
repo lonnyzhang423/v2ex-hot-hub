@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-19 11:07:48 +0800`
+ `更新时间：2024-04-19 12:08:45 +0800`
 
 ## 热议话题
 
-1. [不考虑钱，你们最想做的事情是什么？](https://www.v2ex.com/t/1033670)
 1. [说实话在大厂一年挣几百万干个五六年就财富自由了吧](https://www.v2ex.com/t/1033749)
+1. [不考虑钱，你们最想做的事情是什么？](https://www.v2ex.com/t/1033670)
 1. [了解一下黑苹果](https://www.v2ex.com/t/1033594)
 1. [在 coinrisen 上交易提现失败，求高人指点](https://www.v2ex.com/t/1033567)
 1. [有什么景点是全中国老幼妇孺皆知的吗？](https://www.v2ex.com/t/1033630)
+1. [宽带因为挂 NAS 被封了](https://www.v2ex.com/t/1033800)
 1. [有啥个人可以高效利用睡眠时间的方法？](https://www.v2ex.com/t/1033796)
 1. [Rust 找工作也太难了吧= =](https://www.v2ex.com/t/1033729)
-1. [继 iGBA 之后，一款新模拟器又上架 AppStore，还是国区。完美：不收费、无广告、无内购、不注册。](https://www.v2ex.com/t/1033544)
 
 ## 历史归档
 
