@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-20 08:33:42 +0800`
+ `更新时间：2024-04-20 09:40:56 +0800`
 
 ## 热议话题
 
-1. [宽带因为挂 NAS 被封了](https://www.v2ex.com/t/1033800)
 1. [炒股风波](https://www.v2ex.com/t/1033945)
-1. [[抽奖送码] 我知道竞品很多，但几个月"干饭"迭代 截图 + 贴图 + OCR + 录屏 + 屏幕测量 功能都有了，推荐下！](https://www.v2ex.com/t/1033803)
-1. [有啥个人可以高效利用睡眠时间的方法？](https://www.v2ex.com/t/1033796)
 1. [offer 怎么选？出国还是国内央企？](https://www.v2ex.com/t/1033840)
 1. [关于显卡 老婆一句话给我整破防了](https://www.v2ex.com/t/1033919)
-1. [有没有类似或媲美 1Password 的 app？](https://www.v2ex.com/t/1033795)
-1. [求助：公司加班问题该怎么仲裁](https://www.v2ex.com/t/1033844)
 1. [什么场景/条件下你选择使用 Safari 而不是 Chrome？](https://www.v2ex.com/t/1033954)
+1. [求助：公司加班问题该怎么仲裁](https://www.v2ex.com/t/1033844)
+1. [推上看到的今天的热门讨论关于独立开发是否更适合 JavaScript 而不是 TypeScript](https://www.v2ex.com/t/1034071)
+1. [秦昊减肥法实践，实测是否有效，已更新 day05](https://www.v2ex.com/t/1033859)
+1. [搞了个 Apple TV，真香，有没有什么软件推荐的？](https://www.v2ex.com/t/1033947)
 
 ## 历史归档
 
