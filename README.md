@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-23 09:43:33 +0800`
+ `更新时间：2024-04-23 10:19:25 +0800`
 
 ## 热议话题
 
 1. [逆天！干了 3 年的同事用 base64 编码做 token 并且把密码也放了进去](https://www.v2ex.com/t/1034660)
-1. [五一马上到了，几个我去过的人少景美的地方可以参考](https://www.v2ex.com/t/1034493)
 1. [你们最长 gap 多久？](https://www.v2ex.com/t/1034672)
-1. [传统爬虫 还是 AI 辅助爬虫？该怎么选？](https://www.v2ex.com/t/1034501)
 1. [一个好的简约博客大概是什么样的呢？](https://www.v2ex.com/t/1034691)
 1. [什么工作越老越吃香](https://www.v2ex.com/t/1034614)
+1. [铁路的卖票是不是在贩卖焦虑?](https://www.v2ex.com/t/1034733)
 1. [Redis 几乎每小时都出现大量超时，求助](https://www.v2ex.com/t/1034586)
-1. [窗户隔音方案讨论。](https://www.v2ex.com/t/1034505)
+1. [今年是不是很困难的一年？](https://www.v2ex.com/t/1034815)
+1. [新手入门 A7C2 变焦镜头的选择问题](https://www.v2ex.com/t/1034539)
 
 ## 历史归档
 
