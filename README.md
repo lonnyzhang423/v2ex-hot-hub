@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-26 22:06:46 +0800`
+ `更新时间：2024-04-26 23:08:02 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [嘿嘿(¬◡¬)✧ 早上小毛驴通勤 40km](https://www.v2ex.com/t/1035801)
 1. [准备卖掉雅阁，换电车，有什么建议吗？](https://www.v2ex.com/t/1035814)
 1. [关于 5.1 小长假泰山门票](https://www.v2ex.com/t/1035804)
-1. [V2EX，生日快乐！](https://www.v2ex.com/t/1035747)
 1. [某五百强信创数据库运维幽默记录](https://www.v2ex.com/t/1035840)
 1. [你用的马桶是什么牌子 有什么特殊功能](https://www.v2ex.com/t/1035785)
 1. [买了俩游戏手柄，求各位大佬推荐一些，能俩人一起玩的 PC 端游戏。](https://www.v2ex.com/t/1035833)
 1. [2024 的如今 AMD CPU 在 windows11 系统的兼容性咋样了？](https://www.v2ex.com/t/1035775)
 1. [服务器怎么扩容系统盘？](https://www.v2ex.com/t/1035787)
+1. [windows11 什么时候如丝般顺滑了？](https://www.v2ex.com/t/1035793)
 
 ## 历史归档
 
