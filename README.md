@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-27 22:05:32 +0800`
+ `更新时间：2024-04-27 23:06:21 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,8 @@
 1. [后端开发一定要买 macbook 吗](https://www.v2ex.com/t/1036060)
 1. [有家里装风扇灯的么，说说效果咋样](https://www.v2ex.com/t/1036084)
 1. [迷你洗衣机是不是都是智商税？](https://www.v2ex.com/t/1036113)
+1. [Linux 笔电的所谓省电技巧](https://www.v2ex.com/t/1036149)
+1. [Telegram 挂了吗？](https://www.v2ex.com/t/1036054)
 
 ## 历史归档
 
