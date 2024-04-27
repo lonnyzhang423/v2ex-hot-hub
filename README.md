@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-27 19:05:02 +0800`
+ `更新时间：2024-04-27 20:11:02 +0800`
 
 ## 热议话题
 
@@ -19,6 +19,7 @@
 1. [[抽奖] V 友们要的口粮茶来了，这次抽奖送茶叶](https://www.v2ex.com/t/1036093)
 1. [来，兄弟们投个票（只限男生回答），你希望你的人生伴侣是什么样子的？](https://www.v2ex.com/t/1036080)
 1. [后端开发一定要买 macbook 吗](https://www.v2ex.com/t/1036060)
+1. [有家里装风扇灯的么，说说效果咋样](https://www.v2ex.com/t/1036084)
 1. [阿里的文档代码都有股 Java 味。。](https://www.v2ex.com/t/1036033)
 1. [Telegram 挂了吗？](https://www.v2ex.com/t/1036054)
 
