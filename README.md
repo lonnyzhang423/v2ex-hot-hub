@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-04-28 09:55:16 +0800`
+ `更新时间：2024-04-28 10:22:38 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [被亲生父亲弄残疾了](https://www.v2ex.com/t/1036219)
 1. [有没有推荐国内好用的 2fa 验证软件](https://www.v2ex.com/t/1036110)
 1. [迷你洗衣机是不是都是智商税？](https://www.v2ex.com/t/1036113)
-1. [Linux 笔电的所谓省电技巧](https://www.v2ex.com/t/1036149)
+1. [最近华为 P70 发布，运营商又开始掐 iPhone 信号了。](https://www.v2ex.com/t/1036266)
 1. [MacBookPro M1 M2 M3 怎么选](https://www.v2ex.com/t/1036247)
+1. [Linux 笔电的所谓省电技巧](https://www.v2ex.com/t/1036149)
 
 ## 历史归档
 
