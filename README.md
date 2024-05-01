@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-01 09:52:16 +0800`
+ `更新时间：2024-05-01 10:23:15 +0800`
 
 ## 热议话题
 
 1. [小孩考不上高中，还有什么出路？](https://www.v2ex.com/t/1037000)
 1. [3 个月没找到工作了，够吃住就行，只要求 8 小时，双休，不加班](https://www.v2ex.com/t/1037071)
-1. [2024 年中买什么平板好](https://www.v2ex.com/t/1036955)
 1. [面临人生的重大抉择，征求一些外部意见。](https://www.v2ex.com/t/1036970)
 1. [骁龙 888 现在都卡了不能用了嘛](https://www.v2ex.com/t/1037047)
 1. [golang 的 defer 真是个好设计](https://www.v2ex.com/t/1036972)
-1. [2024 年了， v 友有什么电子阅读器推荐的吗？](https://www.v2ex.com/t/1036959)
-1. [这芋道源码太恶心了吧？](https://www.v2ex.com/t/1036965)
 1. [聊一聊最近主力机从 iPhone 转 Android 失败的经历](https://www.v2ex.com/t/1037053)
+1. [咽炎，一遇冷空气就咳嗽，夏天就自愈，有办法根治吗](https://www.v2ex.com/t/1037101)
+1. [国内怎么还没有新能源房车呀？我需要那种像面包型的。](https://www.v2ex.com/t/1037066)
+1. [这段 if...else 有优雅的写法吗？](https://www.v2ex.com/t/1037129)
 
 ## 历史归档
 
