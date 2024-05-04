@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-04 21:07:31 +0800`
+ `更新时间：2024-05-04 22:06:46 +0800`
 
 ## 热议话题
 
 1. [老板问我为什么不加班，我要怎么回他](https://www.v2ex.com/t/1037654)
-1. [电脑被黑客入侵，被勒索，怎么办？](https://www.v2ex.com/t/1037593)
-1. [原来雷击真的能打坏电脑！](https://www.v2ex.com/t/1037674)
 1. [小米换了 iqoo，舒服多了。](https://www.v2ex.com/t/1037695)
+1. [原来雷击真的能打坏电脑！](https://www.v2ex.com/t/1037674)
 1. [请问互联网大厂标配的 macbook pro 一般是什么配置](https://www.v2ex.com/t/1037656)
-1. [工作站求 Ubuntu 替代方案](https://www.v2ex.com/t/1037642)
 1. [求推荐 3k 左右的烘干机](https://www.v2ex.com/t/1037638)
+1. [工作站求 Ubuntu 替代方案](https://www.v2ex.com/t/1037642)
 1. [我是一个设计师自学了 Swift 语言，做了一个 App，当做给自己做一个广告，大家可以给点建议和鼓励](https://www.v2ex.com/t/1037655)
+1. [为什么没什么厂商做太阳能行车记录仪？](https://www.v2ex.com/t/1037657)
 1. [电信疯狂 QoS 香港的下行？](https://www.v2ex.com/t/1037615)
 
 ## 历史归档
