@@ -11,15 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-05 19:06:40 +0800`
+ `更新时间：2024-05-05 20:12:08 +0800`
 
 ## 热议话题
 
 1. [大家不要购买所谓能和 Infuse 媲美的国产 VidHub](https://www.v2ex.com/t/1037783)
-1. [[内购终身版限时免费][macOS] Barbee - 拯救你的菜单栏空间（刘海屏快来！](https://www.v2ex.com/t/1037737)
 1. [好吧 我手贱 绑了安全钥匙 丢了苹果账号](https://www.v2ex.com/t/1037786)
+1. [[内购终身版限时免费][macOS] Barbee - 拯救你的菜单栏空间（刘海屏快来！](https://www.v2ex.com/t/1037737)
 1. [预算一万五攒个深度学习的主机，有好哥哥来看看配置吗](https://www.v2ex.com/t/1037774)
-1. [C++ or Java ？ 你的理由是什么？](https://www.v2ex.com/t/1037700)
 1. [跳出自己的舒适圈](https://www.v2ex.com/t/1037771)
 1. [想成立一个均为学生的信息交换小组(❁´◡`❁)](https://www.v2ex.com/t/1037741)
 1. [不懂就问，我这是在京东旗舰店买到扩容卡了？](https://www.v2ex.com/t/1037744)
