@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-05 10:21:25 +0800`
+ `更新时间：2024-05-05 11:07:42 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [工作站求 Ubuntu 替代方案](https://www.v2ex.com/t/1037642)
 1. [大家是如何处理 rss 订阅的，一周下来有 300 多篇未读](https://www.v2ex.com/t/1037677)
 1. [请问互联网大厂标配的 macbook pro 一般是什么配置](https://www.v2ex.com/t/1037656)
+1. [[内购终身版限时免费][macOS] Barbee - 拯救你的菜单栏空间（刘海屏快来！](https://www.v2ex.com/t/1037737)
 1. [为什么没什么厂商做太阳能行车记录仪？](https://www.v2ex.com/t/1037657)
 1. [求推荐 3k 左右的烘干机](https://www.v2ex.com/t/1037638)
-1. [[内购终身版限时免费][macOS] Barbee - 拯救你的菜单栏空间（刘海屏快来！](https://www.v2ex.com/t/1037737)
-1. [我是一个设计师自学了 Swift 语言，做了一个 App，当做给自己做一个广告，大家可以给点建议和鼓励](https://www.v2ex.com/t/1037655)
+1. [被大学生放鸽子，我自己都觉得可笑 😄](https://www.v2ex.com/t/1037696)
 
 ## 历史归档
 
