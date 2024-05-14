@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-14 22:07:04 +0800`
+ `更新时间：2024-05-14 23:08:48 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [120w 是买长沙还是广州？](https://www.v2ex.com/t/1040470)
 1. [鬼压床，你们怎么解？](https://www.v2ex.com/t/1040468)
 1. [开发了一个原创付费小说网站， kiraraki.com，一点心得](https://www.v2ex.com/t/1040479)
-1. [GPT-4o 可以媲美 GPT4plus 吗，具体差距在哪](https://www.v2ex.com/t/1040472)
 1. [入行几年，你还热爱吗](https://www.v2ex.com/t/1040612)
+1. [GPT-4o 可以媲美 GPT4plus 吗，具体差距在哪](https://www.v2ex.com/t/1040472)
 1. [人生过半，下一个十年怎么翻身？](https://www.v2ex.com/t/1040540)
 1. [公司强制阅读打卡，表示拒绝遭反怼，如何处理？](https://www.v2ex.com/t/1040438)
 
