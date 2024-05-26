@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-05-26 11:08:17 +0800`
+ `更新时间：2024-05-26 12:09:09 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [我找到了最好用的浏览器！](https://www.v2ex.com/t/1043928)
 1. [有没有适合做启动盘的 U 盘推荐](https://www.v2ex.com/t/1043825)
 1. [求推荐 NAS 硬盘](https://www.v2ex.com/t/1043909)
-1. [老铁们推荐个路由器吧？](https://www.v2ex.com/t/1043817)
 1. [高校如何高效利用 40G 对等线路](https://www.v2ex.com/t/1043876)
-1. [求助： windows10 资源管理器崩溃，必现](https://www.v2ex.com/t/1043815)
 1. [周末可以做点什么有意义的事情？](https://www.v2ex.com/t/1043886)
+1. [编程工作最心累的是什么？](https://www.v2ex.com/t/1043965)
+1. [北京联通严查 PCDN 的红头文件](https://www.v2ex.com/t/1043891)
 
 ## 历史归档
 
