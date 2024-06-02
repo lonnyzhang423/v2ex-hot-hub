@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-02 20:12:46 +0800`
+ `更新时间：2024-06-02 21:07:05 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [后知后觉发现某宝很多评价是假的](https://www.v2ex.com/t/1046085)
 1. [过去、现在和未来 —— Java 的现代化之路](https://www.v2ex.com/t/1046015)
 1. [国内的信息泄露问题是真严重](https://www.v2ex.com/t/1046100)
+1. [Chrome 将在明天推行均有争议的 Manifest V3 了 大量 Manifest V2 扩展将被禁用](https://www.v2ex.com/t/1046137)
+1. [求适合夏天的饮料/饮品推荐](https://www.v2ex.com/t/1046124)
 1. [突发奇想自动驾驶如果完美实现可以用来解决临停问题](https://www.v2ex.com/t/1046057)
-1. [有没有什么低成本的单盘位 NAS 推荐](https://www.v2ex.com/t/1046010)
-1. [有人了解麒麟 9000c 吗?](https://www.v2ex.com/t/1046056)
 
 ## 历史归档
 
