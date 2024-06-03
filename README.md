@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-03 16:11:36 +0800`
+ `更新时间：2024-06-03 17:08:43 +0800`
 
 ## 热议话题
 
@@ -20,6 +20,7 @@
 1. [Chrome 将在明天推行均有争议的 Manifest V3 了 大量 Manifest V2 扩展将被禁用](https://www.v2ex.com/t/1046137)
 1. [人在成都不能吃辣怎么办？](https://www.v2ex.com/t/1046207)
 1. [公司还没发 2 月分工资找到下家可以直接走吗](https://www.v2ex.com/t/1046205)
+1. [吐槽一下 B 站的推荐](https://www.v2ex.com/t/1046331)
 1. [你们健身的时候喝什么牌子蛋白粉？](https://www.v2ex.com/t/1046233)
 
 ## 历史归档
