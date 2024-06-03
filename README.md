@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-03 12:11:57 +0800`
+ `更新时间：2024-06-03 13:08:58 +0800`
 
 ## 热议话题
 
 1. [现在的老师是为了赚钱。。。。！](https://www.v2ex.com/t/1046103)
 1. [赴日本工作是否是好的选择？](https://www.v2ex.com/t/1046210)
 1. [求适合夏天的饮料/饮品推荐](https://www.v2ex.com/t/1046124)
-1. [本来还挺期待的电影，忽然全网都搜不到了](https://www.v2ex.com/t/1046198)
 1. [Chrome 将在明天推行均有争议的 Manifest V3 了 大量 Manifest V2 扩展将被禁用](https://www.v2ex.com/t/1046137)
 1. [人在成都不能吃辣怎么办？](https://www.v2ex.com/t/1046207)
 
