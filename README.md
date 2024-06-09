@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-09 07:07:57 +0800`
+ `更新时间：2024-06-09 08:40:39 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [[网站加速工具] Sheas Cealer [人家的学名其实叫 SNI 伪造工具啦]](https://www.v2ex.com/t/1047955)
 1. [小米 13U 无法注册八达通, 内置 Google 框架, 八达通 app 从 google play 下载安装. google 了一圈没有什么结果,请问大家有没有谁遇到过,怎么解决?](https://www.v2ex.com/t/1047897)
 1. [自建 Docker Hub 镜像服务](https://www.v2ex.com/t/1047891)
-1. [有没有一种猫零食，类似磨牙棒，吃不了多少，又能持续啃很久。](https://www.v2ex.com/t/1047904)
 1. [比起厕所抽烟，我更讨厌的是擦完屁股的纸扔篓子里](https://www.v2ex.com/t/1047945)
+1. [有没有一种猫零食，类似磨牙棒，吃不了多少，又能持续啃很久。](https://www.v2ex.com/t/1047904)
 1. [Mac 显示器求推荐](https://www.v2ex.com/t/1047890)
 
 ## 历史归档
