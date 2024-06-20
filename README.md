@@ -11,14 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-20 08:36:04 +0800`
+ `更新时间：2024-06-20 09:52:39 +0800`
 
 ## 热议话题
 
 1. [谁来劝劝我不要买摩托车](https://www.v2ex.com/t/1050853)
-1. [你觉得比较好的团建方式？](https://www.v2ex.com/t/1050745)
 1. [NAS 系统千千万，哪款才是你真爱？](https://www.v2ex.com/t/1050767)
 1. [怎么解决 4G 内存的 iPhone 13 Mini 很卡的问题 ？](https://www.v2ex.com/t/1050796)
+1. [有多少人还在用 Maven 构建项目？](https://www.v2ex.com/t/1050791)
+1. [10 年程序员，左胸隐痛，偶尔伴随牙疼，是什么病？](https://www.v2ex.com/t/1050876)
+1. [可怕！字节的飞连原来真的在后台明目张胆的截屏](https://www.v2ex.com/t/1050989)
 
 ## 历史归档
 
