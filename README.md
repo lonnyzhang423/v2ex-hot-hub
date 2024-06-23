@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-06-23 11:09:04 +0800`
+ `更新时间：2024-06-23 12:09:27 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [不玩 pt 的情况下影音资源都从哪里下载？](https://www.v2ex.com/t/1051797)
 1. [肠胃不好，平时喝什么比较好？](https://www.v2ex.com/t/1051671)
 1. [千兆宽带，电脑测速不达标](https://www.v2ex.com/t/1051686)
+1. [看完拆解视频后，觉得 iPad Magic Keyboard 和 Apple Pencil 价格真良心](https://www.v2ex.com/t/1051691)
 
 ## 历史归档
 
