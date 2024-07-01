@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-01 10:03:55 +0800`
+ `更新时间：2024-07-01 11:09:39 +0800`
 
 ## 热议话题
 
 1. [如何一天内喝掉 2L 以上的白开水](https://www.v2ex.com/t/1053698)
 1. [自从注射了所谓的新冠 yi 苗后，就经常发烧](https://www.v2ex.com/t/1053809)
-1. [心血来潮装了个 ArchLinux，现在不知道用来干嘛](https://www.v2ex.com/t/1053651)
 1. [做个很小众的应用就可以月入数万，为什么多数程序员都不做个人开发？](https://www.v2ex.com/t/1053663)
 1. [如果我很在乎我的隐私，我可以考虑哪种安卓手机？](https://www.v2ex.com/t/1053781)
 1. [决定买宋 PLUS 了。大家有啥建议吗？准备以车为家。](https://www.v2ex.com/t/1053715)
 1. [什么原因让你放弃写博客了？](https://www.v2ex.com/t/1053721)
+1. [Mac 卡死真的是因为输入法](https://www.v2ex.com/t/1053751)
+1. [为什么有一些 Python 入门书不教 class， yield， self 之类的方法？](https://www.v2ex.com/t/1053740)
 1. [Linux 有没有什么工具或方法能实现用普通用户运行本来是需要用 root 用户才能执行的程序？](https://www.v2ex.com/t/1053687)
 
 ## 历史归档
