@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-03 03:08:05 +0800`
+ `更新时间：2024-07-03 04:08:38 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [RUST 的未来在哪里？](https://www.v2ex.com/t/1054155)
 1. [公司 CentOS 服务器需更换系统，选择 Debian or Ubuntu？](https://www.v2ex.com/t/1054147)
 1. [最近想折腾一台 nas，是选择成品还是自己组装？](https://www.v2ex.com/t/1054140)
+1. [淘宝市值被拼多多超过不是没道理的](https://www.v2ex.com/t/1054218)
 
 ## 历史归档
 
