@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-03 07:07:36 +0800`
+ `更新时间：2024-07-03 08:37:05 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [想做一个在家显示峰谷电价时间段的 app](https://www.v2ex.com/t/1054219)
 1. [谁来说说汽油哪家好？](https://www.v2ex.com/t/1054108)
 1. [RUST 的未来在哪里？](https://www.v2ex.com/t/1054155)
+1. [淘宝市值被拼多多超过不是没道理的](https://www.v2ex.com/t/1054218)
 1. [公司 CentOS 服务器需更换系统，选择 Debian or Ubuntu？](https://www.v2ex.com/t/1054147)
 1. [最近想折腾一台 nas，是选择成品还是自己组装？](https://www.v2ex.com/t/1054140)
-1. [淘宝市值被拼多多超过不是没道理的](https://www.v2ex.com/t/1054218)
 
 ## 历史归档
 
