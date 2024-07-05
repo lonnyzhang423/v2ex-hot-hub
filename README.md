@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-05 20:13:45 +0800`
+ `更新时间：2024-07-05 21:09:43 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,7 @@
 1. [现在用 firefox 的人还多吗？](https://www.v2ex.com/t/1055019)
 1. [人生遗憾](https://www.v2ex.com/t/1054967)
 1. [为何中国不像西方或者香港一样搞租售同权呢？](https://www.v2ex.com/t/1055140)
-1. [一天能喝多少水](https://www.v2ex.com/t/1055026)
+1. [在搜索结果中屏蔽 CSDN。。。](https://www.v2ex.com/t/1054983)
 
 ## 历史归档
 
