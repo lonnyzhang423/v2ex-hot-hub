@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-06 08:36:06 +0800`
+ `更新时间：2024-07-06 09:52:33 +0800`
 
 ## 热议话题
 
@@ -20,6 +20,8 @@
 1. [北京开网吧还有搞头吗？](https://www.v2ex.com/t/1055035)
 1. [一天能喝多少水](https://www.v2ex.com/t/1055026)
 1. [android 最终还是活成了 ios 的样子](https://www.v2ex.com/t/1055074)
+1. [公司能查到 qq 微信等工具的聊天记录的原理是什么？](https://www.v2ex.com/t/1055098)
+1. [为什么 chrome 还不出垂直标签页呢？ edge 实在是太臃肿了。。。](https://www.v2ex.com/t/1055008)
 
 ## 历史归档
 
