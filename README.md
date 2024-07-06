@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-06 18:07:33 +0800`
+ `更新时间：2024-07-06 19:06:40 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [求推荐 Windows 下好用的 terminal](https://www.v2ex.com/t/1055191)
 1. [亲戚家 女生 今年高考，送部 iPhone 15 Pro 1TB 怎么样？她拍照多](https://www.v2ex.com/t/1055299)
 1. [gin 除了 bootstrap 外还有啥简单好用的前端 ui 库？](https://www.v2ex.com/t/1055248)
-1. [chrome 怎样彻底的关闭广告](https://www.v2ex.com/t/1055197)
+1. [rss 现在还有人用吗？现在写一个 rss 的开源项目怎么样？](https://www.v2ex.com/t/1055316)
 
 ## 历史归档
 
