@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-06 12:09:08 +0800`
+ `更新时间：2024-07-06 13:08:01 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [大家睡觉空调开多少度？](https://www.v2ex.com/t/1055242)
 1. [阿里云盘， 7 月三方限速！果然言出必行，信守承诺！ infuse 组合废了。。。](https://www.v2ex.com/t/1055158)
 1. [生了娃打算请亲戚来一起带](https://www.v2ex.com/t/1055169)
-1. [求推荐 Windows 下好用的 terminal](https://www.v2ex.com/t/1055191)
 
 ## 历史归档
 
