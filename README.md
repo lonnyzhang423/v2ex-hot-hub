@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-07 16:09:40 +0800`
+ `更新时间：2024-07-07 17:08:38 +0800`
 
 ## 热议话题
 
 1. [我想未来应该没有, 或者说没有必要使用编程语言了吧](https://www.v2ex.com/t/1055352)
 1. [rss 现在还有人用吗？现在写一个 rss 的开源项目怎么样？](https://www.v2ex.com/t/1055316)
-1. [有没有 type-c 接口的鼠标](https://www.v2ex.com/t/1055314)
 1. [周末加班不告诉老板等于没加班？](https://www.v2ex.com/t/1055398)
 1. [全球气候](https://www.v2ex.com/t/1055343)
 1. [没找到工作，家里人天天打电话问我找到工作没](https://www.v2ex.com/t/1055383)
 1. [什么 SMTP 服务商比较好？](https://www.v2ex.com/t/1055387)
+1. [如何实现系统不能联网，但是系统上的应用可以联网？](https://www.v2ex.com/t/1055400)
 1. [如果 IOS18 没有 AI,还会想着去升级吗? 那如果介入了一个国产 AI, 你会以后不买 iPhone 吗?](https://www.v2ex.com/t/1055401)
-1. [105 的房，套内 90，是搞啥空调合适？](https://www.v2ex.com/t/1055386)
+1. [Infuse 8 折优惠活动](https://www.v2ex.com/t/1055441)
 
 ## 历史归档
 
