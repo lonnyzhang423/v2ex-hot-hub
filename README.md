@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-14 17:09:34 +0800`
+ `更新时间：2024-07-14 18:09:02 +0800`
 
 ## 热议话题
 
-1. [2024 年了，之前搞微服务的公司你们还好么](https://www.v2ex.com/t/1057052)
 1. [日经贴，周末无聊怎么办](https://www.v2ex.com/t/1057064)
 1. [准备存储 10 年以上的 NAS 硬盘方案？](https://www.v2ex.com/t/1057086)
-1. [从 Chrome 回来后，对 Arc 浏览器祛魅了](https://www.v2ex.com/t/1057124)
 1. [35+前端码农的未来在哪?](https://www.v2ex.com/t/1057144)
-1. [旧 Mac 你们是咋处理的](https://www.v2ex.com/t/1057050)
+1. [从 Chrome 回来后，对 Arc 浏览器祛魅了](https://www.v2ex.com/t/1057124)
 1. [还有多少前端搞不懂 package 的版本号规则...](https://www.v2ex.com/t/1057067)
+1. [论添加一行代码需要付出多少努力](https://www.v2ex.com/t/1057143)
+1. [上海移动 6 月开始全面撤回超级密码，不再支持桥接](https://www.v2ex.com/t/1057150)
+1. [我大体是病了](https://www.v2ex.com/t/1057110)
 
 ## 历史归档
 
