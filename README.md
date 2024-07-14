@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-14 14:12:39 +0800`
+ `更新时间：2024-07-14 15:09:35 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,7 @@
 1. [日经贴，周末无聊怎么办](https://www.v2ex.com/t/1057064)
 1. [准备存储 10 年以上的 NAS 硬盘方案？](https://www.v2ex.com/t/1057086)
 1. [旧 Mac 你们是咋处理的](https://www.v2ex.com/t/1057050)
-1. [还有多少前端搞不懂 package 的版本号规则...](https://www.v2ex.com/t/1057067)
+1. [从 Chrome 回来后，对 Arc 浏览器祛魅了](https://www.v2ex.com/t/1057124)
 
 ## 历史归档
 
