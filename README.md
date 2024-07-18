@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-18 11:09:59 +0800`
+ `更新时间：2024-07-18 12:11:01 +0800`
 
 ## 热议话题
 
 1. [曝光无良公司被威胁删帖](https://www.v2ex.com/t/1057993)
-1. [各位 v 友在用什么手机浏览器，求推荐](https://www.v2ex.com/t/1057979)
-1. [iOS 换安卓的真正担忧， app 生态支持，以及谈到微信](https://www.v2ex.com/t/1057965)
-1. [[送码🎁]桌面新宠 2.0，分享下自己耗时半年开发的能和多种小工具互动的宠物](https://www.v2ex.com/t/1057959)
 1. [这下完了，这美股怎么回事啊](https://www.v2ex.com/t/1058156)
-1. [几十万字的小说，有的人几个小时就读完了，怎么做到的？](https://www.v2ex.com/t/1057973)
-1. [当“滑动解锁”也能成为专利，还有什么不能](https://www.v2ex.com/t/1058026)
 1. [如果把萝卜快跑开放到快递和外卖领域，会怎么样](https://www.v2ex.com/t/1058163)
+1. [求问 你们会怎么样培养下属](https://www.v2ex.com/t/1058173)
+1. [当“滑动解锁”也能成为专利，还有什么不能](https://www.v2ex.com/t/1058026)
+1. [突然发现 v2 好多手绘的丑陋头像 这是最近的流行吗](https://www.v2ex.com/t/1058194)
 1. [被一个非计算机行业的客户问了一下， API 是啥缩写](https://www.v2ex.com/t/1057999)
+1. [学院本应届生-深圳求一份 Java 工作](https://www.v2ex.com/t/1057996)
+1. [macOS Sequoia Public Beta 有什么影响日常使用的严重 bug 吗？](https://www.v2ex.com/t/1057989)
+1. [Java hello world 确实就要占用 30M](https://www.v2ex.com/t/1058120)
 
 ## 历史归档
 
