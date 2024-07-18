@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-18 20:15:21 +0800`
+ `更新时间：2024-07-18 21:12:22 +0800`
 
 ## 热议话题
 
 1. [突然发现 v2 好多手绘的丑陋头像 这是最近的流行吗](https://www.v2ex.com/t/1058194)
 1. [这下完了，这美股怎么回事啊](https://www.v2ex.com/t/1058156)
 1. [求问 你们会怎么样培养下属](https://www.v2ex.com/t/1058173)
+1. [突然发现教师这个职业其实蛮好的?](https://www.v2ex.com/t/1058231)
 1. [如果把萝卜快跑开放到快递和外卖领域，会怎么样](https://www.v2ex.com/t/1058163)
 1. [15-20w 纯电车，求推荐，日常通勤来回 60km](https://www.v2ex.com/t/1058202)
-1. [突然发现教师这个职业其实蛮好的?](https://www.v2ex.com/t/1058231)
 1. [Java hello world 确实就要占用 30M](https://www.v2ex.com/t/1058120)
 1. [我是否真的适合做程序员](https://www.v2ex.com/t/1058250)
 
