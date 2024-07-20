@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-21 00:08:35 +0800`
+ `更新时间：2024-07-21 01:07:05 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [继腾讯之后阿里云也要对公共 DNS 限速了](https://www.v2ex.com/t/1058732)
 1. [去香港旅行有什么值得体验/购买的东西吗](https://www.v2ex.com/t/1058746)
 1. [关于前端 node 多版本你是如何解决的，还有您是本地开发还是远程开发](https://www.v2ex.com/t/1058772)
-1. [免费的 6 个月卡巴斯基，感谢美国商务部](https://www.v2ex.com/t/1058725)
 1. [小米手环 9 到手体验](https://www.v2ex.com/t/1058766)
 1. [115pc 客户端强制下线，寻求 Win/Lin 安装包备份](https://www.v2ex.com/t/1058788)
 1. [程序员副业之写小说](https://www.v2ex.com/t/1058751)
 1. [Crowdstrike crash 是由空指针解引用导致](https://www.v2ex.com/t/1058738)
+1. [有人说计算机过时了？？](https://www.v2ex.com/t/1058790)
 
 ## 历史归档
 
