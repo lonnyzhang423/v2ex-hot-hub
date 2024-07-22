@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-22 14:11:51 +0800`
+ `更新时间：2024-07-22 15:08:44 +0800`
 
 ## 热议话题
 
 1. [你们有没有那么一瞬间看到豪车和豪宅会难过~~~](https://www.v2ex.com/t/1059027)
-1. [250M 的 Java 程序，用 go 重构，只需要 8M](https://www.v2ex.com/t/1058986)
 1. [负债累累真的好累](https://www.v2ex.com/t/1058942)
-1. [上海回老家，垃圾分类有感而发。](https://www.v2ex.com/t/1059029)
+1. [250M 的 Java 程序，用 go 重构，只需要 8M](https://www.v2ex.com/t/1058986)
 1. [怎么样摆脱周末摆烂，过完就后悔的状态](https://www.v2ex.com/t/1059023)
+1. [上海回老家，垃圾分类有感而发。](https://www.v2ex.com/t/1059029)
 1. [iPhone 怎么禁止 app 自动跳转到其他应用？ 我快烦死了！](https://www.v2ex.com/t/1059047)
 1. [如果懂王上台，有哪些投资方面的看涨呀？哪些看跌呀？](https://www.v2ex.com/t/1059036)
 1. [测了两次 MBTI 都是 ISTJ](https://www.v2ex.com/t/1059050)
