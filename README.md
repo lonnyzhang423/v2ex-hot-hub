@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-29 10:00:54 +0800`
+ `更新时间：2024-07-29 11:09:15 +0800`
 
 ## 热议话题
 
 1. [用了十年的微信昨天被永久封了](https://www.v2ex.com/t/1060642)
 1. [人不为己，天诛地灭？](https://www.v2ex.com/t/1060653)
-1. [轻薄本，我是选苹果 air 还是戴尔灵越啊](https://www.v2ex.com/t/1060709)
 1. [广州男科有没有中医推荐。那方面不行](https://www.v2ex.com/t/1060692)
+1. [轻薄本，我是选苹果 air 还是戴尔灵越啊](https://www.v2ex.com/t/1060709)
+1. [关于朋友的工作问题！](https://www.v2ex.com/t/1060755)
 1. [研发前花费大量精力做详细设计值得吗？](https://www.v2ex.com/t/1060625)
-1. [基于这个痛点，想做一个笔记软件](https://www.v2ex.com/t/1060639)
 1. [为什么华为阉割 WiFi 是最狠的?](https://www.v2ex.com/t/1060641)
-1. [4202 年，入了移动专线](https://www.v2ex.com/t/1060616)
-1. [莫贪便宜，喷一下本坛到处做广告的 chatgpt 替代站 datapipe.app](https://www.v2ex.com/t/1060631)
-1. [为什么很多软件比起清晰的日期和时间更喜欢显示成昨天前天上午下午?](https://www.v2ex.com/t/1060646)
+1. [基于这个痛点，想做一个笔记软件](https://www.v2ex.com/t/1060639)
+1. [不懂就问， 128 平的房子怎么保证 wifi 全屋覆盖到？](https://www.v2ex.com/t/1060736)
+1. [WinRAR 从 v7 开始所有简体中文版本注册后仍然有广告](https://www.v2ex.com/t/1060747)
 
 ## 历史归档
 
