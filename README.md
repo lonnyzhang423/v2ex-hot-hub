@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-31 02:10:29 +0800`
+ `更新时间：2024-07-31 03:07:32 +0800`
 
 ## 热议话题
 
 1. [真诚求问，特斯拉 model y 是不是真的好？](https://www.v2ex.com/t/1061134)
 1. [[抽奖] [优惠] 评论送十台 FindMy 卡片充电防丢器、AntiTag 防跟踪、WIFI 远程温湿度计、蓝牙带屏温湿度计](https://www.v2ex.com/t/1061188)
-1. [iOS 18.1 Beta](https://www.v2ex.com/t/1061034)
 1. [学历还有提升的必要吗](https://www.v2ex.com/t/1061045)
 1. [刚去医院门诊看咳嗽就花了 700 元，算多吗？](https://www.v2ex.com/t/1061227)
 1. [对接群里看到别的公司发的代码截图，有点绷不住](https://www.v2ex.com/t/1061237)
 1. [找一个开发搭子](https://www.v2ex.com/t/1061094)
 1. [想问一下大小休的话工资上涨多少会比较合适一些。](https://www.v2ex.com/t/1061056)
+1. [大佬们 ，给点建议呗教育优惠了，买 iPad air 还是 iPad pro？](https://www.v2ex.com/t/1061067)
 
 ## 历史归档
 
