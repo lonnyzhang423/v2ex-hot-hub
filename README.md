@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-07-30 07:07:54 +0800`
+ `更新时间：2024-07-30 08:38:31 +0800`
 
 ## 热议话题
 
 1. [中药代煎](https://www.v2ex.com/t/1060787)
 1. [五年前端，记录下最近一年的面试记录，顺便求个内推](https://www.v2ex.com/t/1060838)
-1. [有在从事鸿蒙开发的吗，可以说一下体验，给一些建议吗](https://www.v2ex.com/t/1060919)
 1. [关于朋友的工作问题！](https://www.v2ex.com/t/1060755)
 1. [周末终于去拔了智齿](https://www.v2ex.com/t/1060828)
 1. [🎁[送码]Duck Float - 可以悬浮在全屏 APP 上的小工具软件(macOS)](https://www.v2ex.com/t/1060783)
-1. [WinRAR 从 v7 开始所有简体中文版本注册后仍然有广告](https://www.v2ex.com/t/1060747)
+1. [手表你们都是怎么使用？贴膜吗？](https://www.v2ex.com/t/1060797)
 
 ## 历史归档
 
