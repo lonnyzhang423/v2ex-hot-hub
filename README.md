@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-02 09:58:27 +0800`
+ `更新时间：2024-08-02 10:32:38 +0800`
 
 ## 热议话题
 
 1. [如何看待自带设备上班？](https://www.v2ex.com/t/1061709)
-1. [转投 Firefox 浏览器体验不佳，浏览器还有得选吗？](https://www.v2ex.com/t/1061646)
 1. [小红书的发展在哪里](https://www.v2ex.com/t/1061685)
 1. [Mac 有哪些无线鼠标可以平替 MX Master 3s ？](https://www.v2ex.com/t/1061742)
 1. [等保人员说 80 为高危端口,要求关闭 80 端口,说都是 https 用 443 就好,合理吗](https://www.v2ex.com/t/1061657)
@@ -24,6 +23,7 @@
 1. [浙江宁波电信开始查 pcdn](https://www.v2ex.com/t/1061704)
 1. [说出你被苹果背刺最狠的故事，我先来](https://www.v2ex.com/t/1061781)
 1. [把 b 站做成了音乐软件,欢迎体验和 star👏👏👏👏👏👏](https://www.v2ex.com/t/1061721)
+1. [大家自驾游都是怎么选酒店的。每次都觉得体验坑在住宿](https://www.v2ex.com/t/1061671)
 
 ## 历史归档
 
