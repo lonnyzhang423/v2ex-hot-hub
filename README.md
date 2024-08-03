@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-04 06:06:38 +0800`
+ `更新时间：2024-08-04 07:08:38 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [想买 intel 的股票了](https://www.v2ex.com/t/1062204)
 1. [有什么好用的轻量级搜索服务？](https://www.v2ex.com/t/1062181)
 1. [写了一个戒断社交媒体（也能戒色）的浏览器插件](https://www.v2ex.com/t/1062167)
-1. [现在想换 iPhone ，换一台 15 promax 512G，但 16 马上要上市了？要等吗？](https://www.v2ex.com/t/1062212)
 1. [用户口令（密码）应该如何传输？要不要加密？ HTTPS 呢？举例分析](https://www.v2ex.com/t/1062222)
+1. [现在想换 iPhone ，换一台 15 promax 512G，但 16 马上要上市了？要等吗？](https://www.v2ex.com/t/1062212)
 1. [轻奢是穷讲究吗？](https://www.v2ex.com/t/1062228)
 1. [有没有能定时开风扇的遥控设备？](https://www.v2ex.com/t/1062202)
 1. [想把博客牵走了， Github 太慢，有 V2EX 大哥推荐吗？](https://www.v2ex.com/t/1062246)
