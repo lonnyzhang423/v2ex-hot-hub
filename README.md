@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-16 21:12:15 +0800`
+ `更新时间：2024-08-16 22:07:24 +0800`
 
 ## 热议话题
 
 1. [百万资金，旗开得胜](https://www.v2ex.com/t/1065407)
-1. [之前房贷选择固定利率的人，现在都是什么心情呢？](https://www.v2ex.com/t/1065382)
-1. [因果关系和宿命论](https://www.v2ex.com/t/1065540)
 1. [大家如何看待小米 SU7 对撞极氪 007 事件，如何评价 B 站 UP 主“原来是翔翔啊” 的道歉视频。](https://www.v2ex.com/t/1065490)
+1. [因果关系和宿命论](https://www.v2ex.com/t/1065540)
 1. [hibernate 和 mybatis 的 session 都不是线程安全的，为什么还要用？](https://www.v2ex.com/t/1065374)
 1. [吐槽一下小米](https://www.v2ex.com/t/1065388)
 
