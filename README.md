@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-16 17:09:28 +0800`
+ `更新时间：2024-08-16 18:09:11 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [百万资金，旗开得胜](https://www.v2ex.com/t/1065407)
 1. [pdd 到底让中国电商进步了还是倒退了。](https://www.v2ex.com/t/1065302)
 1. [之前房贷选择固定利率的人，现在都是什么心情呢？](https://www.v2ex.com/t/1065382)
-1. [大家是如何应对阿里和腾讯 DNS 限速的问题？](https://www.v2ex.com/t/1065279)
-1. [hibernate 和 mybatis 的 session 都不是线程安全的，为什么还要用？](https://www.v2ex.com/t/1065374)
+1. [因果关系和宿命论](https://www.v2ex.com/t/1065540)
+1. [大家如何看待小米 SU7 对撞极氪 007 事件，如何评价 B 站 UP 主“原来是翔翔啊” 的道歉视频。](https://www.v2ex.com/t/1065490)
 
 ## 历史归档
 
