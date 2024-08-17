@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-17 13:08:21 +0800`
+ `更新时间：2024-08-17 14:10:46 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,8 @@
 1. [用 vscode 开发 go，有点劝退](https://www.v2ex.com/t/1065554)
 1. [黑神话， IGN 中国编辑部给出满分！](https://www.v2ex.com/t/1065654)
 1. [观《百万纳指》有感](https://www.v2ex.com/t/1065536)
-1. [我和 Tiny RDM 一起勇敢迈向了 1.2 版本](https://www.v2ex.com/t/1065503)
+1. [这是一个求推荐程序员双肩包帖，好用的，好背的](https://www.v2ex.com/t/1065639)
+1. [支付宝 周五果粉日 抽 app store 无门槛红包](https://www.v2ex.com/t/1065521)
 
 ## 历史归档
 
