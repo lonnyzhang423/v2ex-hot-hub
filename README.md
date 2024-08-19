@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-19 18:10:48 +0800`
+ `更新时间：2024-08-19 19:07:05 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [时隔一个月，我又来分享面试经历了](https://www.v2ex.com/t/1066039)
 1. [回五线城市老家一周，惊人的发现](https://www.v2ex.com/t/1066037)
 1. [马上 9 月发布新爱疯了，抛开各种剧透，你最想要的功能是什么？](https://www.v2ex.com/t/1066100)
-1. [经济不好？但这个暑假各个景区都超级多的人啊！](https://www.v2ex.com/t/1066027)
 1. [和老婆消费观念不同](https://www.v2ex.com/t/1066060)
 1. [网易云崩了？ 502 Bad Gateway](https://www.v2ex.com/t/1066148)
 1. [go 新特性 range over func 没怎么看懂。。。。写库的时候用吗？](https://www.v2ex.com/t/1066038)
