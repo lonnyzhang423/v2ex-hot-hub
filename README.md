@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-20 07:09:12 +0800`
+ `更新时间：2024-08-20 08:38:52 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [和老婆消费观念不同](https://www.v2ex.com/t/1066060)
 1. [网易云崩了？ 502 Bad Gateway](https://www.v2ex.com/t/1066148)
 1. [go 新特性 range over func 没怎么看懂。。。。写库的时候用吗？](https://www.v2ex.com/t/1066038)
-1. [创业小项目，大佬们指点一下](https://www.v2ex.com/t/1065996)
+1. [你用得最久的 apple 设备是什么，用了多久？](https://www.v2ex.com/t/1066137)
 
 ## 历史归档
 
