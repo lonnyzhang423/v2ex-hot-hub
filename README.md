@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-23 18:09:00 +0800`
+ `更新时间：2024-08-23 19:06:34 +0800`
 
 ## 热议话题
 
 1. [大家是用 notion 多还是飞书多？](https://www.v2ex.com/t/1067147)
-1. [来说说黑神话的缺点？](https://www.v2ex.com/t/1067117)
 1. [在你一生中有什么一直影响你的名言吗](https://www.v2ex.com/t/1067237)
+1. [来说说黑神话的缺点？](https://www.v2ex.com/t/1067117)
 1. [2024 年，刷机已死](https://www.v2ex.com/t/1067154)
 1. [也是看 29 岁那个帖子有感](https://www.v2ex.com/t/1067079)
 1. [有远嫁或者远取吗？过得怎样？](https://www.v2ex.com/t/1067151)
 1. [字节&多多 offer 帮选](https://www.v2ex.com/t/1067206)
 1. [目前的牛马状态，一年能有几次机会见父母，和他们聊天？](https://www.v2ex.com/t/1067170)
 1. [微信现在有什么办法强制加好友](https://www.v2ex.com/t/1067097)
+1. [为了<黑神话*悟空> 准备组一台台式机](https://www.v2ex.com/t/1067187)
 
 ## 历史归档
 
