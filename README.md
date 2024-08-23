@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-23 12:10:54 +0800`
+ `更新时间：2024-08-23 13:08:49 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [大家是用 notion 多还是飞书多？](https://www.v2ex.com/t/1067147)
 1. [也是看 29 岁那个帖子有感](https://www.v2ex.com/t/1067079)
 1. [有远嫁或者远取吗？过得怎样？](https://www.v2ex.com/t/1067151)
-1. [来说说黑神话的缺点？](https://www.v2ex.com/t/1067117)
 1. [2024 年，刷机已死](https://www.v2ex.com/t/1067154)
+1. [来说说黑神话的缺点？](https://www.v2ex.com/t/1067117)
 1. [公司不允许使用 Zerotier 等虚拟组网应用，如何串流家里的 PC？](https://www.v2ex.com/t/1066970)
 
 ## 历史归档
