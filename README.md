@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-25 16:10:07 +0800`
+ `更新时间：2024-08-25 17:07:41 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [TCP 粘包？ 到底有没有粘包？](https://www.v2ex.com/t/1067508)
 1. [知乎是疯了吗？还是我眼瞎了？](https://www.v2ex.com/t/1067570)
 1. [不太懂硬件，想玩玩 steam 的游戏，这两个配置应该怎么选呀？](https://www.v2ex.com/t/1067556)
-1. [看消息说 iPhone16 中国版要支持 esim 了， 美版 iPhone 是不是要涨价了](https://www.v2ex.com/t/1067492)
 1. [怎样获取的 TG 账号能够防封，耐用？](https://www.v2ex.com/t/1067592)
+1. [开发一款 APP 用来识别西瓜是否成熟，可行吗？](https://www.v2ex.com/t/1067591)
+1. [有无类似朋友圈但是可以上传原图的 app](https://www.v2ex.com/t/1067585)
 
 ## 历史归档
 
