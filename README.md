@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-25 17:07:41 +0800`
+ `更新时间：2024-08-25 18:08:43 +0800`
 
 ## 热议话题
 
-1. [0 基础自学 Python ，这个付费 Python 课程如何？请大佬给点建议](https://www.v2ex.com/t/1067502)
 1. [怎么办，我发现我亲姐，就是网上说的集美？](https://www.v2ex.com/t/1067587)
 1. [现在什么纯牛奶好喝](https://www.v2ex.com/t/1067514)
 1. [TCP 粘包？ 到底有没有粘包？](https://www.v2ex.com/t/1067508)
 1. [知乎是疯了吗？还是我眼瞎了？](https://www.v2ex.com/t/1067570)
-1. [不太懂硬件，想玩玩 steam 的游戏，这两个配置应该怎么选呀？](https://www.v2ex.com/t/1067556)
 1. [怎样获取的 TG 账号能够防封，耐用？](https://www.v2ex.com/t/1067592)
+1. [不太懂硬件，想玩玩 steam 的游戏，这两个配置应该怎么选呀？](https://www.v2ex.com/t/1067556)
 1. [开发一款 APP 用来识别西瓜是否成熟，可行吗？](https://www.v2ex.com/t/1067591)
 1. [有无类似朋友圈但是可以上传原图的 app](https://www.v2ex.com/t/1067585)
 
