@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-08-31 16:10:28 +0800`
+ `更新时间：2024-08-31 17:07:59 +0800`
 
 ## 热议话题
 
 1. [PHP 虽然没落了，但是 PHP 的东西是真的好用](https://www.v2ex.com/t/1069110)
 1. [用香港银行卡转账 5w 转错人了, 对方拒不归还怎么处理](https://www.v2ex.com/t/1069156)
 1. [想玩黑神话悟空，但不想配电脑了，市面上的云游戏平台怎么样？](https://www.v2ex.com/t/1069187)
-1. [Go 初学者，有没有老哥能告诉我在写代码的时候应该如何避免内存泄漏的问题](https://www.v2ex.com/t/1069135)
 1. [买菜是去超市好还是菜市场？](https://www.v2ex.com/t/1069215)
-1. [海外上班的程序员们怎么把钱打回国](https://www.v2ex.com/t/1069091)
-1. [大佬们，如何防止 api 被别人恶意调用，目前使用了混淆+wasm+rsa&aes 都防不住](https://www.v2ex.com/t/1069086)
-1. [美区 app 刷不出更新了](https://www.v2ex.com/t/1069094)
-1. [都说 cursor 厉害， 到底是 cursor 本身厉害 还是 claude 厉害](https://www.v2ex.com/t/1069080)
+1. [Go 初学者，有没有老哥能告诉我在写代码的时候应该如何避免内存泄漏的问题](https://www.v2ex.com/t/1069135)
+1. [老婆刚拿驾照，就把车撞了](https://www.v2ex.com/t/1069228)
+1. [大家洗脸洗手的时候会取下智能手表吗？](https://www.v2ex.com/t/1069104)
+1. [关于 Java 和 Spring boot 开发体验的一些疑惑，请高手解答](https://www.v2ex.com/t/1069130)
 
 ## 历史归档
 
