@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-02 01:07:08 +0800`
+ `更新时间：2024-09-02 02:10:18 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [Thinkbook 14+ 品质探究](https://www.v2ex.com/t/1069341)
 1. [日本 NTT 开发的最新光通信技术前两天在东京和台北之间开通了](https://www.v2ex.com/t/1069307)
 1. [Android 系统启动为什么这么慢，到底在做什么？为什么做不到 2 秒内冷启动？](https://www.v2ex.com/t/1069402)
-1. [求一个 im 软件，替代 telegram](https://www.v2ex.com/t/1069388)
 1. [GPT 4 现在变得真的好垃圾，质量越来越差](https://www.v2ex.com/t/1069311)
+1. [求一个 im 软件，替代 telegram](https://www.v2ex.com/t/1069388)
 
 ## 历史归档
 
