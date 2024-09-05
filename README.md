@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-05 12:10:58 +0800`
+ `更新时间：2024-09-05 13:08:48 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [感觉普通家庭每日喝牛奶都喝不起](https://www.v2ex.com/t/1070385)
 1. [ai 写代码： cursor 有没有平替， 20 刀有点太贵了](https://www.v2ex.com/t/1070168)
 1. [（接上贴）Mac 的触摸板比 Windows 本的好处是？还有省心是？](https://www.v2ex.com/t/1070368)
-1. [百万资金，梭哈纳指，二进二出，亏 6 万。我很后悔](https://www.v2ex.com/t/1070292)
-1. [All In Boom 带来的思考](https://www.v2ex.com/t/1070200)
 1. [独立的思想，人格需要基础吗？](https://www.v2ex.com/t/1070405)
+1. [百万资金，梭哈纳指，二进二出，亏 6 万。我很后悔](https://www.v2ex.com/t/1070292)
 1. [不知道是兼职被发现还是开源项目被发现，我被约谈了](https://www.v2ex.com/t/1070348)
+1. [All In Boom 带来的思考](https://www.v2ex.com/t/1070200)
 
 ## 历史归档
 
