@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-07 16:09:59 +0800`
+ `更新时间：2024-09-07 17:08:03 +0800`
 
 ## 热议话题
 
 1. [求助！公司官网用手机端访问是会转跳到黄色广告页面](https://www.v2ex.com/t/1070878)
 1. [后端接口一定要保持单一职责吗](https://www.v2ex.com/t/1070858)
 1. [一个鼠标不到 2 年就坏，求推荐](https://www.v2ex.com/t/1070816)
-1. [能否使用 immich 来替代 icloud 同步照片](https://www.v2ex.com/t/1070787)
-1. [被京东官方人员给 [雷到了]](https://www.v2ex.com/t/1070889)
-1. [还有更便宜的域名邮箱吗](https://www.v2ex.com/t/1070790)
 1. [写 RUST 写的好爽](https://www.v2ex.com/t/1070876)
 1. [上海电信已经在试点万兆](https://www.v2ex.com/t/1070890)
+1. [被京东官方人员给 [雷到了]](https://www.v2ex.com/t/1070889)
+1. [请问如何阻止 wps 这种垃圾修改电脑的默认程序?](https://www.v2ex.com/t/1070887)
+1. [如何快速恢复重启前的应用呢?](https://www.v2ex.com/t/1070882)
 
 ## 历史归档
 
