@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-08 15:07:24 +0800`
+ `更新时间：2024-09-08 16:10:22 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [家人们，该来的还是来了，帮忙给拿个主意吧](https://www.v2ex.com/t/1071062)
 1. [现在这个时间点是等 M4 还是买 M3](https://www.v2ex.com/t/1070964)
 1. [被层层转包的外包欠薪如何维权？](https://www.v2ex.com/t/1071004)
-1. [写 kotlin 真的太爽了](https://www.v2ex.com/t/1070989)
 1. [求一款油管视频下载器](https://www.v2ex.com/t/1071048)
+1. [写 kotlin 真的太爽了](https://www.v2ex.com/t/1070989)
 
 ## 历史归档
 
