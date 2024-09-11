@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-11 07:08:06 +0800`
+ `更新时间：2024-09-11 08:41:08 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [买新还是买旧？ iPhone 16 / iPhone 15 pro](https://www.v2ex.com/t/1071493)
 1. [学电竞有哪些途径？](https://www.v2ex.com/t/1071510)
 1. [开完发布会，苹果还可以用生态继续护城几年？](https://www.v2ex.com/t/1071517)
-1. [k40pro+刷了官方 lineageos21，从没用过这么流畅的手机](https://www.v2ex.com/t/1071489)
 1. [iPhone 16 有什么亮点吗？](https://www.v2ex.com/t/1071501)
 1. [熬夜看果子发布会的小伙伴们，你们心动了还是失望了](https://www.v2ex.com/t/1071512)
+1. [有人看《边水往事》吗？](https://www.v2ex.com/t/1071538)
 
 ## 历史归档
 
