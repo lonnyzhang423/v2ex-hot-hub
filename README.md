@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-12 07:08:34 +0800`
+ `更新时间：2024-09-12 08:41:36 +0800`
 
 ## 热议话题
 
 1. [大家的公司中秋都发的什么福利？](https://www.v2ex.com/t/1071846)
 1. [我最近发现中国大城市的教育质量反而不如 20 多年前我自己读书时候！](https://www.v2ex.com/t/1071947)
 1. [你们觉得微信还能活几年？](https://www.v2ex.com/t/1071863)
-1. [这几天被 Python 搞得快崩溃了](https://www.v2ex.com/t/1071840)
 1. [想了解一下有多少 iPhone 转安卓的？](https://www.v2ex.com/t/1071885)
 1. [有没有发现 Linux 桌面的操作响应速度全面秒杀 win 11](https://www.v2ex.com/t/1071851)
 1. [上班携带咖啡用什么容器 ?](https://www.v2ex.com/t/1071855)
+1. [移动端学后端，装个 MySQL 一直报错，到 start the server 一直过不去，能搜到的解决办法都试了](https://www.v2ex.com/t/1072025)
 
 ## 历史归档
 
