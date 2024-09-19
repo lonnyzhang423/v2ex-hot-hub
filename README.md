@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-19 22:08:19 +0800`
+ `更新时间：2024-09-19 23:09:11 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [国粹国粹， user data 丢了， firefox 你真行。我乖乖滚回 chrome](https://www.v2ex.com/t/1074017)
 1. [美联储降息 50 个基点，是否会影响 A 股走势？](https://www.v2ex.com/t/1073902)
 1. [[求助]家里遇到老鼠了](https://www.v2ex.com/t/1073925)
-1. [为什么招行的客户经理一直推荐换金葵花卡呢？](https://www.v2ex.com/t/1073906)
+1. [iPhone 换电池的话是选择官网的还是第三方的？](https://www.v2ex.com/t/1073924)
 1. [如何抵制短视频毒瘤？](https://www.v2ex.com/t/1073945)
 
 ## 历史归档
