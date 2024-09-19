@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-19 10:08:33 +0800`
+ `更新时间：2024-09-19 11:11:44 +0800`
 
 ## 热议话题
 
-1. [已经交了 2W 定金，要不要放弃买房？](https://www.v2ex.com/t/1073623)
-1. [腰椎间盘突出，几个月治疗无任何效果，请教各位老铁](https://www.v2ex.com/t/1073621)
 1. [妹妹马上要结婚了给多少好？](https://www.v2ex.com/t/1073643)
-1. [钟文泽 AirPods 4 评测疑似用原曲造假，大家怎么看](https://www.v2ex.com/t/1073645)
 1. [iPhone 灵动岛发布两年了，你现在还能离开它吗？](https://www.v2ex.com/t/1073694)
-1. [买了 iPhone 16 的准备买什么充电头](https://www.v2ex.com/t/1073609)
+1. [钟文泽 AirPods 4 评测疑似用原曲造假，大家怎么看](https://www.v2ex.com/t/1073645)
 1. [问个身体上问题](https://www.v2ex.com/t/1073767)
+1. [关于自己做饭省钱的事？](https://www.v2ex.com/t/1073892)
+1. [今天去 4S 店下单了奔驰 GLC 了](https://www.v2ex.com/t/1073687)
+1. [装机后不能开机，兄弟们，求个排查方案](https://www.v2ex.com/t/1073821)
 
 ## 历史归档
 
