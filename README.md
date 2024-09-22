@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-09-22 20:14:51 +0800`
+ `更新时间：2024-09-22 21:13:08 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [年龄 35， gap 一年，二本，没在大厂待过，在深圳还能找得到开发的工作吗？](https://www.v2ex.com/t/1074780)
 1. [新西兰 IT 工作行情如何，留学移民成功率大吗？](https://www.v2ex.com/t/1074768)
 1. [比亚迪的混动车到底怎么样。。。想买](https://www.v2ex.com/t/1074794)
-1. [v2ex 是否允许发布 AI 生成的内容？](https://www.v2ex.com/t/1074827)
 1. [局域网内优雅的访问家庭内网服务](https://www.v2ex.com/t/1074771)
-1. [终于不愁找不到合适的 SVG 文件了， AI 生成 SVG](https://www.v2ex.com/t/1074775)
+1. [v2ex 是否允许发布 AI 生成的内容？](https://www.v2ex.com/t/1074827)
 1. [随便看了部电影，触发了世界 bug](https://www.v2ex.com/t/1074728)
+1. [终于不愁找不到合适的 SVG 文件了， AI 生成 SVG](https://www.v2ex.com/t/1074775)
 
 ## 历史归档
 
