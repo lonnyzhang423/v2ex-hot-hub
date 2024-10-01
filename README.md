@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-01 22:08:46 +0800`
+ `更新时间：2024-10-01 23:09:14 +0800`
 
 ## 热议话题
 
 1. [看到有人劝年轻人不要投机 A 股大牛有感](https://www.v2ex.com/t/1077234)
-1. [想到一个让电车加电🔋像加油⛽️一样方便的 idea](https://www.v2ex.com/t/1077255)
 1. [求推荐廉价服务器](https://www.v2ex.com/t/1077295)
+1. [想到一个让电车加电🔋像加油⛽️一样方便的 idea](https://www.v2ex.com/t/1077255)
 1. [求推荐个轻薄手机](https://www.v2ex.com/t/1077228)
-1. [“理性”分析：这次上涨会持久吗？](https://www.v2ex.com/t/1077212)
 1. [准备买车，但是租房小区车位要排队怎么办？](https://www.v2ex.com/t/1077251)
 1. [ChatGPT 的 UI 这几个有什么区别？](https://www.v2ex.com/t/1077221)
 1. [M 芯片 Mac 如何安装 win 虚拟机？](https://www.v2ex.com/t/1077259)
+1. [突然感觉自己毫无前途，求大佬指点迷津](https://www.v2ex.com/t/1077272)
 
 ## 历史归档
 
