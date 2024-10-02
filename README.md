@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-02 10:11:04 +0800`
+ `更新时间：2024-10-02 11:14:23 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [M 芯片 Mac 如何安装 win 虚拟机？](https://www.v2ex.com/t/1077259)
 1. [有两台 NAS BT/PT 做种上传，结果收发微信都卡，求问如何合理设置限速 or QoS？](https://www.v2ex.com/t/1077316)
 1. [上车共有产权房](https://www.v2ex.com/t/1077249)
-1. [cmake 交叉编译有大佬懂吗？](https://www.v2ex.com/t/1077285)
 1. [求主路由跑科学上网的最佳实践](https://www.v2ex.com/t/1077333)
+1. [牛市来了，却只能看着](https://www.v2ex.com/t/1077355)
 
 ## 历史归档
 
