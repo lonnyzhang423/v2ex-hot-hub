@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-03 20:16:43 +0800`
+ `更新时间：2024-10-03 21:18:03 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [在京东买的罗技鼠标售后问题](https://www.v2ex.com/t/1077487)
 1. [不买 TV 版会员又不想投屏怎么看爱优腾](https://www.v2ex.com/t/1077493)
 1. [想问一下独立开发者如果遇到特别麻烦的 bug 是怎么解决的](https://www.v2ex.com/t/1077499)
-1. [为啥 vivo iqoo 的 Origin os 把以太网网络共享这个功能删掉了](https://www.v2ex.com/t/1077436)
 1. [轻易别更新 win11 24h2，又拉了一坨](https://www.v2ex.com/t/1077530)
+1. [考虑从 ios 切换到安卓了；耳机是唯一 block，从降噪和通透模式等影响日常体验的方面综合来看，现在安卓生态有 airpods pro 2 这种级别的耳机吗？](https://www.v2ex.com/t/1077459)
 
 ## 历史归档
 
