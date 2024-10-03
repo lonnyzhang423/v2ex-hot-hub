@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-03 08:43:28 +0800`
+ `更新时间：2024-10-03 10:11:47 +0800`
 
 ## 热议话题
 
-1. [车贷银行图什么呢？](https://www.v2ex.com/t/1077371)
-1. [什么牌子的剃须刀好用](https://www.v2ex.com/t/1077401)
 1. [十年 iPhone 用户有点想换非 iPhone 手机了，求推荐品牌](https://www.v2ex.com/t/1077444)
-1. [请教 SQLServer 迁移到 MySQL 方案， 1W+DB](https://www.v2ex.com/t/1077367)
+1. [什么牌子的剃须刀好用](https://www.v2ex.com/t/1077401)
 1. [好亏啊，加仓美股后，完美踏空泼天富贵](https://www.v2ex.com/t/1077380)
 1. [怎么分析自已的电脑需要多核 CPU，还是高主频少核 CPU](https://www.v2ex.com/t/1077418)
-1. [mac 上就没有一个置顶软件的方案吗？](https://www.v2ex.com/t/1077366)
 1. [求推荐一个好用的恒温电热水壶](https://www.v2ex.com/t/1077426)
+1. [回家避不开的主题就是帮人修电脑](https://www.v2ex.com/t/1077421)
 1. [Windows 11 Enterprise LTSC 2024 更新了](https://www.v2ex.com/t/1077388)
-1. [哎 魔幻现实](https://www.v2ex.com/t/1077370)
+1. [[2024 吐槽大会]说说隔壁工位同事最让你讨厌的行为](https://www.v2ex.com/t/1077376)
+1. [已上车的拿住了](https://www.v2ex.com/t/1077409)
+1. [刚刚看了周慧敏《自作多情》LIVE 1993 好美](https://www.v2ex.com/t/1077373)
 
 ## 历史归档
 
