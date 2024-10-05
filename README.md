@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-05 08:43:00 +0800`
+ `更新时间：2024-10-05 10:09:43 +0800`
 
 ## 热议话题
 
 1. [我开发了一款 AI 助读的 APP，专注于实体书，想了解大家的需求](https://www.v2ex.com/t/1077618)
 1. [各位踏空了吗，节后是否准备上车？](https://www.v2ex.com/t/1077662)
-1. [大语言模型提取个人信息返回虚假信息](https://www.v2ex.com/t/1077604)
 1. [为什么 iptv 基本上没有人用，即使套餐送了也不装。](https://www.v2ex.com/t/1077677)
 1. [笔记本是否可以作为临时显示器](https://www.v2ex.com/t/1077674)
-1. [有些人去卖保险像被传销洗了脑一样](https://www.v2ex.com/t/1077608)
-1. [有杭州阿里的同学可以帮预约今天 4 号的总部参观吗？谢谢。](https://www.v2ex.com/t/1077605)
+1. [又看了一遍《一句顶一万句》](https://www.v2ex.com/t/1077627)
+1. [解决 yt 广告，我在 win 下载了 brave 浏览器](https://www.v2ex.com/t/1077622)
+1. [关于 Apple music 推荐的问题](https://www.v2ex.com/t/1077630)
 
 ## 历史归档
 
