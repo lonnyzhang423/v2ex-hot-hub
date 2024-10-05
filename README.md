@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-05 10:09:43 +0800`
+ `更新时间：2024-10-05 11:13:26 +0800`
 
 ## 热议话题
 
-1. [我开发了一款 AI 助读的 APP，专注于实体书，想了解大家的需求](https://www.v2ex.com/t/1077618)
 1. [各位踏空了吗，节后是否准备上车？](https://www.v2ex.com/t/1077662)
 1. [为什么 iptv 基本上没有人用，即使套餐送了也不装。](https://www.v2ex.com/t/1077677)
 1. [笔记本是否可以作为临时显示器](https://www.v2ex.com/t/1077674)
+1. [有时候觉得 google 付费的东西可能真的比开源的要好用太多。](https://www.v2ex.com/t/1077716)
 1. [又看了一遍《一句顶一万句》](https://www.v2ex.com/t/1077627)
-1. [解决 yt 广告，我在 win 下载了 brave 浏览器](https://www.v2ex.com/t/1077622)
-1. [关于 Apple music 推荐的问题](https://www.v2ex.com/t/1077630)
+1. [iPhone 镜像就是个鸡肋](https://www.v2ex.com/t/1077676)
+1. [为什么 Qt 写的程序在不同桌面平台都很丝滑，体验和原生一样，移动端多端框架每一个都很卡？尤其是 Flutter，实测性能非常糟糕，不知道为什么这么多人吹](https://www.v2ex.com/t/1077711)
 
 ## 历史归档
 
