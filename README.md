@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-09 00:11:10 +0800`
+ `更新时间：2024-10-09 01:07:47 +0800`
 
 ## 热议话题
 
 1. [今天看了一眼节假日出去住的酒店，感觉被宰了，咋办？](https://www.v2ex.com/t/1078161)
 1. [国庆回来，兄弟们假期内有什么趣事分享一下吗？](https://www.v2ex.com/t/1078201)
 1. [现在国产安卓手机哪家系统好用？](https://www.v2ex.com/t/1078173)
-1. [送一枚 follow 邀请码， RSS 重度用户请举手](https://www.v2ex.com/t/1078189)
 1. [国庆节开电车去北海后续](https://www.v2ex.com/t/1078207)
+1. [送一枚 follow 邀请码， RSS 重度用户请举手](https://www.v2ex.com/t/1078189)
 1. [家电购买线上线下的质量一样吗？](https://www.v2ex.com/t/1078165)
 1. [2024 年了，回老家务农真能赚到钱吗](https://www.v2ex.com/t/1078260)
 1. [被垃圾网页激怒，做了个搜索工具 Luxirty Search : 无内容农场、无广告、干净、简洁、快、为程序员优化，开源、可自建，比 Google 好](https://www.v2ex.com/t/1078147)
