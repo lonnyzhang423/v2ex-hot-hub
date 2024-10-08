@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-08 18:09:54 +0800`
+ `更新时间：2024-10-08 19:08:28 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [送一枚 follow 邀请码， RSS 重度用户请举手](https://www.v2ex.com/t/1078189)
 1. [家电购买线上线下的质量一样吗？](https://www.v2ex.com/t/1078165)
 1. [国庆节开电车去北海后续](https://www.v2ex.com/t/1078207)
+1. [主观浅浅吐槽一下 iPhone 痛点](https://www.v2ex.com/t/1078111)
 
 ## 历史归档
 
