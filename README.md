@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-20 00:09:48 +0800`
+ `更新时间：2024-10-20 01:08:25 +0800`
 
 ## 热议话题
 
-1. [win 10 后续也不支持更新了，大家桌面端打算转到 win 11 吗](https://www.v2ex.com/t/1081691)
 1. [吐槽以下京东，真不行……](https://www.v2ex.com/t/1081655)
+1. [win 10 后续也不支持更新了，大家桌面端打算转到 win 11 吗](https://www.v2ex.com/t/1081691)
 1. [国标插座是工业国里最烂的插座标准么？](https://www.v2ex.com/t/1081654)
 1. [Debian 这个系统你们一般怎么读？](https://www.v2ex.com/t/1081704)
 1. [求现在 24 年 10 月注册美区 apple id 的办法？](https://www.v2ex.com/t/1081649)
