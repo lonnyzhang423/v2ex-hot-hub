@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-27 17:08:55 +0800`
+ `更新时间：2024-10-27 18:08:57 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,11 @@
 1. [为什么 android 机都很少有 1tb 存储的？](https://www.v2ex.com/t/1083948)
 1. [老丈人想搬过来常住，这事该咋处理](https://www.v2ex.com/t/1083958)
 1. [我这一生如履薄冰，你说，我能走到对岸吗？（21 岁生日总结）](https://www.v2ex.com/t/1083931)
-1. [广州 Java 开发 7k 但是要实习 6 个月，可以去吗？](https://www.v2ex.com/t/1083867)
 1. [Edge 这么变态吗，昨晚用 chrome 在 p 站学习了一下英语，今天早上起来想用 edge 在 b 站学，一打开历史记录，好嘛， chrome 的记录全给同步过来了](https://www.v2ex.com/t/1083955)
-1. [[求助] 困扰我很长一段时间的诉求，关于在线 web 编辑器类的](https://www.v2ex.com/t/1083879)
 1. [如何跨省邮寄电动车（电驴）最划算](https://www.v2ex.com/t/1083983)
-1. [关于 iqoo z9 turbo 谷歌框架和内置反诈的问题](https://www.v2ex.com/t/1083992)
 1. [成年人如何提高自制力，唉，最近又被一个 UP 主搞乱了作息](https://www.v2ex.com/t/1083954)
+1. [为什么现在的动图都变成了视频？](https://www.v2ex.com/t/1083952)
+1. [求推荐，有没有像 Mac M 芯片一样，几乎听不到风扇转的 Windows 电脑？](https://www.v2ex.com/t/1083900)
 
 ## 历史归档
 
