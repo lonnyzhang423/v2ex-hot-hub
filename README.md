@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-30 15:09:07 +0800`
+ `更新时间：2024-10-30 16:13:11 +0800`
 
 ## 热议话题
 
-1. [25 届应届生 OFFER 选择，求职场老前辈指点迷津](https://www.v2ex.com/t/1084656)
 1. [小米 15、vivoX200、OPPOfindx8 三者对比](https://www.v2ex.com/t/1084805)
 1. [现在有部分前端真的水到家了](https://www.v2ex.com/t/1084858)
-1. [就近日某热门 OP 水贴被禁，之后疑似小号发帖，看完评论区后久久不能平静](https://www.v2ex.com/t/1084811)
 1. [mac mini 做什么用途比较好](https://www.v2ex.com/t/1084802)
 1. [新 M4 Mac Mini 出了，起步 16 G - 3749，值不值得买？](https://www.v2ex.com/t/1084772)
+1. [就近日某热门 OP 水贴被禁，之后疑似小号发帖，看完评论区后久久不能平静](https://www.v2ex.com/t/1084811)
 1. [为啥那么多人推荐小米油烟机啊？](https://www.v2ex.com/t/1084801)
-1. [2024 款 Mac Mini 已经发布](https://www.v2ex.com/t/1084764)
+1. [小红书热帖吐槽新款 Mac mini 关机键设计在底部。](https://www.v2ex.com/t/1084917)
 1. [卖了套房 50 万，感觉牛市来了，进军股市！ [第 6 天记录]，卖出上海贝岭](https://www.v2ex.com/t/1084875)
+1. [2024 款 Mac Mini 已经发布](https://www.v2ex.com/t/1084764)
 
 ## 历史归档
 
