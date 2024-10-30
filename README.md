@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-10-30 08:44:24 +0800`
+ `更新时间：2024-10-30 10:14:21 +0800`
 
 ## 热议话题
 
-1. [润出国打工是不是更好混一点，国内的空间太小了](https://www.v2ex.com/t/1084510)
-1. [对标 Snipaste / Xnip，滚动截图/贴图/OCR/录屏 Longshot 抽奖送码啦](https://www.v2ex.com/t/1084492)
-1. [现在的年轻人还听音乐么？](https://www.v2ex.com/t/1084473)
-1. [体检出问题了，甲状腺结节，可能是恶性](https://www.v2ex.com/t/1084486)
-1. [大佬们，想要自己搞个台式机，主要开发用,预算大概在 1 万左右 ，帮忙看下这个清单是否 OK](https://www.v2ex.com/t/1084478)
 1. [25 届应届生 OFFER 选择，求职场老前辈指点迷津](https://www.v2ex.com/t/1084656)
 1. [首发 M1Pro， AC+下月到期，电池 84%，准备去天才吧碰碰运气](https://www.v2ex.com/t/1084520)
+1. [感觉深圳大部分房子都是垃圾](https://www.v2ex.com/t/1084589)
+1. [48V 轻混能买吗，老司机来说说](https://www.v2ex.com/t/1084582)
+1. [各位 AI 程序员们是用 Windows 还是 macOS？](https://www.v2ex.com/t/1084621)
+1. [卖了套房 50 万，感觉牛市来了，准备进军股市！ [第 5 天，记录]，牛来了，快点梭哈](https://www.v2ex.com/t/1084531)
+1. [Amazon 把新 Mac mini 给漏了](https://www.v2ex.com/t/1084521)
+1. [大佬们，求推荐迷你主机](https://www.v2ex.com/t/1084515)
+1. [129.29.29.29 是个大坑货，千万别用](https://www.v2ex.com/t/1084541)
 
 ## 历史归档
 
