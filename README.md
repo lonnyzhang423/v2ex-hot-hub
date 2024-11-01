@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-01 08:49:50 +0800`
+ `更新时间：2024-11-01 10:20:18 +0800`
 
 ## 热议话题
 
-1. [3580 拿下 Mac Mini M4](https://www.v2ex.com/t/1085195)
-1. [国补真的便宜了吗？](https://www.v2ex.com/t/1085159)
 1. [除了免费， Linux 好处都有啥](https://www.v2ex.com/t/1085333)
-1. [为什么装机 CPU 普遍都选 Intel 而不选 AMD 啊](https://www.v2ex.com/t/1085194)
-1. [有 VIP 情况下哪个网盘最好用？](https://www.v2ex.com/t/1085185)
-1. [你有多久没看追剧和看电影了？](https://www.v2ex.com/t/1085217)
 1. [9 月底新上线的项目 10 月份赚了 1 万美金了](https://www.v2ex.com/t/1085472)
-1. [各位 it 大神， ai 在你们心中默认的形象是什么？](https://www.v2ex.com/t/1085169)
+1. [你有多久没看追剧和看电影了？](https://www.v2ex.com/t/1085217)
+1. [既然 AI 会被阉割，为啥这么多人想不要钱一样买国行 mac mini M4？](https://www.v2ex.com/t/1085543)
 1. [3449 拿下 Mac mini M4](https://www.v2ex.com/t/1085337)
+1. [求助，卧室里有个蚊子。](https://www.v2ex.com/t/1085316)
+1. [小米 NAS 产品最新进度公布：核心技术已展开预研，将支持手机扩容、AI 相册、电影视频刮削等功能](https://www.v2ex.com/t/1085360)
 1. [M4 mbp 硬盘选 512G 还是 1T？](https://www.v2ex.com/t/1085214)
+1. [刚倒车把别人新车给撞了，报了保险，对方说让我掏钱给她换保险杠。](https://www.v2ex.com/t/1085484)
+1. [未曾用过 macOS 的 Java 程序员买一台 Mac mini 自用合适吗](https://www.v2ex.com/t/1085218)
 
 ## 历史归档
 
