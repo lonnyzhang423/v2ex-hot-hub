@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-01 13:10:03 +0800`
+ `更新时间：2024-11-01 14:13:53 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [3449 拿下 Mac mini M4](https://www.v2ex.com/t/1085337)
 1. [刚倒车把别人新车给撞了，报了保险，对方说让我掏钱给她换保险杠。](https://www.v2ex.com/t/1085484)
 1. [苹果新发布的 M4 Mac mini 性价比很高，我觉得未必](https://www.v2ex.com/t/1085550)
-1. [我为什么选择常用 firefox，而不常用 edge](https://www.v2ex.com/t/1085297)
+1. [双十一大家的战绩如何？](https://www.v2ex.com/t/1085589)
 
 ## 历史归档
 
