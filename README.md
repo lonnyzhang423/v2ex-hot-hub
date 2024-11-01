@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-01 07:10:57 +0800`
+ `更新时间：2024-11-01 08:49:50 +0800`
 
 ## 热议话题
 
 1. [3580 拿下 Mac Mini M4](https://www.v2ex.com/t/1085195)
 1. [国补真的便宜了吗？](https://www.v2ex.com/t/1085159)
-1. [为什么装机 CPU 普遍都选 Intel 而不选 AMD 啊](https://www.v2ex.com/t/1085194)
 1. [除了免费， Linux 好处都有啥](https://www.v2ex.com/t/1085333)
+1. [为什么装机 CPU 普遍都选 Intel 而不选 AMD 啊](https://www.v2ex.com/t/1085194)
 1. [有 VIP 情况下哪个网盘最好用？](https://www.v2ex.com/t/1085185)
 1. [你有多久没看追剧和看电影了？](https://www.v2ex.com/t/1085217)
 1. [9 月底新上线的项目 10 月份赚了 1 万美金了](https://www.v2ex.com/t/1085472)
 1. [各位 it 大神， ai 在你们心中默认的形象是什么？](https://www.v2ex.com/t/1085169)
 1. [3449 拿下 Mac mini M4](https://www.v2ex.com/t/1085337)
+1. [M4 mbp 硬盘选 512G 还是 1T？](https://www.v2ex.com/t/1085214)
 
 ## 历史归档
 
