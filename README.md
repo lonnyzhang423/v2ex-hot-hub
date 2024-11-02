@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-02 20:15:34 +0800`
+ `更新时间：2024-11-02 21:14:18 +0800`
 
 ## 热议话题
 
 1. [哭到手麻脚麻，我就是世界上最废物的人](https://www.v2ex.com/t/1085913)
 1. [[乱想] mini M4，装个 Windows 虚拟机，软件兼容性和体验怎么样？](https://www.v2ex.com/t/1085933)
-1. [racknerd 是家骗子公司，大家注意了](https://www.v2ex.com/t/1085935)
 1. [苹果电脑大家推荐哪款拓展坞](https://www.v2ex.com/t/1085938)
-1. [好奇现在最流行/最难 hack/最反人类的验证码分别是什么](https://www.v2ex.com/t/1085881)
+1. [racknerd 是家骗子公司，大家注意了](https://www.v2ex.com/t/1085935)
+1. [M4 Pro 和 M4 Max 的 geekbench 跑分出了 牙膏爆了](https://www.v2ex.com/t/1085983)
 1. [洗牙越来越便宜了](https://www.v2ex.com/t/1085905)
 1. [双十一看到什么都想买，怎么治](https://www.v2ex.com/t/1085978)
-1. [M4 Pro 和 M4 Max 的 geekbench 跑分出了 牙膏爆了](https://www.v2ex.com/t/1085983)
 
 ## 历史归档
 
