@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-03 07:10:44 +0800`
+ `更新时间：2024-11-03 08:48:48 +0800`
 
 ## 热议话题
 
-1. [[乱想] mini M4，装个 Windows 虚拟机，软件兼容性和体验怎么样？](https://www.v2ex.com/t/1085933)
 1. [苹果电脑大家推荐哪款拓展坞](https://www.v2ex.com/t/1085938)
 1. [M4 Pro 和 M4 Max 的 geekbench 跑分出了 牙膏爆了](https://www.v2ex.com/t/1085983)
 1. [racknerd 是家骗子公司，大家注意了](https://www.v2ex.com/t/1085935)
