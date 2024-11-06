@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-06 11:12:27 +0800`
+ `更新时间：2024-11-06 12:12:22 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [租到辆 SU7 开了 2 天，说说感受](https://www.v2ex.com/t/1086781)
 1. [昨天发帖引得大家不高兴了 给大家发个红包道歉吧](https://www.v2ex.com/t/1086784)
 1. [江浙高速踩坑记](https://www.v2ex.com/t/1086809)
-1. [今年双十一，你们有买到便宜的 iphone16 吗？](https://www.v2ex.com/t/1086746)
 1. [被劝退啦！](https://www.v2ex.com/t/1086977)
 1. [做了一个 ai 虚拟女友，聊天时可以看到对方心里在想什么](https://www.v2ex.com/t/1086976)
-1. [2024 年夏天一家三口去澳大利亚玩了一圈，分享下流水账^_^](https://www.v2ex.com/t/1086757)
+1. [微信将接入华为的 Call kit，那么 iOS 的 call kit 有机会放开限制吗](https://www.v2ex.com/t/1087014)
 1. [刚买了个防火墙软件 Little Snitch，发现搜狗输入法一直偷偷上传](https://www.v2ex.com/t/1086849)
+1. [ios 最好用的是 shadowrocket 还是 surge ？求最好用的。](https://www.v2ex.com/t/1086797)
 
 ## 历史归档
 
