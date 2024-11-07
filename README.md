@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-07 17:09:35 +0800`
+ `更新时间：2024-11-07 18:09:39 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [有没有 V 友做过牙齿的根管治疗以及戴牙冠？](https://www.v2ex.com/t/1087357)
 1. [表弟沉迷网赌怎么办](https://www.v2ex.com/t/1087435)
 1. [5 年小米/红米用户，准备换新手机，问下其他厂商有啥推荐的](https://www.v2ex.com/t/1087225)
-1. [minecraft 新手求教](https://www.v2ex.com/t/1087309)
 1. [18.1 已经开放第三方电池健康度，要变天了](https://www.v2ex.com/t/1087300)
+1. [minecraft 新手求教](https://www.v2ex.com/t/1087309)
 
 ## 历史归档
 
