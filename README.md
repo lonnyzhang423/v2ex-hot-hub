@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-11 01:07:06 +0800`
+ `更新时间：2024-11-11 02:10:53 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [24 岁不抽烟不喝酒不吃拼好饭，也能中招高尿酸痛风的吗](https://www.v2ex.com/t/1088224)
 1. [兜兜转转一圈，还是回到了 OpenWrt](https://www.v2ex.com/t/1088216)
 1. [PC 淘宝经常出现 “亲，访问被拒绝” 老哥们有类似的经历么～](https://www.v2ex.com/t/1088129)
-1. [总算摆脱 Intel 了](https://www.v2ex.com/t/1088119)
 1. [急求 Windows 专家，升级系统硬盘竟然挂了， 88 元红包酬谢](https://www.v2ex.com/t/1088180)
+1. [总算摆脱 Intel 了](https://www.v2ex.com/t/1088119)
 1. [何姓女娃名字推荐](https://www.v2ex.com/t/1088274)
 
 ## 历史归档
