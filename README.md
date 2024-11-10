@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-10 08:47:00 +0800`
+ `更新时间：2024-11-10 10:13:59 +0800`
 
 ## 热议话题
 
 1. [mac mini m2 属于是最亏的一代](https://www.v2ex.com/t/1087950)
 1. [文心一言比 chatgpt 差的不是一星半点](https://www.v2ex.com/t/1087977)
-1. [m4 mini 连夜装完后索然无味](https://www.v2ex.com/t/1087965)
 1. [mac 剪切板 APP 有推荐吗](https://www.v2ex.com/t/1087989)
-1. [如何应对公司监控，保护副业安全？](https://www.v2ex.com/t/1087932)
+1. [m4 mini 连夜装完后索然无味](https://www.v2ex.com/t/1087965)
 1. [没人觉得 V 站的这个回复反人类吗](https://www.v2ex.com/t/1087941)
-1. [Mac mini 当服务器大概率属于误解](https://www.v2ex.com/t/1087940)
 1. [小孩买养的猫不想养了，有什么体面的处理办法？](https://www.v2ex.com/t/1088038)
+1. [DIYNAS， NAS 系统哪家强？](https://www.v2ex.com/t/1087971)
+1. [目前想写一个桌面应用，请问下技术栈选择](https://www.v2ex.com/t/1088076)
+1. [为什么 iPhone 用户很少讨论安卓，安卓用户总喜欢盯着 iPhone ？](https://www.v2ex.com/t/1087969)
 
 ## 历史归档
 
