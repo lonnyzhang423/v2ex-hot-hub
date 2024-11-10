@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-10 18:08:27 +0800`
+ `更新时间：2024-11-10 19:06:27 +0800`
 
 ## 热议话题
 
 1. [目前想写一个桌面应用，请问下技术栈选择](https://www.v2ex.com/t/1088076)
-1. [大家都是怎么管理国内应用的？](https://www.v2ex.com/t/1088052)
-1. [京东国际日版 iPhone16 的活动又来了](https://www.v2ex.com/t/1088086)
-1. [从昨晚 10 点左右到现在， Apple Music 无法播放任何网络音乐](https://www.v2ex.com/t/1088125)
 1. [为什么 steam 下载游戏速度这么快呢？](https://www.v2ex.com/t/1088137)
+1. [从昨晚 10 点左右到现在， Apple Music 无法播放任何网络音乐](https://www.v2ex.com/t/1088125)
+1. [京东国际日版 iPhone16 的活动又来了](https://www.v2ex.com/t/1088086)
 1. [旁路由真的不稳定吗？](https://www.v2ex.com/t/1088148)
+1. [PC 淘宝经常出现 “亲，访问被拒绝” 老哥们有类似的经历么～](https://www.v2ex.com/t/1088129)
 1. [汽车轮胎缓慢漏气怎么办？](https://www.v2ex.com/t/1088057)
 1. [总算摆脱 Intel 了](https://www.v2ex.com/t/1088119)
-1. [PC 淘宝经常出现 “亲，访问被拒绝” 老哥们有类似的经历么～](https://www.v2ex.com/t/1088129)
-1. [什么样的人成为了哲学家？](https://www.v2ex.com/t/1088054)
+1. [急求 Windows 专家，升级系统硬盘竟然挂了， 88 元红包酬谢](https://www.v2ex.com/t/1088180)
+1. [兜兜转转一圈，还是回到了 OpenWrt](https://www.v2ex.com/t/1088216)
 
 ## 历史归档
 
