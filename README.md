@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-13 22:08:39 +0800`
+ `更新时间：2024-11-13 23:09:12 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [macOS 中有 Oh My Zsh 的上位替代么？](https://www.v2ex.com/t/1089105)
 1. [为什么 Python 会有那么多人喜欢用？](https://www.v2ex.com/t/1089258)
 1. [如何避免家里 WIFI 被亲朋好友的 WIFI 万能钥匙共享出去？](https://www.v2ex.com/t/1089125)
-1. [上海爷叔： 2026 年上证指数能涨到 14600 点，真的假的？](https://www.v2ex.com/t/1089114)
 1. [我在设计开发的编程语言， Hello， World 跑通了](https://www.v2ex.com/t/1089110)
+1. [上海爷叔： 2026 年上证指数能涨到 14600 点，真的假的？](https://www.v2ex.com/t/1089114)
 1. [该去哪里找旅游搭子](https://www.v2ex.com/t/1089078)
 
 ## 历史归档
