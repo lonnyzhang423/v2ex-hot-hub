@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-13 13:09:35 +0800`
+ `更新时间：2024-11-13 14:13:07 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,8 @@
 1. [工作后还有必要自费购入电脑吗](https://www.v2ex.com/t/1088899)
 1. [老 iPhone 电池不行了，专家们建议是换 16 还是换电池](https://www.v2ex.com/t/1089071)
 1. [疫情过后，大家有注意到自己或身边的人放屁💨变多了吗？](https://www.v2ex.com/t/1088977)
-1. [有人会有梦境记录的习惯吗](https://www.v2ex.com/t/1088832)
+1. [Mac mini m4 16+256 搞 Java 开发够不够用？](https://www.v2ex.com/t/1088886)
+1. [macOS 中有 Oh My Zsh 的上位替代么？](https://www.v2ex.com/t/1089105)
 
 ## 历史归档
 
