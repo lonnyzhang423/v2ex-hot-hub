@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-14 10:11:00 +0800`
+ `更新时间：2024-11-14 11:14:47 +0800`
 
 ## 热议话题
 
-1. [要交今年的农村医保了，这个东西真的有用吗？](https://www.v2ex.com/t/1089108)
 1. [为什么 Python 会有那么多人喜欢用？](https://www.v2ex.com/t/1089258)
-1. [macOS 中有 Oh My Zsh 的上位替代么？](https://www.v2ex.com/t/1089105)
-1. [如何避免家里 WIFI 被亲朋好友的 WIFI 万能钥匙共享出去？](https://www.v2ex.com/t/1089125)
-1. [上海爷叔： 2026 年上证指数能涨到 14600 点，真的假的？](https://www.v2ex.com/t/1089114)
-1. [我在设计开发的编程语言， Hello， World 跑通了](https://www.v2ex.com/t/1089110)
+1. [家里人每月要吃 1000 多的药，哎！](https://www.v2ex.com/t/1089385)
 1. [体验了 Qwen2.5 Coder 32B 之后，我觉得本地 LLM 能用了](https://www.v2ex.com/t/1089179)
-1. [AI 真的能代替程序猿吗？](https://www.v2ex.com/t/1089194)
 1. [我是一名程序员（10 年），最近非常迷茫](https://www.v2ex.com/t/1089212)
+1. [AI 真的能代替程序猿吗？](https://www.v2ex.com/t/1089194)
+1. [京东耍猴， mac mini 压根抢不到](https://www.v2ex.com/t/1089204)
+1. [国企入职两个月，准备重拾代码全力冲刺外企了](https://www.v2ex.com/t/1089297)
+1. [2024 年，虚拟平台 All in one ，家用选 Esxi 还是 pve？](https://www.v2ex.com/t/1089167)
+1. [[求助] 我是 iOS 开发，想自己做 APP，但是不会服务端开发技能，请问服务端自学用什么技术上手比较快呢？不要求服务端技术怎么深入，只求够用](https://www.v2ex.com/t/1089215)
+1. [为什么工作后对于代码的热情下降了](https://www.v2ex.com/t/1089347)
 
 ## 历史归档
 
