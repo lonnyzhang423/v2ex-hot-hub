@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-17 15:08:57 +0800`
+ `更新时间：2024-11-17 16:11:31 +0800`
 
 ## 热议话题
 
 1. [大家 iPhone 的听歌软件是什么](https://www.v2ex.com/t/1090112)
 1. [老安卓用户认为右滑返回是 iPhone 最辣鸡的功能](https://www.v2ex.com/t/1090194)
 1. [4202 年了， Windows 能一键换机了吗](https://www.v2ex.com/t/1090146)
-1. [Godaddy 的两步验证千万别开啊，也别绑定信用卡](https://www.v2ex.com/t/1090153)
 1. [中国移动 8 元保号套餐，能不能改成流量卡？](https://www.v2ex.com/t/1090231)
+1. [Godaddy 的两步验证千万别开啊，也别绑定信用卡](https://www.v2ex.com/t/1090153)
 1. [程序员转行建议](https://www.v2ex.com/t/1090123)
 1. [nas 暴露在公网有多危险？](https://www.v2ex.com/t/1090232)
-1. [25 秋招选手， offer 选择](https://www.v2ex.com/t/1090093)
 1. [买了 Macbook Pro M4 Pro！鸟枪换炮，再也没有拖延的借口了！](https://www.v2ex.com/t/1090196)
+1. [每月打印 500 页左右，有啥打印机推荐？](https://www.v2ex.com/t/1090181)
 
 ## 历史归档
 
