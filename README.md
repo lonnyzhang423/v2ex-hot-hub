@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-20 02:13:03 +0800`
+ `更新时间：2024-11-20 03:07:31 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [好兄弟的生日礼物送啥比较好](https://www.v2ex.com/t/1090784)
 1. [请愿小米为 Mac mini 出一款 24 寸 4K 显示器](https://www.v2ex.com/t/1090672)
 1. [大家来评评理，是我太矫情吗？](https://www.v2ex.com/t/1090775)
-1. [4000 的预算是台式机还是 steam deck 还是 rog 掌机呢？](https://www.v2ex.com/t/1090737)
 1. [鉴于看到很多 V 友 Apple 全设备/平台用微信输入法，来泼个冷水](https://www.v2ex.com/t/1090787)
+1. [4000 的预算是台式机还是 steam deck 还是 rog 掌机呢？](https://www.v2ex.com/t/1090737)
 
 ## 历史归档
 
