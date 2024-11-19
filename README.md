@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-19 10:17:36 +0800`
+ `更新时间：2024-11-19 11:22:17 +0800`
 
 ## 热议话题
 
-1. [即将被裁的十年程序员，打算失业后开家会员生鲜超市](https://www.v2ex.com/t/1090430)
-1. [提个疑问，生产环境中的数据库可不可以用 docker 容器化部署？](https://www.v2ex.com/t/1090444)
-1. [重度昏迷第六天还应该坚持吗？](https://www.v2ex.com/t/1090443)
 1. [enable 翻译为「使能」， robust 翻译为「鲁棒」，这些迷惑翻译都是谁带起来的？](https://www.v2ex.com/t/1090479)
+1. [如何看待国内越来越多的献忠事件？节假日、周末我都不敢去人多的地方了](https://www.v2ex.com/t/1090692)
 1. [信创服务器选型](https://www.v2ex.com/t/1090454)
-1. [你们是怎么成功申请 Oracle 云的？](https://www.v2ex.com/t/1090424)
-1. [卸载美团 APP 了，让我社死的东西。](https://www.v2ex.com/t/1090423)
 1. [我想拥有一台 mac mini m4，但我其实不需要它](https://www.v2ex.com/t/1090486)
+1. [A 股市场后续走势怎么看？大家给点意见](https://www.v2ex.com/t/1090491)
 1. [副业做摄影有前（钱）途吗](https://www.v2ex.com/t/1090463)
+1. [关于 2 个月再 github 获得 600 多个 star 的总结](https://www.v2ex.com/t/1090487)
+1. [请愿小米为 Mac mini 出一款 24 寸 4K 显示器](https://www.v2ex.com/t/1090672)
+1. [用模拟器挂机实现亲邻开门无广告自动化操作](https://www.v2ex.com/t/1090682)
 
 ## 历史归档
 
