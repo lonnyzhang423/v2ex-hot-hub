@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-23 18:09:08 +0800`
+ `更新时间：2024-11-23 19:07:14 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [介绍个赚钱的程序员副业，卖 RustDesk 中继服务](https://www.v2ex.com/t/1091909)
 1. [黑五打折了..](https://www.v2ex.com/t/1091966)
 1. [如何畅快地在 Linux 系统下使用代理进行内容下载？](https://www.v2ex.com/t/1091891)
-1. [对比 telegram 和 WhatsApp，建立了 Signal 加密群聊](https://www.v2ex.com/t/1091945)
 1. [冷备份方式。](https://www.v2ex.com/t/1091934)
+1. [对比 telegram 和 WhatsApp，建立了 Signal 加密群聊](https://www.v2ex.com/t/1091945)
 
 ## 历史归档
 
