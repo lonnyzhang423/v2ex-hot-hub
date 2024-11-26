@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-26 07:09:21 +0800`
+ `更新时间：2024-11-26 08:47:26 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [老婆批了 6000 预算，选择新显卡还是 oppo Find X8](https://www.v2ex.com/t/1092504)
 1. [北京自如遇到恶心合租室友](https://www.v2ex.com/t/1092317)
 1. [最终还是对开发者下手了🤣](https://www.v2ex.com/t/1092326)
-1. [为什么感觉 HomeAssistant 并不好用？](https://www.v2ex.com/t/1092415)
+1. [首马 3:24:47，下个目标只能是 sub3！分享一下俺今年跑步历程](https://www.v2ex.com/t/1092354)
 
 ## 历史归档
 
