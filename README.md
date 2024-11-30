@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-11-30 18:08:58 +0800`
+ `更新时间：2024-11-30 19:07:22 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [14 岁的我，注册了 V2EX。](https://www.v2ex.com/t/1093834)
 1. [希望过来人可以帮我指点迷津，马上毕业，应该是 C++ or 银行？](https://www.v2ex.com/t/1093913)
 1. [试着用了下苹果的密码 app](https://www.v2ex.com/t/1093822)
-1. [作为 TL 如何面对组员的挑战](https://www.v2ex.com/t/1093802)
 1. [Linux 上使用 tail -f 查看日志会影响服务器性能吗](https://www.v2ex.com/t/1093874)
 1. [换手机后 microsoft authenticator 用不了了](https://www.v2ex.com/t/1093878)
+1. [朋友们黑五都买啥了](https://www.v2ex.com/t/1093892)
 
 ## 历史归档
 
