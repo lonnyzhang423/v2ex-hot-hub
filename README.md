@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-01 02:11:42 +0800`
+ `更新时间：2024-12-01 03:06:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [换手机后 microsoft authenticator 用不了了](https://www.v2ex.com/t/1093878)
 1. [近几年什么东西对你帮助非常大？](https://www.v2ex.com/t/1093902)
 1. [Apple 的品控不是一般的牛逼](https://www.v2ex.com/t/1093919)
-1. [大家觉得当前还有哪些投资机会可能做到 10 年 100 倍？](https://www.v2ex.com/t/1093957)
+1. [Obsidian 多设备同步方案整理](https://www.v2ex.com/t/1093931)
 
 ## 历史归档
 
