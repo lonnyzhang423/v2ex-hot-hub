@@ -11,16 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-05 15:10:10 +0800`
+ `更新时间：2024-12-05 16:13:45 +0800`
 
 ## 热议话题
 
 1. [19~22 年贷款买房的人还好吗， 跌了 30%+](https://www.v2ex.com/t/1095136)
 1. [个税减免的的规定真是霸道啊。](https://www.v2ex.com/t/1095121)
 1. [铁拳虽迟但到：车辆年检新规 OBD 检测 3 次不通过直接强制报废](https://www.v2ex.com/t/1095129)
+1. [技术架构逐步走向“国产化”](https://www.v2ex.com/t/1095159)
 1. [[送码] 用 Claude 写了一个 iOS App： Clash Dash](https://www.v2ex.com/t/1095032)
 1. [跑了趟香港开银行账户](https://www.v2ex.com/t/1095112)
-1. [技术架构逐步走向“国产化”](https://www.v2ex.com/t/1095159)
+1. [比特币 10 万了](https://www.v2ex.com/t/1095162)
+1. [国内机器 docker 的镜像到底应该怎么拽?](https://www.v2ex.com/t/1095188)
 1. [超时预警 狗东不当人](https://www.v2ex.com/t/1095119)
 
 ## 历史归档
