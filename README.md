@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-06 17:10:30 +0800`
+ `更新时间：2024-12-06 18:10:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [前端真的可以这么水吗？](https://www.v2ex.com/t/1095486)
 1. [三大运营商积分兑换，过期清零](https://www.v2ex.com/t/1095424)
 1. [还是以前 windows 主题好看](https://www.v2ex.com/t/1095355)
-1. [免费抽奖，我抽到了 1 个月 QQSVIP](https://www.v2ex.com/t/1095470)
+1. [写开源项目被骂了](https://www.v2ex.com/t/1095488)
 
 ## 历史归档
 
