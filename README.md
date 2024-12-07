@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-07 12:12:02 +0800`
+ `更新时间：2024-12-07 13:09:20 +0800`
 
 ## 热议话题
 
-1. [前端真的可以这么水吗？](https://www.v2ex.com/t/1095486)
-1. [写开源项目被骂了](https://www.v2ex.com/t/1095488)
 1. [为啥今年汽车保费突然上涨了好多](https://www.v2ex.com/t/1095495)
 1. [有多少人感觉自己并没长大](https://www.v2ex.com/t/1095520)
-1. [被 Java 毒害的脑子想在 Go 中实现一个操作，望打醒](https://www.v2ex.com/t/1095483)
 1. [一觉醒来 claude 被封了](https://www.v2ex.com/t/1095497)
 1. [怎么应对公共厕所抽烟的畜生？](https://www.v2ex.com/t/1095576)
-1. [知乎从今天开始禁止手机网页端浏览文章详情](https://www.v2ex.com/t/1095487)
+1. [后端程序员更喜欢哪个前端框架?](https://www.v2ex.com/t/1095588)
+1. [想去考个全国计算机等级证书，难吗？](https://www.v2ex.com/t/1095502)
+1. [广州电信家宽恢复动态公网 ip](https://www.v2ex.com/t/1095579)
+1. [物质为什么能运动？](https://www.v2ex.com/t/1095649)
 
 ## 历史归档
 
