@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-07 08:48:24 +0800`
+ `更新时间：2024-12-07 10:19:54 +0800`
 
 ## 热议话题
 
-1. [gap 一年半，突然收到 2 个外包 offer，有点纠结，大伙帮忙参考下](https://www.v2ex.com/t/1095402)
-1. [三大运营商积分兑换，过期清零](https://www.v2ex.com/t/1095424)
 1. [前端真的可以这么水吗？](https://www.v2ex.com/t/1095486)
 1. [写开源项目被骂了](https://www.v2ex.com/t/1095488)
 1. [有多少人感觉自己并没长大](https://www.v2ex.com/t/1095520)
 1. [为啥今年汽车保费突然上涨了好多](https://www.v2ex.com/t/1095495)
 1. [免费抽奖，我抽到了 1 个月 QQSVIP](https://www.v2ex.com/t/1095470)
 1. [三星手机是否值得更换？](https://www.v2ex.com/t/1095444)
+1. [被 Java 毒害的脑子想在 Go 中实现一个操作，望打醒](https://www.v2ex.com/t/1095483)
+1. [好奇心旺盛对于程序员来说，真是一个 debuff。](https://www.v2ex.com/t/1095458)
+1. [用来写代码，请问用哪个品牌型号的 4K 显示屏好](https://www.v2ex.com/t/1095466)
 
 ## 历史归档
 
