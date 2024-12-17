@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-17 13:10:20 +0800`
+ `更新时间：2024-12-17 14:14:19 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,9 @@
 1. [大概理解为什么小米的 root 越来越难了](https://www.v2ex.com/t/1097870)
 1. [想了解现在的信创软件，哪些是真国产？](https://www.v2ex.com/t/1098049)
 1. [各位有碰到过『突然间什么都无趣了』的时候吗](https://www.v2ex.com/t/1097899)
-1. [关于车企随意 OTA 的问题](https://www.v2ex.com/t/1098071)
-1. [Android 用户被监控， Apple 能幸免吗？](https://www.v2ex.com/t/1098016)
 1. [我花了一个月和 75RMB 买了一枚 V2EX 邀请码](https://www.v2ex.com/t/1097908)
 1. [相亲和自由恋爱对女生来说有什么区别吗？](https://www.v2ex.com/t/1097877)
+1. [Android 用户被监控， Apple 能幸免吗？](https://www.v2ex.com/t/1098016)
 
 ## 历史归档
 
