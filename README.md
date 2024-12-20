@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-20 20:16:58 +0800`
+ `更新时间：2024-12-20 21:16:05 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [B 站出年度报告了， xdm 都看了多少个小时](https://www.v2ex.com/t/1099050)
 1. [Google 不再是最好的搜索引擎](https://www.v2ex.com/t/1098937)
 1. [github 10K star 是什么水平？](https://www.v2ex.com/t/1098975)
-1. [换工作后的正畸烦恼](https://www.v2ex.com/t/1098940)
 1. [做了一个超简的划词翻译插件（带有全网单词标记功能）](https://www.v2ex.com/t/1099037)
+1. [换工作后的正畸烦恼](https://www.v2ex.com/t/1098940)
 
 ## 历史归档
 
