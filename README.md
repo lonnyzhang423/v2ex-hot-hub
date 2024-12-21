@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-21 08:43:53 +0800`
+ `更新时间：2024-12-21 10:08:49 +0800`
 
 ## 热议话题
 
 1. [养孩子乐趣在哪里？](https://www.v2ex.com/t/1099022)
-1. [鉴于太多 v 友询问我关于 11-12 月的钓鱼情况，在这里统一做一次解答。](https://www.v2ex.com/t/1098950)
 1. [B 站出年度报告了， xdm 都看了多少个小时](https://www.v2ex.com/t/1099050)
-1. [我的女儿跟我说：可是妈妈，我不是小孩子了](https://www.v2ex.com/t/1098954)
-1. [年末体检，人到中年身体一堆毛病，分享一下](https://www.v2ex.com/t/1098962)
 1. [github 10K star 是什么水平？](https://www.v2ex.com/t/1098975)
 1. [做了一个超简的划词翻译插件（带有全网单词标记功能）](https://www.v2ex.com/t/1099037)
-1. [换工作后的正畸烦恼](https://www.v2ex.com/t/1098940)
+1. [Ruby on Rails 用着太舒服了](https://www.v2ex.com/t/1099039)
 1. [论最有效的安装原版 chrome 的姿势](https://www.v2ex.com/t/1098974)
 1. [域名解析 DNS 被大范围污染](https://www.v2ex.com/t/1099056)
+1. [英文不太好的人怎么去美国。](https://www.v2ex.com/t/1098978)
+1. [说几点个人使用 nextjs 的感受](https://www.v2ex.com/t/1099027)
 
 ## 历史归档
 
