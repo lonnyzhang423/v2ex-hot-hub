@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-22 22:08:08 +0800`
+ `更新时间：2024-12-22 23:07:41 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [数字游民有什么地方推荐居住](https://www.v2ex.com/t/1099348)
 1. [2024 年了，无聊想尝试下 neovim](https://www.v2ex.com/t/1099388)
 1. [学校发生这样的事，大家怎么看？](https://www.v2ex.com/t/1099430)
-1. [工作转型，前端 or 工控软件开发](https://www.v2ex.com/t/1099333)
+1. [对于独立开发出海 App 你们选择 SwiftUI 专注 iOS 还是直接用 flutter 开发多个端](https://www.v2ex.com/t/1099362)
 
 ## 历史归档
 
