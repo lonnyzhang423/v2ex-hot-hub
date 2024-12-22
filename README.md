@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-22 20:15:18 +0800`
+ `更新时间：2024-12-22 21:12:51 +0800`
 
 ## 热议话题
 
 1. [3 年 50 次迭代：我编写了一款专为 Mac 打造的休息提醒工具](https://www.v2ex.com/t/1099352)
-1. [大家觉得明年工作会好找些吗?](https://www.v2ex.com/t/1099320)
 1. [分享一下我用 hyper-v 做的 nas 服务器，非常稳定省心，模块化，懒人福音](https://www.v2ex.com/t/1099343)
 1. [数字游民有什么地方推荐居住](https://www.v2ex.com/t/1099348)
+1. [程序员失业，回家养🐏，大家怎么看？](https://www.v2ex.com/t/1099431)
 1. [工作转型，前端 or 工控软件开发](https://www.v2ex.com/t/1099333)
 1. [2024 年了，无聊想尝试下 neovim](https://www.v2ex.com/t/1099388)
-1. [对于独立开发出海 App 你们选择 SwiftUI 专注 iOS 还是直接用 flutter 开发多个端](https://www.v2ex.com/t/1099362)
+1. [学校发生这样的事，大家怎么看？](https://www.v2ex.com/t/1099430)
 
 ## 历史归档
 
