@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-23 03:06:34 +0800`
+ `更新时间：2024-12-23 04:09:09 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [对于独立开发出海 App 你们选择 SwiftUI 专注 iOS 还是直接用 flutter 开发多个端](https://www.v2ex.com/t/1099362)
 1. [各位老哥有什么推荐买的小玩意吗？](https://www.v2ex.com/t/1099380)
 1. [币圈交易员跟单怎么说, 靠谱吗?](https://www.v2ex.com/t/1099408)
-1. [求 MacBook 需要长期携带 u 盘的固定方案](https://www.v2ex.com/t/1099357)
+1. [被百度网盘强制架设个人 PCDN](https://www.v2ex.com/t/1099445)
 
 ## 历史归档
 
