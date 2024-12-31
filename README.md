@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2024-12-31 12:11:42 +0800`
+ `更新时间：2024-12-31 13:09:21 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [大家一年开车吃多少罚单](https://www.v2ex.com/t/1101303)
 1. [国企上个破班筋疲力尽](https://www.v2ex.com/t/1101342)
 1. [高频听力丧失的苦恼](https://www.v2ex.com/t/1101266)
+1. [[送码] iOS 平台用来管理 Clash 服务的 App： Clash Dash](https://www.v2ex.com/t/1101519)
 1. [想入手一个平板，请各位帮忙看看 pdd 的能入吗](https://www.v2ex.com/t/1101431)
-1. [飞牛 OS 现在值得当主力吗](https://www.v2ex.com/t/1101358)
 
 ## 历史归档
 
