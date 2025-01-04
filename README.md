@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-04 15:08:04 +0800`
+ `更新时间：2025-01-04 16:11:18 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [年轻人是先买房还是先买车](https://www.v2ex.com/t/1102343)
 1. [可以利用 wsl 绕过公司电脑监控吗？](https://www.v2ex.com/t/1102438)
 1. [为何见许多人抱怨上了多年学，最后只能去做个收入不高的工作，而不是去抱怨，为何存在这样收入低的工作呢？](https://www.v2ex.com/t/1102393)
-1. [Android 现阶段最好的本地视频播放器是什么？](https://www.v2ex.com/t/1102420)
 1. [v2er 们，百元以内蓝牙耳机哪家强](https://www.v2ex.com/t/1102436)
+1. [Android 现阶段最好的本地视频播放器是什么？](https://www.v2ex.com/t/1102420)
 1. [react 新手关于 react useEffect 的困惑，为什么 useEffect 里面的 cleanup 函数里面的 props 是旧的，如何从源码解释？](https://www.v2ex.com/t/1102355)
 1. [在工作中遇到了很恶心的需求该怎么办](https://www.v2ex.com/t/1102372)
 1. [才知道，移动的高频骚扰电话拦截业务，会消耗移动流量。](https://www.v2ex.com/t/1102392)
+1. [mysql 数据库频繁插数据的处理方案讨论](https://www.v2ex.com/t/1102456)
 
 ## 历史归档
 
