@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-04 17:08:39 +0800`
+ `更新时间：2025-01-04 18:08:46 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,11 @@
 1. [v2er 们，百元以内蓝牙耳机哪家强](https://www.v2ex.com/t/1102436)
 1. [Android 现阶段最好的本地视频播放器是什么？](https://www.v2ex.com/t/1102420)
 1. [3 年前在淘宝麦克先生买的 AC+，快过期了，想给 mbp 喝个咖啡加钱换新，会翻车吗？](https://www.v2ex.com/t/1102477)
-1. [react 新手关于 react useEffect 的困惑，为什么 useEffect 里面的 cleanup 函数里面的 props 是旧的，如何从源码解释？](https://www.v2ex.com/t/1102355)
+1. [mysql 数据库频繁插数据的处理方案讨论](https://www.v2ex.com/t/1102456)
 1. [在工作中遇到了很恶心的需求该怎么办](https://www.v2ex.com/t/1102372)
 1. [才知道，移动的高频骚扰电话拦截业务，会消耗移动流量。](https://www.v2ex.com/t/1102392)
-1. [mysql 数据库频繁插数据的处理方案讨论](https://www.v2ex.com/t/1102456)
+1. [V2 老哥刚给推荐完 uBlock Origin 这个插件，我看 chrome 就要禁这个插件了么？](https://www.v2ex.com/t/1102466)
+1. [如何搭建 PB 级影音存储服务器？](https://www.v2ex.com/t/1102424)
 
 ## 历史归档
 
