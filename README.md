@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-05 11:18:07 +0800`
+ `更新时间：2025-01-05 12:11:09 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [cloudfalre worker 也许是目前 web 服务部署的一种最佳实践。](https://www.v2ex.com/t/1102503)
 1. [2025 不想在国内卷了，假如去越南开店的话可行吗？](https://www.v2ex.com/t/1102515)
 1. [（VPS）全网首家测评--搬瓦工 power box](https://www.v2ex.com/t/1102483)
-1. [教你一招，五秒解除 ChatGPT 降智商😋](https://www.v2ex.com/t/1102460)
 1. [极简手环推荐](https://www.v2ex.com/t/1102467)
 1. [读《圣经》出埃及记 这段惊呆了，这是约 3500 年前的事](https://www.v2ex.com/t/1102542)
 
