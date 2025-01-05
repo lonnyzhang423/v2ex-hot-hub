@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-05 21:13:10 +0800`
+ `更新时间：2025-01-05 22:07:34 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [我转发了一张图到前端群，大周末的群里已经爆炸了](https://www.v2ex.com/t/1102700)
 1. [google voice 号刚回收了还能找回吗](https://www.v2ex.com/t/1102604)
 1. [大模型人工智能是不是马上就要代替程序员了](https://www.v2ex.com/t/1102613)
-1. [giffgaff 号码被永封](https://www.v2ex.com/t/1102598)
+1. [被 cursor 气出脑血栓](https://www.v2ex.com/t/1102687)
 
 ## 历史归档
 
