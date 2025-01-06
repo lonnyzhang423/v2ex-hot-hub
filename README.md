@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-06 21:17:22 +0800`
+ `更新时间：2025-01-06 22:08:52 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [号称不用关机的 Mac mini，内存使用为何如此高？ RAM 经常 70%， window server 1.8g， chrome 一个标签页 200m](https://www.v2ex.com/t/1102823)
 1. [上海买房刚需](https://www.v2ex.com/t/1102881)
 1. [尽管到处裁员，程序员仍是人类历史上最好的职业](https://www.v2ex.com/t/1102766)
-1. [听到年后裁员的风声 想举手🙋‍♂️了](https://www.v2ex.com/t/1102814)
+1. [15W 左右纯电 SUV 求推荐](https://www.v2ex.com/t/1102901)
 
 ## 历史归档
 
