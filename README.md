@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-07 18:10:14 +0800`
+ `更新时间：2025-01-07 19:07:49 +0800`
 
 ## 热议话题
 
-1. [T 楼：送 10 张全新未激活的英国 giffgaff 卡](https://www.v2ex.com/t/1102985)
 1. [我发现好多人过年不回家](https://www.v2ex.com/t/1103078)
-1. [今天终于接到了反诈中心的电话！](https://www.v2ex.com/t/1103106)
 1. [从面别人，到找不到工作，年底了没脸回家了](https://www.v2ex.com/t/1103047)
 1. [为什么有人把结束读成 su？](https://www.v2ex.com/t/1103072)
 1. [优惠券读 quan 不读 juan。](https://www.v2ex.com/t/1103101)
-1. [cursor 简直是神器啊](https://www.v2ex.com/t/1103090)
 1. [RTX 5090,1999 美元，各位老哥准备入手嘛](https://www.v2ex.com/t/1103140)
+1. [cursor 简直是神器啊](https://www.v2ex.com/t/1103090)
 1. [有人做到一边得到上级认可（努力、上进），一边又杜绝加班么？](https://www.v2ex.com/t/1103091)
+1. [求一个 Windows 上好用的照片查看器](https://www.v2ex.com/t/1103073)
 
 ## 历史归档
 
