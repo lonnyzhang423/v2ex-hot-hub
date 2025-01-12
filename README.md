@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-12 23:08:16 +0800`
+ `更新时间：2025-01-13 00:09:40 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [关于 AppleTV 父母使用](https://www.v2ex.com/t/1104443)
 1. [appstore 这么顽固？](https://www.v2ex.com/t/1104470)
 1. [人近中年，自制力会越来越差吗](https://www.v2ex.com/t/1104510)
-1. [普通程序员还有活路吗？](https://www.v2ex.com/t/1104479)
 1. [7 年婚姻结束，家庭问题，人生迷茫](https://www.v2ex.com/t/1104536)
+1. [普通程序员还有活路吗？](https://www.v2ex.com/t/1104479)
 
 ## 历史归档
 
