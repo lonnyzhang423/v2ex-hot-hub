@@ -11,19 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-13 08:48:49 +0800`
+ `更新时间：2025-01-13 10:16:23 +0800`
 
 ## 热议话题
 
-1. [你们看（中文）视频能离开字幕吗？](https://www.v2ex.com/t/1104452)
-1. [撤离时，你会带什么？](https://www.v2ex.com/t/1104484)
 1. [7 年婚姻结束，家庭问题，人生迷茫](https://www.v2ex.com/t/1104536)
-1. [appstore 这么顽固？](https://www.v2ex.com/t/1104470)
-1. [人近中年，自制力会越来越差吗](https://www.v2ex.com/t/1104510)
+1. [撤离时，你会带什么？](https://www.v2ex.com/t/1104484)
+1. [12306 的票到底卖给谁了？](https://www.v2ex.com/t/1104596)
 1. [普通程序员还有活路吗？](https://www.v2ex.com/t/1104479)
-1. [分手冷静一个月,要不要下决心离开?](https://www.v2ex.com/t/1104569)
-1. [二手车拍卖网站很多，为什么没有二手房拍卖网站？](https://www.v2ex.com/t/1104474)
-1. [Ai 开始自动抢活儿干了](https://www.v2ex.com/t/1104489)
+1. [人近中年，自制力会越来越差吗](https://www.v2ex.com/t/1104510)
+1. [大家能接受父母每天或者每两天打一次视频电话吗？](https://www.v2ex.com/t/1104577)
+1. [appstore 这么顽固？](https://www.v2ex.com/t/1104470)
 
 ## 历史归档
 
