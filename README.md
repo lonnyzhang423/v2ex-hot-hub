@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-28 19:07:46 +0800`
+ `更新时间：2025-01-28 20:16:59 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [原生家庭，过年刚回家和家里白眼狼姐打起来了](https://www.v2ex.com/t/1108137)
 1. [DLPlay 抽奖活动! 过年了给家整一波抽奖活动助助兴,祝所有看到帖子的人好运🍀连连](https://www.v2ex.com/t/1108166)
 1. [小白请教：买一个 Mac mini M4 当服务器用，合适不。](https://www.v2ex.com/t/1108122)
-1. [kiwi 归档了， play 商店也下架了](https://www.v2ex.com/t/1108151)
-1. [抄底美科技股的时候到了](https://www.v2ex.com/t/1108157)
 1. [好多 AI 都识别不出来这是啥字](https://www.v2ex.com/t/1108191)
-1. [关于新加坡 OCBC 相关讨论下](https://www.v2ex.com/t/1108110)
+1. [抄底美科技股的时候到了](https://www.v2ex.com/t/1108157)
+1. [kiwi 归档了， play 商店也下架了](https://www.v2ex.com/t/1108151)
+1. [[新年送码🎉] 简洁记账 app 送码，可能是北半球最好用的记账 app 了](https://www.v2ex.com/t/1108178)
 
 ## 历史归档
 
