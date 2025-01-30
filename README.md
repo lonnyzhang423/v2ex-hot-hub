@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-30 14:12:54 +0800`
+ `更新时间：2025-01-30 15:08:47 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [28 届想找大厂暑假实习…这个简历有可改善的地方吗？](https://www.v2ex.com/t/1108288)
 1. [2025 年 ESXi vs Proxmox VE (PVE)：虚拟化方案选哪个?](https://www.v2ex.com/t/1108307)
 1. [Python 中线程和协程的区别是什么](https://www.v2ex.com/t/1108272)
-1. [iPad mini 7 到手了，没想到使用起来最不习惯的并不是 60hz 屏幕](https://www.v2ex.com/t/1108265)
 1. [大家有没有整天都犯困的感觉，有没有好的解决办法](https://www.v2ex.com/t/1108320)
+1. [如何才能买到美股呢？](https://www.v2ex.com/t/1108278)
 
 ## 历史归档
 
