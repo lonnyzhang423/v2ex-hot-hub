@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-30 16:12:01 +0800`
+ `更新时间：2025-01-30 17:09:41 +0800`
 
 ## 热议话题
 
-1. [看完封神 2 了，远不如第一部好看](https://www.v2ex.com/t/1108274)
 1. [2025 年 ESXi vs Proxmox VE (PVE)：虚拟化方案选哪个?](https://www.v2ex.com/t/1108307)
 1. [28 届想找大厂暑假实习…这个简历有可改善的地方吗？](https://www.v2ex.com/t/1108288)
 1. [大家有没有整天都犯困的感觉，有没有好的解决办法](https://www.v2ex.com/t/1108320)
-1. [如何才能买到美股呢？](https://www.v2ex.com/t/1108278)
 1. [面对铺面而来的 Deepseek，普通人很难不焦虑吧](https://www.v2ex.com/t/1108281)
 1. [国内 PHP 卷王是鸟哥](https://www.v2ex.com/t/1108309)
 1. [Macos 15.2 中如何消除“Bartender 5 正在访问你的屏幕”弹窗](https://www.v2ex.com/t/1108313)
+1. [如何才能买到美股呢？](https://www.v2ex.com/t/1108278)
+1. [二十年前的北網通，南電信，鐵通鐵定不通又回來了？](https://www.v2ex.com/t/1108318)
 
 ## 历史归档
 
