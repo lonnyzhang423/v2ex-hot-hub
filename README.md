@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-01-31 12:11:17 +0800`
+ `更新时间：2025-01-31 13:09:27 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [google 的 gemini-2.0-flash-thinking 这个推理模型是不让用了吗](https://www.v2ex.com/t/1108325)
 1. [今年过年大家观察到身边有哪些变化?](https://www.v2ex.com/t/1108352)
 1. [前后端开发毕设,求建议](https://www.v2ex.com/t/1108330)
+1. [什么时候出新 12 寸 MacBook](https://www.v2ex.com/t/1108359)
 1. [现在买 m1 pro 还是 m3pro](https://www.v2ex.com/t/1108348)
 
 ## 历史归档
