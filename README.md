@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-02 17:08:17 +0800`
+ `更新时间：2025-02-02 18:08:18 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,11 @@
 1. [光猫是否有可能实现虚拟化？](https://www.v2ex.com/t/1108542)
 1. [为什么 LLM 模型不能按语言拆分，英文问题就只用英文语料训练出来的模型、日文问题就只用日文语料训练出来的模型，这样不是可以大幅减少参数量？](https://www.v2ex.com/t/1108545)
 1. [讲讲为什么认为自己是一个失败者](https://www.v2ex.com/t/1108579)
-1. [离过婚 比 没结婚 强吗？](https://www.v2ex.com/t/1108531)
 1. [过年回个老家，服务器 ip 被墙了](https://www.v2ex.com/t/1108576)
-1. [是否大部分人最后都在医院里面？](https://www.v2ex.com/t/1108583)
 1. [人类应该减少直接使用笔记本电脑](https://www.v2ex.com/t/1108591)
-1. [请教一个 openwrt + ipv6 + cloudflare 路由器回家的问题](https://www.v2ex.com/t/1108536)
+1. [IOS 装反炸了，就放手机里摆设被注册，被 pc 电话通知有风险，有人知道原理吗？](https://www.v2ex.com/t/1108606)
 1. [问几个微信转 WeChat 的问题，求解答](https://www.v2ex.com/t/1108555)
+1. [请教一个 openwrt + ipv6 + cloudflare 路由器回家的问题](https://www.v2ex.com/t/1108536)
 
 ## 历史归档
 
