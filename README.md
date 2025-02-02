@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-02 18:08:18 +0800`
+ `更新时间：2025-02-02 19:06:40 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [人类应该减少直接使用笔记本电脑](https://www.v2ex.com/t/1108591)
 1. [IOS 装反炸了，就放手机里摆设被注册，被 pc 电话通知有风险，有人知道原理吗？](https://www.v2ex.com/t/1108606)
 1. [问几个微信转 WeChat 的问题，求解答](https://www.v2ex.com/t/1108555)
-1. [请教一个 openwrt + ipv6 + cloudflare 路由器回家的问题](https://www.v2ex.com/t/1108536)
+1. [一加 ace5 能不能刷氢 OS？](https://www.v2ex.com/t/1108592)
 
 ## 历史归档
 
