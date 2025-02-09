@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-10 02:11:14 +0800`
+ `更新时间：2025-02-10 03:07:19 +0800`
 
 ## 热议话题
 
 1. [T 楼抽奖免费送出（顺丰包邮）30 张全新待激活的英国 giffgaff 卡](https://www.v2ex.com/t/1110043)
-1. [关于我在 soul 注册了一个女号的社会小实验](https://www.v2ex.com/t/1110062)
 1. [大学没有独立卫浴这件事？](https://www.v2ex.com/t/1110071)
 1. [姐姐找我借钱投资我不想借](https://www.v2ex.com/t/1110103)
 1. [Java 为什么能给 char 类型赋值中文字符](https://www.v2ex.com/t/1110066)
