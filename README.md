@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-21 10:11:46 +0800`
+ `更新时间：2025-02-21 11:15:34 +0800`
 
 ## 热议话题
 
 1. [一款全新的工作流 IDE](https://www.v2ex.com/t/1112879)
 1. [年前离职后暂时加入了 V 友的创业团队, 现在产品前景不太好, 再找找新工作!](https://www.v2ex.com/t/1112917)
-1. [小舅子生病有感...](https://www.v2ex.com/t/1112859)
-1. [16E 居然砍了 Magsafe，吃相有点难看](https://www.v2ex.com/t/1112855)
-1. [[送兑换码]DuRT—Mac 上的实时语音识别和翻译软件](https://www.v2ex.com/t/1112884)
 1. [[送码] SlideBrowser - 一个轻量的滑动浏览器，给你不一样的交互体验](https://www.v2ex.com/t/1113107)
-1. [不想折腾 nas 家庭影院本地储存了，各种网盘有什么建议吗？](https://www.v2ex.com/t/1112838)
+1. [[送兑换码]DuRT—Mac 上的实时语音识别和翻译软件](https://www.v2ex.com/t/1112884)
+1. [一面出 LRU 算法题算难吗](https://www.v2ex.com/t/1113104)
+1. [你认为目前最强的免费 AI 是什么？](https://www.v2ex.com/t/1113051)
 1. [现在的 VSCode 可以平替 JBr 系列吗](https://www.v2ex.com/t/1113020)
-1. [目前杭州求职 25k 的薪资算高了吗？](https://www.v2ex.com/t/1112850)
+1. [今后貌似不用肉身去香港开港卡了？](https://www.v2ex.com/t/1113000)
+1. [机械革命现在品控如何？](https://www.v2ex.com/t/1112937)
 
 ## 历史归档
 
