@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-22 10:07:51 +0800`
+ `更新时间：2025-02-22 11:11:54 +0800`
 
 ## 热议话题
 
-1. [已婚的来说下，每个月给老婆/家庭多少钱。](https://www.v2ex.com/t/1113156)
 1. [求推荐 4000 内的安卓机，想弃果投卓了…](https://www.v2ex.com/t/1113194)
 1. [也来聊聊彩礼，给还没结婚的做个参考](https://www.v2ex.com/t/1113292)
 1. [老婆被仿冒 Google Chrome 网站坑了，电脑中木马](https://www.v2ex.com/t/1113249)
@@ -23,6 +22,7 @@
 1. [大家有没有觉得大 A 已经进入了牛市](https://www.v2ex.com/t/1113205)
 1. [天塌了， NAS 被勒索了，如何数据恢复？](https://www.v2ex.com/t/1113196)
 1. [立了"军令状"，结果搞砸了，该辞职了](https://www.v2ex.com/t/1113288)
+1. [淘宝疑似歧视并频繁封禁类原生 Android 用户](https://www.v2ex.com/t/1113414)
 1. [CSGO 太好玩了](https://www.v2ex.com/t/1113217)
 
 ## 历史归档
