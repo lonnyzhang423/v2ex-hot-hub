@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-24 06:08:08 +0800`
+ `更新时间：2025-02-24 07:08:42 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [菜鸟 Android 开发该放弃了吗？](https://www.v2ex.com/t/1113560)
 1. [单休太累了，上海行情咋样？](https://www.v2ex.com/t/1113602)
 1. [当听到苹果店员说，用手机壳会影响电池寿命](https://www.v2ex.com/t/1113572)
-1. [[送码] AI 驱动的英语句子学习工具。](https://www.v2ex.com/t/1113566)
 1. [现在是 closeai 完整版了](https://www.v2ex.com/t/1113620)
+1. [[送码] AI 驱动的英语句子学习工具。](https://www.v2ex.com/t/1113566)
 1. [ios 一直更新最新系统会卡吗？](https://www.v2ex.com/t/1113618)
 
 ## 历史归档
