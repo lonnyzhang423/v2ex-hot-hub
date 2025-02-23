@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-23 19:07:59 +0800`
+ `更新时间：2025-02-23 20:15:23 +0800`
 
 ## 热议话题
 
 1. [父母打电话给我要钱了，跟我心里想的不太一样](https://www.v2ex.com/t/1113589)
-1. [上周五美股亏了 20w 怎么办？](https://www.v2ex.com/t/1113510)
 1. [月薪 1.4w 的程序员，应该升级 Mac 吗？](https://www.v2ex.com/t/1113570)
 1. [年纪轻轻患癌后续](https://www.v2ex.com/t/1113521)
-1. [求助：如何跟普通朋友方便安全聊天？](https://www.v2ex.com/t/1113581)
 1. [一个人给一个人生建议吧](https://www.v2ex.com/t/1113601)
-1. [[求] 低成本网络设备监控软件](https://www.v2ex.com/t/1113511)
 1. [英国政府要求苹果为 iCloud 留“后门”最新进展](https://www.v2ex.com/t/1113515)
 1. [菜鸟 Android 开发该放弃了吗？](https://www.v2ex.com/t/1113560)
-1. [关于最近 R4L DMA 事件的 Linus 回应](https://www.v2ex.com/t/1113509)
+1. [如果有房有车经济压力不大后，有哪些幸福感比较强的工作呢](https://www.v2ex.com/t/1113548)
+1. [单休太累了，上海行情咋样？](https://www.v2ex.com/t/1113602)
+1. [当听到苹果店员说，用手机壳会影响电池寿命](https://www.v2ex.com/t/1113572)
 
 ## 历史归档
 
