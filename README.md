@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-23 08:49:52 +0800`
+ `更新时间：2025-02-23 10:16:37 +0800`
 
 ## 热议话题
 
-1. [淘宝疑似歧视并频繁封禁类原生 Android 用户](https://www.v2ex.com/t/1113414)
-1. [关于哪吒 2 的建模风格混乱问题](https://www.v2ex.com/t/1113422)
-1. [再谈年龄和找工作问题，很多人都不自量力认不清自己](https://www.v2ex.com/t/1113426)
 1. [上周五美股亏了 20w 怎么办？](https://www.v2ex.com/t/1113510)
-1. [掉进马桶的 iPhone ，换新手机的决心](https://www.v2ex.com/t/1113441)
-1. [驳《人工智能正在催生一代文盲程序员》](https://www.v2ex.com/t/1113431)
-1. [在用友做项目专员和销售运营支持被裁员，找工作是真难](https://www.v2ex.com/t/1113421)
 1. [年纪轻轻患癌后续](https://www.v2ex.com/t/1113521)
-1. [7999 的 MacBook air m3 13 寸 512+24 值得买吗](https://www.v2ex.com/t/1113424)
-1. [刚跟着花生老师学习了 Cursor，写了一个小网站](https://www.v2ex.com/t/1113416)
+1. [驳《人工智能正在催生一代文盲程序员》](https://www.v2ex.com/t/1113431)
+1. [掉进马桶的 iPhone ，换新手机的决心](https://www.v2ex.com/t/1113441)
+1. [[求] 低成本网络设备监控软件](https://www.v2ex.com/t/1113511)
+1. [最近的就业市场好奇怪](https://www.v2ex.com/t/1113456)
+1. [想搞个服务器把飞机的机器人挂在上面跑，求便宜或者免费的服务器推荐](https://www.v2ex.com/t/1113433)
+1. [关于最近 AI+机器人的一些思考！](https://www.v2ex.com/t/1113438)
+1. [真心求教，说话不流利，磕磕巴巴咋练习](https://www.v2ex.com/t/1113444)
+1. [为什么深度探索不叫 Deep Search 而叫 Deep Seek ?](https://www.v2ex.com/t/1113488)
 
 ## 历史归档
 
