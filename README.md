@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-26 19:08:49 +0800`
+ `更新时间：2025-02-26 20:18:26 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [逆向从众？有没有同样不追热点的朋友](https://www.v2ex.com/t/1114223)
 1. [低层开发仔，越来越担忧被 AI 取代了](https://www.v2ex.com/t/1114252)
 1. [求推荐 macOS 必装软件](https://www.v2ex.com/t/1114282)
-1. [有没有这样一款能在 Linux 和 windows 之间同步文件夹的软件？](https://www.v2ex.com/t/1114204)
+1. [黑苹果末路？](https://www.v2ex.com/t/1114222)
 
 ## 历史归档
 
