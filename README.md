@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-28 07:09:29 +0800`
+ `更新时间：2025-02-28 08:45:56 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [如同柯洁大败 AlphaGo 一样沮丧](https://www.v2ex.com/t/1114503)
 1. [刚刷到了奔驰裁员,N+9?!](https://www.v2ex.com/t/1114562)
 1. [jetbrains 系列软件或许有一天会因为功能过于高级而被抛弃](https://www.v2ex.com/t/1114603)
+1. [同事离职后去干保安了](https://www.v2ex.com/t/1114517)
 
 ## 历史归档
 
