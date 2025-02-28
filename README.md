@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-01 02:13:07 +0800`
+ `更新时间：2025-03-01 03:08:17 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [被 hr 疯狂催入职](https://www.v2ex.com/t/1114790)
 1. [Cursor 和 Windsurf，哪个更好？](https://www.v2ex.com/t/1114775)
 1. [小米 SU7 来了，有人买吗？](https://www.v2ex.com/t/1114783)
-1. [艹， V2EX 居然被举报了，然后 360 的浏览器居然就开始作妖给 V2EX 拦截了，真恶心！](https://www.v2ex.com/t/1114924)
 1. [卖飞了的情绪怎么缓解?](https://www.v2ex.com/t/1114843)
 
 ## 历史归档
