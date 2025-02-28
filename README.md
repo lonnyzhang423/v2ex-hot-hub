@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-02-28 12:12:18 +0800`
+ `更新时间：2025-02-28 13:09:57 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [jetbrains 系列软件或许有一天会因为功能过于高级而被抛弃](https://www.v2ex.com/t/1114603)
 1. [这些年传染病也太多了吧...](https://www.v2ex.com/t/1114777)
 1. [吐槽 996 和单休](https://www.v2ex.com/t/1114601)
-1. [美团春招 5000 人，阿里 3000 人](https://www.v2ex.com/t/1114639)
-1. [什么叫反思怪啊](https://www.v2ex.com/t/1114606)
 1. [被 hr 疯狂催入职](https://www.v2ex.com/t/1114790)
+1. [什么叫反思怪啊](https://www.v2ex.com/t/1114606)
+1. [美团春招 5000 人，阿里 3000 人](https://www.v2ex.com/t/1114639)
 1. [su7 ultra 才 52.99 万，兄弟们买吗？一年工资就够了吧！](https://www.v2ex.com/t/1114733)
 
 ## 历史归档
