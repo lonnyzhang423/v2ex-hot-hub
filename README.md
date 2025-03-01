@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-01 07:08:52 +0800`
+ `更新时间：2025-03-01 08:51:11 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [这些年传染病也太多了吧...](https://www.v2ex.com/t/1114777)
 1. [Xiaomi 15 Ultra 手机届的颜值巅峰！](https://www.v2ex.com/t/1114785)
 1. [被 hr 疯狂催入职](https://www.v2ex.com/t/1114790)
-1. [Cursor 和 Windsurf，哪个更好？](https://www.v2ex.com/t/1114775)
 1. [小米 SU7 来了，有人买吗？](https://www.v2ex.com/t/1114783)
 1. [卖飞了的情绪怎么缓解?](https://www.v2ex.com/t/1114843)
+1. [小米东西还挺耐用的](https://www.v2ex.com/t/1114903)
 
 ## 历史归档
 
