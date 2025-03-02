@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-02 16:11:17 +0800`
+ `更新时间：2025-03-02 17:08:47 +0800`
 
 ## 热议话题
 
 1. [谈了快 10 年的女朋友要求 30 万彩礼](https://www.v2ex.com/t/1115118)
+1. [给女朋友看了存款，说了家里情况。已经一天没理我了](https://www.v2ex.com/t/1115231)
 1. [无语 父母买了套房子](https://www.v2ex.com/t/1115112)
 1. [心痒痒 m4 macmini，该不该冲动消费？](https://www.v2ex.com/t/1115174)
 1. [一想到 30+岁还要去相亲，不免有些感慨](https://www.v2ex.com/t/1115202)
-1. [给女朋友看了存款，说了家里情况。已经一天没理我了](https://www.v2ex.com/t/1115231)
 1. [将代码中的密码等信息发给 chatgpt 等模型安全吗？](https://www.v2ex.com/t/1115208)
 1. [油管的工程师在搞什么飞机](https://www.v2ex.com/t/1115126)
-1. [有人用 pfSense 吗？ N100 应该硬装还是 PVE？](https://www.v2ex.com/t/1115102)
 1. [性价比路由器推荐](https://www.v2ex.com/t/1115183)
 
 ## 历史归档
