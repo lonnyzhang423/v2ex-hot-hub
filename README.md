@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-05 07:08:56 +0800`
+ `更新时间：2025-03-05 08:47:10 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [今天墙发大威了，包括 1.1.1.1 在内非域名的 DoH 都被干掉了](https://www.v2ex.com/t/1115771)
 1. [说说你们步入社会的第一课吧](https://www.v2ex.com/t/1115778)
 1. [有没有关注中大型 SUV 的朋友，今年势必风起云涌](https://www.v2ex.com/t/1115691)
-1. [佬们，想更新 macbookair，是冲 m3 还是等 m4，急急急！在线等！](https://www.v2ex.com/t/1115652)
-1. [北京换房请教](https://www.v2ex.com/t/1115768)
 1. [太抽象了，绷不住了](https://www.v2ex.com/t/1115826)
+1. [北京换房请教](https://www.v2ex.com/t/1115768)
+1. [你们 iPad 现在都在干什么用？又想买 iPad 了，罪过](https://www.v2ex.com/t/1115819)
 
 ## 历史归档
 
