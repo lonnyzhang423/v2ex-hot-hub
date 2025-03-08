@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-08 15:06:54 +0800`
+ `更新时间：2025-03-08 16:09:22 +0800`
 
 ## 热议话题
 
-1. [pdd 上买了个平板，感觉智商被侮辱了](https://www.v2ex.com/t/1116691)
 1. [chrome 升级后，那些失效的插件都有什么替代品？](https://www.v2ex.com/t/1116730)
-1. [第一次尝试贡献开源受挫](https://www.v2ex.com/t/1116700)
-1. [有了 AI， js 混淆已经意义不大了，完全可以让 AI 重新实现可读性](https://www.v2ex.com/t/1116708)
 1. [在三线城市做上门重装系统,上门清灰有市场吗](https://www.v2ex.com/t/1116833)
 1. [保号手机遇到套餐外流量的问题.](https://www.v2ex.com/t/1116734)
 1. [移动降低套餐资费咨询](https://www.v2ex.com/t/1116808)
-1. [工行 38 活动得 2 立减金](https://www.v2ex.com/t/1116701)
-1. [有必要上 ECC 内存吗？](https://www.v2ex.com/t/1116711)
+1. [老哥们，骚扰电话太多了，你们用哪个 App 识别拦截](https://www.v2ex.com/t/1116825)
+1. [关于 V 友 @Notamo 对 Alook 浏览器 iOS 版本刷好评质疑的回复](https://www.v2ex.com/t/1116778)
+1. [请问各位干运维的，用 excel 表多么](https://www.v2ex.com/t/1116733)
+1. [有没有开源硬件，开源安卓设备？](https://www.v2ex.com/t/1116768)
 
 ## 历史归档
 
