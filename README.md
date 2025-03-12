@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-13 00:12:37 +0800`
+ `更新时间：2025-03-13 01:09:02 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [大家投资理财, 有追随的博主吗, 哪个平台的都行](https://www.v2ex.com/t/1117738)
 1. [准备搬新家，和女朋友开始同居了，有什么需要注意的地方。](https://www.v2ex.com/t/1117882)
 1. [北上广杭深- 30 岁程序员工资](https://www.v2ex.com/t/1117767)
-1. [入职 remote 半年又裸辞了，简历花成狗](https://www.v2ex.com/t/1117715)
 1. [紫薇爱好者福音来了， https://github.com/EdwinXiang/dart_iztro 欢迎给 star； 纯 dart 实现。](https://www.v2ex.com/t/1117776)
+1. [看到今天群里有人讨论微软用 Go 重写 TypeScript 编译器，为什么不是用他们自家的 C#？ C#在大部分 benchmark 项中性能都远超 Go， TypeScript 编译也不是在浏览器进行，不用考虑编译器体积](https://www.v2ex.com/t/1117872)
 
 ## 历史归档
 
