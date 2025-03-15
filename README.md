@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-15 19:07:16 +0800`
+ `更新时间：2025-03-15 20:15:52 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [关于国内安卓系的广告](https://www.v2ex.com/t/1118549)
 1. [公司倒闭裁员了，我应该拿到赔偿吗，还是原地解散？](https://www.v2ex.com/t/1118586)
 1. [被公司要求延长一个月试用期](https://www.v2ex.com/t/1118566)
-1. [JavaScript 中的 Promise 跟异步有关系吗？还是我的理解有问题？谁能把 Promise 解释清楚？ Promise 的正确用法应该是什么样的？](https://www.v2ex.com/t/1118623)
 1. [二孩家庭选车纠结](https://www.v2ex.com/t/1118600)
+1. [JavaScript 中的 Promise 跟异步有关系吗？还是我的理解有问题？谁能把 Promise 解释清楚？ Promise 的正确用法应该是什么样的？](https://www.v2ex.com/t/1118623)
 1. [重新回到 8 年前的公司是一种怎样的感觉](https://www.v2ex.com/t/1118601)
-1. [在小内存服务器上，高效处理 30 万次/天 API 请求的数据库与缓存优化方案？](https://www.v2ex.com/t/1118618)
+1. [有老哥知道现在还能寄纸质信件么](https://www.v2ex.com/t/1118644)
 
 ## 历史归档
 
