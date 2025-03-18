@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-18 08:47:32 +0800`
+ `更新时间：2025-03-18 10:18:58 +0800`
 
 ## 热议话题
 
 1. [人生首次交通事故，经过有点恶心，周一摸鱼发出来给大家图一乐](https://www.v2ex.com/t/1119012)
-1. [我的情况需要买车么](https://www.v2ex.com/t/1118943)
-1. [我的族谱网站开源啦！一键部署自己的族谱网站~](https://www.v2ex.com/t/1118927)
-1. [办公室同事打字声音好吵啊](https://www.v2ex.com/t/1118933)
 1. [看情感热帖了，也更新下我进度](https://www.v2ex.com/t/1118961)
-1. [开发了一年多，开源等宽字体 Maple Mono 发布 v7.0 正式版](https://www.v2ex.com/t/1118902)
-1. [matebook 现在出厂预装 Linux 系统](https://www.v2ex.com/t/1118928)
-1. [见过许多风景，最爱仍是大连](https://www.v2ex.com/t/1118944)
-1. [现行经济环境下，考公务员是否是一个不错的选择？](https://www.v2ex.com/t/1118907)
-1. [AI 创业公司招募技术合伙人（前后端）](https://www.v2ex.com/t/1118939)
+1. [苹果的 face ID 人脸识别就是个笑话，依托答辩](https://www.v2ex.com/t/1119193)
+1. [检查了幽门螺旋杆菌（HP），但是我没有选择为医生的处方付款](https://www.v2ex.com/t/1119019)
+1. [如何说服同事使用 Cursor？](https://www.v2ex.com/t/1119039)
+1. [2025 年上半年软考可以报名了](https://www.v2ex.com/t/1118956)
+1. [求指点迷津：老家年到手十万公务员 vs 大厂年包 30w](https://www.v2ex.com/t/1119189)
+1. [买车决赛圈极氪 001 还是蔚来 ET5T](https://www.v2ex.com/t/1119046)
+1. [安卓的这个文字编辑锤爆某系统，太好用了](https://www.v2ex.com/t/1118980)
+1. [把微信输入法卸了](https://www.v2ex.com/t/1119007)
 
 ## 历史归档
 
