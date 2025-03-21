@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-21 22:09:28 +0800`
+ `更新时间：2025-03-21 23:10:19 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [苹果的软件能力是不是没有想的那么厉害](https://www.v2ex.com/t/1120021)
 1. [装了台 pc， windows 有什么必装的软件吗？](https://www.v2ex.com/t/1120028)
 1. [老婆回来跟我说了她同事买了个钉钉打卡神器，插在 iPhone 上就能钉钉打卡，大概是什么原理？](https://www.v2ex.com/t/1120016)
-1. [新买的 MacBook Air 不小心摔了怎么办](https://www.v2ex.com/t/1119987)
 1. [最近这期国补是不是范围和力度更大了](https://www.v2ex.com/t/1120053)
+1. [为什么 Python 、Node.js 就不能学习一下 C#这种优雅的依赖管理方式？](https://www.v2ex.com/t/1120003)
 
 ## 历史归档
 
