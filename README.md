@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-23 20:16:35 +0800`
+ `更新时间：2025-03-23 21:15:13 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [Airpods 二代停产了，耳朵已经成了二代的形状怎么办？](https://www.v2ex.com/t/1120395)
 1. [有替代 Proxy SwitchyOmega 的插件吗](https://www.v2ex.com/t/1120361)
 1. [中国联通申请了 PCDN 识别的专利](https://www.v2ex.com/t/1120381)
-1. [领完大礼包了，差不多一个礼拜又找到了工作，但是落差挺大](https://www.v2ex.com/t/1120349)
-1. [apple pencil 闲置两年没用，在使用充不进去电了](https://www.v2ex.com/t/1120407)
+1. [如何低成本给家里云做带外管理，副宽带吗？](https://www.v2ex.com/t/1120424)
+1. [想要把别的后台管理系统通过 iframe 嵌套进来，但是对方禁止 iframe 嵌入](https://www.v2ex.com/t/1120408)
 
 ## 历史归档
 
