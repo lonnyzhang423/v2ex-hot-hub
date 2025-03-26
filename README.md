@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-26 18:11:09 +0800`
+ `更新时间：2025-03-26 19:08:41 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [公司每一个功能或 bug 都要新开一个 issue，合理吗](https://www.v2ex.com/t/1121115)
 1. [🎁 [送码] 开源的 全平台数据同步 AI 电子书阅读器 Anx Reader 终于上架 App Store 限时五折 50% off！](https://www.v2ex.com/t/1121077)
 1. [对搭建 MinIO 对象存储的一些疑问](https://www.v2ex.com/t/1121050)
-1. [PDD 百亿补贴 Mac mini M4 乞丐版 3099](https://www.v2ex.com/t/1121085)
 1. [吐槽成都新房](https://www.v2ex.com/t/1121100)
+1. [PDD 百亿补贴 Mac mini M4 乞丐版 3099](https://www.v2ex.com/t/1121085)
 
 ## 历史归档
 
