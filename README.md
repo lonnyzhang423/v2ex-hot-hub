@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-28 00:12:42 +0800`
+ `更新时间：2025-03-28 01:08:52 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [今天问界的人打电话的过来让我删除抖音的视频](https://www.v2ex.com/t/1121577)
 1. [头脑发热想入手 mac mini m4 求骂醒](https://www.v2ex.com/t/1121410)
 1. [想换个 15 万内的纯电，有什么推荐吗？](https://www.v2ex.com/t/1121376)
-1. [美的洗碗机一周偷跑 200G 流量](https://www.v2ex.com/t/1121349)
 1. [AOSP 终止了](https://www.v2ex.com/t/1121473)
 1. [照片搬家真费劲](https://www.v2ex.com/t/1121435)
+1. [家人们，有偿帮忙取名！](https://www.v2ex.com/t/1121569)
 
 ## 历史归档
 
