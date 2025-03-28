@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-03-29 00:12:07 +0800`
+ `更新时间：2025-03-29 01:09:15 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [iPhone 13 是该换电池还是买充电宝](https://www.v2ex.com/t/1121652)
 1. [[送码] Omnit：一款 iOS AI 聚合翻译工具 (灵感来自 Pot/Bob)](https://www.v2ex.com/t/1121656)
 1. [YouTube 广告越来越多了](https://www.v2ex.com/t/1121659)
+1. [来客观说一下小米汽车这次的事故](https://www.v2ex.com/t/1121820)
 1. [GPT-4o 生成吉卜力风格漫画](https://www.v2ex.com/t/1121649)
-1. [想抄作业，求推荐恒温花洒和智能马桶](https://www.v2ex.com/t/1121655)
 
 ## 历史归档
 
