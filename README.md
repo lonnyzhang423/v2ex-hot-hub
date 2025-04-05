@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-05 12:11:39 +0800`
+ `更新时间：2025-04-05 13:09:42 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [有没有刺激的旅游？](https://www.v2ex.com/t/1123290)
 1. [比尔盖茨的 Blog 的 UI 好好看啊](https://www.v2ex.com/t/1123346)
 1. [京东貌似在退款上搞了点骚操作](https://www.v2ex.com/t/1123313)
-1. [mac 的 karabiner 改键软件 能以普通 的按键 作为修饰键吗?](https://www.v2ex.com/t/1123355)
+1. [今天整理电脑，看到两张 V2EX 在 2020 年时的流量截图](https://www.v2ex.com/t/1123362)
 
 ## 历史归档
 
