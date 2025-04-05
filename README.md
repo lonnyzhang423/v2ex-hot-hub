@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-05 20:16:33 +0800`
+ `更新时间：2025-04-05 21:15:55 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,10 @@
 1. [比尔盖茨的 Blog 的 UI 好好看啊](https://www.v2ex.com/t/1123346)
 1. [腾讯反作弊扫盘为什么一定要开机启动](https://www.v2ex.com/t/1123360)
 1. [周末节假日的公园人实在太多了](https://www.v2ex.com/t/1123372)
-1. [mac 的 karabiner 改键软件 能以普通 的按键 作为修饰键吗?](https://www.v2ex.com/t/1123355)
 1. [用 AI 编程，半夜的我放声大笑 2](https://www.v2ex.com/t/1123397)
 1. [课题组招人线上面试如何防止作弊](https://www.v2ex.com/t/1123403)
-1. [有人知道国内怎么买印度的药不](https://www.v2ex.com/t/1123359)
-1. [考研调剂边疆双非还是二战？](https://www.v2ex.com/t/1123386)
+1. [毕业一年半 值得花 2 万买台 MacBook Pro 吗](https://www.v2ex.com/t/1123427)
+1. [mac 的 karabiner 改键软件 能以普通 的按键 作为修饰键吗?](https://www.v2ex.com/t/1123355)
 
 ## 历史归档
 
