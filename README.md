@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-07 02:12:12 +0800`
+ `更新时间：2025-04-07 03:07:02 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [Kitty, Wezterm, Alacritty, Ghostty 该用哪个?](https://www.v2ex.com/t/1123532)
 1. [关于在国内做海外远程工作的问题](https://www.v2ex.com/t/1123484)
 1. [[沈阳]招聘精通 vue3 生态前端工程师一名,非外包](https://www.v2ex.com/t/1123512)
+1. [26 岁了，时间如一头野驴](https://www.v2ex.com/t/1123515)
 1. [程序员干自媒体短视频副业 11 个月， 25 年真实收入大揭秘，你觉得多吗？](https://www.v2ex.com/t/1123520)
-1. [小米智能开关值得入手吗](https://www.v2ex.com/t/1123535)
 
 ## 历史归档
 
