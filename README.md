@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-13 10:16:41 +0800`
+ `更新时间：2025-04-13 12:20:35 +0800`
 
 ## 热议话题
 
 1. [请问大家如何看待网上各种大神制作的 Windows 精简版？](https://www.v2ex.com/t/1125017)
-1. [不懂 NAS 的影音服务有什么用](https://www.v2ex.com/t/1124919)
 1. [很多国家并没有外汇管制，多边贸易为什么一定要用美元结算？](https://www.v2ex.com/t/1124951)
-1. [redis 存储视频数据可行性](https://www.v2ex.com/t/1124922)
+1. [结婚的各种事项应该父母之间沟通，还是我们之前传达一下就可以了](https://www.v2ex.com/t/1125040)
 1. [国产小屏旗舰，你更钟意哪个？](https://www.v2ex.com/t/1124939)
-1. [你们心目中，家电品牌的排序是什么样的？](https://www.v2ex.com/t/1124918)
 1. [人生苦短，你有什么能参与深入讨论的(精通)的？](https://www.v2ex.com/t/1124974)
-1. [为什么从 MSDN 系统库下载的 LSTC 的 MD5 和 SHA1 校验不对？](https://www.v2ex.com/t/1124930)
 1. [Chatwise 8 折 限时优惠](https://www.v2ex.com/t/1124984)
+1. [vibe coding 了一个博客网站](https://www.v2ex.com/t/1124945)
+1. [2025 年 4 月， ios 屏蔽推特/X 广告的优雅方式是什么](https://www.v2ex.com/t/1124936)
+1. [618 期间电脑配置推荐](https://www.v2ex.com/t/1125012)
 
 ## 历史归档
 
