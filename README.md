@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-15 17:11:24 +0800`
+ `更新时间：2025-04-15 18:11:13 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [实在没懂放开上传对运营商有什么损失](https://www.v2ex.com/t/1125501)
 1. [如何戒掉游戏?(观电子阳痿有感)](https://www.v2ex.com/t/1125495)
 1. [另外一个视角的彩礼](https://www.v2ex.com/t/1125522)
-1. [要不要同意执行和解](https://www.v2ex.com/t/1125400)
 1. [20250413 英雄联盟小故事](https://www.v2ex.com/t/1125503)
 1. [如何以最低成本添加美区 apple id 的付款方式](https://www.v2ex.com/t/1125488)
+1. [如果只用 Nginx 等现成的 HTTP Server 搭建 HTTP 服务，不自行建立 TCP 连接，是否就不用考虑 TCP 粘包这类传输层的问题？](https://www.v2ex.com/t/1125429)
 
 ## 历史归档
 
