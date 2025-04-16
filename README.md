@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-16 14:15:08 +0800`
+ `更新时间：2025-04-16 15:10:31 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [公司问要源码应不应该给](https://www.v2ex.com/t/1125720)
 1. [从被裁员到日本留学，我重新找回了希望](https://www.v2ex.com/t/1125738)
 1. [预算 5000-6000 找个笔记本电脑送 9 月份上大学的侄女，大佬给点建议](https://www.v2ex.com/t/1125753)
-1. [该怎么选 MacMini M4 还是 MacBook M4](https://www.v2ex.com/t/1125589)
+1. [准备自建 NAS，求建议](https://www.v2ex.com/t/1125813)
 1. [小公司想上 nas，各位大佬有推荐吗](https://www.v2ex.com/t/1125655)
+1. [offer 二选一了，可能是职业生涯最后一份了](https://www.v2ex.com/t/1125770)
 
 ## 历史归档
 
