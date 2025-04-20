@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-20 18:09:40 +0800`
+ `更新时间：2025-04-20 19:07:47 +0800`
 
 ## 热议话题
 
 1. [我魔幻的半年： 28 岁患恶性肿瘤后被裁员](https://www.v2ex.com/t/1126754)
-1. [v 友们是如何释放情绪的](https://www.v2ex.com/t/1126690)
 1. [为什么大家都在讨论 M4，内存，而不是 TouchBar，蝶式键盘？](https://www.v2ex.com/t/1126745)
 1. [救命，我被女同事包围了](https://www.v2ex.com/t/1126771)
 1. [大龄程序员的一些工作上的感受](https://www.v2ex.com/t/1126789)
 1. [目前外企小白，英文已经丢了好久，和老外交流总是卡壳。于是组建了一个 Let`s Speak English 群，让我们一起说英文！](https://www.v2ex.com/t/1126765)
-1. [联通的政企宽带可以家庭使用吗？](https://www.v2ex.com/t/1126709)
 1. [求教：怎么才能做到 [不以物喜，不以己悲] ？](https://www.v2ex.com/t/1126724)
-1. [唉，研发密钥泄露，导致整个私有 gitlab 被拖。。。](https://www.v2ex.com/t/1126773)
+1. [联通的政企宽带可以家庭使用吗？](https://www.v2ex.com/t/1126709)
 1. [广东宽带质量](https://www.v2ex.com/t/1126715)
+1. [大家眼镜多久换一次？去哪换？](https://www.v2ex.com/t/1126743)
+1. [唉，研发密钥泄露，导致整个私有 gitlab 被拖。。。](https://www.v2ex.com/t/1126773)
 
 ## 历史归档
 
