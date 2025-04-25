@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-04-25 15:10:36 +0800`
+ `更新时间：2025-04-25 16:14:20 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [大家有没有看过之后大呼过瘾的技术书籍推荐](https://www.v2ex.com/t/1127830)
 1. [30 岁了， QQ 邮箱管理员祝你生日快乐](https://www.v2ex.com/t/1127947)
 1. [现在的学生更可怜了](https://www.v2ex.com/t/1127918)
-1. [35+， gap 近一年后求职，俩终面 offer 均被 HR 最后关头卡掉，心态有点崩，吐个槽](https://www.v2ex.com/t/1127843)
 1. [之前一直用 iPhone ，换成小米用了两年，最近又想换回 iPhone](https://www.v2ex.com/t/1127950)
+1. [35+， gap 近一年后求职，俩终面 offer 均被 HR 最后关头卡掉，心态有点崩，吐个槽](https://www.v2ex.com/t/1127843)
 1. [求推荐 nas!无限循环纠结中](https://www.v2ex.com/t/1127954)
-1. [跟老婆共用一台 mac，我喜欢用罗技的 G304 的侧键，她不喜欢侧键](https://www.v2ex.com/t/1127810)
+1. [相亲无果](https://www.v2ex.com/t/1128014)
 
 ## 历史归档
 
