@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-02 16:14:17 +0800`
+ `更新时间：2025-05-02 17:10:57 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [还没开始，尴尬住了。。](https://www.v2ex.com/t/1129316)
 1. [请教，有大佬知道如何在国内使用 WhatsApp 吗？](https://www.v2ex.com/t/1129337)
 1. [错误的事情，坚持下去，就会付出惨重的代价！](https://www.v2ex.com/t/1129347)
-1. [手感最好的第三方 iPhone 保护壳求推荐](https://www.v2ex.com/t/1129365)
 1. [京东教育优惠叠国补 macmini m4 万兆只需 2999](https://www.v2ex.com/t/1129386)
+1. [ios 开发这么离谱的吗](https://www.v2ex.com/t/1129398)
+1. [手感最好的第三方 iPhone 保护壳求推荐](https://www.v2ex.com/t/1129365)
 1. [有没有办法在 lxc 特权容器中用普通用户运行 podman？](https://www.v2ex.com/t/1129319)
-1. [开发了个图片 AI 增强的应用，自己部署了模型来调用的](https://www.v2ex.com/t/1129320)
 
 ## 历史归档
 
