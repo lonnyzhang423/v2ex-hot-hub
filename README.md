@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-03 15:09:11 +0800`
+ `更新时间：2025-05-03 16:12:14 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [微信支付优惠太少](https://www.v2ex.com/t/1129415)
 1. [MBA M4 内存选 16 还是 24](https://www.v2ex.com/t/1129418)
 1. [O3， O4mini-high， claude3.7， Gemini2.5pro 编程能力该怎么排序](https://www.v2ex.com/t/1129424)
+1. [男人三十依旧单身](https://www.v2ex.com/t/1129458)
 
 ## 历史归档
 
