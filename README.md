@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-05 14:16:05 +0800`
+ `更新时间：2025-05-05 15:11:21 +0800`
 
 ## 热议话题
 
 1. [买正版 Windows 去京东，享冤种人生](https://www.v2ex.com/t/1129631)
 1. [有没有玩着不红温的 pvp 游戏？](https://www.v2ex.com/t/1129607)
 1. [买了一台 E5 2696 多核机器, 高性价比](https://www.v2ex.com/t/1129622)
-1. [NAS 绿联和极空间二选一](https://www.v2ex.com/t/1129646)
 1. [你们的域名都是在哪里买的，想整点续费便宜的域名🥲](https://www.v2ex.com/t/1129672)
+1. [NAS 绿联和极空间二选一](https://www.v2ex.com/t/1129646)
 1. [聊了两个多月的女生还没想确认关系是什么心理？](https://www.v2ex.com/t/1129681)
 1. [你们都用什么 APP 听播客？](https://www.v2ex.com/t/1129635)
 1. [Switch 2 游戏](https://www.v2ex.com/t/1129671)
