@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-06 12:13:40 +0800`
+ `更新时间：2025-05-06 13:10:56 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [我开悟了！](https://www.v2ex.com/t/1129782)
 1. [媳妇脑梗， V 友帮看看有什么药可以治。](https://www.v2ex.com/t/1129735)
 1. [到我问了，要不要卖房？](https://www.v2ex.com/t/1129733)
-1. [年过三十，请问 v 友，有什么做工和品质好点，价格相对合适的衣服推荐？](https://www.v2ex.com/t/1129698)
 1. [有谁体验过 Intel 的 Ultra 系列的大中小核 CPU？ Windows 日常任务的调度怎么样？](https://www.v2ex.com/t/1129729)
 1. [请问如何自己从 vscode 手搓 cursor（付费招人）](https://www.v2ex.com/t/1129716)
+1. [[踢楼抽奖] 非凡云联通 10099 正式上线！踢楼送 5 台一年云服务器！](https://www.v2ex.com/t/1129822)
 1. [刚下单入手了 1 万多的 studioplay，顺便买了 AC+，明天就送货了，接下来的 24 小时请劝我](https://www.v2ex.com/t/1129711)
 
 ## 历史归档
