@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-15 11:36:11 +0800`
+ `更新时间：2025-05-15 12:14:17 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [想问问大家，都是多少岁生的娃？](https://www.v2ex.com/t/1131730)
 1. [我感觉 Flclash 比 clash for windows 好用](https://www.v2ex.com/t/1131724)
 1. [iOS 18.5 放出了，更新过的大佬们分享一下使用体验吧](https://www.v2ex.com/t/1131674)
+1. [总是有人从 AI 怎么工作反推大脑就是如何如何，人类就是如何如何](https://www.v2ex.com/t/1131868)
 1. [2025 最离奇的事情-京东购买 16 被拆封了](https://www.v2ex.com/t/1131684)
-1. [今天更新到了 cursor 0.5，前段时间天刚买的 1 年订阅后悔了](https://www.v2ex.com/t/1131847)
 
 ## 历史归档
 
