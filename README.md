@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-20 13:11:13 +0800`
+ `更新时间：2025-05-20 14:15:53 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [我写了一个编程语言，受 golang 启发](https://www.v2ex.com/t/1132910)
 1. [兄弟们 换车有建议的吗](https://www.v2ex.com/t/1132909)
 1. [讨论下关于三文鱼等生食的接受程度](https://www.v2ex.com/t/1132752)
-1. [有哪些冷门且相对审查不严的通讯工具？](https://www.v2ex.com/t/1132897)
 1. [小月龄宝宝生病有感](https://www.v2ex.com/t/1132842)
-1. [我开发了一款 PDF 阅读器（基于 PDFium + Swift ，免费）](https://www.v2ex.com/t/1132773)
+1. [有哪些冷门且相对审查不严的通讯工具？](https://www.v2ex.com/t/1132897)
 1. [大家 qq 音乐会员哪里买的，多少钱一年？](https://www.v2ex.com/t/1132902)
+1. [我开发了一款 PDF 阅读器（基于 PDFium + Swift ，免费）](https://www.v2ex.com/t/1132773)
 
 ## 历史归档
 
