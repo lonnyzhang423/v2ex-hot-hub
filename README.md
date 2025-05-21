@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-21 21:24:39 +0800`
+ `更新时间：2025-05-21 22:11:05 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [上班这件事在我的视角里愈发荒诞起来](https://www.v2ex.com/t/1133156)
 1. [推荐一部正常恋爱过程的电视剧](https://www.v2ex.com/t/1133164)
 1. [想替换掉 Jenkins，有啥好的推荐吗？](https://www.v2ex.com/t/1133168)
-1. [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
 1. [pro 系列真的能让你平静](https://www.v2ex.com/t/1133201)
+1. [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
 
 ## 历史归档
 
