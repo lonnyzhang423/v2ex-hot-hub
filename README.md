@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-22 08:53:03 +0800`
+ `更新时间：2025-05-22 10:28:54 +0800`
 
 ## 热议话题
 
 1. [兄弟们薅羊毛了，新的企业信息查询平台，注册送 5 年 SVIP。](https://www.v2ex.com/t/1133226)
-1. [怎么说服老婆换手机，她目前还在用 iPhone 7P](https://www.v2ex.com/t/1133184)
 1. [我被公司辞退了](https://www.v2ex.com/t/1133220)
-1. [推荐一部正常恋爱过程的电视剧](https://www.v2ex.com/t/1133164)
-1. [上班这件事在我的视角里愈发荒诞起来](https://www.v2ex.com/t/1133156)
-1. [想替换掉 Jenkins，有啥好的推荐吗？](https://www.v2ex.com/t/1133168)
-1. [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
 1. [pro 系列真的能让你平静](https://www.v2ex.com/t/1133201)
+1. [坑爹的 GBK：大家都应该去用 UTF-8](https://www.v2ex.com/t/1133223)
+1. [有没有感觉迷信比之前要盛行](https://www.v2ex.com/t/1133236)
+1. [男生如果不想结婚了，真的能够活得很好](https://www.v2ex.com/t/1133334)
+1. [亏掉首付有感](https://www.v2ex.com/t/1133437)
+1. [“再等等”的果粉好累](https://www.v2ex.com/t/1133212)
+1. [从 iPhone 换到三星 S25，软件适配和广告真难受](https://www.v2ex.com/t/1133315)
 
 ## 历史归档
 
