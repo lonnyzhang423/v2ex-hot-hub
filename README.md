@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-25 06:09:01 +0800`
+ `更新时间：2025-05-25 07:09:34 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [[极限二选一] MacBookpro M4 32G+512G 和 MacBookpro M4Pro 24G + 512G，相同价格该怎么选？](https://www.v2ex.com/t/1133975)
 1. [四线城市医生一辈子能有多少收入和存款](https://www.v2ex.com/t/1133958)
 1. [所在城市暂时没有山姆，办张会员卡用 app 购物合适吗？](https://www.v2ex.com/t/1133964)
-1. [MacBook air m4 16G 撸代码体验咋样](https://www.v2ex.com/t/1133984)
+1. [打鼾人的痛，打鼾人的止鼾路 😭](https://www.v2ex.com/t/1134029)
 
 ## 历史归档
 
