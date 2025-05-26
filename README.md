@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-05-26 07:09:56 +0800`
+ `更新时间：2025-05-26 08:54:48 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [没有公网的 10G 宽带能做啥？](https://www.v2ex.com/t/1134134)
 1. [数字游民,泰国旅居半年](https://www.v2ex.com/t/1134160)
 1. [一代经典论坛 vBulletin 3.x](https://www.v2ex.com/t/1134124)
-1. [个人日常管理系统](https://www.v2ex.com/t/1134115)
+1. [手持 iPhone13，买 16p256g 还是等 17pro](https://www.v2ex.com/t/1134154)
 
 ## 历史归档
 
