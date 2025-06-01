@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-02 02:13:21 +0800`
+ `更新时间：2025-06-02 03:07:35 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [仲裁的话， 2n 概率大吗](https://www.v2ex.com/t/1135704)
 1. [Deepseek 的自我阉割](https://www.v2ex.com/t/1135706)
 1. [618 计划购入一个投影仪，坚果 N3 咋样](https://www.v2ex.com/t/1135731)
-1. [现在干服务器基础架构已经没有前景了吗？](https://www.v2ex.com/t/1135668)
 1. [低 glibc 版本服务器，有没有办法用 AI？](https://www.v2ex.com/t/1135699)
 1. [今年的 618 有什么服务器优惠吗？ 199 三年 5M 那种，或者 299 三年 5M 网速](https://www.v2ex.com/t/1135682)
+1. [FakeHTTP - 伪装 TCP 连接为 HTTP，解除白名单限速](https://www.v2ex.com/t/1135702)
 
 ## 历史归档
 
