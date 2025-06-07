@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-07 17:10:00 +0800`
+ `更新时间：2025-06-07 18:09:59 +0800`
 
 ## 热议话题
 
-1. [感觉 Linux 桌面也没什么用](https://www.v2ex.com/t/1136923)
 1. [打算蹲 yu7，但这车机芯片竟然是骁龙 8gen3，想问下各位怎么看这个](https://www.v2ex.com/t/1136990)
 1. [你们有过高考 PTSD 吗？](https://www.v2ex.com/t/1136984)
 1. [我爸从百度和应用商店下载“个人所得税”被骗四位数的故事](https://www.v2ex.com/t/1136968)
@@ -25,6 +24,7 @@
 1. [🚴‍🚴‍‍主力工具,windows 与 mac 如何选,大伙帮给点建议](https://www.v2ex.com/t/1136975)
 1. [还会坚持用知乎和 csdn 吗？](https://www.v2ex.com/t/1136976)
 1. [mac 一个盗版软件、一个不安全的软件都不装是不是很难](https://www.v2ex.com/t/1136979)
+1. [大家用 macos 有什么好用的视频播放器吗？](https://www.v2ex.com/t/1136965)
 
 ## 历史归档
 
