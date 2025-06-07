@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-07 08:53:00 +0800`
+ `更新时间：2025-06-07 10:29:18 +0800`
 
 ## 热议话题
 
-1. [AI 拉近普通程序员和高级程序员之间的差距](https://www.v2ex.com/t/1136729)
 1. [manus 开放注册了](https://www.v2ex.com/t/1136784)
-1. [香港 马百良 安宫牛黄丸 6 粒 1314 ，同仁堂 安宫牛黄丸 一粒 1325,为啥差距这么大，本来想买一粒的，这么贵还是算了](https://www.v2ex.com/t/1136742)
 1. [第一次被这么恶心到](https://www.v2ex.com/t/1136882)
 1. [感觉 Linux 桌面也没什么用](https://www.v2ex.com/t/1136923)
-1. [阿里云真是个草台班子](https://www.v2ex.com/t/1136731)
-1. [春节带娃去三亚休假有什么需要注意的吗？](https://www.v2ex.com/t/1136756)
+1. [草原的风，带走了烦恼，带来了自由](https://www.v2ex.com/t/1136787)
 1. [有些人就不应该开车，越想越气](https://www.v2ex.com/t/1136896)
+1. [解决头像亮瞎眼](https://www.v2ex.com/t/1136769)
+1. [618 求推荐显示器](https://www.v2ex.com/t/1136822)
+1. [MacBook Pro 剩余价值](https://www.v2ex.com/t/1136841)
 
 ## 历史归档
 
