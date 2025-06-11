@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-11 21:26:41 +0800`
+ `更新时间：2025-06-11 22:10:03 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [Alist 疑似被卖，谨慎更新](https://www.v2ex.com/t/1137812)
 1. [全世界都在搞 AI，唯有苹果在搞 UI。](https://www.v2ex.com/t/1137837)
 1. [给对象开发了个生物信息导航站，对象嫌弃说我不够专业](https://www.v2ex.com/t/1137784)
-1. [大家小心谨慎使用 pdd 的以旧换新服务，有大坑](https://www.v2ex.com/t/1137810)
 1. [突破浏览器极限：我花了 4 年时间，开发了一个在浏览器上运行的操作系统！](https://www.v2ex.com/t/1137949)
-1. [Alist 似乎被卖了](https://www.v2ex.com/t/1137764)
+1. [大家小心谨慎使用 pdd 的以旧换新服务，有大坑](https://www.v2ex.com/t/1137810)
 1. [前端能不能少用 js 跳转路由](https://www.v2ex.com/t/1137829)
+1. [Alist 似乎被卖了](https://www.v2ex.com/t/1137764)
 
 ## 历史归档
 
