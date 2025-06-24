@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-25 03:09:00 +0800`
+ `更新时间：2025-06-25 04:12:28 +0800`
 
 ## 热议话题
 
 1. [25 应届，月薪 7k，未来迷茫](https://www.v2ex.com/t/1140656)
-1. [报！连续下大雨后，夏蓉高速桥断了！](https://www.v2ex.com/t/1140620)
 1. [有没有人觉得 markdown 并不适合拿来写文档？](https://www.v2ex.com/t/1140628)
 1. [找了个神仙工作，时间多能干点啥？](https://www.v2ex.com/t/1140565)
 1. [go 转 Python 的心智负担增加](https://www.v2ex.com/t/1140619)
