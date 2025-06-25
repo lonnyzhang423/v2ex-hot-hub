@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-25 08:55:28 +0800`
+ `更新时间：2025-06-25 10:45:42 +0800`
 
 ## 热议话题
 
 1. [25 应届，月薪 7k，未来迷茫](https://www.v2ex.com/t/1140656)
 1. [有没有人觉得 markdown 并不适合拿来写文档？](https://www.v2ex.com/t/1140628)
-1. [找了个神仙工作，时间多能干点啥？](https://www.v2ex.com/t/1140565)
 1. [go 转 Python 的心智负担增加](https://www.v2ex.com/t/1140619)
-1. [大家养猫之后到了夏天怎么驱蚊？](https://www.v2ex.com/t/1140594)
 1. [大家卧推重量多少？调研下，看看我在什么水平。](https://www.v2ex.com/t/1140609)
-1. [40 岁及以上未婚男同胞有什么感受 ，欢迎分享。](https://www.v2ex.com/t/1140598)
 1. [紧急求助！公司无正版 Office，又不想用 WPS，求替代方案！](https://www.v2ex.com/t/1140670)
-1. [做了个 Labubu 网站，整不会了，已经凉了](https://www.v2ex.com/t/1140560)
+1. [推荐一款很装又实用的编程字体](https://www.v2ex.com/t/1140755)
+1. [有什么办法可以进入路边的监控](https://www.v2ex.com/t/1140795)
+1. [CODING 下线了](https://www.v2ex.com/t/1140648)
+1. [现在注册 Claude 是不是不用手机号了？ 我 Google 账户直接登录了](https://www.v2ex.com/t/1140689)
 
 ## 历史归档
 
