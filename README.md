@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-28 10:37:41 +0800`
+ `更新时间：2025-06-28 11:39:00 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [对象被裁员，公司忽悠让其走“自离”](https://www.v2ex.com/t/1141426)
 1. [surge6 来了,Mac 端也改成 iOS 端的买断订阅制了](https://www.v2ex.com/t/1141491)
 1. [用多了 AI 会降智么？](https://www.v2ex.com/t/1141511)
-1. [再信你一次雷子， su7 开一年后，我又入手了 yu7](https://www.v2ex.com/t/1141414)
 1. [如何在上海实现多子多福？](https://www.v2ex.com/t/1141563)
 1. [Google 地图出国用不了了…](https://www.v2ex.com/t/1141429)
+1. [真的感觉现在 AI 发展太快了，用 ai 直接就能从 0 撸一套系统..](https://www.v2ex.com/t/1141503)
 
 ## 历史归档
 
