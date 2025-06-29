@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-29 12:27:47 +0800`
+ `更新时间：2025-06-29 13:15:12 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [硕士耽误了 4 年毕不了业，想听听大家的建议](https://www.v2ex.com/t/1141631)
 1. [还真的看到了零号主机地址可用的案例](https://www.v2ex.com/t/1141658)
 1. [除了 com 还有哪些好域名后缀](https://www.v2ex.com/t/1141657)
-1. [交出你们最性价比的 AI 编程方案](https://www.v2ex.com/t/1141701)
+1. [通过 iOS 内置的 IKEv2 协议，轻松回家](https://www.v2ex.com/t/1141715)
 1. [本月深圳的房子崩了](https://www.v2ex.com/t/1141663)
-1. [Android 开发体验没有 web 开发体验好](https://www.v2ex.com/t/1141659)
+1. [交出你们最性价比的 AI 编程方案](https://www.v2ex.com/t/1141701)
 
 ## 历史归档
 
