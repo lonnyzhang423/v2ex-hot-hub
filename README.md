@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-06-30 10:52:39 +0800`
+ `更新时间：2025-06-30 11:50:07 +0800`
 
 ## 热议话题
 
 1. [49 年入国军了，打算给女朋友教前端](https://www.v2ex.com/t/1141780)
-1. [小米 YU7 大定稳破 30W，管中窥豹，基尼系数可能在下降](https://www.v2ex.com/t/1141770)
-1. [7 年小烟枪戒烟有感](https://www.v2ex.com/t/1141740)
 1. [记录最近一次看病经历，小病熬成大问题，看病真难](https://www.v2ex.com/t/1141868)
+1. [小米 YU7 大定稳破 30W，管中窥豹，基尼系数可能在下降](https://www.v2ex.com/t/1141770)
+1. [公益站 API 免费使用-可用 Gemini、DeepSeek 和 OpenAI！](https://www.v2ex.com/t/1141769)
 1. [你们有多久没输过液了。](https://www.v2ex.com/t/1141753)
 1. [为什么 2025 年了 果果的中文输入还是如此离谱](https://www.v2ex.com/t/1141762)
-1. [公益站 API 免费使用-可用 Gemini、DeepSeek 和 OpenAI！](https://www.v2ex.com/t/1141769)
-1. [我的鼾症严重到要上呼吸机了，想咨询一下大家](https://www.v2ex.com/t/1141793)
+1. [牙髓炎能自愈吗](https://www.v2ex.com/t/1141856)
+1. [小米 yu7，周末大家试驾体验如何](https://www.v2ex.com/t/1141848)
+1. [地球地表都是逐渐变厚，那么问题来了，上面的土是从外哪来，外太空吗?](https://www.v2ex.com/t/1141761)
 
 ## 历史归档
 
