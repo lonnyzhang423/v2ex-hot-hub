@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-05 16:13:26 +0800`
+ `更新时间：2025-07-05 17:10:24 +0800`
 
 ## 热议话题
 
 1. [今天部门开会，我被当众“批评”](https://www.v2ex.com/t/1143126)
 1. [避雷小鹏汽车](https://www.v2ex.com/t/1143107)
 1. [楼上的老大爷早上五点就直播怎么解决](https://www.v2ex.com/t/1143148)
-1. [🤪我宣布， 20$一个月的 vercel 根本就不贵！](https://www.v2ex.com/t/1143093)
 1. [为什么 cursor 升级后越来越难用？自媒体却在使劲儿吹？](https://www.v2ex.com/t/1143150)
-1. [程序员失业怎么实现自我营收？](https://www.v2ex.com/t/1143066)
-1. [毕业五年，从前端走到裁员，短期过渡？](https://www.v2ex.com/t/1143057)
-1. [深圳小铁， golang 直招 18-25，不搞八股一面定](https://www.v2ex.com/t/1143071)
+1. [🤪我宣布， 20$一个月的 vercel 根本就不贵！](https://www.v2ex.com/t/1143093)
 1. [胃疼，我吃过最快效有效的“良药”，竟是啤酒](https://www.v2ex.com/t/1143179)
+1. [🚀 GitHub 访问慢？团队协作难？试试腾讯云「云原生构建 CNB」！](https://www.v2ex.com/t/1143165)
 1. [现在这个时间点还建议微信转 wechat 吗](https://www.v2ex.com/t/1143115)
+1. [买车求推荐？](https://www.v2ex.com/t/1143131)
+1. [一位农村程序员疑似走火入魔的生活。](https://www.v2ex.com/t/1143194)
 
 ## 历史归档
 
