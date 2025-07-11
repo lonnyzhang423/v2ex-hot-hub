@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-11 10:50:46 +0800`
+ `更新时间：2025-07-11 11:54:17 +0800`
 
 ## 热议话题
 
-1. [mac 本地播放器，千千倾听兑换码大赠送。](https://www.v2ex.com/t/1144307)
 1. [国产电视哪个品牌的系统最好？](https://www.v2ex.com/t/1144288)
+1. [mac 本地播放器，千千倾听兑换码大赠送。](https://www.v2ex.com/t/1144307)
 1. [低学历没技能该何去何从](https://www.v2ex.com/t/1144238)
 1. [公司的开发流程极度不专业，自己又是新人怎么办](https://www.v2ex.com/t/1144323)
-1. [其实 ai 写代码还有个重要功能, 提供情绪价值](https://www.v2ex.com/t/1144209)
-1. [老婆过生日 Pocket3 如何](https://www.v2ex.com/t/1144194)
+1. [新搬的房子有蟑螂，大家给我支支招吧](https://www.v2ex.com/t/1144467)
 1. [每周在公司值班两三天能干啥](https://www.v2ex.com/t/1144439)
-1. [大家真的需要或者很喜欢车道级导航吗？](https://www.v2ex.com/t/1144197)
+1. [求移动端大佬指教：完美的一码三端方案存在吗？ Android/iOS/Harmony Next，或求 ArkUI-X 开发救场经验](https://www.v2ex.com/t/1144348)
+1. [该装服务器了，装 Ubuntu24.04.2 还是 Ubuntu22.04.5](https://www.v2ex.com/t/1144421)
 
 ## 历史归档
 
