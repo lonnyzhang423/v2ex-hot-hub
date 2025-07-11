@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-11 16:15:15 +0800`
+ `更新时间：2025-07-11 17:12:49 +0800`
 
 ## 热议话题
 
-1. [mac 本地播放器，千千倾听兑换码大赠送。](https://www.v2ex.com/t/1144307)
 1. [新搬的房子有蟑螂，大家给我支支招吧](https://www.v2ex.com/t/1144467)
 1. [怀孕喊婆婆来提前适应城市生活，可她老想着出去打工，怎么劝](https://www.v2ex.com/t/1144497)
-1. [公司的开发流程极度不专业，自己又是新人怎么办](https://www.v2ex.com/t/1144323)
-1. [该装服务器了，装 Ubuntu24.04.2 还是 Ubuntu22.04.5](https://www.v2ex.com/t/1144421)
 1. [大佬快进：小白手握十几万现金，该如何投资？](https://www.v2ex.com/t/1144520)
-1. [每周在公司值班两三天能干啥](https://www.v2ex.com/t/1144439)
-1. [女大三，抱金砖？](https://www.v2ex.com/t/1144469)
+1. [该装服务器了，装 Ubuntu24.04.2 还是 Ubuntu22.04.5](https://www.v2ex.com/t/1144421)
 1. [V2EX 第 262966 号会员，加入于 2017-10-27 14:40:47 +08:00](https://www.v2ex.com/t/1144478)
+1. [女大三，抱金砖？](https://www.v2ex.com/t/1144469)
+1. [每周在公司值班两三天能干啥](https://www.v2ex.com/t/1144439)
 1. [Mac 端最好用的邮件软件是什么？](https://www.v2ex.com/t/1144442)
+1. [求移动端大佬指教：完美的一码三端方案存在吗？ Android/iOS/Harmony Next，或求 ArkUI-X 开发救场经验](https://www.v2ex.com/t/1144348)
+1. [Mac 端 ssh 原生工具 Nex Terminal 又来送兑换码了](https://www.v2ex.com/t/1144523)
 
 ## 历史归档
 
