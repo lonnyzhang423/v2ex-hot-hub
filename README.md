@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-14 06:10:21 +0800`
+ `更新时间：2025-07-14 07:11:29 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [各位， vscode 有没有类似 idea 里面的 git 插件？](https://www.v2ex.com/t/1144882)
 1. [苹果即将发布国行 esim 手机！](https://www.v2ex.com/t/1144864)
 1. [unraid 老是因为失联，想切换到 pve 做底层，虚拟机用什么比较好呢?](https://www.v2ex.com/t/1144856)
-1. [两千元左右准系统，打造家庭 aio 服务器的最优解是什么？](https://www.v2ex.com/t/1144854)
+1. [感到干不过 AI 了，牛马快要被 AI 打败了](https://www.v2ex.com/t/1144929)
 
 ## 历史归档
 
