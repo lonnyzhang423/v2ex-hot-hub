@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-18 19:10:08 +0800`
+ `更新时间：2025-07-18 20:22:02 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [周五了，终于周五了。](https://www.v2ex.com/t/1145996)
 1. [有没有一款久洗不黄的白 T？](https://www.v2ex.com/t/1145984)
 1. [NextDevKit - 终极 Next.js 模板，解决部署难题](https://www.v2ex.com/t/1145981)
-1. [最近连续高温预警，大家怎么给硬盘降温的](https://www.v2ex.com/t/1145931)
 
 ## 历史归档
 
