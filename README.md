@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-20 04:11:52 +0800`
+ `更新时间：2025-07-20 05:09:50 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [NAS 机械硬盘是否真的需要休眠? 又挂掉一块硬盘有感](https://www.v2ex.com/t/1146243)
 1. [做了一个搜索 TG 频道网盘资源的网站](https://www.v2ex.com/t/1146272)
 1. [Homebrew 的 maintainer 真的是有点魔怔了](https://www.v2ex.com/t/1146247)
-1. [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
 1. [突然发现了微波炉热咖啡的必要性](https://www.v2ex.com/t/1146290)
+1. [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
 
 ## 历史归档
 
