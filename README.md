@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-19 18:10:45 +0800`
+ `更新时间：2025-07-19 19:09:11 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [有在用 eSIM 的老哥来谈谈使用体验，有什么独到优势？真的有网上宣传的那样好吗？](https://www.v2ex.com/t/1146237)
 1. [Homebrew 的 maintainer 真的是有点魔怔了](https://www.v2ex.com/t/1146247)
 1. [做了一个搜索 TG 频道网盘资源的网站](https://www.v2ex.com/t/1146272)
-1. [Google 有一个可以获取任意网站图标的 API](https://www.v2ex.com/t/1146187)
+1. [杭州米田共供水事件竟然是谣言？？](https://www.v2ex.com/t/1146336)
 1. [有没有体验不错的椅子](https://www.v2ex.com/t/1146211)
 1. [各国的稳定币都出现了，看来 web3 已经无敌了](https://www.v2ex.com/t/1146268)
-1. [[后续] 在泉州联通回复信访以后，我起诉了。目前已经立案。](https://www.v2ex.com/t/1146277)
 1. [看到 Livid 站长早期研究 Bitcoin 的文章有点感慨](https://www.v2ex.com/t/1146246)
+1. [[后续] 在泉州联通回复信访以后，我起诉了。目前已经立案。](https://www.v2ex.com/t/1146277)
 
 ## 历史归档
 
