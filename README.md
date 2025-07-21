@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-21 07:11:39 +0800`
+ `更新时间：2025-07-21 09:01:02 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [程序员转行从事餐饮业近十年，有问必答。](https://www.v2ex.com/t/1146449)
 1. [居然有个叫摩尔线程的国产 GPU，孤陋寡闻了](https://www.v2ex.com/t/1146404)
 1. [广州城中村宽带太气人了](https://www.v2ex.com/t/1146429)
-1. [下个月 Debian 13 发布，可以来一波更新](https://www.v2ex.com/t/1146388)
 1. [iPad Pro 2018 被列入过时产品](https://www.v2ex.com/t/1146439)
 1. [打算油车置换纯电 suv 在纠结三款车 求推荐意见](https://www.v2ex.com/t/1146391)
+1. [WSL 中无法访问 registry-1.docker.io/v2/，没法用 docker 拉取 image，试了很多方法都不行，累了](https://www.v2ex.com/t/1146433)
 
 ## 历史归档
 
