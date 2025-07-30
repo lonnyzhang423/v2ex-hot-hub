@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-07-30 19:10:30 +0800`
+ `更新时间：2025-07-30 20:23:18 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,8 @@
 1. [语法最优雅的编程语言是什么？](https://www.v2ex.com/t/1148712)
 1. [昨晚发布的理想 i8， 你们看好吗？我看好](https://www.v2ex.com/t/1148667)
 1. [想骑自行车通勤了，单边 30km+，有没有必要上公路车](https://www.v2ex.com/t/1148656)
-1. [昨晚有些焦虑了](https://www.v2ex.com/t/1148668)
 1. [到底有没有摩擦力？](https://www.v2ex.com/t/1148808)
-1. [马上当爸爸了，如何教孩子学习 Golang，特别是并发编程， Profiling，内存优化， Goroutine 调度](https://www.v2ex.com/t/1148697)
+1. [昨晚有些焦虑了](https://www.v2ex.com/t/1148668)
 
 ## 历史归档
 
