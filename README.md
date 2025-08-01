@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-01 11:48:19 +0800`
+ `更新时间：2025-08-01 12:45:31 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [观国内车区各种现象有感](https://www.v2ex.com/t/1149155)
 1. [工作室取名，大佬们帮我集思广益下](https://www.v2ex.com/t/1149082)
 1. [昨晚发布的乐道 L90， 你们看好吗？虽然线下火爆凌晨都排队看车和试驾，但是我不看好](https://www.v2ex.com/t/1149164)
-1. [Dev Coin](https://www.v2ex.com/t/1148992)
-1. [kubeSphere 闭源了](https://www.v2ex.com/t/1149037)
 1. [每个月收入 5-7 万 你会选择买房子还是租房子？](https://www.v2ex.com/t/1149124)
-1. [域名+公网 IP+200M 带宽有什么可玩的](https://www.v2ex.com/t/1149029)
+1. [大家愿意中文编程吗](https://www.v2ex.com/t/1149176)
+1. [kubeSphere 闭源了](https://www.v2ex.com/t/1149037)
+1. [《哪吒 2》将于 8 月 2 日全网上线](https://www.v2ex.com/t/1149162)
 
 ## 历史归档
 
