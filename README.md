@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-03 19:09:28 +0800`
+ `更新时间：2025-08-03 20:20:29 +0800`
 
 ## 热议话题
 
-1. [100➕388➕288➕红包➕专属空投➕我的专属宠爱](https://www.v2ex.com/t/1149508)
 1. [开发了一个聚合资源搜索工具, 评论区抽送永久会员兑换码](https://www.v2ex.com/t/1149556)
 1. [炒币日记 0803-买了 eth 和 sol 的开多合约](https://www.v2ex.com/t/1149544)
 1. [GV 如今如何保号？](https://www.v2ex.com/t/1149533)
@@ -24,6 +23,7 @@
 1. [给 Ladybird 浏览器捐赠了 10 美元](https://www.v2ex.com/t/1149550)
 1. [/solana/hello-world](https://www.v2ex.com/t/1149587)
 1. [币圈这么凶险的吗，我的大约 5000 个 $v2ex 被转走了吗？](https://www.v2ex.com/t/1149540)
+1. [iPhone 用户， apple watch 5 代还在服役，对 AW 有点用厌了，求推荐其他牌子](https://www.v2ex.com/t/1149572)
 1. [推荐一款开源免费的代码片段管理工具（数据在本地更安全）](https://www.v2ex.com/t/1149528)
 
 ## 历史归档
