@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-03 13:19:48 +0800`
+ `更新时间：2025-08-03 14:16:14 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [GV 如今如何保号？](https://www.v2ex.com/t/1149533)
 1. [eSIM 的最新消息](https://www.v2ex.com/t/1149473)
 1. [炒币日记 0803-买了 eth 和 sol 的开多合约](https://www.v2ex.com/t/1149544)
-1. [分享一个自建获取当前公网 IP 的接口](https://www.v2ex.com/t/1149457)
+1. [开发了一个聚合资源搜索工具, 评论区抽送永久会员兑换码](https://www.v2ex.com/t/1149556)
 1. [电子斗蛐蛐之 mihomo vs sing-box 使用体验](https://www.v2ex.com/t/1149486)
+1. [想买个 iPad ，无工作诉求，估计就看看剧啥的，求性价比推荐！](https://www.v2ex.com/t/1149481)
 1. [推荐一款开源免费的代码片段管理工具（数据在本地更安全）](https://www.v2ex.com/t/1149528)
-1. [币圈这么凶险的吗，我的大约 5000 个 $v2ex 被转走了吗？](https://www.v2ex.com/t/1149540)
 
 ## 历史归档
 
