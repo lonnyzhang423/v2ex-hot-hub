@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-04 11:48:27 +0800`
+ `更新时间：2025-08-04 12:49:07 +0800`
 
 ## 热议话题
 
-1. [多久没有体会到摩尔定律带来的推背感了？还在用 8700K 和 z370 平台有感。](https://www.v2ex.com/t/1149573)
 1. [/solana/hello-world](https://www.v2ex.com/t/1149587)
+1. [多久没有体会到摩尔定律带来的推背感了？还在用 8700K 和 z370 平台有感。](https://www.v2ex.com/t/1149573)
 1. [刚入职新公司，想问下办公桌必备东西是什么](https://www.v2ex.com/t/1149672)
-1. [大家两台电脑文件同步用什么？](https://www.v2ex.com/t/1149599)
 1. [2025 年看过最好的一本书？](https://www.v2ex.com/t/1149709)
+1. [大家两台电脑文件同步用什么？](https://www.v2ex.com/t/1149599)
 1. [iPhone 用户， apple watch 5 代还在服役，对 AW 有点用厌了，求推荐其他牌子](https://www.v2ex.com/t/1149572)
 1. [要不要卖房呢，家里二层，还有个 20*8 的宅基地](https://www.v2ex.com/t/1149685)
 
