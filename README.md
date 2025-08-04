@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-04 07:11:03 +0800`
+ `更新时间：2025-08-04 09:03:37 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [炒币日记 0803-买了 eth 和 sol 的开多合约](https://www.v2ex.com/t/1149544)
 1. [多久没有体会到摩尔定律带来的推背感了？还在用 8700K 和 z370 平台有感。](https://www.v2ex.com/t/1149573)
 1. [/solana/hello-world](https://www.v2ex.com/t/1149587)
-1. [给 Ladybird 浏览器捐赠了 10 美元](https://www.v2ex.com/t/1149550)
 1. [大家两台电脑文件同步用什么？](https://www.v2ex.com/t/1149599)
+1. [给 Ladybird 浏览器捐赠了 10 美元](https://www.v2ex.com/t/1149550)
 1. [iPhone 用户， apple watch 5 代还在服役，对 AW 有点用厌了，求推荐其他牌子](https://www.v2ex.com/t/1149572)
 
 ## 历史归档
