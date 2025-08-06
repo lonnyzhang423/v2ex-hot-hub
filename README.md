@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-06 15:17:46 +0800`
+ `更新时间：2025-08-06 16:16:42 +0800`
 
 ## 热议话题
 
-1. [20250805 - Cold Wallet 操作说明](https://www.v2ex.com/t/1150107)
 1. [一个被抖音和小红书所毒害的女朋友，还要不要留下](https://www.v2ex.com/t/1150224)
 1. [2025 年，你们现在有多少年假，每年能用得完吗？](https://www.v2ex.com/t/1150241)
 1. [怎么现在的车大部分都不支持 CarPlay？](https://www.v2ex.com/t/1150268)
-1. [今年到底怎么了，越面试越心烦](https://www.v2ex.com/t/1150167)
 1. [[理性讨论] 身为父母的你，是否考虑过自己的孩子以后遇到校园霸凌时，应该怎么办？](https://www.v2ex.com/t/1150260)
+1. [今年到底怎么了，越面试越心烦](https://www.v2ex.com/t/1150167)
 1. [大家有没有被自己父母蠢到无语过](https://www.v2ex.com/t/1150308)
+1. [程序员不应该在 ai 上省钱](https://www.v2ex.com/t/1150361)
 1. [炒币日记 0806 - 加仓&建仓!](https://www.v2ex.com/t/1150258)
 1. [ALL IN $V2EX](https://www.v2ex.com/t/1150240)
 
