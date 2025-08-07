@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-07 17:17:54 +0800`
+ `更新时间：2025-08-07 18:12:56 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [和前端小姐姐吵起来了](https://www.v2ex.com/t/1150524)
 1. [你坐地铁会主动让座位么？](https://www.v2ex.com/t/1150626)
 1. [14 年前， BTC 价格几十元人民币的时候，站长介绍 BTC 给大家，你错过了，现在，你还要错过$V2EX 吗？](https://www.v2ex.com/t/1150542)
+1. [Solana Name Service](https://www.v2ex.com/t/1150717)
 1. [单身女性遇到黑房东怎么解决？](https://www.v2ex.com/t/1150469)
-1. [有去过俄罗斯旅游的么？](https://www.v2ex.com/t/1150538)
 1. [我不是不孝，只是不想复制你们的人生：催婚二三事](https://www.v2ex.com/t/1150603)
-1. [外包就是出气筒的吗？](https://www.v2ex.com/t/1150477)
+1. [有去过俄罗斯旅游的么？](https://www.v2ex.com/t/1150538)
 
 ## 历史归档
 
