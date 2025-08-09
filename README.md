@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-09 15:10:19 +0800`
+ `更新时间：2025-08-09 16:13:51 +0800`
 
 ## 热议话题
 
 1. [5000 枚$v2ex 空投 留下你的地址](https://www.v2ex.com/t/1151092)
 1. [空投 10000 个$V2EX,先到先得，每份 50$V2EX！共 200 份！](https://www.v2ex.com/t/1151128)
-1. [另一个吉祥物 mb 的成交量也上来了](https://www.v2ex.com/t/1151031)
 1. [猜价格 ，空投 1k $v2ex，空投 10k $mb](https://www.v2ex.com/t/1151114)
 1. [终于发现一条没有二手烟的路，但公司要搬走了](https://www.v2ex.com/t/1151104)
-1. [写了 3 天 go，我想念 Java 了](https://www.v2ex.com/t/1151046)
 1. [沉浸式翻译将禁止使用未认证的第三方 api 接口](https://www.v2ex.com/t/1151127)
 1. [为什么有两个地址频繁买卖，但是查不到交易记录，导致$v2ex 暴跌](https://www.v2ex.com/t/1151155)
 1. [错过了一波 0.016 的$v2ex](https://www.v2ex.com/t/1151139)
+1. [沉浸式翻译的网页快照功能会泄露隐私](https://www.v2ex.com/t/1151165)
+1. [MB 请慎重，目前人少纯 PvP，风险较大](https://www.v2ex.com/t/1151060)
 
 ## 历史归档
 
