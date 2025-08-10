@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-10 07:10:27 +0800`
+ `更新时间：2025-08-10 09:02:32 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [被电信移机搞的很心烦 一年没有移了](https://www.v2ex.com/t/1151172)
 1. [我是“流畅阅读”的作者，借着沉浸式翻译这件事，我想说几句](https://www.v2ex.com/t/1151203)
 1. [What does Livid want?](https://www.v2ex.com/t/1151274)
+1. [switch 萌新买了 switch2，港版的，有一些问题想求教各位大佬](https://www.v2ex.com/t/1151263)
 1. [尝试做油管，几乎没播放，好难](https://www.v2ex.com/t/1151278)
 1. [Apple 账号登录系统挂了？](https://www.v2ex.com/t/1151198)
-1. [分享一下个人独立开发的“计时器倒计时”应用，安卓和 iOS 平台都已经成功上架。（内有 iOS 会员兑换码）](https://www.v2ex.com/t/1151206)
 
 ## 历史归档
 
