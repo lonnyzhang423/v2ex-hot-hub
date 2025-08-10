@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-11 00:12:27 +0800`
+ `更新时间：2025-08-11 01:08:47 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [求推荐好的提醒软件](https://www.v2ex.com/t/1151347)
 1. [[免费] LazyTyper：用「嘴」写代码，给 Claude Code 发语音（Mac 首发）](https://www.v2ex.com/t/1151314)
 1. [$v2ex 不同交易方式手续费对比,新人多看看](https://www.v2ex.com/t/1151318)
-1. [升级 Debian trixie 差点把系统搞挂了](https://www.v2ex.com/t/1151325)
+1. [转眼间， 2015 年过去十年了](https://www.v2ex.com/t/1151333)
 
 ## 历史归档
 
