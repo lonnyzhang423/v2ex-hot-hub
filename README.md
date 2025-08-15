@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-15 17:12:06 +0800`
+ `更新时间：2025-08-15 18:11:54 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [你们在设计 restful api 时会用 put 和 delete 吗？](https://www.v2ex.com/t/1152509)
 1. [我今天要网暴一下自己](https://www.v2ex.com/t/1152536)
 1. [如果以后年龄大了不做程序员了，你会选择做什么？](https://www.v2ex.com/t/1152555)
-1. [20250814 - Solana 域名在 V2EX 站内跳转到用户主页](https://www.v2ex.com/t/1152423)
+1. [终于，我放弃使用双拼输入法了。](https://www.v2ex.com/t/1152575)
 
 ## 历史归档
 
