@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-16 13:10:53 +0800`
+ `更新时间：2025-08-16 14:14:50 +0800`
 
 ## 热议话题
 
-1. [生活中 NFC 好像没有没什么用？](https://www.v2ex.com/t/1152624)
 1. [生命的意义是什么？人终其一生，在追寻什么？](https://www.v2ex.com/t/1152709)
 1. [20250815 - 打赏界面更新，现在已经支持发送 $V2EX 打赏](https://www.v2ex.com/t/1152735)
 1. [对面工位同事梭哈了 A 股，不知道该说点啥](https://www.v2ex.com/t/1152661)
 1. [从应用角度来说， IPv6 是否可以说，彻底失败啦？](https://www.v2ex.com/t/1152772)
-1. [征求相册方案](https://www.v2ex.com/t/1152633)
-1. [AI 写代码太爽了，但也太烧钱了。最近一个月花了好几千用 AI，有啥省钱方案吗？](https://www.v2ex.com/t/1152721)
 1. [Apple 是真有很多拥趸](https://www.v2ex.com/t/1152797)
+1. [AI 写代码太爽了，但也太烧钱了。最近一个月花了好几千用 AI，有啥省钱方案吗？](https://www.v2ex.com/t/1152721)
 1. [酒店泳池边半小时代码，小红书 22 万围观 - 我的又一个 Vibe Coding 记录](https://www.v2ex.com/t/1152677)
+1. [关于三金和五金的敏感话题](https://www.v2ex.com/t/1152701)
+1. [回馈 V 友们找我代充过 ChatGPT Plus，随机空投 8 份 100 个$v2ex 代币](https://www.v2ex.com/t/1152838)
 
 ## 历史归档
 
