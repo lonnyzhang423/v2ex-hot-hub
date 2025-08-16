@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-08-16 16:13:30 +0800`
+ `更新时间：2025-08-16 17:11:02 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [从应用角度来说， IPv6 是否可以说，彻底失败啦？](https://www.v2ex.com/t/1152772)
 1. [Apple 是真有很多拥趸](https://www.v2ex.com/t/1152797)
 1. [AI 写代码太爽了，但也太烧钱了。最近一个月花了好几千用 AI，有啥省钱方案吗？](https://www.v2ex.com/t/1152721)
-1. [关于三金和五金的敏感话题](https://www.v2ex.com/t/1152701)
 1. [脱产学英语是个好的选择吗？](https://www.v2ex.com/t/1152742)
+1. [宝塔又被抄袭了？ GMSSH？](https://www.v2ex.com/t/1152822)
+1. [有没有 MacBook Air 品质的 Linux 笔记本？](https://www.v2ex.com/t/1152760)
 
 ## 历史归档
 
