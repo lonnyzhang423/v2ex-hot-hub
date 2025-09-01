@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-01 11:46:13 +0800`
+ `更新时间：2025-09-01 12:20:41 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [问下各位：到底是电车好还是油车好？](https://www.v2ex.com/t/1156084)
 1. [你们做开发都是用什么电脑？](https://www.v2ex.com/t/1156151)
 1. [怎么才算是活着](https://www.v2ex.com/t/1156159)
-1. [强烈推荐：我用过最丝滑的 Claude Code 手机客户端](https://www.v2ex.com/t/1156040)
 1. [装机清单求点评](https://www.v2ex.com/t/1156133)
-1. [每天都有一股死感](https://www.v2ex.com/t/1156043)
+1. [日本两年生活印象（纯主观）](https://www.v2ex.com/t/1156144)
 1. [国家反诈中心在我自己安装 RustDesk 后，给我打电话了](https://www.v2ex.com/t/1156175)
+1. [东京两周生活初印象：优点篇（纯主观）](https://www.v2ex.com/t/1156114)
 
 ## 历史归档
 
