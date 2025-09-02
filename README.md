@@ -11,14 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-02 21:22:53 +0800`
+ `更新时间：2025-09-02 22:10:51 +0800`
 
 ## 热议话题
 
 1. [陌生人祝我一声生日快乐吧](https://www.v2ex.com/t/1156452)
 1. [出狱求一份开发工作](https://www.v2ex.com/t/1156429)
 1. [2025 年， Windows 的开发体验已经赶上 Mac 了](https://www.v2ex.com/t/1156421)
-1. [明天阅兵，大家怎么看](https://www.v2ex.com/t/1156582)
 1. [推荐一本最近在看的网络小说吧？](https://www.v2ex.com/t/1156494)
 1. [存了 280 万，想躺平又很焦虑……](https://www.v2ex.com/t/1156434)
 1. [买货冲动降温讨论，是否要买大疆 pocket3](https://www.v2ex.com/t/1156459)
