@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-02 13:11:04 +0800`
+ `更新时间：2025-09-02 14:16:36 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [OKX 对话 V2EX 创始人 Livid：从 60 块钱比特币说起，「他」和「他们」的十四年](https://www.v2ex.com/t/1156319)
 1. [出狱求一份开发工作](https://www.v2ex.com/t/1156429)
 1. [2025 年， Windows 的开发体验已经赶上 Mac 了](https://www.v2ex.com/t/1156421)
-1. [浅谈一下为什么片假名单词是大脑病毒](https://www.v2ex.com/t/1156253)
 1. [存了 280 万，想躺平又很焦虑……](https://www.v2ex.com/t/1156434)
 1. [买货冲动降温讨论，是否要买大疆 pocket3](https://www.v2ex.com/t/1156459)
-1. [红包来了——共同创建 V2EX 的 web3 社区！](https://www.v2ex.com/t/1156270)
 1. [怎么委婉的提醒同事有狐臭](https://www.v2ex.com/t/1156474)
+1. [杭州适合长期定居吗？](https://www.v2ex.com/t/1156457)
+1. [推荐一本最近在看的网络小说吧？](https://www.v2ex.com/t/1156494)
 
 ## 历史归档
 
