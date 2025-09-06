@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-06 10:13:03 +0800`
+ `更新时间：2025-09-06 11:19:43 +0800`
 
 ## 热议话题
 
-1. [你们还能维持住心中的那份正义吗](https://www.v2ex.com/t/1157250)
-1. [未来 10 年的行情真的会越来越差吗？](https://www.v2ex.com/t/1157259)
 1. [你们有那种舍不得看完的电视剧吗（片头片尾全程看完的）？](https://www.v2ex.com/t/1157330)
-1. [有人遇到过这种身体无法控制的情况吗？](https://www.v2ex.com/t/1157267)
-1. [IT 的工作感觉没有什么意义](https://www.v2ex.com/t/1157260)
 1. [有人体验过室内射击没](https://www.v2ex.com/t/1157276)
 1. [有写 Java 的么，你们的 jdk 还是用 1.8 么](https://www.v2ex.com/t/1157327)
+1. [聊聊金融和定投](https://www.v2ex.com/t/1157307)
+1. [看了“张金豪被老鼠咬了”帖子的一些回复有感](https://www.v2ex.com/t/1157300)
+1. [想买 mega，求打醒](https://www.v2ex.com/t/1157328)
+1. [watch/iOS 有法子复制门禁卡吗](https://www.v2ex.com/t/1157303)
+1. [今天大 A 怎么突然硬了](https://www.v2ex.com/t/1157313)
+1. [工行一直给我打骚扰电话，想换一家银行，求推荐。](https://www.v2ex.com/t/1157363)
 
 ## 历史归档
 
