@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-07 18:09:18 +0800`
+ `更新时间：2025-09-07 19:07:16 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [要接受大疆的 offer 么？](https://www.v2ex.com/t/1157517)
 1. [前端死没死不清楚，我们公司的前端马上死了](https://www.v2ex.com/t/1157528)
 1. [突然发现英式早餐好像很有道理.](https://www.v2ex.com/t/1157549)
-1. [有 Chrome 无损迁移的工具吗？](https://www.v2ex.com/t/1157526)
 1. [这两天去北京看病，产生了新的感悟。](https://www.v2ex.com/t/1157582)
+1. [有 Chrome 无损迁移的工具吗？](https://www.v2ex.com/t/1157526)
 1. [试用 codex 感想：不说 You are absolutely right 是 GPT-5 最好的编程特性之一](https://www.v2ex.com/t/1157529)
 1. [我的塑料盒子机箱](https://www.v2ex.com/t/1157509)
 1. [我想把自己开发的应用推广到海外市场，但是不想付广告费，在 Reddit 发帖是一个好方案吗？](https://www.v2ex.com/t/1157525)
