@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-08 18:11:46 +0800`
+ `更新时间：2025-09-08 19:08:47 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [普通人如何做出正确选择而翻身？](https://www.v2ex.com/t/1157703)
 1. [亏了 50W 了，怎么办](https://www.v2ex.com/t/1157737)
 1. [Grok 的图片生成功能太强了，我有点忍不住想付费了](https://www.v2ex.com/t/1157694)
-1. [clash 之后，是不是后继无人了](https://www.v2ex.com/t/1157714)
 1. [感觉上司干不掉我。。。](https://www.v2ex.com/t/1157697)
 1. [目前有没有支持远程 APP 唤醒内网电脑（WOL）的 WiFi 路由器？](https://www.v2ex.com/t/1157637)
 
