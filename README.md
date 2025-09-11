@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-12 02:12:04 +0800`
+ `更新时间：2025-09-12 03:07:07 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [理性讨论，国行 iPhone 相较于外版有哪些缺陷？](https://www.v2ex.com/t/1158442)
 1. [大家有没有感觉自从 chatgpt 出来后就业环境就越来越差了？](https://www.v2ex.com/t/1158457)
 1. [各位还记得是怎么 发现/知道 v 站的吗](https://www.v2ex.com/t/1158507)
-1. [[送码]做了一个媲美 Reeder，并支持 AI 指令和 TTS,Podcast 的 RSS 阅读器，并上架了 AppStore 和 Google Play](https://www.v2ex.com/t/1158494)
 1. [小红书终于被查了！大家都在小红书刷到过什么离谱的内容啊？](https://www.v2ex.com/t/1158556)
+1. [[送码]做了一个媲美 Reeder，并支持 AI 指令和 TTS,Podcast 的 RSS 阅读器，并上架了 AppStore 和 Google Play](https://www.v2ex.com/t/1158494)
 
 ## 历史归档
 
