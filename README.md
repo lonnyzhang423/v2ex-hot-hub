@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-12 10:13:06 +0800`
+ `更新时间：2025-09-12 11:20:25 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [花个 10 万办个婚礼有必要吗](https://www.v2ex.com/t/1158523)
 1. [各位还记得是怎么 发现/知道 v 站的吗](https://www.v2ex.com/t/1158507)
 1. [小红书终于被查了！大家都在小红书刷到过什么离谱的内容啊？](https://www.v2ex.com/t/1158556)
-1. [[送码]做了一个媲美 Reeder，并支持 AI 指令和 TTS,Podcast 的 RSS 阅读器，并上架了 AppStore 和 Google Play](https://www.v2ex.com/t/1158494)
-1. [4 点 TI14 开幕了，刀斯林集合！](https://www.v2ex.com/t/1158549)
 1. [想买小摩托车，请教一点购买建议❤️](https://www.v2ex.com/t/1158559)
+1. [4 点 TI14 开幕了，刀斯林集合！](https://www.v2ex.com/t/1158549)
 1. [被裁两年劳动仲裁+法院二审流水账，鉴于现在的就业环境，供大家参考](https://www.v2ex.com/t/1158563)
-1. [技术发展对现在的人是好是坏？](https://www.v2ex.com/t/1158472)
+1. [真的有邻居会用震楼器的，活了这么久也终于是让我碰到了](https://www.v2ex.com/t/1158687)
+1. [被 Code Review 折磨疯的组员](https://www.v2ex.com/t/1158605)
+1. [现在的社区医院真恶心](https://www.v2ex.com/t/1158683)
 
 ## 历史归档
 
