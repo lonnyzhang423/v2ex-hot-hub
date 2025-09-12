@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-12 16:13:23 +0800`
+ `更新时间：2025-09-12 17:10:16 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [现在的社区医院真恶心](https://www.v2ex.com/t/1158683)
 1. [写了个家庭 AIO 服务器搭建教程](https://www.v2ex.com/t/1158660)
 1. [让人困惑的 esim，居然还没实体卡方便](https://www.v2ex.com/t/1158701)
-1. [被 Code Review 折磨疯的组员](https://www.v2ex.com/t/1158605)
 1. [今天得知大学同学进了字节](https://www.v2ex.com/t/1158658)
+1. [新能源车明年要收购置税了](https://www.v2ex.com/t/1158733)
 
 ## 历史归档
 
