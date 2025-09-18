@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-18 15:09:57 +0800`
+ `更新时间：2025-09-18 16:13:34 +0800`
 
 ## 热议话题
 
 1. [关于我买和卖 v 币的说明](https://www.v2ex.com/t/1160134)
 1. [大家消费降级到什么程度了？](https://www.v2ex.com/t/1160070)
 1. [在当前的就业环境下，我刚毕业找到的这份工作算什么水平](https://www.v2ex.com/t/1160001)
-1. [哎，税务局打电话给公司财务，让我去税务局说境外所得的事](https://www.v2ex.com/t/1160012)
 1. [相亲遇到的一些问题，希望大家指点迷津](https://www.v2ex.com/t/1160089)
+1. [哎，税务局打电话给公司财务，让我去税务局说境外所得的事](https://www.v2ex.com/t/1160012)
 1. [面试题：为什么 MySQL 不要使用 Docker 部署。。。。](https://www.v2ex.com/t/1160112)
-1. [小米这改名 17 真的是 low 到家了](https://www.v2ex.com/t/1159975)
+1. [打赏前 20 回复的朋友一人 20V 币](https://www.v2ex.com/t/1160215)
 1. [iPhone14pro Max 有必要换 iPhone17 吗？](https://www.v2ex.com/t/1160081)
-1. [国行 Watch 开通房颤和睡眠呼吸暂停](https://www.v2ex.com/t/1159981)
 1. [今天三十而立了，好奇 v 友们在这天有什么特别的感悟吗？](https://www.v2ex.com/t/1160102)
+1. [国行 Watch 开通房颤和睡眠呼吸暂停](https://www.v2ex.com/t/1159981)
 
 ## 历史归档
 
