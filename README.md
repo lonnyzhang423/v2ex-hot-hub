@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-18 18:10:33 +0800`
+ `更新时间：2025-09-18 19:08:16 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [年度程序员笑话](https://www.v2ex.com/t/1160205)
 1. [今天三十而立了，好奇 v 友们在这天有什么特别的感悟吗？](https://www.v2ex.com/t/1160102)
 1. [iPhone14pro Max 有必要换 iPhone17 吗？](https://www.v2ex.com/t/1160081)
+1. [AI 银弹，领导的最终幻想和程序员不得不承受的痛](https://www.v2ex.com/t/1160144)
 
 ## 历史归档
 
