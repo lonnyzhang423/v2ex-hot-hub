@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-20 16:12:30 +0800`
+ `更新时间：2025-09-20 17:09:37 +0800`
 
 ## 热议话题
 
-1. [飞机上敲代码，跟 OpenAI 副总裁聊嗨了](https://www.v2ex.com/t/1160548)
 1. [听说 V 站可以改名了? 50 银币一次? 那我要改个啥名呢? 毕竟钱都花了, 要改的名字却早就被注册了😂](https://www.v2ex.com/t/1160682)
 1. [大家有觉得小米红米的电子产品寿命不行么](https://www.v2ex.com/t/1160631)
-1. [被威联通恶心坏了，求推荐 nas](https://www.v2ex.com/t/1160572)
 1. [有没有良方治胃反流](https://www.v2ex.com/t/1160598)
-1. [有没有必要为了 12G RAM 多花 4000 块选择 iPhone 17 Pro Max](https://www.v2ex.com/t/1160563)
-1. [29 岁， 7 年前端转型 AI，在合肥遇到一个纠结的 Offer，该不该接？](https://www.v2ex.com/t/1160607)
+1. [被威联通恶心坏了，求推荐 nas](https://www.v2ex.com/t/1160572)
 1. [求个 Mac 好用的鼠标](https://www.v2ex.com/t/1160652)
-1. [现在搞个 SPA (react 系)流行哪些库？](https://www.v2ex.com/t/1160558)
+1. [29 岁， 7 年前端转型 AI，在合肥遇到一个纠结的 Offer，该不该接？](https://www.v2ex.com/t/1160607)
 1. [怎么充电才能防止电池容量掉挺快的啊？](https://www.v2ex.com/t/1160597)
+1. [2025 (非预制) Vue 3 + Golang 全栈课 - 第一讲](https://www.v2ex.com/t/1160623)
+1. [深圳有没有靠谱的 iPhone 换电池商家？想当场换](https://www.v2ex.com/t/1160642)
+1. [看同学们都老了](https://www.v2ex.com/t/1160663)
 
 ## 历史归档
 
