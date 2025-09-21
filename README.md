@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-21 17:09:12 +0800`
+ `更新时间：2025-09-21 18:09:28 +0800`
 
 ## 热议话题
 
-1. [想不通：四十多岁、有家有口的男人，为什么会缺几千块钱？](https://www.v2ex.com/t/1160728)
 1. [从 Android 换 iPhone , 没有边缘左右滑动返回上一面功能, 太难受了](https://www.v2ex.com/t/1160803)
 1. [你们可以保持每周都有性生活吗？](https://www.v2ex.com/t/1160811)
 1. [为啥我听不出来无损音乐和普通的区别？](https://www.v2ex.com/t/1160737)
 1. [你们去游泳馆游泳都穿泳衣吗](https://www.v2ex.com/t/1160796)
 1. [拿到雅思 8，接下来一步怎么走？](https://www.v2ex.com/t/1160762)
 1. [用了十来年的 Apple ID 突然被锁](https://www.v2ex.com/t/1160848)
+1. [牛啊，少数派真的够意思，直接把我的 SideCalendar 应用介绍文章推到首页了](https://www.v2ex.com/t/1160743)
 1. [各位，你们升级 26 的原因是啥？](https://www.v2ex.com/t/1160746)
 
 ## 历史归档
