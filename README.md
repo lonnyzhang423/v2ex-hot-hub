@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-22 00:10:37 +0800`
+ `更新时间：2025-09-22 01:07:52 +0800`
 
 ## 热议话题
 
 1. [穷病是终生不可治疗的吗？](https://www.v2ex.com/t/1160882)
 1. [从 Android 换 iPhone , 没有边缘左右滑动返回上一面功能, 太难受了](https://www.v2ex.com/t/1160803)
 1. [用了十来年的 Apple ID 突然被锁](https://www.v2ex.com/t/1160848)
-1. [你们去游泳馆游泳都穿泳衣吗](https://www.v2ex.com/t/1160796)
 1. [数字货币的私钥/助记词，怎么保存是最安全的？](https://www.v2ex.com/t/1160814)
 1. [各位觉得加密货币会取代国家信用货币吗？](https://www.v2ex.com/t/1160842)
-1. [显卡 4060 用来学软件工程？](https://www.v2ex.com/t/1160830)
 1. [安卓主力机推荐](https://www.v2ex.com/t/1160892)
+1. [显卡 4060 用来学软件工程？](https://www.v2ex.com/t/1160830)
+1. [充电器还是老老实实选传统功能单一的](https://www.v2ex.com/t/1160835)
 
 ## 历史归档
 
