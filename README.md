@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-09-24 11:25:14 +0800`
+ `更新时间：2025-09-24 12:12:25 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [大家现在线下支付是用微信还是支付宝多呀？](https://www.v2ex.com/t/1161356)
 1. [当时跟风买了个 MAC mini m4。现在唯一的作用就是当软路由：）](https://www.v2ex.com/t/1161258)
 1. [用 PostgreSQL 存图片等 binary 有什么坑吗](https://www.v2ex.com/t/1161291)
-1. [首发 17Pro，已经出现问题了](https://www.v2ex.com/t/1161249)
 
 ## 历史归档
 
