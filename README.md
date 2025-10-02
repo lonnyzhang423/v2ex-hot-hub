@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-03 06:09:25 +0800`
+ `更新时间：2025-10-03 07:09:17 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [自托管开源相册管理软件（immich）发布了第一个稳定版 v2.0.0](https://www.v2ex.com/t/1163110)
 1. [今年国庆档还有人去看电影吗？](https://www.v2ex.com/t/1163132)
 1. [家里打算给大院装个摄像头，求推荐](https://www.v2ex.com/t/1163121)
-1. [问下大家， m1 有更新 macos26 的吗，可以讲下使用体验吗](https://www.v2ex.com/t/1163173)
 1. [[内购限免] Affinity for iPad 内购限免（3 件套）](https://www.v2ex.com/t/1163129)
+1. [问下大家， m1 有更新 macos26 的吗，可以讲下使用体验吗](https://www.v2ex.com/t/1163173)
 1. [升级 iOS26.1 版本后，微信发视频会卡死，全部是“通话中断”](https://www.v2ex.com/t/1163113)
 1. [有可以玩游戏的虚拟机程序吗？](https://www.v2ex.com/t/1163149)
 
