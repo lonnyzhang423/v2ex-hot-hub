@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-03 07:09:17 +0800`
+ `更新时间：2025-10-03 08:47:33 +0800`
 
 ## 热议话题
 
-1. [连街边的煎饼都是预制的](https://www.v2ex.com/t/1163112)
-1. [国内有没有适合清修的地方](https://www.v2ex.com/t/1163111)
 1. [避雷 V 站站内推广的云雾 API , 已经把我坑死了 .](https://www.v2ex.com/t/1163131)
-1. [自托管开源相册管理软件（immich）发布了第一个稳定版 v2.0.0](https://www.v2ex.com/t/1163110)
 1. [今年国庆档还有人去看电影吗？](https://www.v2ex.com/t/1163132)
 1. [家里打算给大院装个摄像头，求推荐](https://www.v2ex.com/t/1163121)
 1. [[内购限免] Affinity for iPad 内购限免（3 件套）](https://www.v2ex.com/t/1163129)
 1. [问下大家， m1 有更新 macos26 的吗，可以讲下使用体验吗](https://www.v2ex.com/t/1163173)
 1. [升级 iOS26.1 版本后，微信发视频会卡死，全部是“通话中断”](https://www.v2ex.com/t/1163113)
+1. [如果你的电脑有前置摄像头，这里有一个有趣的头部追踪 tech demo](https://www.v2ex.com/t/1163175)
 1. [有可以玩游戏的虚拟机程序吗？](https://www.v2ex.com/t/1163149)
+1. [移动电信双卡用 iPhone 有什么好办法吗？](https://www.v2ex.com/t/1163177)
+1. [安卓 7.1.1 的旧手机，还能装些什么软件吗](https://www.v2ex.com/t/1163191)
 
 ## 历史归档
 
