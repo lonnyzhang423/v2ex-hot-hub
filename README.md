@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-04 11:17:21 +0800`
+ `更新时间：2025-10-04 12:11:30 +0800`
 
 ## 热议话题
 
-1. [抛开性价比这个选项，你认为目前写代码最强模型是？](https://www.v2ex.com/t/1163230)
-1. [焦虑症日记：十一也崩溃。](https://www.v2ex.com/t/1163248)
 1. [在北京花 4500 租房，很奢侈么？](https://www.v2ex.com/t/1163297)
+1. [焦虑症日记：十一也崩溃。](https://www.v2ex.com/t/1163248)
 1. [iPhone 17 pro max 充电还挺快的，洗个澡就差不多了](https://www.v2ex.com/t/1163238)
-1. [推荐个安卓机，用来备用的](https://www.v2ex.com/t/1163250)
 1. [对天玑处理器有种某名的抵触,在能选骁龙处理器的情况下 绝对不选天玑](https://www.v2ex.com/t/1163309)
+1. [推荐个安卓机，用来备用的](https://www.v2ex.com/t/1163250)
 1. [最近有 v 友成功在苹果官网买礼品卡成功了吗？求指导](https://www.v2ex.com/t/1163295)
-1. [YouTube Premium 新政策，如何防止被停？](https://www.v2ex.com/t/1163228)
+1. [写了一个 Mac 清理工具 Mole，看看你能清理出多少 GB？](https://www.v2ex.com/t/1163304)
 1. [快三十了，聊聊一千六海拔瘫在床上的身体](https://www.v2ex.com/t/1163292)
+1. [2025 年了 iPhone 照片还有什么非 iCloud 的备份方案吗？](https://www.v2ex.com/t/1163301)
 
 ## 历史归档
 
