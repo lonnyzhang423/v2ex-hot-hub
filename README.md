@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-06 00:10:39 +0800`
+ `更新时间：2025-10-06 01:08:03 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,6 @@
 1. [谷歌账户一直用不了 Gemini，每次都提示所在地区不支持](https://www.v2ex.com/t/1163408)
 1. [只有我一个人觉得有的男的也会让我怦然心动吗？](https://www.v2ex.com/t/1163443)
 1. [自己的写作和表达能力严重下降](https://www.v2ex.com/t/1163394)
-1. [大家有用 vps 当 nas 用的吗？](https://www.v2ex.com/t/1163377)
 1. [14900K 水冷服务器 安装 Linux 系统装不上 Debian ubuntu 都是 但是 win 就没问题什么情况](https://www.v2ex.com/t/1163395)
 1. [48+512 不是一个合理的配置](https://www.v2ex.com/t/1163378)
 
