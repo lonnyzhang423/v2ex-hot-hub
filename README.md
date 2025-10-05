@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-05 10:25:12 +0800`
+ `更新时间：2025-10-05 11:30:31 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [2025 年底了， iPhone 还不支持 VOLTE 视频通话功能吗](https://www.v2ex.com/t/1163361)
 1. [期待更轻薄的 Macbook Air](https://www.v2ex.com/t/1163357)
 1. [难道只有 ROS 支持为不同的客户端分配不同的网关吗？](https://www.v2ex.com/t/1163342)
-1. [国庆待在北京不知道干啥](https://www.v2ex.com/t/1163321)
 1. [现在换手机有推荐的吗？感觉华为小米有点太网红，莫名的有一点反感](https://www.v2ex.com/t/1163358)
+1. [48+512 不是一个合理的配置](https://www.v2ex.com/t/1163378)
+1. [ios26 的 safari 感觉也太难用了吧？搜索栏基本没法正常用](https://www.v2ex.com/t/1163336)
 
 ## 历史归档
 
