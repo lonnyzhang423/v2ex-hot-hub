@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-06 10:18:15 +0800`
+ `更新时间：2025-10-06 11:28:45 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [有开领克的 v 友么，看中了新发布的 08 车型。。。领克的车靠谱不。。。](https://www.v2ex.com/t/1163436)
 1. [自己的写作和表达能力严重下降](https://www.v2ex.com/t/1163394)
 1. [谷歌账户一直用不了 Gemini，每次都提示所在地区不支持](https://www.v2ex.com/t/1163408)
-1. [14900K 水冷服务器 安装 Linux 系统装不上 Debian ubuntu 都是 但是 win 就没问题什么情况](https://www.v2ex.com/t/1163395)
 1. [感觉前端自学后端是不是还是从 Java 开始学比较好？](https://www.v2ex.com/t/1163440)
+1. [14900K 水冷服务器 安装 Linux 系统装不上 Debian ubuntu 都是 但是 win 就没问题什么情况](https://www.v2ex.com/t/1163395)
 
 ## 历史归档
 
