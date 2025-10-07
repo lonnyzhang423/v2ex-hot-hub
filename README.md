@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-07 14:15:45 +0800`
+ `更新时间：2025-10-07 15:10:40 +0800`
 
 ## 热议话题
 
 1. [一代人有一代人的债](https://www.v2ex.com/t/1163533)
-1. [学生党投资建议](https://www.v2ex.com/t/1163510)
 1. [高德地图报了前方限速之后，怎么知道何时出了限速区域](https://www.v2ex.com/t/1163541)
-1. [TCL 电视会自行添加额外的 DNS 服务器](https://www.v2ex.com/t/1163535)
 1. [人生的残酷在于，只有成功了你才有资格解释自己。](https://www.v2ex.com/t/1163572)
+1. [TCL 电视会自行添加额外的 DNS 服务器](https://www.v2ex.com/t/1163535)
 1. [心梗自己用药](https://www.v2ex.com/t/1163542)
 1. [手持 iPhone 15pm，有必要升级到 17PM 吗？](https://www.v2ex.com/t/1163551)
 1. [AI 工程师勇闯 WEB3 Remote (应届+2 年实习经验) AI+Fullstack/Backend Engineer](https://www.v2ex.com/t/1163517)
 1. [请教 海外开发者 的 ios app 上架国内流程](https://www.v2ex.com/t/1163580)
+1. [一直在做后端开发, 想下一份工作做量化交易, 有什么建议吗?](https://www.v2ex.com/t/1163527)
 
 ## 历史归档
 
