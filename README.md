@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-07 20:20:52 +0800`
+ `更新时间：2025-10-07 21:22:12 +0800`
 
 ## 热议话题
 
 1. [怎么引导孩子不看家里电视上的类短视频](https://www.v2ex.com/t/1163618)
 1. [人生的残酷在于，只有成功了你才有资格解释自己。](https://www.v2ex.com/t/1163572)
-1. [高德地图报了前方限速之后，怎么知道何时出了限速区域](https://www.v2ex.com/t/1163541)
 1. [手持 iPhone 15pm，有必要升级到 17PM 吗？](https://www.v2ex.com/t/1163551)
-1. [心梗自己用药](https://www.v2ex.com/t/1163542)
+1. [闲鱼上的美区 apple one 超大杯为什么这么便宜？](https://www.v2ex.com/t/1163598)
 1. [研究生择校求指路！](https://www.v2ex.com/t/1163574)
 1. [请教 海外开发者 的 ios app 上架国内流程](https://www.v2ex.com/t/1163580)
-1. [闲鱼上的美区 apple one 超大杯为什么这么便宜？](https://www.v2ex.com/t/1163598)
 1. [第一次觉得微信和支付宝的小程序是真的好。](https://www.v2ex.com/t/1163616)
+1. [iOS 26 左划返回手势和照片选择器中的滑动选择照片冲突。](https://www.v2ex.com/t/1163557)
+1. [请问怎么把小米手机上的门卡复制到实体门卡里面？](https://www.v2ex.com/t/1163587)
 
 ## 历史归档
 
