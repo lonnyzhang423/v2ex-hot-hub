@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-08 07:09:33 +0800`
+ `更新时间：2025-10-08 08:48:13 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [有万能的 V 友吗？有视频怎么找到是哪个主播？](https://www.v2ex.com/t/1163636)
 1. [国庆 7 天炒美股](https://www.v2ex.com/t/1163624)
 1. [闲鱼上的美区 apple one 超大杯为什么这么便宜？](https://www.v2ex.com/t/1163598)
-1. [研究生择校求指路！](https://www.v2ex.com/t/1163574)
 1. [请教 海外开发者 的 ios app 上架国内流程](https://www.v2ex.com/t/1163580)
 1. [请问怎么把小米手机上的门卡复制到实体门卡里面？](https://www.v2ex.com/t/1163587)
-1. [新注册 Gmail 邮箱提示手机号不能用于验证](https://www.v2ex.com/t/1163607)
 1. [shellcrash 的 dns 泄漏该怎么解决？](https://www.v2ex.com/t/1163611)
+1. [iPhone 17 pro 各位 V 友推荐什么壳？](https://www.v2ex.com/t/1163649)
+1. [新注册 Gmail 邮箱提示手机号不能用于验证](https://www.v2ex.com/t/1163607)
 
 ## 历史归档
 
