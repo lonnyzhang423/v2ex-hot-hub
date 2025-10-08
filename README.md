@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-09 04:11:36 +0800`
+ `更新时间：2025-10-09 05:08:53 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [想要个新论坛](https://www.v2ex.com/t/1163745)
 1. [你们开发新项目是找个开源后台管理框架开始，还是从 0 自己写？](https://www.v2ex.com/t/1163677)
 1. [域名还要续费吗](https://www.v2ex.com/t/1163751)
-1. [想要更新手里的 iPhone ，在 17 Pro 和 17 Pro Max 之间犹豫不决](https://www.v2ex.com/t/1163701)
+1. [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
 
 ## 历史归档
 
