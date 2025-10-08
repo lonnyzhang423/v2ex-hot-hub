@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-08 10:15:09 +0800`
+ `更新时间：2025-10-08 11:23:28 +0800`
 
 ## 热议话题
 
 1. [怎么引导孩子不看家里电视上的类短视频](https://www.v2ex.com/t/1163618)
-1. [第一次觉得微信和支付宝的小程序是真的好。](https://www.v2ex.com/t/1163616)
 1. [对我没有生理性喜欢](https://www.v2ex.com/t/1163666)
-1. [有万能的 V 友吗？有视频怎么找到是哪个主播？](https://www.v2ex.com/t/1163636)
+1. [第一次觉得微信和支付宝的小程序是真的好。](https://www.v2ex.com/t/1163616)
 1. [iPhone 17 pro 各位 V 友推荐什么壳？](https://www.v2ex.com/t/1163649)
 1. [国庆 7 天炒美股](https://www.v2ex.com/t/1163624)
+1. [有万能的 V 友吗？有视频怎么找到是哪个主播？](https://www.v2ex.com/t/1163636)
 1. [闲鱼上的美区 apple one 超大杯为什么这么便宜？](https://www.v2ex.com/t/1163598)
-1. [请问怎么把小米手机上的门卡复制到实体门卡里面？](https://www.v2ex.com/t/1163587)
-1. [新注册 Gmail 邮箱提示手机号不能用于验证](https://www.v2ex.com/t/1163607)
+1. [我发现.You 域名后缀出来了 love.you 和 peng.you 都被大佬拿下](https://www.v2ex.com/t/1163664)
 1. [shellcrash 的 dns 泄漏该怎么解决？](https://www.v2ex.com/t/1163611)
+1. [总是控制不住的反刍、自责。有人帮忙给点建议吗？](https://www.v2ex.com/t/1163656)
 
 ## 历史归档
 
