@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-09 16:14:20 +0800`
+ `更新时间：2025-10-09 17:11:38 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,6 @@
 1. [老婆比较独立的女性](https://www.v2ex.com/t/1163804)
 1. [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
 1. [新车提车及车险购买](https://www.v2ex.com/t/1163781)
-1. [域名还要续费吗](https://www.v2ex.com/t/1163751)
 
 ## 历史归档
 
