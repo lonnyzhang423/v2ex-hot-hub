@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-09 15:10:23 +0800`
+ `更新时间：2025-10-09 16:14:20 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [父亲想在老家建房保宅基地，但预计不会居住，该不该建？](https://www.v2ex.com/t/1163795)
 1. [国庆假期结束，说说你在高速上红温的瞬间](https://www.v2ex.com/t/1163792)
 1. [无意看到老婆和她爸的聊天记录，有点困惑，想问问大家意见](https://www.v2ex.com/t/1163820)
-1. [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
 1. [日本初体验](https://www.v2ex.com/t/1163825)
 1. [老婆比较独立的女性](https://www.v2ex.com/t/1163804)
+1. [马上上班了 Codex/Claude 对 V 友开 3000 积分大概 1000 万 token](https://www.v2ex.com/t/1163760)
 1. [新车提车及车险购买](https://www.v2ex.com/t/1163781)
 1. [域名还要续费吗](https://www.v2ex.com/t/1163751)
 
