@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-15 12:12:42 +0800`
+ `更新时间：2025-10-15 13:10:52 +0800`
 
 ## 热议话题
 
-1. [小米狠狠的羡慕 VIVO 用户了](https://www.v2ex.com/t/1165207)
 1. [相亲对象二选一](https://www.v2ex.com/t/1165327)
-1. [京东的 offer 要不要拿？](https://www.v2ex.com/t/1165131)
+1. [小米狠狠的羡慕 VIVO 用户了](https://www.v2ex.com/t/1165207)
 1. [结合昨天 SU7 无法开门的新闻，这种纯电控门把手会召回吗](https://www.v2ex.com/t/1165156)
+1. [京东的 offer 要不要拿？](https://www.v2ex.com/t/1165131)
 1. [iPhone13，用了 3 年，电池 79%，除了官方换电池，还有什么靠谱的路子或者电池品牌推荐？](https://www.v2ex.com/t/1165157)
 1. [微软的 Edge 也挺好用的，但有哪个瞬间，让你想切换回 Chrome？](https://www.v2ex.com/t/1165132)
 1. [大家睡觉的时候带耳塞吗；如何应对睡眠时候的噪音](https://www.v2ex.com/t/1165271)
