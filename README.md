@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-19 02:12:47 +0800`
+ `更新时间：2025-10-19 03:06:55 +0800`
 
 ## 热议话题
 
-1. [求助献血](https://www.v2ex.com/t/1166554)
 1. [体验 2 天 Android（vivo X300 Pro），说说与 iOS 相比优缺点](https://www.v2ex.com/t/1166566)
+1. [求助献血](https://www.v2ex.com/t/1166554)
 1. [著名物理学家杨振宁逝世](https://www.v2ex.com/t/1166595)
 1. [现在入 16PM 二手 7000 多性价比如何？](https://www.v2ex.com/t/1166558)
 1. [为什么人心总是难满足？](https://www.v2ex.com/t/1166567)
