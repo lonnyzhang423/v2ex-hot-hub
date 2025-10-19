@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-20 06:09:26 +0800`
+ `更新时间：2025-10-20 07:09:06 +0800`
 
 ## 热议话题
 
 1. [如果微信现在开始收费，大家还是用吧。](https://www.v2ex.com/t/1166724)
 1. [8 年租房生活，以跟房东大吵一架结束](https://www.v2ex.com/t/1166739)
-1. [祝自己生日快乐](https://www.v2ex.com/t/1166702)
 1. [拿了个深圳两年前端降薪 offer，南山 7k ，接吗](https://www.v2ex.com/t/1166704)
+1. [祝自己生日快乐](https://www.v2ex.com/t/1166702)
 1. [看到讨论 Linux 桌面的帖子，想问问现在跑 Linux 的笔记本有哪些推荐](https://www.v2ex.com/t/1166736)
 1. [今年 iPhone17PM 带实体 SIM 的电池相遇对纯 eSIM 机型少了 265mAh，实际使用感受差距大不大。](https://www.v2ex.com/t/1166721)
 1. [记因 API 第一次挨同事骂](https://www.v2ex.com/t/1166753)
