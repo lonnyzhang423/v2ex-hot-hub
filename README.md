@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-19 11:39:56 +0800`
+ `更新时间：2025-10-19 12:13:55 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [公司给研发从 i5 台式机换到 Mac mini 但内存配置让我有点无语 / 你们配的是什么电脑？](https://www.v2ex.com/t/1166639)
 1. [忘了今年是 5G 出来的第几年了，用 5G 的时间应该加起来不到一个月](https://www.v2ex.com/t/1166653)
 1. [2025 年 node 项目，乱成一锅粥的 typescript ESM import 写法该怎么选？](https://www.v2ex.com/t/1166656)
-1. [AI Coding 其实也挺累的](https://www.v2ex.com/t/1166628)
 1. [祝自己生日快乐](https://www.v2ex.com/t/1166702)
+1. [AI Coding 其实也挺累的](https://www.v2ex.com/t/1166628)
 
 ## 历史归档
 
