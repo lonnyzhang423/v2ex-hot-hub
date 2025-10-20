@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-20 20:20:55 +0800`
+ `更新时间：2025-10-20 21:22:30 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [[纯吐槽] 500 块接了个 AI 小项目，周末 vibecoding 连搞 2 天， cursor 额度烧没了也没搞出来](https://www.v2ex.com/t/1166887)
 1. [今年双十一囤点啥各位](https://www.v2ex.com/t/1166858)
 1. [一个 github 开源的 issue 十多年没有解决，另一个新生的同类项目解决了，在 issue 里回复了一条消息被隐藏，大家如何看？](https://www.v2ex.com/t/1166845)
-1. [预算有限，想入一台 MacBookPro 做开发， M1pro 2025 年还能再战几年？](https://www.v2ex.com/t/1166804)
+1. [脑子一热配了台万元机……](https://www.v2ex.com/t/1166985)
 
 ## 历史归档
 
