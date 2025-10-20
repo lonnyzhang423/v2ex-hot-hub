@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-20 14:17:02 +0800`
+ `更新时间：2025-10-20 15:11:44 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [预算有限，想入一台 MacBookPro 做开发， M1pro 2025 年还能再战几年？](https://www.v2ex.com/t/1166804)
 1. [为什么喜欢跑马拉松？](https://www.v2ex.com/t/1166822)
 1. [[纯吐槽] 500 块接了个 AI 小项目，周末 vibecoding 连搞 2 天， cursor 额度烧没了也没搞出来](https://www.v2ex.com/t/1166887)
-1. [150 亿美元的比特币被没收，比特币还安全吗](https://www.v2ex.com/t/1166772)
-1. [求推荐一本有意义的书籍](https://www.v2ex.com/t/1166861)
+1. [关于计算机在读的小舅子的就业问题](https://www.v2ex.com/t/1166930)
+1. [现在学 Java 算 49 年入国军吗](https://www.v2ex.com/t/1166867)
 
 ## 历史归档
 
