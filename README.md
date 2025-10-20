@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-20 12:16:40 +0800`
+ `更新时间：2025-10-20 13:11:13 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [祝自己三十岁生日快乐（终于轮到我发了）](https://www.v2ex.com/t/1166860)
 1. [看到讨论 Linux 桌面的帖子，想问问现在跑 Linux 的笔记本有哪些推荐](https://www.v2ex.com/t/1166736)
 1. [一个 github 开源的 issue 十多年没有解决，另一个新生的同类项目解决了，在 issue 里回复了一条消息被隐藏，大家如何看？](https://www.v2ex.com/t/1166845)
-1. [预算有限，想入一台 MacBookPro 做开发， M1pro 2025 年还能再战几年？](https://www.v2ex.com/t/1166804)
 1. [建一个美股交流群，欢迎参与讨论 [回复送铜币]](https://www.v2ex.com/t/1166916)
+1. [预算有限，想入一台 MacBookPro 做开发， M1pro 2025 年还能再战几年？](https://www.v2ex.com/t/1166804)
 1. [150 亿美元的比特币被没收，比特币还安全吗](https://www.v2ex.com/t/1166772)
 1. [为什么喜欢跑马拉松？](https://www.v2ex.com/t/1166822)
 
