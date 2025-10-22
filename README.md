@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-22 15:10:51 +0800`
+ `更新时间：2025-10-22 16:16:30 +0800`
 
 ## 热议话题
 
 1. [感觉被骗婚了，怎么办](https://www.v2ex.com/t/1167477)
 1. [车真的有那么吸引人？](https://www.v2ex.com/t/1167462)
-1. [想了解一下大家每月固定的会员支出有什么](https://www.v2ex.com/t/1167457)
 1. [[买车]30 岁生日，我给父母买了辆车作为礼物](https://www.v2ex.com/t/1167395)
+1. [想了解一下大家每月固定的会员支出有什么](https://www.v2ex.com/t/1167457)
 1. [长途大巴上闹肚子了该怎么办.....](https://www.v2ex.com/t/1167499)
 1. [该不该买摩托车？](https://www.v2ex.com/t/1167374)
-1. [建行立减金 6 元领取](https://www.v2ex.com/t/1167464)
 1. [可能要被裁了，不是很想工作了，失业之后搞一个失业生存的直播怎么样？](https://www.v2ex.com/t/1167467)
+1. [建行立减金 6 元领取](https://www.v2ex.com/t/1167464)
 1. [VScode, Cursor, Kiro, Windsurf， Zed 作为 AI 编辑器只留一个留哪个](https://www.v2ex.com/t/1167490)
 1. [有没有从当前文件夹快速打开终端的方法，不限 mac/win](https://www.v2ex.com/t/1167454)
 
