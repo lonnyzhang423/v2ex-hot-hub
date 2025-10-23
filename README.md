@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-23 17:12:08 +0800`
+ `更新时间：2025-10-23 18:12:08 +0800`
 
 ## 热议话题
 
@@ -21,11 +21,10 @@
 1. [双十一，从苹果人变成安卓人](https://www.v2ex.com/t/1167757)
 1. [关于新来的技术 leader 准备用 Claude code 升级现有项目](https://www.v2ex.com/t/1167789)
 1. [果不其然， iPhone Air 扑街了](https://www.v2ex.com/t/1167722)
-1. [苹果的玻璃化风格，是一次很成功设计新风格吗？能客观评价下吗？](https://www.v2ex.com/t/1167680)
 1. [打算买车，求推荐](https://www.v2ex.com/t/1167766)
+1. [苹果的玻璃化风格，是一次很成功设计新风格吗？能客观评价下吗？](https://www.v2ex.com/t/1167680)
+1. [按现在标准来看，我老婆真能算贤妻良母](https://www.v2ex.com/t/1167927)
 1. [分享一个最近发现的高颜值社区](https://www.v2ex.com/t/1167753)
-1. [[彭博社] 白宫称美国考虑对中国实施广泛的软件限制措施
-US Considers Broad Software Curbs on China, White House Says](https://www.v2ex.com/t/1167732)
 
 ## 历史归档
 
