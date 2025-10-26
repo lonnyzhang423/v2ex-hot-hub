@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-26 16:12:51 +0800`
+ `更新时间：2025-10-26 17:09:38 +0800`
 
 ## 热议话题
 
 1. [非引战，真的会有用户 5k+ 买红米当主力机吗？🥺](https://www.v2ex.com/t/1168361)
 1. [国内购物售后体验真是差到想爆出口](https://www.v2ex.com/t/1168390)
 1. [提个醒，一直以为只有出金会冻卡，现在入金他们也有办法锁卡了](https://www.v2ex.com/t/1168381)
-1. [日经话题之 iOS 代理软件求推荐](https://www.v2ex.com/t/1168330)
 1. [即将购买人生的第一套房子，该如何抉择](https://www.v2ex.com/t/1168356)
+1. [日经话题之 iOS 代理软件求推荐](https://www.v2ex.com/t/1168330)
 1. [失业待业中，已经躺平了，工作找两周没找着](https://www.v2ex.com/t/1168325)
-1. [其实 air 的手感真不错](https://www.v2ex.com/t/1168320)
 1. [Spring boot 框架真有那么完美吗](https://www.v2ex.com/t/1168385)
 1. [IOS 苦摇一摇广告久矣](https://www.v2ex.com/t/1168406)
 1. [尝试自媒体一周年总结](https://www.v2ex.com/t/1168333)
+1. [美区已经无法下载工行、建行、兴业等银行 APP](https://www.v2ex.com/t/1168383)
 
 ## 历史归档
 
