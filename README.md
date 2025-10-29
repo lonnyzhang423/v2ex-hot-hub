@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-10-29 13:11:27 +0800`
+ `更新时间：2025-10-29 14:17:19 +0800`
 
 ## 热议话题
 
 1. [来说说我和小 9 岁女生的爱情故事](https://www.v2ex.com/t/1168960)
 1. [看到个帖子说酒席 6~7000 一桌的，让我大开眼界！想见识下大家的](https://www.v2ex.com/t/1168928)
-1. [你们有什么副业吗](https://www.v2ex.com/t/1168877)
-1. [有没有好用的内衣内裤洗衣机推荐？](https://www.v2ex.com/t/1168883)
 1. [余生还很长，多对自己好点。](https://www.v2ex.com/t/1169037)
+1. [误入包养圈，陷入了人生的大思考。](https://www.v2ex.com/t/1169124)
+1. [抵触小米的原因思考](https://www.v2ex.com/t/1169098)
 1. [原来我们生来就不是一条赛道啊](https://www.v2ex.com/t/1168970)
 1. [工作日睡眠低于 7 小时我就会很烦躁，大家每天睡眠都多久？](https://www.v2ex.com/t/1169042)
-1. [两个月重度使用 AI Code Agent：普通一线程序员的思考和感想](https://www.v2ex.com/t/1168880)
-1. [抵触小米的原因思考](https://www.v2ex.com/t/1169098)
+1. [“尾巴”是读 yǐ还是 wěi？](https://www.v2ex.com/t/1169109)
 1. [黄金最近大跌](https://www.v2ex.com/t/1168934)
+1. [Linux Do 为何发展得如此之快？](https://www.v2ex.com/t/1169086)
 
 ## 历史归档
 
