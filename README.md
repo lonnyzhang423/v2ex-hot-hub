@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-01 11:37:44 +0800`
+ `更新时间：2025-11-01 12:12:13 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [多邻国连续七百多天，原来是自娱自乐](https://www.v2ex.com/t/1169689)
 1. [第一次发贴，祝我生日快乐吧](https://www.v2ex.com/t/1169734)
 1. [v 友们，十月你赚了多少？](https://www.v2ex.com/t/1169706)
-1. [[毁约]终于开始理解现在招人都喜欢多发 Offer](https://www.v2ex.com/t/1169654)
 1. [记一次失败的 iPhone 购物经历](https://www.v2ex.com/t/1169679)
 1. [V 友们专属 🎉 cc && codex 抽 月卡！ 10 张~](https://www.v2ex.com/t/1169752)
 1. [支付宝碰一下可以领 6 元](https://www.v2ex.com/t/1169699)
+1. [下午 AL 能赢 T1 吗](https://www.v2ex.com/t/1169720)
 
 ## 历史归档
 
