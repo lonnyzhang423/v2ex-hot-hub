@@ -11,12 +11,10 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-05 22:11:01 +0800`
+ `更新时间：2025-11-05 23:11:33 +0800`
 
 ## 热议话题
 
-1. [要离婚了](https://www.v2ex.com/t/1170529)
-1. [[回复抽红包] [上海|长春|合肥|Remote+海外出差] Agentic 研发工程师](https://www.v2ex.com/t/1170530)
 1. [大家会让另一半看你手机吗？](https://www.v2ex.com/t/1170600)
 1. [房地产后的下一个支柱产业是什么，芯片吗](https://www.v2ex.com/t/1170586)
 1. [接了个私活，要给领导表示表示吗？](https://www.v2ex.com/t/1170620)
@@ -24,6 +22,8 @@
 1. [例行提醒：北京地区惠民保开卖了，能买尽买](https://www.v2ex.com/t/1170545)
 1. [code review 把国外的同事气到吐血](https://www.v2ex.com/t/1170635)
 1. [日经吐槽：现在的 Java 语言真的有点令人恶心](https://www.v2ex.com/t/1170596)
+1. [目前你使用的是什么浏览器？](https://www.v2ex.com/t/1170711)
+1. [我愿称之为 iOS 26.1 史诗级更新](https://www.v2ex.com/t/1170573)
 
 ## 历史归档
 
