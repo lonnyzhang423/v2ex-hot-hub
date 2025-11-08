@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-08 10:18:26 +0800`
+ `更新时间：2025-11-08 11:29:38 +0800`
 
 ## 热议话题
 
-1. [(抽奖)卖自家种的五常大米](https://www.v2ex.com/t/1171146)
 1. [现在的大学生这么能超前消费吗](https://www.v2ex.com/t/1171186)
 1. [(抽奖)卖自家种的爱媛果冻橙](https://www.v2ex.com/t/1171269)
-1. [全运会期间封网，是为什么呢？](https://www.v2ex.com/t/1171166)
 1. [谈人形机器人的未来应用](https://www.v2ex.com/t/1171201)
 1. [年底了， 大家公司开始裁员了不](https://www.v2ex.com/t/1171198)
-1. [国产大模型的“新闻”似乎好久没看到百度这个“首发”者的身影了](https://www.v2ex.com/t/1171172)
-1. [好奇，绩效是不是一种服从性测试？](https://www.v2ex.com/t/1171162)
 1. [大佬们有没有推荐的 [youtube， x， ins] 上的博主或者频道吗？](https://www.v2ex.com/t/1171199)
+1. [ChatGPT,Gemini,Claude 最佳付费方式是什么？](https://www.v2ex.com/t/1171184)
+1. [关于购买车位的心路历程（最后没有买）](https://www.v2ex.com/t/1171256)
+1. [香港中银和渣打的银联卡绑不了支付宝了吗](https://www.v2ex.com/t/1171282)
+1. [有在用 flutter 的朋友吗，官方为何连这样基础的功能都不支持？](https://www.v2ex.com/t/1171228)
 
 ## 历史归档
 
