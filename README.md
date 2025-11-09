@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-09 21:17:02 +0800`
+ `更新时间：2025-11-09 22:08:05 +0800`
 
 ## 热议话题
 
 1. [这个事真让我最国内商家信任降到最低](https://www.v2ex.com/t/1171469)
-1. [todesk 简直是我用过的软件中最恶心，最垃圾的没有之一](https://www.v2ex.com/t/1171437)
 1. [我恋爱经验不多，也没咋上过班。有个情感问题想问下各位](https://www.v2ex.com/t/1171477)
 1. [吐槽一下买车遇到的糟心事，也希望各位给点建议](https://www.v2ex.com/t/1171443)
 1. [国内提电商是真的难搞,PDD 真是跪舔客户](https://www.v2ex.com/t/1171478)
-1. [帮侄女买笔记本，求推荐 6000 左右](https://www.v2ex.com/t/1171509)
 1. [在深圳开个兰州牛肉面店可行么](https://www.v2ex.com/t/1171510)
+1. [帮侄女买笔记本，求推荐 6000 左右](https://www.v2ex.com/t/1171509)
 1. [v2ex 怎么贴图片？](https://www.v2ex.com/t/1171462)
-1. [iPhone Air 国行 eSIM 策略实测及分析 (2025 年 11 月 8 日， iOS 26.1)](https://www.v2ex.com/t/1171440)
 1. [使用 Linux 作为透明网关的最佳实践？](https://www.v2ex.com/t/1171533)
+1. [有一些 Golang/k8s 基础，想转行做 云原生开发 我还需要学什么？](https://www.v2ex.com/t/1171459)
+1. [如果公网 ip 丢了的话，远程串流玩游戏是不是也没戏了](https://www.v2ex.com/t/1171484)
 
 ## 历史归档
 
