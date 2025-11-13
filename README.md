@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-13 08:53:21 +0800`
+ `更新时间：2025-11-13 10:28:54 +0800`
 
 ## 热议话题
 
-1. [骂醒此龟！](https://www.v2ex.com/t/1172194)
-1. [火绒 niubility，撕开鲁大师为首系列企业流量劫持黑幕](https://www.v2ex.com/t/1172169)
-1. [今年双 11 你们买了什么](https://www.v2ex.com/t/1172164)
-1. [每天上班都陷入巨大的内耗，何解？](https://www.v2ex.com/t/1172167)
 1. [对于男人来说，难道结婚就没有一点好处吗？](https://www.v2ex.com/t/1172235)
-1. [好奇大家如何存储账号密码、F2A 以及各种私钥的](https://www.v2ex.com/t/1172192)
 1. [[限时永久免费] 做了一个软件，让 Windows 也能像 Mac 一样，通过 Apple Watch / iPhone 靠近解锁](https://www.v2ex.com/t/1172240)
-1. [老哥们，请问如果你们有 100W 现金，有车有娃无房，无负债。你们怎么规划？](https://www.v2ex.com/t/1172196)
-1. [想买个安卓机](https://www.v2ex.com/t/1172173)
+1. [分享下痔疮手术过程，只想快点刀了它个狗日的。](https://www.v2ex.com/t/1172317)
 1. [你在使用什么颜色主题](https://www.v2ex.com/t/1172219)
+1. [Vibe Coding 提效显著，一年项目体验历程](https://www.v2ex.com/t/1172258)
+1. [大龄剩女都不好追？](https://www.v2ex.com/t/1172308)
+1. [中大型 suv 推荐](https://www.v2ex.com/t/1172424)
+1. [现在还有用 10 系显卡的吗？](https://www.v2ex.com/t/1172423)
+1. [突然看到那位坚持写了五年心得的博主停更了，最后一句是“不可控”](https://www.v2ex.com/t/1172419)
+1. [网易 UU 远程是怎么做到比本地自建服务器的 rustdesk 还流畅丝滑的？](https://www.v2ex.com/t/1172237)
 
 ## 历史归档
 
