@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-16 13:10:33 +0800`
+ `更新时间：2025-11-16 14:15:39 +0800`
 
 ## 热议话题
 
 1. [[后续 5] 我申请福建通信管理局公开对泉州联通的责令整改内容，结果来了](https://www.v2ex.com/t/1172995)
 1. [OneClip——Mac 粘贴板应用｜进入稳定版，欢迎体验！](https://www.v2ex.com/t/1173017)
-1. [今天周六，还有多少上班的呢？](https://www.v2ex.com/t/1172978)
 1. [推荐用 WPS 阅读外文 PDF](https://www.v2ex.com/t/1173043)
+1. [讲一个你最离不开苹果生态的原因？](https://www.v2ex.com/t/1173061)
 1. [如何联系运营商将 NAT 类型改为「NAT 1」](https://www.v2ex.com/t/1173005)
-1. [n5105 如何调整待机功耗](https://www.v2ex.com/t/1172979)
-1. [老人独居风险高 今天差点火灾](https://www.v2ex.com/t/1172975)
 1. [iphone15 电池 500 循环 77%健康度](https://www.v2ex.com/t/1173042)
-1. [想请教一个问题，如果说，在机房有 200 台华为 2288Hv5 的机器，做点啥能赚点小钱？](https://www.v2ex.com/t/1172977)
 1. [VPS 持续高带宽下载却无法定位进程](https://www.v2ex.com/t/1172982)
+1. [来聊聊智驾的路线和方法论的思考吧](https://www.v2ex.com/t/1173014)
+1. [使用移动宽带和阿里 DNS，大陆有服务器的 Google 域名被解析到境外的服务器](https://www.v2ex.com/t/1172992)
 
 ## 历史归档
 
