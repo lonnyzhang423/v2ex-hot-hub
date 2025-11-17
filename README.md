@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-17 14:17:49 +0800`
+ `更新时间：2025-11-17 15:11:47 +0800`
 
 ## 热议话题
 
 1. [外资撤离中国什么原因？](https://www.v2ex.com/t/1173174)
+1. [packycode：物美价廉的 claude code、codex 转发～「送余额」](https://www.v2ex.com/t/1173250)
 1. [说出一个你认识到这个世界真的就是一个巨大的草台班子的例子](https://www.v2ex.com/t/1173092)
+1. [关于是否借钱，听了老婆的，豁然开朗！](https://www.v2ex.com/t/1173154)
 1. [怎么办，看见好看的女孩就喜欢](https://www.v2ex.com/t/1173097)
 1. [内存条涨上天了](https://www.v2ex.com/t/1173148)
 1. [上班后时间多，学一门外语和学一门乐器，哪个划算？](https://www.v2ex.com/t/1173085)
-1. [关于是否借钱，听了老婆的，豁然开朗！](https://www.v2ex.com/t/1173154)
 1. [十年韭菜的顿悟：炒股的密码是“等待”](https://www.v2ex.com/t/1173121)
-1. [packycode：物美价廉的 claude code、codex 转发～「送余额」](https://www.v2ex.com/t/1173250)
 1. [有没有老哥肉身在西雅图,求证一下最近刷到的 B 站 up@斯奎齐大王的关于西雅图万圣节冰雨夜的直播内容](https://www.v2ex.com/t/1173175)
 1. [券商低佣开户万 0.854 免 5，送五常大米！ [评论抽奖送好礼] ！](https://www.v2ex.com/t/1173149)
 
