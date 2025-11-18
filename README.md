@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-19 00:14:23 +0800`
+ `更新时间：2025-11-19 01:11:25 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [我的父母真的爱我吗](https://www.v2ex.com/t/1173441)
 1. [喜欢开大点的车，还是喜欢轿车？](https://www.v2ex.com/t/1173427)
 1. [别人先出手攻击我的话，如何合法维护自己的权益？](https://www.v2ex.com/t/1173439)
-1. [淘宝闪购为什么那么便宜？](https://www.v2ex.com/t/1173414)
 1. [国内的 nas 会不会被监控](https://www.v2ex.com/t/1173464)
+1. [淘宝闪购为什么那么便宜？](https://www.v2ex.com/t/1173414)
 1. [大家会记录自己做的梦吗](https://www.v2ex.com/t/1173422)
 1. [活久见， Cloudflare 香港崩了](https://www.v2ex.com/t/1173587)
 1. [已经 8.9W 了 不管了 买了一个 BTC](https://www.v2ex.com/t/1173487)
