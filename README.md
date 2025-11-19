@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-19 08:53:16 +0800`
+ `更新时间：2025-11-19 10:26:06 +0800`
 
 ## 热议话题
 
-1. [想给父母买个小房子，媳妇不同意怎么办？](https://www.v2ex.com/t/1173432)
 1. [我的父母真的爱我吗](https://www.v2ex.com/t/1173441)
-1. [喜欢开大点的车，还是喜欢轿车？](https://www.v2ex.com/t/1173427)
 1. [国内的 nas 会不会被监控](https://www.v2ex.com/t/1173464)
 1. [别人先出手攻击我的话，如何合法维护自己的权益？](https://www.v2ex.com/t/1173439)
-1. [淘宝闪购为什么那么便宜？](https://www.v2ex.com/t/1173414)
-1. [大家会记录自己做的梦吗](https://www.v2ex.com/t/1173422)
-1. [活久见， Cloudflare 香港崩了](https://www.v2ex.com/t/1173587)
 1. [已经 8.9W 了 不管了 买了一个 BTC](https://www.v2ex.com/t/1173487)
+1. [活久见， Cloudflare 香港崩了](https://www.v2ex.com/t/1173587)
+1. [Mac Mini 硬盘买小了 现在用两天就要清数据, 怎么破](https://www.v2ex.com/t/1173460)
+1. [如何评价昨天的 Cloudflare 故障，对你有什么影响吗](https://www.v2ex.com/t/1173630)
+1. [元旦 8 天假期，想出去走走，又不知道去哪](https://www.v2ex.com/t/1173444)
+1. [这次 cloudflare 宕机是什么原因造成的？](https://www.v2ex.com/t/1173600)
+1. [众安银行的 root 检测无敌了](https://www.v2ex.com/t/1173502)
 
 ## 历史归档
 
