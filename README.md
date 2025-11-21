@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-21 12:14:07 +0800`
+ `更新时间：2025-11-21 13:11:28 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [未来属于 PHP](https://www.v2ex.com/t/1174079)
 1. [鸿蒙座舱 L3](https://www.v2ex.com/t/1174106)
 1. [现在的零零后工作方式都这样吗？我感觉自己真老了](https://www.v2ex.com/t/1174121)
-1. [现在有多少大学生是知道 bitwarden 的？](https://www.v2ex.com/t/1174074)
 1. [你这一辈子，悟出一个最大的道理是什么?](https://www.v2ex.com/t/1174140)
+1. [现在有多少大学生是知道 bitwarden 的？](https://www.v2ex.com/t/1174074)
 1. [终于登进 Google Antigravity 了，提供给大家参考](https://www.v2ex.com/t/1173975)
 
 ## 历史归档
