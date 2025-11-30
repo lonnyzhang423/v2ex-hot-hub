@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-11-30 17:10:27 +0800`
+ `更新时间：2025-11-30 18:10:21 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [基于 KVM 的虚拟化（PVE/unraid/oVirt/Openstack），现在能实现 Win 虚拟机下的 3D 加速吗？](https://www.v2ex.com/t/1175892)
 1. [高风险，低收益——也许我们不该碰运气](https://www.v2ex.com/t/1175902)
 1. [想要开通 cf 的付费策略，但是苦于没有外币卡](https://www.v2ex.com/t/1175896)
+1. [AI 没有替代程序员是因为程序员比 AI 便宜？](https://www.v2ex.com/t/1175908)
 1. [justmysocks 被套路了吗还是整体质量下降了](https://www.v2ex.com/t/1175869)
-1. [有事必帮，但经常被骂每次都是严厉教育人的领导怎么办？](https://www.v2ex.com/t/1175886)
 
 ## 历史归档
 
