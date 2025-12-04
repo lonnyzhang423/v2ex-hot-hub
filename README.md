@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-04 07:08:56 +0800`
+ `更新时间：2025-12-04 08:54:21 +0800`
 
 ## 热议话题
 
-1. [中国运营商的网络维护成本越来越大了。抓上传流量大的只会越来越普遍](https://www.v2ex.com/t/1176519)
 1. [找对象为什么要找体制内的，四博 AI 小黄鸭做活动 50 元一个](https://www.v2ex.com/t/1176584)
+1. [中国运营商的网络维护成本越来越大了。抓上传流量大的只会越来越普遍](https://www.v2ex.com/t/1176519)
 1. [马斯克称中国人几乎离不开微信， X 目标打造成微信升级版](https://www.v2ex.com/t/1176515)
 1. [有个外企银行的 offer，应该接吗](https://www.v2ex.com/t/1176576)
 1. [B 站有个 up 主叫“聊会电影吧”](https://www.v2ex.com/t/1176545)
+1. [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
 1. [最近去香港办个港卡，有什么好建议没？](https://www.v2ex.com/t/1176525)
 1. [上班是不是损耗健康](https://www.v2ex.com/t/1176524)
-1. [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
 1. [[Photo Cleaner] 一键清理 iPhone 重复照片，永久会员免费送](https://www.v2ex.com/t/1176684)
-1. [妙控板 vs 妙控鼠标](https://www.v2ex.com/t/1176511)
+1. [炸裂 ~~ iCloud Keychain 被同步清空](https://www.v2ex.com/t/1176663)
 
 ## 历史归档
 
