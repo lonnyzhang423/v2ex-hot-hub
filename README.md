@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-04 13:11:50 +0800`
+ `更新时间：2025-12-04 14:18:08 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [最近搬家，快递不送上门，怎么解](https://www.v2ex.com/t/1176811)
 1. [炸裂 ~~ iCloud Keychain 被同步清空](https://www.v2ex.com/t/1176663)
 1. [特斯拉不愧是 [驾驶者] 之车](https://www.v2ex.com/t/1176785)
+1. [为什么越来越多中医黑？](https://www.v2ex.com/t/1176862)
 1. [来自一个被 [平板只有 iPad 和其他] 忽悠瘸了的 iPad 用户的吐槽](https://www.v2ex.com/t/1176739)
 1. [又是春熙路](https://www.v2ex.com/t/1176661)
-1. [我，吃饱了撑的注册了个域名， Cloudflare 账号没了，不建议将域名放在 Cloudflare](https://www.v2ex.com/t/1176691)
 1. [给父母补交农村养老保险](https://www.v2ex.com/t/1176683)
 
 ## 历史归档
