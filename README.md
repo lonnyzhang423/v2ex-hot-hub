@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-06 00:13:58 +0800`
+ `更新时间：2025-12-06 01:11:28 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [已婚人士请进，你们结婚女方陪嫁是什么?](https://www.v2ex.com/t/1177131)
 1. [男同胞们，求推荐一款护手霜](https://www.v2ex.com/t/1177080)
 1. [2026 年开始将没有人会 review vibe coding 的代码，就像没人会 review 编译器的输出结果一样](https://www.v2ex.com/t/1177023)
-1. [Cloudflare 貌似又挂了](https://www.v2ex.com/t/1177174)
 1. [饿了么正式更名为淘宝闪购](https://www.v2ex.com/t/1177044)
+1. [Cloudflare 貌似又挂了](https://www.v2ex.com/t/1177174)
 
 ## 历史归档
 
