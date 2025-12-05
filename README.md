@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-05 19:10:56 +0800`
+ `更新时间：2025-12-05 20:22:32 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [男同胞们，求推荐一款护手霜](https://www.v2ex.com/t/1177080)
 1. [感觉程序员使用 vibe coding 接下来左右是个死](https://www.v2ex.com/t/1176989)
 1. [2026 年开始将没有人会 review vibe coding 的代码，就像没人会 review 编译器的输出结果一样](https://www.v2ex.com/t/1177023)
-1. [Cloudflare 貌似又挂了](https://www.v2ex.com/t/1177174)
+1. [你有"睡后"收入吗？](https://www.v2ex.com/t/1176975)
 
 ## 历史归档
 
