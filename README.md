@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-06 07:11:05 +0800`
+ `更新时间：2025-12-06 08:51:59 +0800`
 
 ## 热议话题
 
-1. [感觉现在的智驾挺鸡肋的.现阶段不应该作为车辆评比标准之一.](https://www.v2ex.com/t/1177021)
 1. [网易云会员免费领](https://www.v2ex.com/t/1177053)
 1. [已婚人士请进，你们结婚女方陪嫁是什么?](https://www.v2ex.com/t/1177131)
 1. [男同胞们，求推荐一款护手霜](https://www.v2ex.com/t/1177080)
-1. [2026 年开始将没有人会 review vibe coding 的代码，就像没人会 review 编译器的输出结果一样](https://www.v2ex.com/t/1177023)
 1. [饿了么正式更名为淘宝闪购](https://www.v2ex.com/t/1177044)
 1. [Cloudflare 貌似又挂了](https://www.v2ex.com/t/1177174)
+1. [我有个想法, 就是现在应该发明一种专用于大模型生成的语言](https://www.v2ex.com/t/1177032)
+1. [mac 上有有没有推荐的无线键盘，连接响应速度比较快的？](https://www.v2ex.com/t/1177103)
 
 ## 历史归档
 
