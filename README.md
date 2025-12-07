@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-07 16:13:32 +0800`
+ `更新时间：2025-12-07 17:10:34 +0800`
 
 ## 热议话题
 
 1. [外包转正？让我给遇到了](https://www.v2ex.com/t/1177290)
 1. [WISE 注册注意事项](https://www.v2ex.com/t/1177324)
-1. [梯子开了订阅链接阅后即焚怎么解决？](https://www.v2ex.com/t/1177289)
-1. [为 Arch 推广做了一点微小的事情](https://www.v2ex.com/t/1177286)
 1. [戒烟两年，我算是活明白了](https://www.v2ex.com/t/1177349)
-1. [macbook air 24+512 和 mac mini 32+256 选择问题。。希望有大佬给个意见](https://www.v2ex.com/t/1177301)
 1. [想问一下国内醫院的 it 崗位怎麼樣？](https://www.v2ex.com/t/1177325)
-1. [老哥们咨询一下： Claude Code Max 的使用时长大概能用多久？](https://www.v2ex.com/t/1177285)
+1. [macbook air 24+512 和 mac mini 32+256 选择问题。。希望有大佬给个意见](https://www.v2ex.com/t/1177301)
 1. [轻量级 macOS Clash 菜单栏客户端](https://www.v2ex.com/t/1177328)
+1. [太抽象了，终于是快散了!](https://www.v2ex.com/t/1177291)
+1. [Stripe 激活要求网站域名要和企业名字一致是什么意思？](https://www.v2ex.com/t/1177327)
+1. [成都租房好难啊，求支招哇！](https://www.v2ex.com/t/1177339)
 
 ## 历史归档
 
