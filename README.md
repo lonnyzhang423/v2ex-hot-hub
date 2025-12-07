@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-07 12:25:30 +0800`
+ `更新时间：2025-12-07 13:10:21 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [WISE 注册注意事项](https://www.v2ex.com/t/1177324)
 1. [React 漏洞中招，服务器被用来挖矿](https://www.v2ex.com/t/1177265)
 1. [为 Arch 推广做了一点微小的事情](https://www.v2ex.com/t/1177286)
-1. [吐槽版权保护中心的服务器](https://www.v2ex.com/t/1177262)
+1. [摄影分享-世纪公园银杏季](https://www.v2ex.com/t/1177272)
 
 ## 历史归档
 
