@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-11 22:14:55 +0800`
+ `更新时间：2025-12-11 23:13:25 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [避雷雷鸟电视,突然今天突然强制升级](https://www.v2ex.com/t/1178144)
 1. [要是用 Rust 就不会出问题了](https://www.v2ex.com/t/1178177)
 1. [忽略脸，身高，女生最喜欢什么类型的肌肉？](https://www.v2ex.com/t/1178200)
-1. [过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页](https://www.v2ex.com/t/1178280)
 1. [Gmail 虽好，但主力邮箱感觉还是要 Outlook](https://www.v2ex.com/t/1178237)
+1. [过去 2 周，我用 Gemini 3 把 42 本书，分别转化成了网页](https://www.v2ex.com/t/1178280)
 1. [vivo 加班问题](https://www.v2ex.com/t/1178161)
 
 ## 历史归档
