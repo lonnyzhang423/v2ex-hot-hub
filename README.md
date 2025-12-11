@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-11 11:52:36 +0800`
+ `更新时间：2025-12-11 12:27:06 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [上班开发自掏腰包用 AI 编程合适吗？](https://www.v2ex.com/t/1178166)
 1. [我觉得豆包手机是大势所趋](https://www.v2ex.com/t/1178012)
 1. [请问大家有什么除了电子产品之外在室内的爱好吗](https://www.v2ex.com/t/1178169)
-1. [020 电信副宽进小黑屋了](https://www.v2ex.com/t/1178055)
-1. [离线听书 APP 上架 appstore 了送兑换码](https://www.v2ex.com/t/1178010)
 1. [你们夜里起来尿尿吗?](https://www.v2ex.com/t/1178182)
+1. [020 电信副宽进小黑屋了](https://www.v2ex.com/t/1178055)
 1. [避雷雷鸟电视,突然今天突然强制升级](https://www.v2ex.com/t/1178144)
 1. [vivo 加班问题](https://www.v2ex.com/t/1178161)
+1. [双 12，四博 AI 小黄鸭做活动 50 元一个](https://www.v2ex.com/t/1178067)
 
 ## 历史归档
 
