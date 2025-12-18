@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-18 19:11:09 +0800`
+ `更新时间：2025-12-18 20:22:42 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [家中矿泉水如何选择？口粮水](https://www.v2ex.com/t/1179664)
 1. [送码！ Nycto - macOS 服务管理桌面程序， launchctl 命令工具的 gui 程序。](https://www.v2ex.com/t/1179649)
 1. [求县城买房建议！](https://www.v2ex.com/t/1179751)
+1. [想问个社会问题](https://www.v2ex.com/t/1179739)
 
 ## 历史归档
 
