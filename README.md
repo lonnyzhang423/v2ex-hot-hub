@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-19 12:26:20 +0800`
+ `更新时间：2025-12-19 13:14:13 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [求县城买房建议！](https://www.v2ex.com/t/1179751)
 1. [今天晶哥打了两个电话给我，叫我去喝茶](https://www.v2ex.com/t/1179773)
 1. [为什么感觉 React 编写起来比 Vue 复杂很多?](https://www.v2ex.com/t/1179736)
+1. [本以为国产安卓这几年发展替代苹果没啥大问题，结果令人失望](https://www.v2ex.com/t/1179924)
 1. [求点评一下装机配置](https://www.v2ex.com/t/1179900)
 1. [兄弟们，你们都是如何高效管理时间的？](https://www.v2ex.com/t/1179896)
-1. [本以为国产安卓这几年发展替代苹果没啥大问题，结果令人失望](https://www.v2ex.com/t/1179924)
 1. [iPhone Fold 的传闻越来越确切了，大家期待吗](https://www.v2ex.com/t/1179746)
 1. [ArchLinux+KDE 用着挺舒服的](https://www.v2ex.com/t/1179774)
 
