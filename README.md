@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-28 14:17:30 +0800`
+ `更新时间：2025-12-28 15:12:43 +0800`
 
 ## 热议话题
 
-1. [最近跟朋友合伙了一个跨境直播项目,心是真的累](https://www.v2ex.com/t/1181582)
 1. [你看过最振奋人心的发布会是哪个？](https://www.v2ex.com/t/1181596)
 1. [夜市小摊打包的塑料袋为什么还流行？](https://www.v2ex.com/t/1181698)
-1. [程序员对 AI 的偏见](https://www.v2ex.com/t/1181637)
 1. [我的“傻逼”室友](https://www.v2ex.com/t/1181705)
-1. [Google 账号被停用是不是申诉也没用？](https://www.v2ex.com/t/1181578)
-1. [荣耀笔记本与 Linux - 性能管理](https://www.v2ex.com/t/1181579)
+1. [程序员对 AI 的偏见](https://www.v2ex.com/t/1181637)
 1. [关于海外拨打中国境内电话](https://www.v2ex.com/t/1181618)
 1. [我知道它只是一个冰冷的 AI，但我没忍住...](https://www.v2ex.com/t/1181654)
+1. [阿里云 99 服务器又可以续费了](https://www.v2ex.com/t/1181679)
+1. [不能用巨魔的你们都自签了哪些 app](https://www.v2ex.com/t/1181671)
 1. [fnOS 上除了 v2raya 还有什么代理工具可用](https://www.v2ex.com/t/1181688)
+1. [这个家没法呆了，窒息得要命。](https://www.v2ex.com/t/1181694)
 
 ## 历史归档
 
