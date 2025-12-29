@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-29 22:12:56 +0800`
+ `更新时间：2025-12-29 23:12:13 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [真·Claude / Codex / Gemini -注册即送千万 TOKEN](https://www.v2ex.com/t/1181809)
 1. [表弟要结婚了，彩礼 30 万。](https://www.v2ex.com/t/1181811)
 1. [淘宝全球购，无权验假货](https://www.v2ex.com/t/1181823)
-1. [求助梯子搭建方面大神经验](https://www.v2ex.com/t/1181893)
 1. [手里有 70 多的 USDC，放着不知道干嘛用，求解](https://www.v2ex.com/t/1181807)
 1. [手机创新只能卷摄像头了么](https://www.v2ex.com/t/1181845)
 1. [刚刚失业，有个小小的创业想法](https://www.v2ex.com/t/1181804)
