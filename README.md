@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-31 08:58:12 +0800`
+ `更新时间：2025-12-31 10:52:47 +0800`
 
 ## 热议话题
 
-1. [人生第一次开庭，劝大家还是去大城市定居！](https://www.v2ex.com/t/1182094)
-1. [最近在研究 ai 变声 太爽了](https://www.v2ex.com/t/1182067)
 1. [诸公，我有三计🤔！](https://www.v2ex.com/t/1182128)
-1. [个人本地开发相关的软件你们都是装在哪里？](https://www.v2ex.com/t/1182060)
-1. [你们的公积金都怎么用的？](https://www.v2ex.com/t/1182051)
-1. [之前 etf 爆亏 27 万， 2026 年 能长期持有 ETF 有哪些？](https://www.v2ex.com/t/1182089)
 1. [大家能否反馈一下 Antigravity 的使用体验](https://www.v2ex.com/t/1182168)
-1. [修车：车机问题修了半年没有好，今天第 N 次去 4S 店发现门被别人堵了](https://www.v2ex.com/t/1182047)
-1. [自建梯子， VPS 求推荐](https://www.v2ex.com/t/1182076)
+1. [一个词总结你的 2025！（来对比看看去年的）](https://www.v2ex.com/t/1182190)
+1. [被人事工资震惊](https://www.v2ex.com/t/1182205)
+1. [[噪音问题]家里有小朋友真的可以不铺地垫吗](https://www.v2ex.com/t/1182297)
+1. [才发现 RIME 可以在 MacOS 上安装，更换了开源输入法，太舒服了](https://www.v2ex.com/t/1182141)
+1. [今天跨年了，大家有什么安排吗](https://www.v2ex.com/t/1182301)
+1. [前女友优秀是什么体验？](https://www.v2ex.com/t/1182098)
+1. [android 开发何去何从](https://www.v2ex.com/t/1182191)
 
 ## 历史归档
 
