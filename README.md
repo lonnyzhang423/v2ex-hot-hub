@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2025-12-31 11:56:24 +0800`
+ `更新时间：2025-12-31 12:32:23 +0800`
 
 ## 热议话题
 
 1. [大家能否反馈一下 Antigravity 的使用体验](https://www.v2ex.com/t/1182168)
-1. [一个词总结你的 2025！（来对比看看去年的）](https://www.v2ex.com/t/1182190)
 1. [兄弟们，平时用香水吗？如何看待男生用香水的？](https://www.v2ex.com/t/1182317)
-1. [今天跨年了，大家有什么安排吗](https://www.v2ex.com/t/1182301)
+1. [一个词总结你的 2025！（来对比看看去年的）](https://www.v2ex.com/t/1182190)
 1. [[噪音问题]家里有小朋友真的可以不铺地垫吗](https://www.v2ex.com/t/1182297)
+1. [今天跨年了，大家有什么安排吗](https://www.v2ex.com/t/1182301)
 1. [被人事工资震惊](https://www.v2ex.com/t/1182205)
 1. [才发现 RIME 可以在 MacOS 上安装，更换了开源输入法，太舒服了](https://www.v2ex.com/t/1182141)
 1. [你们 js 用过双等号吗](https://www.v2ex.com/t/1182300)
+1. [请教大家如何在两年内达到月薪 4w，年薪 50w 以上？](https://www.v2ex.com/t/1182325)
 1. [android 开发何去何从](https://www.v2ex.com/t/1182191)
 
 ## 历史归档
