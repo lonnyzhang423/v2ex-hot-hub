@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-02 22:11:50 +0800`
+ `更新时间：2026-01-02 23:11:56 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [PS5Pro 还是电脑呢？](https://www.v2ex.com/t/1182629)
 1. [似乎只要账号超级干净就能用 Antigravity](https://www.v2ex.com/t/1182639)
 1. [2026 年相机，有什么推荐吗？](https://www.v2ex.com/t/1182682)
-1. [成都宽带选择](https://www.v2ex.com/t/1182680)
+1. [ChatGPT 马上快到期了， Gemini 和 ChatGPT 哪个更强一点，目前有啥活动，准备续费](https://www.v2ex.com/t/1182707)
 
 ## 历史归档
 
