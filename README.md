@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-04 18:11:00 +0800`
+ `更新时间：2026-01-04 19:09:14 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [2026 年了，都有什么规划](https://www.v2ex.com/t/1182875)
 1. [相亲半年来的一次错位体验](https://www.v2ex.com/t/1182909)
 1. [今年可能要准备买房了，大家有什么经验可以传授吗？](https://www.v2ex.com/t/1182895)
-1. [就割个痔疮当跨年吧](https://www.v2ex.com/t/1182877)
 1. [脚走废了，有鞋子推荐吗](https://www.v2ex.com/t/1182881)
+1. [就割个痔疮当跨年吧](https://www.v2ex.com/t/1182877)
+1. [macOS 的窗口管理真的是一坨，一个「command+tab」都做不好](https://www.v2ex.com/t/1182896)
 1. [苹果手机 周末是工作日 但是闹钟不会响 怎么解决。。](https://www.v2ex.com/t/1182926)
 1. [刚听说上份工作的甲方卷王今天心脏骤停在抢救，心里还不是滋味](https://www.v2ex.com/t/1182905)
-1. [macOS 的窗口管理真的是一坨，一个「command+tab」都做不好](https://www.v2ex.com/t/1182896)
 1. [今晚面基女老师](https://www.v2ex.com/t/1182969)
 
 ## 历史归档
