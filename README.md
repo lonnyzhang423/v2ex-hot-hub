@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-11 06:10:45 +0800`
+ `更新时间：2026-01-11 07:10:55 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [求推荐个人永久音乐库方案](https://www.v2ex.com/t/1184387)
 1. [当前 2026.01 这个时间点， IntelliJ IDEA 下最好用的 AI 代码插件是啥？](https://www.v2ex.com/t/1184391)
 1. [苹果党来分享几个你觉得有用的 shortcuts 里面的 Automations](https://www.v2ex.com/t/1184383)
-1. [小米手机里多了一个证书（用户凭证）identity-cert-keypair-2](https://www.v2ex.com/t/1184426)
 1. [五年！你知道这五年我怎么过的吗？今天，大 A 站上 4100 点！感谢 5 年间坚持的自己](https://www.v2ex.com/t/1184411)
+1. [小米手机里多了一个证书（用户凭证）identity-cert-keypair-2](https://www.v2ex.com/t/1184426)
 1. [你遇到什么事情后或者有什么经历忽然开悟了？](https://www.v2ex.com/t/1184467)
 1. [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
 1. [艹，北京联通开始搞事情了，封了群晖 5001 端口](https://www.v2ex.com/t/1184390)
