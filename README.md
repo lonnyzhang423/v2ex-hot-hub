@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-11 05:09:45 +0800`
+ `更新时间：2026-01-11 06:10:45 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [苹果党来分享几个你觉得有用的 shortcuts 里面的 Automations](https://www.v2ex.com/t/1184383)
 1. [小米手机里多了一个证书（用户凭证）identity-cert-keypair-2](https://www.v2ex.com/t/1184426)
 1. [五年！你知道这五年我怎么过的吗？今天，大 A 站上 4100 点！感谢 5 年间坚持的自己](https://www.v2ex.com/t/1184411)
-1. [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
 1. [你遇到什么事情后或者有什么经历忽然开悟了？](https://www.v2ex.com/t/1184467)
+1. [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
 1. [艹，北京联通开始搞事情了，封了群晖 5001 端口](https://www.v2ex.com/t/1184390)
 1. [招商客服回复 1.15 推出 VISA Apple Pay 服务？🤔](https://www.v2ex.com/t/1184447)
 
