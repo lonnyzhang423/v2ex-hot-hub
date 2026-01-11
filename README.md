@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-11 12:39:25 +0800`
+ `更新时间：2026-01-11 13:17:23 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [小米手机里多了一个证书（用户凭证）identity-cert-keypair-2](https://www.v2ex.com/t/1184426)
 1. [招商客服回复 1.15 推出 VISA Apple Pay 服务？🤔](https://www.v2ex.com/t/1184447)
 1. [让我来看看我发的这条帖子的金币是怎么流转的](https://www.v2ex.com/t/1184468)
-1. [鼻炎患者来回答一下 请问空气净化器对鼻炎是否有左右？](https://www.v2ex.com/t/1184476)
-1. [现在这 AI Codeing 工具也太多了,眼花缭乱了！你们主要用什么什么呀？](https://www.v2ex.com/t/1184519)
 1. [只想为技术问题头疼](https://www.v2ex.com/t/1184573)
+1. [现在这 AI Codeing 工具也太多了,眼花缭乱了！你们主要用什么什么呀？](https://www.v2ex.com/t/1184519)
+1. [鼻炎患者来回答一下 请问空气净化器对鼻炎是否有左右？](https://www.v2ex.com/t/1184476)
 1. [怎样让村里人知道我现在在北京月薪过万了啊，回家好相亲](https://www.v2ex.com/t/1184466)
 
 ## 历史归档
