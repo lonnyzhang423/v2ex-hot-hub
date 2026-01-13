@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-14 03:13:07 +0800`
+ `更新时间：2026-01-14 04:13:51 +0800`
 
 ## 热议话题
 
 1. [[CLAUDE] 送领千万 TOKEN](https://www.v2ex.com/t/1185101)
 1. [小白，第一次去过商 K 后有点上头了怎么办](https://www.v2ex.com/t/1185250)
-1. [个人觉得差不多 200w 就可以提前退休了，前提](https://www.v2ex.com/t/1185090)
 1. [2026 年了 竟然还有程序员接受不了 lambda](https://www.v2ex.com/t/1185183)
+1. [个人觉得差不多 200w 就可以提前退休了，前提](https://www.v2ex.com/t/1185090)
 1. [你们接受调岗+降薪吗，或者拿赔偿走人](https://www.v2ex.com/t/1185100)
 1. [相亲后续](https://www.v2ex.com/t/1185166)
 1. [零基础，怎么学习投资理财，路径应该怎么规划？](https://www.v2ex.com/t/1185142)
