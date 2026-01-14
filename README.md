@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-14 16:17:27 +0800`
+ `更新时间：2026-01-14 17:19:42 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,11 @@
 1. [哪里可以找到洁身自好不乱搞的女生](https://www.v2ex.com/t/1185428)
 1. [当前就业环境令我诧异的一点](https://www.v2ex.com/t/1185432)
 1. [父亲五十多岁了还老不正经](https://www.v2ex.com/t/1185416)
-1. [[NSFW] 绅士的准则](https://www.v2ex.com/t/1185444)
 1. [[TOP] 砸锅卖铁又凑了一个节点, 大家想看什么榜? 抽奖送 V 币](https://www.v2ex.com/t/1185450)
+1. [[NSFW] 绅士的准则](https://www.v2ex.com/t/1185444)
+1. [[Claude Code] 不玩套路，留言就送$10](https://www.v2ex.com/t/1185599)
 1. [记一次商 k](https://www.v2ex.com/t/1185318)
-1. [明天要去派出所做笔录，不知道有没事](https://www.v2ex.com/t/1185329)
+1. [大家可以每人推荐一个 ios 的 app 吗](https://www.v2ex.com/t/1185404)
 
 ## 历史归档
 
