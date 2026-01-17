@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-17 10:45:37 +0800`
+ `更新时间：2026-01-17 11:50:29 +0800`
 
 ## 热议话题
 
 1. [天天叫 AI 编程多厉害，真用起来气死个人啊，到底是谁说不用自己写啊](https://www.v2ex.com/t/1186218)
 1. [[送终身会员] 迫于饱受 Mac 系统的折磨，搓了个 Mac 平台的输入法自动切换工具 - InputSwitcher](https://www.v2ex.com/t/1186212)
 1. [从此不再买 A 股](https://www.v2ex.com/t/1186297)
-1. [杭州余杭，被辖区内警察叔叔电话传唤派出所，反诈红卡，不去会怎样😟](https://www.v2ex.com/t/1186170)
 1. [大家现在在用什么 TODO 管理软件？](https://www.v2ex.com/t/1186210)
-1. [大家还会写汉字吗](https://www.v2ex.com/t/1186156)
 1. [为什么自己开发的跨平台开发框架 SOUI 关注度那么低？](https://www.v2ex.com/t/1186262)
-1. [昨天突发奇想一个插件点子，于是让 antigravity 开始写，痛苦万分。。。](https://www.v2ex.com/t/1186161)
-1. [我做了款 App，基于 Apple Watch 健康数据，帮你科学“看见”压力——StressEase](https://www.v2ex.com/t/1186168)
+1. [结婚是不是都得要忍？？](https://www.v2ex.com/t/1186371)
+1. [请教下现在 5、6 年 Java 后端面试主要问啥呢](https://www.v2ex.com/t/1186180)
+1. [[送 20 个终身码 + 100 个订阅码] 中年程序员裸辞自救：从后端转行独立开发，开发了一款待办事项和习惯管理 App](https://www.v2ex.com/t/1186214)
+1. [做了一款不会碰运气求解的扫雷[摸鱼]](https://www.v2ex.com/t/1186217)
+1. [你们对自己的投资收益率的要求是多少？](https://www.v2ex.com/t/1186244)
 
 ## 历史归档
 
