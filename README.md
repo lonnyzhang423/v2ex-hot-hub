@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-18 13:16:05 +0800`
+ `更新时间：2026-01-18 14:17:52 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [使用 rustdesk 被反诈联系](https://www.v2ex.com/t/1186463)
 1. [请问下大家，你们一个月在 vibe coding 会花多少钱？](https://www.v2ex.com/t/1186469)
 1. [继上次被正式传唤发到 V 站看到回复我很担忧](https://www.v2ex.com/t/1186519)
-1. [大家家庭群都还好吗](https://www.v2ex.com/t/1186443)
 1. [申请日本语校需要存款证明，没存款怎么办？](https://www.v2ex.com/t/1186542)
+1. [大家家庭群都还好吗](https://www.v2ex.com/t/1186443)
 1. [想远程控制安卓手机，求大家有提供傻瓜方案](https://www.v2ex.com/t/1186528)
 1. [什么样的键盘手感才是最满意的](https://www.v2ex.com/t/1186441)
 
