@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-19 05:10:20 +0800`
+ `更新时间：2026-01-19 06:10:43 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [team leader 不写代码正常吗](https://www.v2ex.com/t/1186524)
 1. [Chrome 推出原生的垂直标签页了](https://www.v2ex.com/t/1186536)
 1. [我发现换花洒是花小钱提升生活质量的好办法](https://www.v2ex.com/t/1186543)
-1. [今天路过了这个地方](https://www.v2ex.com/t/1186525)
 1. [开源无 sim 手机是不是大有可为？](https://www.v2ex.com/t/1186612)
+1. [今天路过了这个地方](https://www.v2ex.com/t/1186525)
 
 ## 历史归档
 
