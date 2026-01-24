@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-01-24 11:55:02 +0800`
+ `更新时间：2026-01-24 12:27:26 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [Claude Code 这种智能 CLI 相对于 Cursor 的优势在哪？为什么感觉前者是主流了？](https://www.v2ex.com/t/1187879)
 1. [# 别再用 Nginx 配置折磨自己了，推荐 Zoraxy 让你 3 分钟搞定反向代理](https://www.v2ex.com/t/1187867)
 1. [求懂车的兄弟姐妹帮忙支招：可以买二手车吗，怎么买合适](https://www.v2ex.com/t/1187840)
-1. [结婚上交工资？为什么就没有类似夫妻用钱审批场景的 bytebase 呢](https://www.v2ex.com/t/1187817)
-1. [发现一个邮件驱动的 APP](https://www.v2ex.com/t/1187854)
 1. [日本见闻录｜东京 4 日游小小分享](https://www.v2ex.com/t/1187833)
+1. [发现一个邮件驱动的 APP](https://www.v2ex.com/t/1187854)
 1. [一次 Apple 售后的经历分享--流程无懈可击，问题反而无处安放](https://www.v2ex.com/t/1187942)
+1. [昨天试了下 telegram，+86 手机号登录居然要收费了！](https://www.v2ex.com/t/1187997)
 
 ## 历史归档
 
