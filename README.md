@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-01 06:12:10 +0800`
+ `更新时间：2026-02-01 07:12:36 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [中国为什么无法做出 Clawdbot？因为封闭的互联网生态！](https://www.v2ex.com/t/1189700)
 1. [Antigravity 开始大面积封号了](https://www.v2ex.com/t/1189706)
 1. [2021 年，我在三里屯见过一个装置，它可以让你用手势控制屏幕上的粒子，今天我把这种体验复刻了出来](https://www.v2ex.com/t/1189684)
-1. [见证黄金和白银历史了，涨得时候创造记录，跌的时候同样是创造记录了](https://www.v2ex.com/t/1189678)
 1. [是我的问题还是女朋友的问题](https://www.v2ex.com/t/1189731)
 1. [我们是不是处于第四次工业（科技）革命中。](https://www.v2ex.com/t/1189730)
 1. [昨天黄金和白银跌幅大家怎么看？](https://www.v2ex.com/t/1189733)
+1. [antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet](https://www.v2ex.com/t/1189704)
 
 ## 历史归档
 
