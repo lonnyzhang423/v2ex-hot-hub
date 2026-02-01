@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-01 09:18:58 +0800`
+ `更新时间：2026-02-01 12:20:54 +0800`
 
 ## 热议话题
 
-1. [L 站被爆出有盲水印](https://www.v2ex.com/t/1189699)
-1. [看了《为什么国漫进步这么明显，有人却还是认为出不了好作品？》，大部分人都认为国漫现在还是很垃圾，我却不这样认为](https://www.v2ex.com/t/1189694)
-1. [才发现摩托罗拉的手机这么好用啊。](https://www.v2ex.com/t/1189715)
-1. [中国为什么无法做出 Clawdbot？因为封闭的互联网生态！](https://www.v2ex.com/t/1189700)
-1. [Antigravity 开始大面积封号了](https://www.v2ex.com/t/1189706)
+1. [飞牛 NAS 的信任危机， 0Day 漏洞导致用户 NAS 及网盘文件全面泄露，官方装死](https://www.v2ex.com/t/1189822)
+1. [昨天黄金和白银跌幅大家怎么看？](https://www.v2ex.com/t/1189733)
 1. [是我的问题还是女朋友的问题](https://www.v2ex.com/t/1189731)
 1. [我们是不是处于第四次工业（科技）革命中。](https://www.v2ex.com/t/1189730)
-1. [昨天黄金和白银跌幅大家怎么看？](https://www.v2ex.com/t/1189733)
-1. [antigravity 中的模型清单列表都是骗人的， gemini 3 pro 实际是 Gemini 2.0 Flash， claude Opus 4.5 实际是 Claude 3.5 Sonnet](https://www.v2ex.com/t/1189704)
-1. [还是忍不住想吐槽一遍 macOS 26 太丑了](https://www.v2ex.com/t/1189711)
+1. [昨天在 reddit 上发了个开源插件介绍，被骂了。](https://www.v2ex.com/t/1189805)
+1. [没想明白，现在小朋友学新技术起手式是在 B 站搜索看视频？](https://www.v2ex.com/t/1189844)
+1. [除了 next.js，在 2026 年，还有哪些 React 全栈框架推荐？](https://www.v2ex.com/t/1189723)
+1. [飞牛这个漏洞 POC 太容易了啊](https://www.v2ex.com/t/1189806)
+1. [为什么这么多人用飞牛 NAS，有什么优势吗](https://www.v2ex.com/t/1189823)
 
 ## 历史归档
 
