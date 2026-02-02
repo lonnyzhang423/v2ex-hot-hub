@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-02 21:54:09 +0800`
+ `更新时间：2026-02-02 22:34:16 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,6 @@
 1. [小米的产品到底差在哪里了？](https://www.v2ex.com/t/1190064)
 1. [opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api](https://www.v2ex.com/t/1190139)
 1. [关于听歌的鄙视链问题](https://www.v2ex.com/t/1190041)
-1. [新加坡机场入境居然没有安检？](https://www.v2ex.com/t/1189964)
 1. [夫妻矛盾，婆媳矛盾，谁对谁错](https://www.v2ex.com/t/1190079)
 
 ## 历史归档
