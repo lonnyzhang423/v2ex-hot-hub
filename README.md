@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-02 17:35:14 +0800`
+ `更新时间：2026-02-02 18:33:44 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,10 @@
 1. [从小不在意穿着，长大了仍是这样](https://www.v2ex.com/t/1190036)
 1. [马币再来 20 枚～](https://www.v2ex.com/t/1190040)
 1. [关于听歌的鄙视链问题](https://www.v2ex.com/t/1190041)
-1. [新加坡机场入境居然没有安检？](https://www.v2ex.com/t/1189964)
 1. [opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api](https://www.v2ex.com/t/1190139)
 1. [小米的产品到底差在哪里了？](https://www.v2ex.com/t/1190064)
+1. [新加坡机场入境居然没有安检？](https://www.v2ex.com/t/1189964)
+1. [讨论关于 nas 的系统选择有没有好的建议](https://www.v2ex.com/t/1189958)
 
 ## 历史归档
 
