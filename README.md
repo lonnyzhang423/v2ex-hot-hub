@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-03 09:11:42 +0800`
+ `更新时间：2026-02-03 12:04:45 +0800`
 
 ## 热议话题
 
-1. [Claude Code, openai codex 送激活码 20 刀,外加 100 刀抽奖,V 友们年前开心的 Vibe Coding 吧～](https://www.v2ex.com/t/1190025)
-1. [自从有了小孩后家庭矛盾越来越多，大家帮我分析下怎么办好](https://www.v2ex.com/t/1190007)
-1. [马币再来 20 枚～](https://www.v2ex.com/t/1190040)
-1. [从小不在意穿着，长大了仍是这样](https://www.v2ex.com/t/1190036)
-1. [小米的产品到底差在哪里了？](https://www.v2ex.com/t/1190064)
-1. [opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api](https://www.v2ex.com/t/1190139)
-1. [关于听歌的鄙视链问题](https://www.v2ex.com/t/1190041)
+1. [1 月 20 号失业， 2 月 1 号离婚，还有更快的吗（二）](https://www.v2ex.com/t/1190294)
 1. [夫妻矛盾，婆媳矛盾，谁对谁错](https://www.v2ex.com/t/1190079)
-1. [新手恋爱求后续指导](https://www.v2ex.com/t/1190008)
+1. [opus 低至 0.005| 狂送 1.5w 刀 | Claude+Codex+gemini 一站式 api](https://www.v2ex.com/t/1190139)
+1. [经过此次飞牛的漏洞，搞不懂为什么都喜欢直接把服务公网暴露出去](https://www.v2ex.com/t/1190193)
+1. [如果你是 fnOS 的运营经理，如何回应此次安全事故会更妥当？](https://www.v2ex.com/t/1190078)
+1. [中银香港 60 元 小羊毛](https://www.v2ex.com/t/1190176)
+1. [沪深 300 指数能不能买](https://www.v2ex.com/t/1190313)
+1. [起点中文网成功帮我戒掉了十年来的爱看小说的网瘾......](https://www.v2ex.com/t/1190148)
+1. [opus 低至 0.005| 狂送 2w 刀 | Claude+Codex+gemini 一站式 api。交个朋友~](https://www.v2ex.com/t/1190119)
 
 ## 历史归档
 
