@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-13 09:15:55 +0800`
+ `更新时间：2026-02-13 12:10:20 +0800`
 
 ## 热议话题
 
-1. [带孩子到底要几个人！](https://www.v2ex.com/t/1192408)
 1. [结婚了，之前给出去的份子钱怎么收？](https://www.v2ex.com/t/1192452)
 1. [折腾许久， 自己用 Go 写的 macOS App 上架了，对标 Ditto 的全能剪贴板，海量存储+搜索+上锁+分组+编辑+局域网同步（OnlyPaste）](https://www.v2ex.com/t/1192450)
-1. [春节理发涨价可以，不能用会员卡是什么鬼？](https://www.v2ex.com/t/1192389)
 1. [部门混进一个混子,我该如何避免被牵连](https://www.v2ex.com/t/1192505)
-1. [春节回家顺风车价格好低](https://www.v2ex.com/t/1192429)
-1. [围绕 nas 最好的笔记同步方案是什么？](https://www.v2ex.com/t/1192402)
+1. [大家现在还想润吗？](https://www.v2ex.com/t/1192604)
 1. [看到 v2 上出现的越来越多的带孩子帖子，你还想生吗](https://www.v2ex.com/t/1192476)
-1. [感觉被智谱的 Coding Plan 背刺了](https://www.v2ex.com/t/1192383)
+1. [GLM-5 开源：从代码到工程， Agentic Engineering 时代最好的开源模型](https://www.v2ex.com/t/1192496)
+1. [让 Claude Code 汇报工作时用上魔兽 3 兽族农民的配音](https://www.v2ex.com/t/1192541)
+1. [突然想买无人机，是不是 49 年入国军](https://www.v2ex.com/t/1192455)
+1. [[不懂就问] 用光纤无人机能不能绕开无人机监管呀](https://www.v2ex.com/t/1192469)
+1. [明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？](https://www.v2ex.com/t/1192548)
 
 ## 历史归档
 
