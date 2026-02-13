@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-13 15:41:58 +0800`
+ `更新时间：2026-02-13 16:30:51 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [部门混进一个混子,我该如何避免被牵连](https://www.v2ex.com/t/1192505)
 1. [[送 Pro 码] iOS 播放器 OopsPlayer，支持 SMB/Emby/4K HDR/Dolby Vision](https://www.v2ex.com/t/1192643)
 1. [🐴 年红包封面领取 | 新年不“抓马”，放自己一“马”！](https://www.v2ex.com/t/1192627)
-1. [GLM-5 开源：从代码到工程， Agentic Engineering 时代最好的开源模型](https://www.v2ex.com/t/1192496)
 1. [年前公司要求 Java 转岗 c++能接受吗](https://www.v2ex.com/t/1192610)
 1. [让 Claude Code 汇报工作时用上魔兽 3 兽族农民的配音](https://www.v2ex.com/t/1192541)
-1. [明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？](https://www.v2ex.com/t/1192548)
 1. [你们觉得一天最爽的时候是什么时候？](https://www.v2ex.com/t/1192569)
+1. [明天要第一次去老丈人家了，大家还记得第一次去对象家里都被问了什么问题吗？](https://www.v2ex.com/t/1192548)
 1. [读 [ 带孩子到底要几个人] 有感，如何正确看到孩子过敏](https://www.v2ex.com/t/1192600)
+1. [今天上班的还有吗？](https://www.v2ex.com/t/1192608)
 
 ## 历史归档
 
