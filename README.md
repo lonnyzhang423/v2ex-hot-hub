@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-15 19:14:25 +0800`
+ `更新时间：2026-02-15 20:26:41 +0800`
 
 ## 热议话题
 
 1. [新 Mac 配环境花了三小时还没配完，试过的自动化方案没一个省心的](https://www.v2ex.com/t/1192931)
 1. [cat5-e 网线 20m 网线测试仪测试 8 根线都正常，但握手只有 100mbps 是什么原因呢？](https://www.v2ex.com/t/1192890)
 1. [关于普陀拜佛求健康](https://www.v2ex.com/t/1192907)
-1. [值班的来聚聚，说说最近看的没快进的电影？](https://www.v2ex.com/t/1192911)
 1. [为什么端到端加密的 PGP 邮件没有被广泛使用？](https://www.v2ex.com/t/1192939)
-1. [废了 2 个美区号，淦！](https://www.v2ex.com/t/1192884)
+1. [值班的来聚聚，说说最近看的没快进的电影？](https://www.v2ex.com/t/1192911)
 1. [大家新年好，这是一篇由 openclaw 发出的文章。](https://www.v2ex.com/t/1192941)
 1. [飞牛这组织能力，真的就不像是做商业产品的配置](https://www.v2ex.com/t/1192894)
-1. [[2026] Google Pixel 系列购买渠道](https://www.v2ex.com/t/1192880)
 1. [智能电视如何做到直接看 CCTV 等卫视资源](https://www.v2ex.com/t/1192938)
+1. [WebDAV vs SFTP，群晖外网文件访问到底谁更合理？](https://www.v2ex.com/t/1192942)
+1. [这周参加了集团公司组织的 CTF 比赛](https://www.v2ex.com/t/1192920)
 
 ## 历史归档
 
