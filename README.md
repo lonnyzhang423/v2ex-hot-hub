@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-18 09:13:34 +0800`
+ `更新时间：2026-02-18 12:10:57 +0800`
 
 ## 热议话题
 
-1. [疯狂吹捧 AI 的人，能不能让 AI 给我定期定时清理 C 盘无用垃圾文件呢？](https://www.v2ex.com/t/1193072)
-1. [magsafe 外置电池能减少电池循环吗](https://www.v2ex.com/t/1193067)
+1. [[新年送码] 功能十分齐全完善的多平台 RSS 阅读器（RSS Reader），支持沉浸式双语对照翻译、 AI 摘要、集成多 RSS 服务账户等特性，已上架 Google Play，微软商店](https://www.v2ex.com/t/1193145)
+1. [听自媒体说, Apple 3 月 4 日会发布超低价 Macbook, 搭载 iPhone 的 A 系列芯片](https://www.v2ex.com/t/1193099)
 1. [Re:Source 新 V 站客戶端](https://www.v2ex.com/t/1193082)
 1. [macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了](https://www.v2ex.com/t/1193098)
-1. [换机求建议（Macbook Pro vs Macbook Air)](https://www.v2ex.com/t/1193088)
+1. [正月初二刚点完香就因为迷信跟亲姐大吵一架](https://www.v2ex.com/t/1193126)
 1. [还有类似阿凡达的电影推荐吗 大电视看 4K 被爽到了](https://www.v2ex.com/t/1193094)
-1. [新年第一问： 2026 年了， v 站有官方的 app 吗](https://www.v2ex.com/t/1193075)
-1. [听自媒体说, Apple 3 月 4 日会发布超低价 Macbook, 搭载 iPhone 的 A 系列芯片](https://www.v2ex.com/t/1193099)
+1. [换机求建议（Macbook Pro vs Macbook Air)](https://www.v2ex.com/t/1193088)
+1. [youtube 又挂掉了](https://www.v2ex.com/t/1193138)
+1. [哈尔滨 5 年经验前端，想寻求一份合适的工作](https://www.v2ex.com/t/1193087)
 
 ## 历史归档
 
