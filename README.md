@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-18 19:30:52 +0800`
+ `更新时间：2026-02-18 20:36:51 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [家里最近装了太阳能 50 度电池，有什么好的办法把电都用掉？](https://www.v2ex.com/t/1193150)
 1. [youtube 又挂掉了](https://www.v2ex.com/t/1193138)
 1. [请问小米第三方 APP 无法安装？](https://www.v2ex.com/t/1193132)
-1. [想捡个二手笔记本装 Linux 桌面玩玩儿，有啥推荐么](https://www.v2ex.com/t/1193105)
 1. [iphoneAir 5499 版, 激活两周内, 自动重启三次.](https://www.v2ex.com/t/1193136)
-1. [OSS 相比传统的文件系统有什么优势？](https://www.v2ex.com/t/1193107)
+1. [如果大模型按照自动驾驶的方式来分级的话，当前大模型能达到 L3 吗？](https://www.v2ex.com/t/1193160)
 1. [offer 选择求指点，农发行软开 or 徽商总行金科](https://www.v2ex.com/t/1193122)
+1. [大过年的遇到一个诡异的网络问题](https://www.v2ex.com/t/1193179)
 
 ## 历史归档
 
