@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-02-20 20:33:38 +0800`
+ `更新时间：2026-02-20 21:52:48 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [4 年后再问， 2026 适合在深圳买房吗？](https://www.v2ex.com/t/1193299)
 1. [顺风车从开始到放弃](https://www.v2ex.com/t/1193284)
 1. [有没有 Oppo 和 Vivo 都用过的老哥？](https://www.v2ex.com/t/1193283)
+1. [自组 AI NAS 硬件配置求助，过年没事来聊聊吧](https://www.v2ex.com/t/1193298)
 1. [[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...](https://www.v2ex.com/t/1193256)
 1. [GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事](https://www.v2ex.com/t/1193276)
 1. [Claude VS GLM VS Kimi VS MiniMax VS Gemini 2026 年半年内 Vibe Coding 谁更强？](https://www.v2ex.com/t/1193255)
-1. [分享一个自己开发的 4 平台代理客户端：通途](https://www.v2ex.com/t/1193252)
 1. [求推荐一个家用路由器，小白不知道怎么搞](https://www.v2ex.com/t/1193286)
 
 ## 历史归档
