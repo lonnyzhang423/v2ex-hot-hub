@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-01 16:18:33 +0800`
+ `更新时间：2026-03-01 17:18:59 +0800`
 
 ## 热议话题
 
-1. [已经是 14 年英雄联盟老玩家了，有时候打团找不到鼠标找不到人……](https://www.v2ex.com/t/1194865)
-1. [微信支付后摇一摇太烦人？一键关闭入口的链接我抓出来了](https://www.v2ex.com/t/1194864)
-1. [Conex - 现代化 SSH 客户端， Termius 平替](https://www.v2ex.com/t/1194906)
-1. [应用程序会不会成为历史？](https://www.v2ex.com/t/1194854)
 1. [想买个美区礼品卡怎么这么费劲了](https://www.v2ex.com/t/1194957)
+1. [Conex - 现代化 SSH 客户端， Termius 平替](https://www.v2ex.com/t/1194906)
 1. [刷 LineageOS 等第三方 ROM 的手机，短信日历常用 APP 都用的什么代替品？](https://www.v2ex.com/t/1194927)
 1. [我是淘宝小卖家，买家拍错商品却不退款，淘宝让我发货，请教我应该给买家发什么？](https://www.v2ex.com/t/1194886)
 1. [大家都是如何从开车小白成长起来的](https://www.v2ex.com/t/1194921)
+1. [Skill、MCP 等等 AI 外围工具，本质是 markdown 小作文吗](https://www.v2ex.com/t/1194908)
+1. [小型的技术型公司怎么利用好 ai coding](https://www.v2ex.com/t/1194937)
+1. [[元宵活动]AIGC.BAR API 站点，老牌 CC/CodeX 中转，全分组保稳保真，元宵前撒撒币，评论抽奖 100 刀余额/份！](https://www.v2ex.com/t/1194935)
 
 ## 历史归档
 
