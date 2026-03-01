@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-01 14:33:23 +0800`
+ `更新时间：2026-03-01 15:25:48 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [微信支付后摇一摇太烦人？一键关闭入口的链接我抓出来了](https://www.v2ex.com/t/1194864)
 1. [Conex - 现代化 SSH 客户端， Termius 平替](https://www.v2ex.com/t/1194906)
 1. [应用程序会不会成为历史？](https://www.v2ex.com/t/1194854)
+1. [刷 LineageOS 等第三方 ROM 的手机，短信日历常用 APP 都用的什么代替品？](https://www.v2ex.com/t/1194927)
 
 ## 历史归档
 
