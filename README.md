@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-03 14:37:08 +0800`
+ `更新时间：2026-03-03 15:35:10 +0800`
 
 ## 热议话题
 
-1. [Claude Code, openai codex 送 20 刀余额，楼层抽奖 100 刀余额，可接 OpenClaw🦞龙虾](https://www.v2ex.com/t/1195195)
 1. [洗烘一体机怎么选？](https://www.v2ex.com/t/1195346)
+1. [今天你亏钱了吗？](https://www.v2ex.com/t/1195386)
 1. [投资，就想做了一场梦一样](https://www.v2ex.com/t/1195213)
 1. [28 岁感觉精力不足如何调节？](https://www.v2ex.com/t/1195366)
 1. [如果觉得自己是股神，但是想财富自由本金有点少，怎么快速起飞？](https://www.v2ex.com/t/1195255)
 1. [微信是如何识别远程控制环境的？](https://www.v2ex.com/t/1195332)
-1. [今天你亏钱了吗？](https://www.v2ex.com/t/1195386)
-1. [iPhone 17e & iPad air m4](https://www.v2ex.com/t/1195300)
 1. [元宵节快乐，即将就要正式过完年了，今年的目标是啥？留言后，明年来看看](https://www.v2ex.com/t/1195350)
+1. [https://terminal.pub , Codex/OpenAI/GPT 全部免费调用, [元宵节]今日充值八折优惠， claude 逆向低至 2 毛一刀，周五抽奖持续盖楼中](https://www.v2ex.com/t/1195383)
+1. [iPhone 17e & iPad air m4](https://www.v2ex.com/t/1195300)
 
 ## 历史归档
 
