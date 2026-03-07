@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-07 20:24:51 +0800`
+ `更新时间：2026-03-07 21:31:51 +0800`
 
 ## 热议话题
 
 1. [你身边有没有这样的人，他们拒绝学习任何新技术和新工具？](https://www.v2ex.com/t/1196461)
 1. [给女儿起名求建议](https://www.v2ex.com/t/1196463)
-1. [GPT-5.4 Thinking 依然过不了洗车测试](https://www.v2ex.com/t/1196407)
 1. [很多人不看好 macbook neo,大胆预测一波会卖爆](https://www.v2ex.com/t/1196496)
-1. [搓了一个把内容变成分享卡片的扩展程序，轻喷，前 20 楼送 20 个兑换码](https://www.v2ex.com/t/1196408)
 1. [claude code 使用哪家国内 api 靠谱](https://www.v2ex.com/t/1196478)
 1. [我靠， MacBook neo 叠加教育优惠和国补， 3399！？](https://www.v2ex.com/t/1196452)
 1. [和双相恋爱 3 年被分手，我丢了半条命](https://www.v2ex.com/t/1196429)
 1. [市场冷清，全栈消失，金三不在，即便有全栈的部署项目都无人问津，不知道大家是否同样的感受](https://www.v2ex.com/t/1196448)
-1. [最近辅导孩子课文，抓狂之后我想到了我爸妈](https://www.v2ex.com/t/1196411)
+1. [发现现在的家用监控摄像头都有物理遮挡功能了](https://www.v2ex.com/t/1196453)
+1. [淘宝 APP 每次启动都要给我放一段动画](https://www.v2ex.com/t/1196462)
+1. [我实话，我真不建议你现在就去养 小龙虾](https://www.v2ex.com/t/1196469)
 
 ## 历史归档
 
