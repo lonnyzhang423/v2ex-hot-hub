@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-08 05:11:50 +0800`
+ `更新时间：2026-03-08 06:12:37 +0800`
 
 ## 热议话题
 
 1. [很多人不看好 macbook neo,大胆预测一波会卖爆](https://www.v2ex.com/t/1196496)
-1. [你身边有没有这样的人，他们拒绝学习任何新技术和新工具？](https://www.v2ex.com/t/1196461)
 1. [给女儿起名求建议](https://www.v2ex.com/t/1196463)
+1. [你身边有没有这样的人，他们拒绝学习任何新技术和新工具？](https://www.v2ex.com/t/1196461)
 1. [claude code 使用哪家国内 api 靠谱](https://www.v2ex.com/t/1196478)
 1. [AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）](https://www.v2ex.com/t/1196541)
 1. [我实话，我真不建议你现在就去养 小龙虾](https://www.v2ex.com/t/1196469)
