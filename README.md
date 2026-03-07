@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-07 11:51:00 +0800`
+ `更新时间：2026-03-07 12:54:11 +0800`
 
 ## 热议话题
 
 1. [这算是暧昧，还是“她也喜欢我”的错觉？](https://www.v2ex.com/t/1196340)
 1. [我过着自己梦寐以求的生活（婚姻家庭方面）](https://www.v2ex.com/t/1196347)
-1. [海外服务器购买，有哪些推荐，以及哪些坑需要注意？](https://www.v2ex.com/t/1196279)
 1. [35 了，不打算找工作了，准备弄个水站，送桶装水](https://www.v2ex.com/t/1196292)
 1. [Macbook Neo CPU 性能可以啊](https://www.v2ex.com/t/1196368)
 1. [AI 受害者+1](https://www.v2ex.com/t/1196297)
 1. [2026 年 PHP 路在何方](https://www.v2ex.com/t/1196334)
 1. [GPT-5.4 Thinking 依然过不了洗车测试](https://www.v2ex.com/t/1196407)
+1. [离职几个月后有些前同事的名字就突然想不起来了，这正常吗？](https://www.v2ex.com/t/1196388)
 
 ## 历史归档
 
