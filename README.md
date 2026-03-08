@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-09 04:14:07 +0800`
+ `更新时间：2026-03-09 05:13:47 +0800`
 
 ## 热议话题
 
 1. [再次倡议：放弃使用 imgur !](https://www.v2ex.com/t/1196619)
-1. [实名预警：三天内两会期间对北京大会堂的斩首式打击](https://www.v2ex.com/t/1196697)
 1. [家里的网络设计问题，脑子要炸了](https://www.v2ex.com/t/1196577)
 1. [相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？](https://www.v2ex.com/t/1196592)
 1. [AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）](https://www.v2ex.com/t/1196595)
