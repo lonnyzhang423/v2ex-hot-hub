@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-08 18:15:08 +0800`
+ `更新时间：2026-03-08 19:12:34 +0800`
 
 ## 热议话题
 
 1. [AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）](https://www.v2ex.com/t/1196541)
-1. [家里的网络设计问题，脑子要炸了](https://www.v2ex.com/t/1196577)
 1. [再次倡议：放弃使用 imgur !](https://www.v2ex.com/t/1196619)
+1. [家里的网络设计问题，脑子要炸了](https://www.v2ex.com/t/1196577)
 1. [相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？](https://www.v2ex.com/t/1196592)
-1. [AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）](https://www.v2ex.com/t/1196595)
 1. [注册 telegram 的实体卡，用那个国家比较好](https://www.v2ex.com/t/1196586)
+1. [AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）](https://www.v2ex.com/t/1196595)
 1. [寻找量化交易爱好者，一起做点有意思的事](https://www.v2ex.com/t/1196543)
-1. [Codex 的额度又又又重置了。](https://www.v2ex.com/t/1196614)
 1. [和香港同事开会总是听不太懂粤语，我用 Tauri 搓了个实时字幕工具 (macOS/Win)](https://www.v2ex.com/t/1196574)
 1. [昨晚升级完 26.3.1 以后🪜用不了了？](https://www.v2ex.com/t/1196587)
+1. [ip13 这个 399 换电池真 tm 坑](https://www.v2ex.com/t/1196610)
 
 ## 历史归档
 
