@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-09 09:10:46 +0800`
+ `更新时间：2026-03-09 12:06:28 +0800`
 
 ## 热议话题
 
 1. [[中转] Opus-4-6 上线，免费开蹬一周！回帖直接狂送 💰100 刀！](https://www.v2ex.com/t/1196713)
+1. [通缩恐结束 穷人苦日子要来](https://www.v2ex.com/t/1196716)
 1. [再次倡议：放弃使用 imgur !](https://www.v2ex.com/t/1196619)
-1. [相比 cursor， 100 美刀的 claude code 是不是好用+便宜太多？](https://www.v2ex.com/t/1196592)
-1. [家里的网络设计问题，脑子要炸了](https://www.v2ex.com/t/1196577)
-1. [AI 让折腾变得更容易并且快乐了（Vim 和 Linux ）](https://www.v2ex.com/t/1196595)
-1. [无聊重复的游戏还会有人玩？](https://www.v2ex.com/t/1196655)
-1. [注册 telegram 的实体卡，用那个国家比较好](https://www.v2ex.com/t/1196586)
 1. [现在 AI 这么强，感觉学什么都没什么意义了](https://www.v2ex.com/t/1196704)
-1. [大家用 openclaw 做的最有意思的事情是什么？](https://www.v2ex.com/t/1196622)
+1. [无聊重复的游戏还会有人玩？](https://www.v2ex.com/t/1196655)
+1. [炒股券商低佣免五开户万 1 免 5，评论抽马年纪念一钞一币礼盒 [大笑脸开户]](https://www.v2ex.com/t/1196709)
+1. [[NSFW]简评一下[情趣内衣], 战袍](https://www.v2ex.com/t/1196714)
+1. [原创 - 开发了一个关于依恋障碍的自评站](https://www.v2ex.com/t/1196679)
+1. [关于龙虾的一个暴论](https://www.v2ex.com/t/1196722)
 
 ## 历史归档
 
