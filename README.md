@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-12 12:03:46 +0800`
+ `更新时间：2026-03-12 13:42:40 +0800`
 
 ## 热议话题
 
 1. [帮我分析要不要买车？](https://www.v2ex.com/t/1197420)
+1. [“女友”说必须要买全款房](https://www.v2ex.com/t/1197667)
 1. [天塌了， google 收紧 antigravity 额度了](https://www.v2ex.com/t/1197596)
-1. [用中转站的千万要小心，已经有人在 tg 大量购买用户数据用于训练](https://www.v2ex.com/t/1197381)
 1. [逆天，刚冲的 Google Pro 账户，用了反重力两天就不能用了](https://www.v2ex.com/t/1197429)
 1. [外包都是这样的吗](https://www.v2ex.com/t/1197593)
+1. [扫码进群，抢红包，抽小龙虾 AI 主机！实现 OpenClaw 龙虾自由！](https://www.v2ex.com/t/1197647)
 1. [中转站 xcode.best 新人报道！ ，第一次来 V 站随便玩玩，老哥们求求你们来体验下，注册留言送 10 刀](https://www.v2ex.com/t/1197567)
 1. [AI 时代程序员的护城河](https://www.v2ex.com/t/1197599)
-1. [“女友”说必须要买全款房](https://www.v2ex.com/t/1197667)
-1. [扫码进群，抢红包，抽小龙虾 AI 主机！实现 OpenClaw 龙虾自由！](https://www.v2ex.com/t/1197647)
 1. [“万一免五”低佣低两融老倔驴开户，抽一个 JBL GO4，踏春挂在背包上很拉风...](https://www.v2ex.com/t/1197588)
+1. [从年初到现在投了上百份简历的我](https://www.v2ex.com/t/1197613)
 
 ## 历史归档
 
