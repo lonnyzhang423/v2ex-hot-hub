@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-12 19:25:15 +0800`
+ `更新时间：2026-03-12 20:34:39 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [天塌了， google 收紧 antigravity 额度了](https://www.v2ex.com/t/1197596)
 1. [从年初到现在投了上百份简历的我](https://www.v2ex.com/t/1197613)
 1. [中转站 xcode.best 新人报道！ ，第一次来 V 站随便玩玩，老哥们求求你们来体验下，注册留言送 10 刀](https://www.v2ex.com/t/1197567)
-1. [外包都是这样的吗](https://www.v2ex.com/t/1197593)
 1. [婆媳问题求助过来人](https://www.v2ex.com/t/1197720)
+1. [外包都是这样的吗](https://www.v2ex.com/t/1197593)
 1. [AI 时代程序员的护城河](https://www.v2ex.com/t/1197599)
 1. [为什么没人提减负了？](https://www.v2ex.com/t/1197681)
 
