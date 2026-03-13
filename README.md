@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-13 07:18:17 +0800`
+ `更新时间：2026-03-13 09:08:52 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [扫码进群，抢红包，抽小龙虾 AI 主机！实现 OpenClaw 龙虾自由！](https://www.v2ex.com/t/1197647)
 1. [v 友们，失业了， 35 岁了，没结婚，房子车子都有无债，存款 100 个，焦虑的不行，不知道能抗多久？催婚也是压力倍增了，后面怎么走？辛苦 v 友们给点路子](https://www.v2ex.com/t/1197767)
 1. [从年初到现在投了上百份简历的我](https://www.v2ex.com/t/1197613)
-1. [天塌了， google 收紧 antigravity 额度了](https://www.v2ex.com/t/1197596)
 1. [婆媳问题求助过来人](https://www.v2ex.com/t/1197720)
-1. [外包都是这样的吗](https://www.v2ex.com/t/1197593)
 1. [AI 时代程序员的护城河](https://www.v2ex.com/t/1197599)
-1. [“万一免五”低佣低两融老倔驴开户，抽一个 JBL GO4，踏春挂在背包上很拉风...](https://www.v2ex.com/t/1197588)
 1. [macbookneo 香爆了，必须吹一波](https://www.v2ex.com/t/1197702)
+1. [为什么没人提减负了？](https://www.v2ex.com/t/1197681)
+1. [不对劲，很不对劲，去了一趟厕所回来，同事们都三三两两聚一起讨论什么](https://www.v2ex.com/t/1197728)
+1. [中转 API 福利贴🎁最新 GPT5.4 模型 ：新人回复送 ¥50 刀💰使用，可用 gpt-5.3-codex(high)，可接入 openclaw](https://www.v2ex.com/t/1197646)
 
 ## 历史归档
 
