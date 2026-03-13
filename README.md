@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-13 14:38:12 +0800`
+ `更新时间：2026-03-13 15:37:27 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [怎么看小龙虾作者指腾讯爬完技能库无捐助且抱怨作者限速，而腾讯说我在帮你分流这个事？](https://www.v2ex.com/t/1197881)
 1. [Antigravity 有 GeminiPro 的账号也变成 5 天冷却了?](https://www.v2ex.com/t/1197790)
 1. [windows 代理软件更推荐哪个？](https://www.v2ex.com/t/1197878)
-1. [有没有觉得，其实国内的程序员们最近几年，付费习惯培养起来了](https://www.v2ex.com/t/1197879)
+1. [Clash Verge 你们用的系统代理还是 TUN 模式？](https://www.v2ex.com/t/1197934)
 
 ## 历史归档
 
