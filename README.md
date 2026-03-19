@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-19 07:22:09 +0800`
+ `更新时间：2026-03-19 09:14:31 +0800`
 
 ## 热议话题
 
 1. [在中国你讲法律我都觉得好笑](https://www.v2ex.com/t/1199157)
-1. [王自如太强了](https://www.v2ex.com/t/1199084)
 1. [开车有什么好的提神用品吗？](https://www.v2ex.com/t/1199115)
 1. [最近新认识的女生，感觉她有点抑郁了，怎么解决](https://www.v2ex.com/t/1199138)
-1. [iPhone 预报最准确的天气 app 是什么](https://www.v2ex.com/t/1199079)
 1. [AI 时代的程序员困境](https://www.v2ex.com/t/1199195)
-1. [（后续）关于新来的技术 leader 准备用 Claude code 升级现有项目](https://www.v2ex.com/t/1199066)
 1. [这样用 AI 写代码，属于劣币驱逐良币了。笑了](https://www.v2ex.com/t/1199158)
-1. [淘宝国补给父母买手机，结果遇到上门诈骗](https://www.v2ex.com/t/1199085)
+1. [来点乐观的，大胆预测十几年后 AI 全面升级，人人都可躺平无需工作](https://www.v2ex.com/t/1199250)
+1. [大家怎么看百度热搜：大厂月薪 3 万疯抢文科生](https://www.v2ex.com/t/1199088)
+1. [今日话题:你谈过几个对象](https://www.v2ex.com/t/1199183)
+1. [磷酸铁锂和三元锂选哪个](https://www.v2ex.com/t/1199113)
 
 ## 历史归档
 
