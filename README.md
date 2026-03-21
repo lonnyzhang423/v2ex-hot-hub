@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-22 03:16:00 +0800`
+ `更新时间：2026-03-22 04:14:32 +0800`
 
 ## 热议话题
 
 1. [iPhone 是真 TM 难用](https://www.v2ex.com/t/1199995)
 1. [一个晚上撸出来的<V2EX 用户画像分析>小工具](https://www.v2ex.com/t/1199967)
 1. [[寻中转站合作] CC 逆向最低 0.1 元/刀（需量大），远大于 200K 上下文，深度思考，支持 websearch](https://www.v2ex.com/t/1199977)
-1. [普通人是不是每天定投 100 块钱纳斯达克就可以了？](https://www.v2ex.com/t/1199966)
 1. [Android 是真 TM 难用](https://www.v2ex.com/t/1200054)
+1. [普通人是不是每天定投 100 块钱纳斯达克就可以了？](https://www.v2ex.com/t/1199966)
 1. [你們現在使用光貓撥號還是路由撥號上網？](https://www.v2ex.com/t/1199996)
 1. [保姆级教程｜ 3 月最新的谷歌 Gemini 免费一年领取教程｜ Pixel 认证教程](https://www.v2ex.com/t/1200018)
 1. [2026 年 03 月 24 小米财报，小米还会继续被踩吗，会跌倒 30 以下吗](https://www.v2ex.com/t/1199973)
