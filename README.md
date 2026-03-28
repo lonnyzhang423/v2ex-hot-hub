@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-28 09:12:26 +0800`
+ `更新时间：2026-03-28 12:09:19 +0800`
 
 ## 热议话题
 
 1. [昨晚买了人生中的第一套房](https://www.v2ex.com/t/1201611)
-1. [一场家庭矛盾，到底该听谁的？](https://www.v2ex.com/t/1201490)
 1. [周五下午了，说下最近遇到的情感问题，让大家取笑一下](https://www.v2ex.com/t/1201608)
-1. [2026 年， node 写后端你用的 nestjs, fastify, honojs 还是其他？](https://www.v2ex.com/t/1201488)
-1. [十年“幸运废物”自白：贵人风口全接住，为何还是普通人？](https://www.v2ex.com/t/1201519)
-1. [一份真实家庭财务情况分享](https://www.v2ex.com/t/1201532)
-1. [部门在搞 AI 提效培训会，不知道为什么我很反感](https://www.v2ex.com/t/1201511)
-1. [开一家炒鸡店(鸡公煲)或者自助洗车能否盈利？](https://www.v2ex.com/t/1201550)
-1. [突然发现，有瓶啤酒原浆太大，想约人喝酒，发现..........唉](https://www.v2ex.com/t/1201514)
+1. [程序员会被产品经理替代吗](https://www.v2ex.com/t/1201573)
+1. [闲鱼 ai 代充的货源都来自于这个卡网](https://www.v2ex.com/t/1201567)
+1. [Opus 4.6 模型不能用了](https://www.v2ex.com/t/1201647)
+1. [这种 PUA 的 skill 真的对 ai 有用麻？](https://www.v2ex.com/t/1201606)
+1. [国内 AI 开发，受到的冲击没有想象中那么大？](https://www.v2ex.com/t/1201575)
+1. [AI 飞速发展的当下，各大厂们为啥都还在卷 IDE？](https://www.v2ex.com/t/1201695)
+1. [用了豆包输入法，打开新世界，但是有个问题……](https://www.v2ex.com/t/1201576)
+1. [如果人生能带着记忆重来就好了](https://www.v2ex.com/t/1201741)
 
 ## 历史归档
 
