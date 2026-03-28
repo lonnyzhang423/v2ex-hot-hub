@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-28 18:21:28 +0800`
+ `更新时间：2026-03-28 19:19:19 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [家庭琐事，我奶把我姑折磨崩溃了。](https://www.v2ex.com/t/1201723)
 1. [程序员的 5 个转型方向](https://www.v2ex.com/t/1201775)
 1. [如果人生能带着记忆重来就好了](https://www.v2ex.com/t/1201741)
-1. [个人对于几个主流 Agent 编程套餐的感受](https://www.v2ex.com/t/1201703)
 1. [有了 openclaw, app 会死吗?](https://www.v2ex.com/t/1201764)
+1. [[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站](https://www.v2ex.com/t/1201760)
 1. [我去年反 AI，一群人骂我](https://www.v2ex.com/t/1201799)
+1. [2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的](https://www.v2ex.com/t/1201809)
 
 ## 历史归档
 
