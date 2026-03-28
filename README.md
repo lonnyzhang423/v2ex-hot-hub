@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-29 04:17:57 +0800`
+ `更新时间：2026-03-29 05:20:19 +0800`
 
 ## 热议话题
 
 1. [有点搞不懂 Claude Code 了](https://www.v2ex.com/t/1201779)
 1. [程序员的 5 个转型方向](https://www.v2ex.com/t/1201775)
 1. [2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的](https://www.v2ex.com/t/1201809)
-1. [有了 openclaw, app 会死吗?](https://www.v2ex.com/t/1201764)
 1. [深圳.NET B/S 方向出路何在？](https://www.v2ex.com/t/1201818)
-1. [opus 小时限额之后，你们是等，还是用 sonnet 继续？](https://www.v2ex.com/t/1201800)
 1. [想要一个 codex/claude code 的 Web UI 界面](https://www.v2ex.com/t/1201842)
+1. [opus 小时限额之后，你们是等，还是用 sonnet 继续？](https://www.v2ex.com/t/1201800)
 
 ## 历史归档
 
