@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-29 12:28:10 +0800`
+ `更新时间：2026-03-29 14:05:37 +0800`
 
 ## 热议话题
 
-1. [2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的](https://www.v2ex.com/t/1201809)
 1. [豆包输入法 mac 版来了，牛逼 plus](https://www.v2ex.com/t/1201848)
 1. [还是要用 ubuntu](https://www.v2ex.com/t/1201875)
-1. [深圳.NET B/S 方向出路何在？](https://www.v2ex.com/t/1201818)
 1. [想要一个 codex/claude code 的 Web UI 界面](https://www.v2ex.com/t/1201842)
 1. [[独立开发 / 招募封测] 📻 做了一款极简且高颜值的全球电台 App，求 20 位 Google Play 封测体验官 (即送终身 Pro)](https://www.v2ex.com/t/1201854)
-1. [杭州各位单身的打工仔怎么过周末的啊](https://www.v2ex.com/t/1201810)
+1. [你用 AI 赚到过钱吗 怎么赚的？](https://www.v2ex.com/t/1201942)
 1. [有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案](https://www.v2ex.com/t/1201922)
-1. [[科普向]claude 中转站为什么这么费钱？明明便宜 70%，余额却消耗得飞快](https://www.v2ex.com/t/1201851)
+1. [apple watch 你们都用来干什么？](https://www.v2ex.com/t/1201936)
 1. [Claude Pro 信用卡频频被拒？用 N26 + Apple Pay 丝滑升级保姆级教程](https://www.v2ex.com/t/1201877)
+1. [大资金](https://www.v2ex.com/t/1201938)
+1. [[科普向]claude 中转站为什么这么费钱？明明便宜 70%，余额却消耗得飞快](https://www.v2ex.com/t/1201851)
 
 ## 历史归档
 
