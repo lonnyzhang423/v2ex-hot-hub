@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-29 15:44:50 +0800`
+ `更新时间：2026-03-29 16:28:36 +0800`
 
 ## 热议话题
 
 1. [豆包输入法 mac 版来了，牛逼 plus](https://www.v2ex.com/t/1201848)
-1. [还是要用 ubuntu](https://www.v2ex.com/t/1201875)
 1. [你用 AI 赚到过钱吗 怎么赚的？](https://www.v2ex.com/t/1201942)
+1. [还是要用 ubuntu](https://www.v2ex.com/t/1201875)
 1. [apple watch 你们都用来干什么？](https://www.v2ex.com/t/1201936)
 1. [分享一个随叫随到的英语语法检查小窗，效率党进（送 10 份）](https://www.v2ex.com/t/1201945)
 1. [有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案](https://www.v2ex.com/t/1201922)
