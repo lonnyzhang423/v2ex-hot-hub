@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-29 18:22:12 +0800`
+ `更新时间：2026-03-29 19:19:50 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [请问 m 芯片真的很强吗?](https://www.v2ex.com/t/1202001)
 1. [有玩流量卡和 CPE 的吗，有什么适合长期旅行的方案](https://www.v2ex.com/t/1201922)
 1. [大资金](https://www.v2ex.com/t/1201938)
-1. [WSL 的 GitHub Issue 被广告刷屏了](https://www.v2ex.com/t/1201982)
 1. [入坑小红书公司的要谨慎，期权有第三年得不到的巨大风险，不要被 16 薪欺骗。](https://www.v2ex.com/t/1201958)
 1. [Claude Pro 信用卡频频被拒？用 N26 + Apple Pay 丝滑升级保姆级教程](https://www.v2ex.com/t/1201877)
 
