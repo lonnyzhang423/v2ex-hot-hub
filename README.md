@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-03-30 20:52:47 +0800`
+ `更新时间：2026-03-30 22:20:43 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [2026 年了，程序员用 chrome 还是用 Safari 比较多？可以说一下推荐的原因吗？](https://www.v2ex.com/t/1202062)
 1. [新买的酷态科 10 号 ultra 坏了](https://www.v2ex.com/t/1202112)
 1. [是否需要拔智齿](https://www.v2ex.com/t/1202131)
+1. [2026 年，个人开发首选是直接走原生还是走 RN 或 flutter](https://www.v2ex.com/t/1202088)
 
 ## 历史归档
 
