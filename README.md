@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-01 09:27:05 +0800`
+ `更新时间：2026-04-01 12:39:09 +0800`
 
 ## 热议话题
 
-1. [如何投诉苏州大学？](https://www.v2ex.com/t/1202403)
-1. [妹妹嫁到 300 多公里外，这种距离你们还会经常来往吗？](https://www.v2ex.com/t/1202445)
-1. [多多买全新 Mac 翻车实录：开箱满屏指纹，客服甩锅包装工](https://www.v2ex.com/t/1202478)
+1. [43 岁了，欠债几千个 w，辛苦半年开发的世界第一款真正足球 RPG 游戏，结果只有 5 个心愿单。真心求教怎么才能 steam 涨心愿单啊？](https://www.v2ex.com/t/1202694)
+1. [想问下大家是如何判断车的安全性](https://www.v2ex.com/t/1202685)
+1. [龟男又来发帖了，帮帮我](https://www.v2ex.com/t/1202731)
 1. [Claude Code 的源码好像被 Anthropic 自己发出来了](https://www.v2ex.com/t/1202562)
-1. [公司开始推行每个人创建各自的 agent、skills 了，并纳入考核](https://www.v2ex.com/t/1202429)
-1. [所以今天凌晨的 Apple intelligence，是草台班子具像化吗。。](https://www.v2ex.com/t/1202424)
-1. [阿里云的 Coding Plan 现在是不是根本不放货了](https://www.v2ex.com/t/1202410)
+1. [医院的商业化是不是过头了？](https://www.v2ex.com/t/1202702)
+1. [这种三省六部的 agent 架构有没有用？有用过的麻？](https://www.v2ex.com/t/1202502)
+1. [新手开车前准备](https://www.v2ex.com/t/1202688)
+1. [中奖了](https://www.v2ex.com/t/1202712)
 
 ## 历史归档
 
