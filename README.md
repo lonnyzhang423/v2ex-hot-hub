@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-05 03:23:37 +0800`
+ `更新时间：2026-04-05 04:18:44 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,6 @@
 1. [现在 session 是主流还是 jwt + refresh token 是主流？](https://www.v2ex.com/t/1203511)
 1. [使用本地模型 Gemma4 来驱动 OpenClaw](https://www.v2ex.com/t/1203472)
 1. [2 年以后的硬件和本地大模型](https://www.v2ex.com/t/1203495)
-1. [GPT Plus 怎么收费？研究完付款方式后我的结论是别自己折腾](https://www.v2ex.com/t/1203479)
 1. [是不是折腾输入法的尽头都是回归原生输入法?](https://www.v2ex.com/t/1203545)
 
 ## 历史归档
