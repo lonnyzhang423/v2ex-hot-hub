@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-04 12:06:53 +0800`
+ `更新时间：2026-04-04 13:49:40 +0800`
 
 ## 热议话题
 
 1. [看到我的同事一天到晚还在手写代码我就想笑](https://www.v2ex.com/t/1203377)
-1. [做了一个 AI 视频和 AI 图像一站式平台， Seedance 2.0 已支持](https://www.v2ex.com/t/1203311)
-1. [小米 MiMo token plan 四挡套餐正式上线 贵还是便宜](https://www.v2ex.com/t/1203353)
 1. [苹果 m5 芯片的 mbp 永远的神啊](https://www.v2ex.com/t/1203428)
+1. [小米 MiMo token plan 四挡套餐正式上线 贵还是便宜](https://www.v2ex.com/t/1203353)
 1. [对于想做独立开发的程序员来说， AI 时代的到来是最大的福报](https://www.v2ex.com/t/1203390)
 1. [[重庆]清明准备一个人去重庆玩两天, 有什么推荐的小吃和去处吗?](https://www.v2ex.com/t/1203343)
 1. [福建联通续费包年宽带要求签新入网服务协议](https://www.v2ex.com/t/1203376)
+1. [中转站真的就是一个辛苦钱，还要被人锤](https://www.v2ex.com/t/1203418)
+1. [奥特曼你听我说](https://www.v2ex.com/t/1203364)
 
 ## 历史归档
 
