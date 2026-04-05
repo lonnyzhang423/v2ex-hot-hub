@@ -11,17 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-05 09:22:42 +0800`
+ `更新时间：2026-04-05 12:28:30 +0800`
 
 ## 热议话题
 
 1. [Claude Code 又送了 $100 的 extra balance](https://www.v2ex.com/t/1203503)
-1. [现在各个厂家的 coding plan 是不是都抢不到了..](https://www.v2ex.com/t/1203486)
-1. [有点好奇，翻墙节点一般都是香港日本新加坡，为什么很少走韩国呢？](https://www.v2ex.com/t/1203483)
 1. [死活下载不了 youtube 了](https://www.v2ex.com/t/1203509)
 1. [现在 session 是主流还是 jwt + refresh token 是主流？](https://www.v2ex.com/t/1203511)
-1. [facebook 账号太容易被封](https://www.v2ex.com/t/1203484)
-1. [2 年以后的硬件和本地大模型](https://www.v2ex.com/t/1203495)
+1. [是不是折腾输入法的尽头都是回归原生输入法?](https://www.v2ex.com/t/1203545)
+1. [AI 写代码真香喷；以后只要产品经理就可以了](https://www.v2ex.com/t/1203613)
+1. [怎么感觉 ClaudeCodeMax 5X 额度变少了](https://www.v2ex.com/t/1203550)
+1. [哪里有 giffgaff 手机卡](https://www.v2ex.com/t/1203525)
 
 ## 历史归档
 
