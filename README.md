@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-05 07:20:25 +0800`
+ `更新时间：2026-04-05 09:22:42 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [有点好奇，翻墙节点一般都是香港日本新加坡，为什么很少走韩国呢？](https://www.v2ex.com/t/1203483)
 1. [死活下载不了 youtube 了](https://www.v2ex.com/t/1203509)
 1. [现在 session 是主流还是 jwt + refresh token 是主流？](https://www.v2ex.com/t/1203511)
-1. [使用本地模型 Gemma4 来驱动 OpenClaw](https://www.v2ex.com/t/1203472)
 1. [facebook 账号太容易被封](https://www.v2ex.com/t/1203484)
 1. [2 年以后的硬件和本地大模型](https://www.v2ex.com/t/1203495)
 
