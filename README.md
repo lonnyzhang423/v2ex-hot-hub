@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-07 09:20:58 +0800`
+ `更新时间：2026-04-07 12:24:13 +0800`
 
 ## 热议话题
 
 1. [[送 5 张 Giffgaff 卡] 阿里云大客户折扣账户， ECS 轻松 5 折！](https://www.v2ex.com/t/1203796)
-1. [为什么抖音的思路跟正常人不一样？](https://www.v2ex.com/t/1203769)
-1. [什么时候老人身份是插队者的挡箭牌？？](https://www.v2ex.com/t/1203803)
+1. [[专属福利/AI 中转站] OneXModel 限时回馈 V 站用户，诚邀体验~](https://www.v2ex.com/t/1203876)
+1. [80 后讨论下买房的意义](https://www.v2ex.com/t/1203924)
 1. [微信输入法为什么这么消耗系统资源？](https://www.v2ex.com/t/1203815)
+1. [京东洗衣这么离谱吗](https://www.v2ex.com/t/1203878)
+1. [什么时候老人身份是插队者的挡箭牌？？](https://www.v2ex.com/t/1203803)
 1. [我做了个 apple tv 看日本小姐姐的服务](https://www.v2ex.com/t/1203833)
-1. [codex 的奇怪🤔输出：“无码亚洲”](https://www.v2ex.com/t/1203811)
-1. [奶昔机场怎么了？](https://www.v2ex.com/t/1203818)
-1. [新买的 mbp m5 本有必要买 apple care 吗？](https://www.v2ex.com/t/1203781)
-1. [GitHub 中有些人给代码放恶意代码，如何针对他？](https://www.v2ex.com/t/1203850)
+1. [三次约会表白后续：我们不合适](https://www.v2ex.com/t/1203888)
+1. [有没有什么办法应对失眠？快痛苦死了](https://www.v2ex.com/t/1203893)
 
 ## 历史归档
 
