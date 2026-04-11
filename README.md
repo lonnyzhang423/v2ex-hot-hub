@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-12 00:24:28 +0800`
+ `更新时间：2026-04-12 01:22:43 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [爱上合租妹子，我该怎么追她](https://www.v2ex.com/t/1205086)
 1. [服役 9 年的 FILCO 青轴机械键盘寿终正寝了， 2026 年有啥值得推荐的机械键盘吗？](https://www.v2ex.com/t/1205068)
 1. [记一次 Apple Passwords 数据遗失的经历](https://www.v2ex.com/t/1205135)
-1. [刚毕业也是当上牛马了](https://www.v2ex.com/t/1205050)
 1. [AirTag 只有在绑定的设备附近才会更新位置？？](https://www.v2ex.com/t/1205044)
+1. [刚毕业也是当上牛马了](https://www.v2ex.com/t/1205050)
 1. [确定豆包能发二维码吗？](https://www.v2ex.com/t/1205133)
 1. [自己撸了一个小工具、终于吧 Mac"系统数据"占用干下来了](https://www.v2ex.com/t/1205096)
 
