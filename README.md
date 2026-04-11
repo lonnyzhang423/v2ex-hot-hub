@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-11 18:23:20 +0800`
+ `更新时间：2026-04-11 19:21:10 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [现在专线的机场是不是都凉了，还有稳定行强的链路推荐吗](https://www.v2ex.com/t/1205082)
 1. [从 iPhone 换到 Oppo Find X9 半年后。。。](https://www.v2ex.com/t/1205016)
 1. [AirTag 只有在绑定的设备附近才会更新位置？？](https://www.v2ex.com/t/1205044)
+1. [记一次 Apple Passwords 数据遗失的经历](https://www.v2ex.com/t/1205135)
+1. [被狗咬伤，对方拒绝赔偿，警察和稀泥应该如何维权。](https://www.v2ex.com/t/1205139)
 1. [刚毕业也是当上牛马了](https://www.v2ex.com/t/1205050)
-1. [99 美刀的 google one pro 完全不可用了](https://www.v2ex.com/t/1205028)
-1. [32 岁找工作记录](https://www.v2ex.com/t/1205027)
 
 ## 历史归档
 
