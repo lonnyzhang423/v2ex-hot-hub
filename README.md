@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-11 14:48:59 +0800`
+ `更新时间：2026-04-11 15:42:38 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [你如何读 codex ？是 code cha，还是 code aikesi](https://www.v2ex.com/t/1204920)
 1. [好奇问一下：为什么很多国人开源项目，第一语言还是英文？](https://www.v2ex.com/t/1205084)
 1. [我好像造出来了印钞机](https://www.v2ex.com/t/1204970)
-1. [质谱 GLM5.1 根本没法玩了](https://www.v2ex.com/t/1204899)
 1. [从 iPhone 换到 Oppo Find X9 半年后。。。](https://www.v2ex.com/t/1205016)
+1. [江苏联通全局限速但不承认如何破局？](https://www.v2ex.com/t/1204916)
 
 ## 历史归档
 
