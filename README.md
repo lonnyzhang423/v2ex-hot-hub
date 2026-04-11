@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-11 09:17:20 +0800`
+ `更新时间：2026-04-11 12:10:49 +0800`
 
 ## 热议话题
 
 1. [[V 友专属｜ claude 模型中转站免费送 20 刀 已稳定运行一个月 支持 claude-opus-4-6](https://www.v2ex.com/t/1204888)
-1. [你的 SBTI 是什么？](https://www.v2ex.com/t/1204785)
-1. [看中了蔚来 ET5T 的电车， 75 度租电，大家觉得如何](https://www.v2ex.com/t/1204799)
-1. [昨天得知爷爷去世了，我好像没有想象中难过](https://www.v2ex.com/t/1204809)
 1. [送懒猫微服！送 CodeX 啦！极速内网穿透+AI 编程小主机，出门也能 Vibe Coding](https://www.v2ex.com/t/1204968)
-1. [最近都在说网络监管显著升级 大家都受到影响了嘛](https://www.v2ex.com/t/1204919)
-1. [2026 年了，安卓、鸿蒙项目路径居然还是要求不能有中文](https://www.v2ex.com/t/1204805)
+1. [有人用豆包买保险，结果支付到我这里来了](https://www.v2ex.com/t/1205029)
 1. [有个事想请教： GitHub 上有人用了和我一样的项目名，复刻了一模一样的项目](https://www.v2ex.com/t/1204945)
+1. [bc 公司能去吗，请问，不会吃牢饭吧](https://www.v2ex.com/t/1204895)
+1. [你如何读 codex ？是 code cha，还是 code aikesi](https://www.v2ex.com/t/1204920)
+1. [对于我来说，阿里这家企业已经有诚信问题了](https://www.v2ex.com/t/1204840)
 
 ## 历史归档
 
