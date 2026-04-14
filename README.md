@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-14 16:19:54 +0800`
+ `更新时间：2026-04-14 18:06:14 +0800`
 
 ## 热议话题
 
 1. [[送码]截图工具 PixPin3.0 正式发布（文字识别，长截图，录屏，标注），时隔两年半再来 v 站宣传](https://www.v2ex.com/t/1205693)
-1. [Termina.Pub 中转站 可开发票，欢迎企业合作，回帖留 id 送 10 刀额度，送 150 位](https://www.v2ex.com/t/1205554)
+1. [新 Codex 中转站点上线，来给 V 友发福利了, 送价值 $50 额度](https://www.v2ex.com/t/1205750)
 1. [想问下大家早餐都吃什么？](https://www.v2ex.com/t/1205652)
 1. [减脂，可能是成年人最容易获得正反馈的一件事](https://www.v2ex.com/t/1205661)
-1. [何谓七年之痒？](https://www.v2ex.com/t/1205524)
-1. [新 Codex 中转站点上线，来给 V 友发福利了, 送价值 $50 额度](https://www.v2ex.com/t/1205750)
-1. [[API 中转站] Hyper API 10 刀额度，注册免费体验，每日签到送额度](https://www.v2ex.com/t/1205599)
 1. [年轻人的第一套房（求指导！）](https://www.v2ex.com/t/1205734)
+1. [[API 中转站] Hyper API 10 刀额度，注册免费体验，每日签到送额度](https://www.v2ex.com/t/1205599)
 1. [历经 3 个月，案子终于快结束了，检察官说尽快退赃，她好去和领导申请不起诉](https://www.v2ex.com/t/1205574)
+1. [38 岁老程序猿该何去何从，希望前辈能指点一、二](https://www.v2ex.com/t/1205696)
+1. [XChat 替代 tg 还是 wx](https://www.v2ex.com/t/1205659)
 
 ## 历史归档
 
