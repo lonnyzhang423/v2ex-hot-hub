@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-15 20:58:51 +0800`
+ `更新时间：2026-04-15 22:43:28 +0800`
 
 ## 热议话题
 
-1. [# 🐱 送懒猫微服！送 CodeX 啦！（第二轮）](https://www.v2ex.com/t/1205888)
-1. [继续启动！ 19 元/月质保整月的 gpt plus！](https://www.v2ex.com/t/1205942)
 1. [[加群领 10U 额度 评论留 ID 再发 5U] ⛽ RootFlow AI — 高性能 AI API 加油站](https://www.v2ex.com/t/1206000)
-1. [求助： Trae 用支付宝免密支付扣了我 7 个月，客服拒绝退款](https://www.v2ex.com/t/1205953)
+1. [继续启动！ 19 元/月质保整月的 gpt plus！](https://www.v2ex.com/t/1205942)
 1. [硕 2 大厂 2 年，想 all in 考公，打算入职江浙沪的小厂做过渡，求建议](https://www.v2ex.com/t/1206048)
+1. [求助： Trae 用支付宝免密支付扣了我 7 个月，客服拒绝退款](https://www.v2ex.com/t/1205953)
 1. [替尔泊肽，一个月减掉 20 斤](https://www.v2ex.com/t/1205963)
 1. [Anthropic 宣布在 Claude 平台推行身份验证机制](https://www.v2ex.com/t/1206060)
 1. [炒股 2 年了，一些感悟。](https://www.v2ex.com/t/1205997)
 1. [26 岁确诊高血压 要靠药物降血压终身](https://www.v2ex.com/t/1206044)
+1. [有人会觉得很可怕吗 ，](https://www.v2ex.com/t/1206067)
 
 ## 历史归档
 
