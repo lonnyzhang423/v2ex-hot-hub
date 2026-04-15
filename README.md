@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-16 00:59:27 +0800`
+ `更新时间：2026-04-16 02:05:10 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [求助： Trae 用支付宝免密支付扣了我 7 个月，客服拒绝退款](https://www.v2ex.com/t/1205953)
 1. [Anthropic 宣布在 Claude 平台推行身份验证机制](https://www.v2ex.com/t/1206060)
 1. [替尔泊肽，一个月减掉 20 斤](https://www.v2ex.com/t/1205963)
-1. [炒股 2 年了，一些感悟。](https://www.v2ex.com/t/1205997)
 1. [有人会觉得很可怕吗 ，](https://www.v2ex.com/t/1206067)
+1. [炒股 2 年了，一些感悟。](https://www.v2ex.com/t/1205997)
 1. [26 岁确诊高血压 要靠药物降血压终身](https://www.v2ex.com/t/1206044)
 
 ## 历史归档
