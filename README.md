@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-16 16:21:31 +0800`
+ `更新时间：2026-04-16 18:06:04 +0800`
 
 ## 热议话题
 
 1. [有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。](https://www.v2ex.com/t/1206278)
 1. [关于父母的托举](https://www.v2ex.com/t/1206165)
-1. [Gemini app, now on Mac](https://www.v2ex.com/t/1206235)
 1. [万把块钱搞什么投资（投机？）好呢](https://www.v2ex.com/t/1206257)
+1. [Gemini app, now on Mac](https://www.v2ex.com/t/1206235)
 1. [京东家政 2 小时预约火爆，为什么](https://www.v2ex.com/t/1206231)
+1. [公司裁员，目前没有工作。想试试摆摊，做一个移动鲜啤打酒车](https://www.v2ex.com/t/1206375)
+1. [copilot 体验下来不错，是我的错觉吗？](https://www.v2ex.com/t/1206248)
 1. [调查: 有人跟我一样用 微信文件传输助手 当记事本用的吗](https://www.v2ex.com/t/1206169)
-1. [联通第一年免费，第二年一月 10 元，有没有坑？](https://www.v2ex.com/t/1206125)
-1. [AI 社交是伪命题吗？](https://www.v2ex.com/t/1206229)
 
 ## 历史归档
 
