@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-16 12:43:23 +0800`
+ `更新时间：2026-04-16 14:27:40 +0800`
 
 ## 热议话题
 
-1. [硕 2 大厂 2 年，想 all in 考公，打算入职江浙沪的小厂做过渡，求建议](https://www.v2ex.com/t/1206048)
-1. [有人会觉得很可怕吗 ，](https://www.v2ex.com/t/1206067)
-1. [科普一下低价 gpt 是怎么来的](https://www.v2ex.com/t/1206058)
-1. [Anthropic 宣布在 Claude 平台推行身份验证机制](https://www.v2ex.com/t/1206060)
-1. [26 岁确诊高血压 要靠药物降血压终身](https://www.v2ex.com/t/1206044)
-1. [关于父母的托举](https://www.v2ex.com/t/1206165)
 1. [有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。](https://www.v2ex.com/t/1206278)
+1. [关于父母的托举](https://www.v2ex.com/t/1206165)
 1. [一人推荐一款 mac m5 必装软件](https://www.v2ex.com/t/1206103)
-1. [现在推荐什么路由器刷 openwrt 的？或者能 ssh 进去的](https://www.v2ex.com/t/1206063)
+1. [为什么普通人戾气越来越重？看看这两条新闻就懂了](https://www.v2ex.com/t/1206266)
+1. [Gemini app, now on Mac](https://www.v2ex.com/t/1206235)
+1. [京东家政 2 小时预约火爆，为什么](https://www.v2ex.com/t/1206231)
+1. [claude 认证莫慌](https://www.v2ex.com/t/1206105)
+1. [万把块钱搞什么投资（投机？）好呢](https://www.v2ex.com/t/1206257)
+1. [调查: 有人跟我一样用 微信文件传输助手 当记事本用的吗](https://www.v2ex.com/t/1206169)
 
 ## 历史归档
 
