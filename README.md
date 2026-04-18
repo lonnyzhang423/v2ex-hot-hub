@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-19 00:27:16 +0800`
+ `更新时间：2026-04-19 01:28:05 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [低价 GPT 订阅漏洞已被捅到官方脸上](https://www.v2ex.com/t/1206762)
 1. [windows 更新这么离谱吗](https://www.v2ex.com/t/1206784)
 1. [ios 设置的闹钟没响，导致我今天上班迟到😭。](https://www.v2ex.com/t/1206783)
-1. [IETF 推出 IPv8 协议， IPv6 说明是个草台班子](https://www.v2ex.com/t/1206826)
 1. [我妈逼迫我 23 年深圳买房，导致 3 年房子降价 100 万，加上 30 年利息亏损 180 万](https://www.v2ex.com/t/1206894)
+1. [IETF 推出 IPv8 协议， IPv6 说明是个草台班子](https://www.v2ex.com/t/1206826)
 
 ## 历史归档
 
