@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-18 16:37:07 +0800`
+ `更新时间：2026-04-18 17:37:50 +0800`
 
 ## 热议话题
 
 1. [今天结婚了☺️☺️☺️](https://www.v2ex.com/t/1206769)
 1. [[送 5 张 Giffgaff 卡] 阿里云折扣账户， 低门槛 ECS 五折](https://www.v2ex.com/t/1206723)
 1. [1Password 日本代理商最后的低价](https://www.v2ex.com/t/1206734)
-1. [探讨下获取其他国家身份的途径](https://www.v2ex.com/t/1206775)
 1. [继续送！ codex 中转，留邮箱就送。（老板去找老黑收 kyc 去了）](https://www.v2ex.com/t/1206747)
+1. [探讨下获取其他国家身份的途径](https://www.v2ex.com/t/1206775)
 1. [低价 GPT 订阅漏洞已被捅到官方脸上](https://www.v2ex.com/t/1206762)
-1. [reddit 上都在抱怨 opus4.7，说又贵又难用，是真的吗？](https://www.v2ex.com/t/1206698)
+1. [没有编辑器， CLI 纯聊天写代码的方式有点儿难适应](https://www.v2ex.com/t/1206751)
+1. [windows 更新这么离谱吗](https://www.v2ex.com/t/1206784)
 
 ## 历史归档
 
