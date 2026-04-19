@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-19 17:45:06 +0800`
+ `更新时间：2026-04-19 18:30:00 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [你会愿意为浏览器付费吗？](https://www.v2ex.com/t/1206919)
 1. [问问大家，这个工作能去吗](https://www.v2ex.com/t/1206944)
 1. [面对被裁员后的生活，你会做出怎样的选择呢？](https://www.v2ex.com/t/1206930)
-1. [如何在服务器上用 codex](https://www.v2ex.com/t/1206866)
-1. [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
-1. [爱快软路由 ikuai 开心版 带插件固件完整分析](https://www.v2ex.com/t/1206925)
 1. [你的 plus 还好吗？](https://www.v2ex.com/t/1206964)
+1. [准备 618 买苹果 17，买国行还是外版？](https://www.v2ex.com/t/1206950)
+1. [爱快软路由 ikuai 开心版 带插件固件完整分析](https://www.v2ex.com/t/1206925)
+1. [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
 
 ## 历史归档
 
