@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-19 22:33:52 +0800`
+ `更新时间：2026-04-19 23:28:45 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [面对被裁员后的生活，你会做出怎样的选择呢？](https://www.v2ex.com/t/1206930)
 1. [人在无奈的时候真的会笑](https://www.v2ex.com/t/1207008)
 1. [准备 618 买苹果 17，买国行还是外版？](https://www.v2ex.com/t/1206950)
-1. [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
 1. [中转站新站开业 送 5 刀](https://www.v2ex.com/t/1206958)
+1. [被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核](https://www.v2ex.com/t/1206942)
 
 ## 历史归档
 
