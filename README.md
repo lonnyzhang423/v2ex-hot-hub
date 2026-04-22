@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-22 20:59:33 +0800`
+ `更新时间：2026-04-22 22:46:13 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [[公测] APIBox 中转站推广送福利💥](https://www.v2ex.com/t/1207704)
 1. [《我是不是错过了，真想给自己两巴掌！》续集](https://www.v2ex.com/t/1207667)
 1. [你们都 vibe 了啥不赚钱的东西](https://www.v2ex.com/t/1207615)
-1. [真的服了老父亲](https://www.v2ex.com/t/1207600)
-1. [夏天到了，有没有推荐的口粮啤酒啊，消暑解渴就行](https://www.v2ex.com/t/1207596)
 1. [背调公司从哪里查的我的仲裁记录](https://www.v2ex.com/t/1207650)
 1. [iOS 照片备份 App「🍉西瓜备份」上线，直接免费](https://www.v2ex.com/t/1207707)
+1. [codex 的风评似乎在超过 Claude code？](https://www.v2ex.com/t/1207711)
+1. [问个问题，现在失业率到底是多少](https://www.v2ex.com/t/1207717)
 
 ## 历史归档
 
