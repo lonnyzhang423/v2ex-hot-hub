@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-24 12:46:24 +0800`
+ `更新时间：2026-04-24 14:58:25 +0800`
 
 ## 热议话题
 
-1. [我斥巨资买了一个域名，准备做一个面向全球用户的校友社区，大家帮忙看看域名是否合适？](https://www.v2ex.com/t/1208014)
-1. [如果辞职去环游世界，有没有什么好的方法可以维持经济](https://www.v2ex.com/t/1207995)
+1. [只能说 DeepSeek V4 Pro 继续努力吧，天气卡片效果一般](https://www.v2ex.com/t/1208250)
+1. [一个英语学习 APP [iOS] ，送 50 个终身会员](https://www.v2ex.com/t/1208178)
+1. [昨天开始广东深圳地区是不是墙变高了](https://www.v2ex.com/t/1208168)
 1. [请教巨佬：现在 [4 月 23 日] 这个时间点值得买 iphone17 吗？](https://www.v2ex.com/t/1208051)
 1. [不仅有 Z7 趴窝，原来前天发布会还有雪地白羊 AEB 造假呢...](https://www.v2ex.com/t/1208157)
-1. [一个英语学习 APP [iOS] ，送 50 个终身会员](https://www.v2ex.com/t/1208178)
-1. [五年过去了，结论有什么变化吗？](https://www.v2ex.com/t/1208040)
-1. [大家都是在什么设备上玩 openclaw 以及 hermes 的呀？](https://www.v2ex.com/t/1207994)
-1. [昨天开始广东深圳地区是不是墙变高了](https://www.v2ex.com/t/1208168)
+1. [ThinkPad 用来工作编程推荐哪一款？](https://www.v2ex.com/t/1208154)
+1. [外甥女马上初中毕业，学习不好，该选择什么样的出路，求大家给点建议](https://www.v2ex.com/t/1208188)
 1. [天下苦 Claude 久矣， GPT 就出招了， 5.5 目测下限是 opus 4.6](https://www.v2ex.com/t/1208148)
+1. [五年过去了，结论有什么变化吗？](https://www.v2ex.com/t/1208040)
 
 ## 历史归档
 
