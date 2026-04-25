@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-26 00:29:52 +0800`
+ `更新时间：2026-04-26 01:29:57 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [27 岁体会到了送别下一代](https://www.v2ex.com/t/1208483)
 1. [为了买到便宜靠谱的 Token，少被割韭菜，我做了个比价的网站](https://www.v2ex.com/t/1208476)
 1. [XChat 正式上架 App Store 了](https://www.v2ex.com/t/1208417)
+1. [什么成品企业级 NAS 方便维修？](https://www.v2ex.com/t/1208529)
 1. [codex 使用的订阅版，选择 gpt5.5，但是没有 1m 上下文？](https://www.v2ex.com/t/1208425)
-1. [关于部分地区“白名单”有何绕行方案？](https://www.v2ex.com/t/1208494)
 
 ## 历史归档
 
