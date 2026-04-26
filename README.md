@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-27 01:30:00 +0800`
+ `更新时间：2026-04-27 02:36:04 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [立志用 Ai 把学英语相关的会员价格打下来 - “keykey 学英语”](https://www.v2ex.com/t/1208562)
 1. [谷歌十年](https://www.v2ex.com/t/1208570)
 1. [我用 Vibe Coding 撸了一个离线的自慰/性生活记录工具（送激活码）](https://www.v2ex.com/t/1208587)
-1. [关于相亲，有一事真的挺不明的](https://www.v2ex.com/t/1208559)
 1. [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
 1. [飞机上 Starlink 测速](https://www.v2ex.com/t/1208600)
 1. [glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？](https://www.v2ex.com/t/1208616)
 1. [完全不付费的情况, 推荐哪一家 ai](https://www.v2ex.com/t/1208585)
+1. [和我妈每打一次电话都会低落很久](https://www.v2ex.com/t/1208672)
 
 ## 历史归档
 
