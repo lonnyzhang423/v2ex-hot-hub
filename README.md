@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-26 20:40:17 +0800`
+ `更新时间：2026-04-26 21:58:06 +0800`
 
 ## 热议话题
 
-1. [有两种永生的方式，我该选择哪一个](https://www.v2ex.com/t/1208518)
-1. [立志用 Ai 把学英语相关的会员价格打下来 - “keykey 学英语”](https://www.v2ex.com/t/1208562)
-1. [大早上通知周末发日报、工作日发半日报，实在没忍住直接和央企领导提离职了。](https://www.v2ex.com/t/1208576)
-1. [支付宝的天塌了，新出的《金融产品网络营销管理办法》基本完全干死了余额宝和花呗](https://www.v2ex.com/t/1208526)
 1. [Claude 新站开业 满血 Max 中转包月 1 元=1 刀， 限时注册送 5 美金额度 注册留 ID 再送 5 美金额度](https://www.v2ex.com/t/1208588)
+1. [大早上通知周末发日报、工作日发半日报，实在没忍住直接和央企领导提离职了。](https://www.v2ex.com/t/1208576)
+1. [立志用 Ai 把学英语相关的会员价格打下来 - “keykey 学英语”](https://www.v2ex.com/t/1208562)
 1. [什么成品企业级 NAS 方便维修？](https://www.v2ex.com/t/1208529)
 1. [谷歌十年](https://www.v2ex.com/t/1208570)
 1. [我用 Vibe Coding 撸了一个离线的自慰/性生活记录工具（送激活码）](https://www.v2ex.com/t/1208587)
 1. [关于相亲，有一事真的挺不明的](https://www.v2ex.com/t/1208559)
+1. [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
+1. [飞机上 Starlink 测速](https://www.v2ex.com/t/1208600)
+1. [glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？](https://www.v2ex.com/t/1208616)
 
 ## 历史归档
 
