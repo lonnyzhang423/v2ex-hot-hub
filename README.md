@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-27 07:29:14 +0800`
+ `更新时间：2026-04-27 09:47:55 +0800`
 
 ## 热议话题
 
 1. [Claude 新站开业 满血 Max 中转包月 1 元=1 刀， 限时注册送 5 美金额度 注册留 ID 再送 5 美金额度](https://www.v2ex.com/t/1208588)
 1. [大早上通知周末发日报、工作日发半日报，实在没忍住直接和央企领导提离职了。](https://www.v2ex.com/t/1208576)
-1. [谷歌十年](https://www.v2ex.com/t/1208570)
 1. [我用 Vibe Coding 撸了一个离线的自慰/性生活记录工具（送激活码）](https://www.v2ex.com/t/1208587)
-1. [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
+1. [和我妈每打一次电话都会低落很久](https://www.v2ex.com/t/1208672)
 1. [飞机上 Starlink 测速](https://www.v2ex.com/t/1208600)
+1. [Mac mini 的话筒，求推荐](https://www.v2ex.com/t/1208608)
 1. [glm5.1， kimi2.6， minimax2.7， mimo v2.5， deepseek v4，编程能力上的排名如何？](https://www.v2ex.com/t/1208616)
 1. [完全不付费的情况, 推荐哪一家 ai](https://www.v2ex.com/t/1208585)
-1. [和我妈每打一次电话都会低落很久](https://www.v2ex.com/t/1208672)
 1. [关于视觉调教方面，国内安卓怎么和苹果差距这么多](https://www.v2ex.com/t/1208666)
+1. [给你 1 个亿和让你带着现在的记忆回到童年 8 岁的时候，你选哪个](https://www.v2ex.com/t/1208714)
 
 ## 历史归档
 
