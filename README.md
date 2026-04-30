@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-04-30 16:02:28 +0800`
+ `更新时间：2026-04-30 18:44:41 +0800`
 
 ## 热议话题
 
-1. [新上中转站送 Token 纯血 gpt-5.5 分组倍率 0.15x](https://www.v2ex.com/t/1209410)
 1. [[bytecat] 逆向 Claude Opus0.1 倍率，中奖率 20%。注册送 500wtoken，叠加倍率可达 5000w~](https://www.v2ex.com/t/1209550)
-1. [做了一个内容极丰富的文字 roguelike 游戏，但是没人付费，问题出在哪？](https://www.v2ex.com/t/1209438)
 1. [失业后去热门景区附近卖烤肠，能轻松月入过万吗？](https://www.v2ex.com/t/1209548)
 1. [工作这些年，除了钱，你还沉淀下来了什么？](https://www.v2ex.com/t/1209536)
 1. [新上 API 中转站 zerofra.me，注册送 $10 额度，希望搞一波试运行](https://www.v2ex.com/t/1209542)
 1. [鼻中隔偏曲术后归来，后悔没早点做](https://www.v2ex.com/t/1209534)
 1. [我的第一个 Linux 内核补丁：从一个 TCP Listener 的 Bug 说起（大家五一节前快乐）](https://www.v2ex.com/t/1209526)
+1. [小米股票跌倒 29 了，快补仓](https://www.v2ex.com/t/1209564)
+1. [现在写中文的博客还有意义吗](https://www.v2ex.com/t/1209554)
 
 ## 历史归档
 
