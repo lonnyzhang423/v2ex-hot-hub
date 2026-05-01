@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-02 00:43:23 +0800`
+ `更新时间：2026-05-02 01:48:57 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [iOS 无法收到 TG 的通知](https://www.v2ex.com/t/1209797)
 1. [领到小米 MIMO 的额度了，大家领了多少？](https://www.v2ex.com/t/1209799)
 1. [感慨下，假期第一天，被裁了](https://www.v2ex.com/t/1209838)
-1. [[源头工厂] 顶级万号 ProMAX，$300 刀 Codex/GPT5 免费送，企业级稳定！五一专场](https://www.v2ex.com/t/1209783)
 1. [恳请过来人分享面瘫治疗经验](https://www.v2ex.com/t/1209832)
 1. [chatgpt 代充这是常规操作 还是我被坑了](https://www.v2ex.com/t/1209887)
+1. [海鲜市场花 1700 大洋买了个苏州电信的老号](https://www.v2ex.com/t/1209871)
+1. [Codex 登录需要验证手机号了](https://www.v2ex.com/t/1209905)
 
 ## 历史归档
 
