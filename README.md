@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-03 05:30:01 +0800`
+ `更新时间：2026-05-03 06:29:09 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [AI 时代， Java 中短期的地位不降反增](https://www.v2ex.com/t/1209937)
 1. [有人在推特展示深圳高中的情况...](https://www.v2ex.com/t/1210004)
 1. [2026 年 5 月，最新的穷鬼 AI 套餐有哪些？](https://www.v2ex.com/t/1209933)
-1. [glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？](https://www.v2ex.com/t/1209926)
 1. [硕士同事娶了个高中二婚女， GAP 期间都不让他同房了](https://www.v2ex.com/t/1210026)
+1. [glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？](https://www.v2ex.com/t/1209926)
 
 ## 历史归档
 
