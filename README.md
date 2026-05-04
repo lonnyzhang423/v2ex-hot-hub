@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-04 13:24:33 +0800`
+ `更新时间：2026-05-04 16:15:22 +0800`
 
 ## 热议话题
 
-1. [苦于开车通勤时间太长，想换一部 20-30w 的第一梯队智驾的车](https://www.v2ex.com/t/1210078)
 1. [苹果的信号是我误解了吗](https://www.v2ex.com/t/1210120)
 1. [都说 Anthropic 不做人，现在国产模型厂也不做人](https://www.v2ex.com/t/1210113)
 1. [就在刚刚，听到了初中时喜欢的人即将结婚的消息。](https://www.v2ex.com/t/1210131)
 1. [求助个人订阅 gpt pro 最安全的方法](https://www.v2ex.com/t/1210117)
 1. [虽然是老生常谈，但还是求教 2026 年笔记软件如何选择](https://www.v2ex.com/t/1210148)
 1. [在手机上使用 Codex](https://www.v2ex.com/t/1210106)
-1. [嘚瑟一下，有一个 gmail 账号可以改用户名了](https://www.v2ex.com/t/1210089)
-1. [怎么充 gpt 会员，还是我被骗了](https://www.v2ex.com/t/1210094)
+1. [If everyone is cooking, who is eating?](https://www.v2ex.com/t/1210104)
 1. [apns（苹果消息服务）推送异常后目前所做的努力](https://www.v2ex.com/t/1210130)
+1. [城巴佬——城市中产在消费劳动表演](https://www.v2ex.com/t/1210190)
+1. [各位大佬，调查一下你们都用哪些运营商？每月所有话费多钱一个月？](https://www.v2ex.com/t/1210156)
 
 ## 历史归档
 
