@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-05 21:09:37 +0800`
+ `更新时间：2026-05-05 23:39:00 +0800`
 
 ## 热议话题
 
 1. [豆包即将开始收费了，每月 68 元](https://www.v2ex.com/t/1210265)
-1. [写给苹果 CEO 库克的一封信](https://www.v2ex.com/t/1210228)
 1. [你们现在都在用什么协议，我怎么感觉老协议更稳](https://www.v2ex.com/t/1210259)
+1. [Best Model 五一送 5 刀 纯血 Claude Max API 告别古法编程 人人有份](https://www.v2ex.com/t/1210298)
+1. [程姓宝宝， 4.10 出生，快一个月了还没确定名字，总觉得之前取的名字不好](https://www.v2ex.com/t/1210347)
 1. [军工外包怎么样？](https://www.v2ex.com/t/1210270)
-1. [关于博客我有一个莫名其妙的纠结点](https://www.v2ex.com/t/1210231)
-1. [1850 多多买的小米智能门锁，师傅上门说装不了直接走了。。](https://www.v2ex.com/t/1210236)
+1. [境外 DNS 服务商 ECS (EDNS Client Subnet) 功能效果完整对比报告(2026 年 05 月） ，供大家参考使用](https://www.v2ex.com/t/1210332)
+1. [[AI 中转站 / 福利贴]OneXModel 推广拉新，限时回帖送$，稳定、靠谱、好用～](https://www.v2ex.com/t/1210308)
 1. [有没有最近用天翼云或者 ollama 的朋友](https://www.v2ex.com/t/1210261)
-1. [51 摆摊记，随缘更新~](https://www.v2ex.com/t/1210293)
+1. [机场专用客户端如何抓取节点](https://www.v2ex.com/t/1210301)
 
 ## 历史归档
 
