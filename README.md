@@ -11,16 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-12 19:11:30 +0800`
+ `更新时间：2026-05-12 21:51:22 +0800`
 
 ## 热议话题
 
-1. [卖房差点被骗了](https://www.v2ex.com/t/1212035)
 1. [马上要休婚假，想去日本玩，大家有没有攻略推荐~](https://www.v2ex.com/t/1212066)
+1. [卖房差点被骗了](https://www.v2ex.com/t/1212035)
 1. [紧急避雷！ google 搜 Codex 第一个结果是个病毒，千万别装，我已中招！](https://www.v2ex.com/t/1212003)
 1. [各位的 mbp 多久置换一次](https://www.v2ex.com/t/1212014)
-1. [自用 Codex 站（今天继续福利分组--5.12）](https://www.v2ex.com/t/1212045)
 1. [被多梦困扰的十几年](https://www.v2ex.com/t/1212140)
+1. [自用 Codex 站（今天继续福利分组--5.12）](https://www.v2ex.com/t/1212045)
 1. [AI API 公益站免费 100 个 100$额度兑换码赠送，众多模型免费用！](https://www.v2ex.com/t/1212025)
 1. [为啥最近爆发这么多中转站？](https://www.v2ex.com/t/1212033)
 1. [上周末共享单车骑了 55km，当晚咸鱼入手了大行 P8](https://www.v2ex.com/t/1212031)
