@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-19 10:11:48 +0800`
+ `更新时间：2026-05-19 14:38:44 +0800`
 
 ## 热议话题
 
-1. [[限时赠送] 中转站限时活动, 送百亿 Token](https://www.v2ex.com/t/1213451)
-1. [今天正式迈入 40 岁啦！](https://www.v2ex.com/t/1213548)
-1. [建议觉得原生家庭不行的看看这个帖子](https://www.v2ex.com/t/1213491)
 1. [做了一个免费的 AI 公益站，今天重新开放注册，送 50 刀额度兑换码](https://www.v2ex.com/t/1213663)
-1. [为什么有钱人大多都迷信？](https://www.v2ex.com/t/1213481)
-1. [煎熬，被公司逼迫离职了。](https://www.v2ex.com/t/1213501)
-1. [实习生极度依赖 AI，要不要让他实习通过？](https://www.v2ex.com/t/1213466)
-1. [失业了，去办护照，卡里只有几千块](https://www.v2ex.com/t/1213469)
+1. [今天正式迈入 40 岁啦！](https://www.v2ex.com/t/1213548)
+1. [[开放注册] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1213699)
+1. [感冒还没有好， 4、500 元 已经没了。](https://www.v2ex.com/t/1213688)
 1. [兜兜转转最终还是回到了 chrome](https://www.v2ex.com/t/1213531)
+1. [给经常口腔溃疡的朋友们一个参考](https://www.v2ex.com/t/1213560)
+1. [冲动跟风也建了 codex api 中转站，但没有客户~免费送 30 刀余额。](https://www.v2ex.com/t/1213768)
+1. [“万 1 免 5”a 股券商低门槛开户最后的绝唱！这周抽金华火腿！](https://www.v2ex.com/t/1213668)
+1. [[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天](https://www.v2ex.com/t/1213790)
 
 ## 历史归档
 
