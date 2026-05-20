@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-20 07:53:24 +0800`
+ `更新时间：2026-05-20 10:10:48 +0800`
 
 ## 热议话题
 
-1. [做了一个免费的 AI 公益站，今天重新开放注册，送 50 刀额度兑换码](https://www.v2ex.com/t/1213663)
 1. [[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天](https://www.v2ex.com/t/1213790)
-1. [[开放注册] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1213699)
-1. [感冒还没有好， 4、500 元 已经没了。](https://www.v2ex.com/t/1213688)
 1. [「第三年卖自家种的樱桃」布鲁克斯等一些中期品种](https://www.v2ex.com/t/1213745)
-1. [“万 1 免 5”a 股券商低门槛开户最后的绝唱！这周抽金华火腿！](https://www.v2ex.com/t/1213668)
-1. [五口之家，第二辆车如何选择？](https://www.v2ex.com/t/1213689)
-1. [冲动跟风也建了 codex api 中转站，但没有客户~免费送 30 刀余额。](https://www.v2ex.com/t/1213768)
-1. [Ai 时代我司的产品经理愈发白痴](https://www.v2ex.com/t/1213704)
 1. [简单稳定的 codex 中转， 0.12 倍率，送 10 刀额度](https://www.v2ex.com/t/1213741)
+1. [冲动跟风也建了 codex api 中转站，但没有客户~免费送 30 刀余额。](https://www.v2ex.com/t/1213768)
+1. [Google 落户广州了，终于回来了](https://www.v2ex.com/t/1213716)
+1. [自用 Codex 站（今天继续福利分组--5.20）](https://www.v2ex.com/t/1213981)
+1. [RTX 5060 Ti 买 8G 还是 16G，现在还是等到 618 买呢？](https://www.v2ex.com/t/1213719)
+1. [对于目前的关于 ai 的看法和感受](https://www.v2ex.com/t/1213763)
 
 ## 历史归档
 
