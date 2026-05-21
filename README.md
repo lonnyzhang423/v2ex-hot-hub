@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-21 07:03:51 +0800`
+ `更新时间：2026-05-21 10:09:46 +0800`
 
 ## 热议话题
 
-1. [HyperAPI 又来了，废话不多说直接开送](https://www.v2ex.com/t/1214001)
 1. [自用 OpenAI API 中转，邀 同行分摊成本 🤡 🤡 🤡](https://www.v2ex.com/t/1214094)
-1. [自用 Codex 站（今天继续福利分组--5.20）](https://www.v2ex.com/t/1213981)
-1. [你吃过哪些零食是爱不释手的？来分享一下！](https://www.v2ex.com/t/1213980)
 1. [继续推广我的 gpt 中转站，注册就送 28.8$余额](https://www.v2ex.com/t/1214019)
-1. [Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了](https://www.v2ex.com/t/1213965)
-1. [分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]](https://www.v2ex.com/t/1213996)
-1. [大家都是怎么判断中转站安全性呢？](https://www.v2ex.com/t/1213987)
+1. [兄弟们，被裁员了，如果不上班了大家都想干点啥](https://www.v2ex.com/t/1214091)
 1. [做了一个睡前听书 App：用 Apple 系统语音读自己的 EPUB/PDF，送 30 个码](https://www.v2ex.com/t/1214142)
+1. [小米 17 与苹果 17 如何选择？](https://www.v2ex.com/t/1214075)
+1. [条件不好，找不到对象，是不是该彻底不婚主义](https://www.v2ex.com/t/1214290)
 1. [520 大家今天怎么过？](https://www.v2ex.com/t/1214048)
+1. [看选苹果还是选小米有感，十年米粉转黑](https://www.v2ex.com/t/1214200)
+1. [纯 esim 的手机在中国大陆使用怎么样？](https://www.v2ex.com/t/1214042)
+1. [纯 plus/pro 号池 gpt5.5 新建中转站需要测试一下并发压力 www.aigcwe.com](https://www.v2ex.com/t/1214288)
 
 ## 历史归档
 
