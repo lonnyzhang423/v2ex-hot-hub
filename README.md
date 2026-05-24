@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-24 14:26:52 +0800`
+ `更新时间：2026-05-24 17:12:51 +0800`
 
 ## 热议话题
 
-1. [颈椎病有啥办法吗？](https://www.v2ex.com/t/1214938)
 1. [openai 周限又重置了，已经放弃 claude 了](https://www.v2ex.com/t/1215013)
+1. [技术不值钱 想法和流量才值钱](https://www.v2ex.com/t/1215046)
 1. [小区有人高空抛物，差点砸到人。是不是无解？](https://www.v2ex.com/t/1214958)
-1. [吐槽京东自营的罗技售后问题](https://www.v2ex.com/t/1214960)
-1. [大家用 codex、Antigravity 都开 tun 吗？](https://www.v2ex.com/t/1214920)
-1. [正经贴！关于男士改善自身生活](https://www.v2ex.com/t/1214930)
 1. [打工 15 年，存的所有积蓄买的房子，我得到了什么？](https://www.v2ex.com/t/1215030)
-1. [让 AI 写产品官网还蛮困难，很磨时间，默认出的文案和样式都不太行，有什么技巧么？ 或者有啥神奇的 skill、prompt 可以提高效率？](https://www.v2ex.com/t/1214996)
+1. [吐槽京东自营的罗技售后问题](https://www.v2ex.com/t/1214960)
 1. [你们都在用什么机器跑 hermes](https://www.v2ex.com/t/1215014)
+1. [让 AI 写产品官网还蛮困难，很磨时间，默认出的文案和样式都不太行，有什么技巧么？ 或者有啥神奇的 skill、prompt 可以提高效率？](https://www.v2ex.com/t/1214996)
+1. [你们多少人是自己付费买 token 干公司的工作任务了？](https://www.v2ex.com/t/1214981)
+1. [好消息啊！微软 CEO 承认 AI 比人工贵了](https://www.v2ex.com/t/1214950)
 
 ## 历史归档
 
