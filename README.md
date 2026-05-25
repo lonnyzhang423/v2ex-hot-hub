@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-26 02:22:41 +0800`
+ `更新时间：2026-05-26 04:18:01 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [周末给生活找点乐：试驾多款车玩](https://www.v2ex.com/t/1215171)
 1. [为什么感觉手机锁屏时，也能偷听人聊天推广告？](https://www.v2ex.com/t/1215226)
 1. [为什么人可以脑子抽成这样。](https://www.v2ex.com/t/1215167)
-1. [限时前 100 名！ ChaoyeAPI 免费 10 刀额度等你来拿](https://www.v2ex.com/t/1215236)
 1. [HyperAPI 的新老用户来领福利了，留 ID 加额度](https://www.v2ex.com/t/1215373)
+1. [限时前 100 名！ ChaoyeAPI 免费 10 刀额度等你来拿](https://www.v2ex.com/t/1215236)
 
 ## 历史归档
 
