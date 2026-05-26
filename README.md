@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-26 14:36:33 +0800`
+ `更新时间：2026-05-26 18:39:48 +0800`
 
 ## 热议话题
 
 1. [看上了个女同事，有什么办法能加到微信嘛](https://www.v2ex.com/t/1215464)
-1. [HyperAPI 的新老用户来领福利了，留 ID 加额度](https://www.v2ex.com/t/1215373)
-1. [自建了一个 AI 中转站，邀请大家帮忙压测（支持 Claude Code 调用 GPT-5.5）](https://www.v2ex.com/t/1215389)
 1. [真有人能在大 A 挣到钱吗？](https://www.v2ex.com/t/1215487)
 1. [“万一免五”a 股低佣大笑脸开户，抽一个小银元宝，拿着把玩](https://www.v2ex.com/t/1215437)
 1. [大家找工作的时候，简历一般准备多少页？](https://www.v2ex.com/t/1215461)
-1. [97 年，失业半年，理发师问我要不要把头发打薄](https://www.v2ex.com/t/1215349)
-1. [坏事了，阿里云 dns 解析收费了](https://www.v2ex.com/t/1215419)
+1. [记一次暗恋](https://www.v2ex.com/t/1215492)
+1. [求推荐妈妈用的手机](https://www.v2ex.com/t/1215466)
 1. [各位 Javaer 现在是怎么用 idea+各种 AI 工具的](https://www.v2ex.com/t/1215463)
-1. [公司不给钱我该用哪个 AI 码代码？](https://www.v2ex.com/t/1215305)
+1. [玩美股的兄弟们，现在应对策略是什么](https://www.v2ex.com/t/1215456)
+1. [你们遇到最奇怪的同事是什么样的](https://www.v2ex.com/t/1215470)
+1. [坏事了，阿里云 dns 解析收费了](https://www.v2ex.com/t/1215419)
 
 ## 历史归档
 
