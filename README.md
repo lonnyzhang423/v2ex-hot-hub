@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-30 10:01:35 +0800`
+ `更新时间：2026-05-30 14:13:39 +0800`
 
 ## 热议话题
 
-1. [话说，老乡鸡还行](https://www.v2ex.com/t/1216366)
-1. [在即将面临 35 岁斩杀线的迷茫与抉择](https://www.v2ex.com/t/1216361)
-1. [干，好烦这种领导](https://www.v2ex.com/t/1216381)
-1. [求推荐个 opus 的中转站](https://www.v2ex.com/t/1216364)
-1. [又快到续费车险的时候了，你们一年保费大概多少钱](https://www.v2ex.com/t/1216382)
 1. [燃气灶 vs 电磁炉，到底哪个更省钱？](https://www.v2ex.com/t/1216454)
 1. [Claude Opus 4.8 来了，但它说它是 qwen](https://www.v2ex.com/t/1216494)
+1. [使用 iPhone 的同学，是如何解决门禁卡方案的呢？](https://www.v2ex.com/t/1216457)
+1. [AI 把我调教了，从 0 消费，到月消费 1200 元。](https://www.v2ex.com/t/1216578)
+1. [我们大 A 又又又发生了什么？需要我们股民买单？](https://www.v2ex.com/t/1216450)
+1. [热死人了，你们都喝什么保命](https://www.v2ex.com/t/1216505)
+1. [有没有能发北京的流量卡](https://www.v2ex.com/t/1216473)
+1. [跟北航的弟弟聊了下人生规划，聊完我 emo 了](https://www.v2ex.com/t/1216587)
 
 ## 历史归档
 
