@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-31 04:09:37 +0800`
+ `更新时间：2026-05-31 05:50:32 +0800`
 
 ## 热议话题
 
 1. [大佬们 vibe coding 的项目怎么样了](https://www.v2ex.com/t/1216679)
-1. [和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间](https://www.v2ex.com/t/1216703)
 1. [有大佬用上了 Claude Mythos Preview 吗？感觉挖洞是下一个被颠覆的工作了](https://www.v2ex.com/t/1216615)
+1. [和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间](https://www.v2ex.com/t/1216703)
 1. [各位大佬们，固态硬盘到底分不分区？](https://www.v2ex.com/t/1216669)
 1. [HP 打印机没有 mac 驱动怎么办？](https://www.v2ex.com/t/1216672)
 1. [有没有大佬知道如何获取安卓唯一标识](https://www.v2ex.com/t/1216634)
