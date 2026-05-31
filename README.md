@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-05-31 17:41:14 +0800`
+ `更新时间：2026-05-31 19:26:13 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [HyperAPI 的新老用户来领福利了](https://www.v2ex.com/t/1216743)
 1. [和 Gemini 聊了四个小时，现在感觉在大学去上课就是浪费时间](https://www.v2ex.com/t/1216703)
 1. [求推荐靠谱机场](https://www.v2ex.com/t/1216741)
-1. [AI 编程时代， MVP 思维已经失效了？](https://www.v2ex.com/t/1216691)
 1. [[送码] macOS 输入法自动切换小工具： TypeRelay](https://www.v2ex.com/t/1216713)
+1. [AI 编程时代， MVP 思维已经失效了？](https://www.v2ex.com/t/1216691)
 1. [买了 100 多家机场的订阅,能用来干嘛](https://www.v2ex.com/t/1216720)
 1. [MBP 适合盒盖用不关机用吗？](https://www.v2ex.com/t/1216698)
-1. [polymarket 是新赛道印钞机吗](https://www.v2ex.com/t/1216709)
+1. [成都个体工商户登记申请](https://www.v2ex.com/t/1216770)
 
 ## 历史归档
 
