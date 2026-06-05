@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-06 01:46:08 +0800`
+ `更新时间：2026-06-06 03:39:51 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。](https://www.v2ex.com/t/1218155)
 1. [被裁了](https://www.v2ex.com/t/1218162)
 1. [大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。](https://www.v2ex.com/t/1218201)
-1. [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
 1. [我把英语学习变成了看小说，感谢 Vibe Coding](https://www.v2ex.com/t/1218088)
+1. [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
 1. [你失业多久家庭矛盾就开始了？](https://www.v2ex.com/t/1218061)
 1. [一天三款新车?](https://www.v2ex.com/t/1218080)
 
