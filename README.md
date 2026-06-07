@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-08 06:04:30 +0800`
+ `更新时间：2026-06-08 07:57:27 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [“传国玉玺”之复盘](https://www.v2ex.com/t/1218532)
 1. [香港 Mox Bank 开放大陆旅客线上开户](https://www.v2ex.com/t/1218525)
 1. [咨询：国内 AI 模型 哪个编程效果好？](https://www.v2ex.com/t/1218520)
-1. [Google AI Pro 在反重力中使用 Gemini 3.5 Flash 耐用吗](https://www.v2ex.com/t/1218504)
+1. [看佛经的一些困惑](https://www.v2ex.com/t/1218561)
 
 ## 历史归档
 
