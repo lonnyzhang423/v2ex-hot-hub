@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-13 14:46:44 +0800`
+ `更新时间：2026-06-13 17:49:39 +0800`
 
 ## 热议话题
 
-1. [花几百万甚至上千万买小区房是不是大怨种？](https://www.v2ex.com/t/1219938)
-1. [仅需一美元获得一个实体美国手机号](https://www.v2ex.com/t/1219929)
-1. [怎么看最近很火的西方伪史论和洪清说？](https://www.v2ex.com/t/1219940)
 1. [Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限](https://www.v2ex.com/t/1220089)
-1. [关于大学舍友，我想带他走出泥潭](https://www.v2ex.com/t/1219942)
 1. [iPhone 17 / iPhone Air 怎么选？](https://www.v2ex.com/t/1220083)
+1. [世界第一！在全世界都不知道大模型是何物的时候华为就推出了盘古大模型！](https://www.v2ex.com/t/1220015)
+1. [分享近两个月的遭遇，顺便也给 V 友们一点小建议](https://www.v2ex.com/t/1220042)
+1. [c 真能比 Python 快这么多？](https://www.v2ex.com/t/1220070)
+1. [大家用 codex 的时候没有觉得界面很卡吗](https://www.v2ex.com/t/1220086)
 1. [订阅制还能持续多久呢？ oai 和 anthropic 的订阅制都是赔本赚吆喝吧？](https://www.v2ex.com/t/1220007)
+1. [央视开始报道中转站了](https://www.v2ex.com/t/1220119)
+1. [Kimi K2.7 Code 发布了，有人已经替换 Claude Code / Codex 了吗?](https://www.v2ex.com/t/1220063)
 
 ## 历史归档
 
