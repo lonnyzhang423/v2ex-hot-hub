@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-13 21:23:25 +0800`
+ `更新时间：2026-06-13 23:24:34 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [iPhone 17 / iPhone Air 怎么选？](https://www.v2ex.com/t/1220083)
 1. [大家用 codex 的时候没有觉得界面很卡吗](https://www.v2ex.com/t/1220086)
 1. [c 真能比 Python 快这么多？](https://www.v2ex.com/t/1220070)
-1. [央视开始报道中转站了](https://www.v2ex.com/t/1220119)
 1. [有人需要换汇吗？](https://www.v2ex.com/t/1220095)
-1. [Kimi K2.7 Code 发布了，有人已经替换 Claude Code / Codex 了吗?](https://www.v2ex.com/t/1220063)
+1. [央视开始报道中转站了](https://www.v2ex.com/t/1220119)
 1. [为何从学校出来的大概率是牛马](https://www.v2ex.com/t/1220136)
-1. [为什么本站和 X 上有人喜欢用拼音缩写来代替国内社交媒体上可能的敏感词？](https://www.v2ex.com/t/1220118)
-1. [PVE 主机两三天就会在早上 六点左右重启一次，尝试过各种排查方法，还是找不到原因。](https://www.v2ex.com/t/1220122)
+1. [# 自己搭的 AI 中转站，给 V 友送点福利$15，稳定用了半年了](https://www.v2ex.com/t/1220183)
+1. [Kimi K2.7 Code 发布了，有人已经替换 Claude Code / Codex 了吗?](https://www.v2ex.com/t/1220063)
+1. [Fable 真强到那种地步了吗？](https://www.v2ex.com/t/1220168)
 
 ## 历史归档
 
