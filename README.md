@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-14 11:33:51 +0800`
+ `更新时间：2026-06-14 16:07:06 +0800`
 
 ## 热议话题
 
 1. [# 自己搭的 AI 中转站，给 V 友送点福利$15，稳定用了半年了](https://www.v2ex.com/t/1220183)
-1. [为何从学校出来的大概率是牛马](https://www.v2ex.com/t/1220136)
 1. [Fable 真强到那种地步了吗？](https://www.v2ex.com/t/1220168)
 1. [会不会有人为了跟随 AI 的 5 小时重置节奏去尝试多阶段睡眠🤔](https://www.v2ex.com/t/1220217)
-1. [独立开发的 macOS 应用让破解站收录了，心里五味杂陈](https://www.v2ex.com/t/1220128)
-1. [做了一个京东自动保价的插件，留言送一年会员](https://www.v2ex.com/t/1220134)
-1. [赶在被封前，用 Claude Fable 做了个免费的 AI 入门课程](https://www.v2ex.com/t/1220127)
-1. [[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸](https://www.v2ex.com/t/1220166)
 1. [Java 确实是内存高效的](https://www.v2ex.com/t/1220193)
-1. [许多中转站宣称高 SLA，面向政企，可是政企真的会用吗？](https://www.v2ex.com/t/1220131)
+1. [[送永久会员] 手机壁纸工坊 APP，轻松制作有质感、极简壁纸](https://www.v2ex.com/t/1220166)
+1. [有升级 macos27 的 V 友吗，感觉发热严重啊，我的是 M2pro 芯片](https://www.v2ex.com/t/1220248)
+1. [3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？](https://www.v2ex.com/t/1220180)
+1. [是不是大部分程序员都会被大模型替代](https://www.v2ex.com/t/1220221)
+1. [澳洲留学电子设备怎么选？](https://www.v2ex.com/t/1220243)
+1. [有人的 27 系统索引完成吗？](https://www.v2ex.com/t/1220253)
 
 ## 历史归档
 
