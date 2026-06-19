@@ -11,18 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-19 14:06:44 +0800`
+ `更新时间：2026-06-19 19:12:34 +0800`
 
 ## 热议话题
 
-1. [你们用啥 ai 编程工具可以当生产力?](https://www.v2ex.com/t/1221329)
-1. [[送码] 成功把 iCloud 空间省出了 190GB](https://www.v2ex.com/t/1221332)
-1. [我是不是不适合炒股?](https://www.v2ex.com/t/1221362)
-1. [问个合同到期公司不续签问题](https://www.v2ex.com/t/1221326)
 1. [端午节快乐！求推荐高质量 VPS 线路](https://www.v2ex.com/t/1221493)
-1. [我司为了强制使用 AI 开发实施的新的绩效考核办法，博诸君一笑](https://www.v2ex.com/t/1221368)
-1. [发现 windsurf 上的国产最新最强模型都是免费了。如 glm-5.2, kimi-2.7 等](https://www.v2ex.com/t/1221375)
-1. [MD Preview 全平台上线：一个给 AI 生成 Markdown 文档用的本地预览器](https://www.v2ex.com/t/1221330)
+1. [写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训](https://www.v2ex.com/t/1221491)
+1. [年近 40，继续私企国企怎么选](https://www.v2ex.com/t/1221502)
+1. [停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗](https://www.v2ex.com/t/1221483)
+1. [为啥 V2EX 有时候需要刷新好几次才能正常打开？](https://www.v2ex.com/t/1221485)
+1. [一个自用的 golang 的 web 应用要部署到公网，国内哪个云服务最便宜](https://www.v2ex.com/t/1221447)
+1. [2000 年 30 几岁的人现在已经 60 岁了](https://www.v2ex.com/t/1221450)
+1. [佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？](https://www.v2ex.com/t/1221472)
+1. [有多少 V 友和我一样，公司已经拖欠工资好几个月了？](https://www.v2ex.com/t/1221429)
+1. [vim 真的好用吗？](https://www.v2ex.com/t/1221499)
 
 ## 历史归档
 
