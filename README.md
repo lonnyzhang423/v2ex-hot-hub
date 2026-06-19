@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-20 06:04:40 +0800`
+ `更新时间：2026-06-20 07:58:58 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [为啥 V2EX 有时候需要刷新好几次才能正常打开？](https://www.v2ex.com/t/1221485)
 1. [年近 40，继续私企国企怎么选](https://www.v2ex.com/t/1221502)
 1. [佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？](https://www.v2ex.com/t/1221472)
-1. [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
 1. [vim 真的好用吗？](https://www.v2ex.com/t/1221499)
+1. [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
+1. [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
 1. [前端界面比想象中复杂好多](https://www.v2ex.com/t/1221555)
-1. [GitHub copilot 重新恢复订阅了](https://www.v2ex.com/t/1221510)
 
 ## 历史归档
 
