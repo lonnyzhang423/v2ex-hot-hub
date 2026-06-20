@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-20 07:58:58 +0800`
+ `更新时间：2026-06-20 11:38:35 +0800`
 
 ## 热议话题
 
-1. [端午节快乐！求推荐高质量 VPS 线路](https://www.v2ex.com/t/1221493)
-1. [写了个德扑单挑 GTO 机器人，感觉自己已经玩不过它了，求大佬来军训](https://www.v2ex.com/t/1221491)
-1. [停电之后瞬间又来电我的 NAS 坏了 3 块硬盘，还能抢救吗](https://www.v2ex.com/t/1221483)
-1. [为啥 V2EX 有时候需要刷新好几次才能正常打开？](https://www.v2ex.com/t/1221485)
-1. [年近 40，继续私企国企怎么选](https://www.v2ex.com/t/1221502)
-1. [佬们你们的小米 MIMO 820 亿 token plan 用掉多少了？](https://www.v2ex.com/t/1221472)
-1. [vim 真的好用吗？](https://www.v2ex.com/t/1221499)
-1. [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
 1. [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
+1. [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
+1. [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
 1. [前端界面比想象中复杂好多](https://www.v2ex.com/t/1221555)
+1. [来说说🪜的客户端](https://www.v2ex.com/t/1221607)
+1. [GitHub copilot 重新恢复订阅了](https://www.v2ex.com/t/1221510)
+1. [VPS CN2 Gia 带宽 50M/S](https://www.v2ex.com/t/1221503)
+1. [小散不要炒个股不要盯盘不要做 T](https://www.v2ex.com/t/1221533)
+1. [请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？](https://www.v2ex.com/t/1221563)
+1. [GLM5.2 个人感觉有点被吹大了](https://www.v2ex.com/t/1221519)
 
 ## 历史归档
 
