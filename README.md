@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-20 11:38:35 +0800`
+ `更新时间：2026-06-20 15:41:35 +0800`
 
 ## 热议话题
 
-1. [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
-1. [目前海外 esim 手机号在国内，哪个最好？](https://www.v2ex.com/t/1221525)
-1. [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
-1. [前端界面比想象中复杂好多](https://www.v2ex.com/t/1221555)
 1. [来说说🪜的客户端](https://www.v2ex.com/t/1221607)
-1. [GitHub copilot 重新恢复订阅了](https://www.v2ex.com/t/1221510)
-1. [VPS CN2 Gia 带宽 50M/S](https://www.v2ex.com/t/1221503)
-1. [小散不要炒个股不要盯盘不要做 T](https://www.v2ex.com/t/1221533)
+1. [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
+1. [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
+1. [问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？](https://www.v2ex.com/t/1221614)
+1. [前端界面比想象中复杂好多](https://www.v2ex.com/t/1221555)
+1. [好难受, 现在是不是 GLM 最适合我了](https://www.v2ex.com/t/1221559)
 1. [请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？](https://www.v2ex.com/t/1221563)
-1. [GLM5.2 个人感觉有点被吹大了](https://www.v2ex.com/t/1221519)
+1. [没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。](https://www.v2ex.com/t/1221598)
+1. [codex 和 cc 那个更好用些？](https://www.v2ex.com/t/1221550)
+1. [iPhone17 凌晨异常使用蜂窝数据欠费 500 多](https://www.v2ex.com/t/1221604)
 
 ## 历史归档
 
