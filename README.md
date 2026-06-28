@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-06-29 05:53:03 +0800`
+ `更新时间：2026-06-29 06:53:30 +0800`
 
 ## 热议话题
 
 1. [6 年前的洗面奶用完了，现在男的都用啥](https://www.v2ex.com/t/1223399)
 1. [局座讲大量三哥涌入深圳抢 IT 工作，真有这个状况吗？](https://www.v2ex.com/t/1223445)
-1. [在家远程办公太容易分神了](https://www.v2ex.com/t/1223386)
 1. [skills，真的重要嘛？大家来讨论下吧。](https://www.v2ex.com/t/1223394)
+1. [在家远程办公太容易分神了](https://www.v2ex.com/t/1223386)
 1. [某 mao 百亿补贴购买的 macbook air 未拆封在官网查询已经被激活，正常吗？](https://www.v2ex.com/t/1223415)
 1. [大家在家的笔记本会外接显示器吗？](https://www.v2ex.com/t/1223388)
 1. [Claude Pro 也被封号了](https://www.v2ex.com/t/1223397)
