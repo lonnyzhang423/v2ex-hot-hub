@@ -11,13 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-03 04:52:23 +0800`
+ `更新时间：2026-07-03 05:58:02 +0800`
 
 ## 热议话题
 
 1. [感觉女友很爱去看演唱会，不想让她去怎么办](https://www.v2ex.com/t/1224428)
 1. [[7 月] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1224483)
-1. [XDM，你们每个月使用 AI 的成本是多少](https://www.v2ex.com/t/1224383)
 1. [这下好了,真死在科技里了](https://www.v2ex.com/t/1224388)
 1. [最近使用 vless+xhttp+reality，网址用的苹果的， 1 年多被墙了。这是咋被发现的？技术探讨下](https://www.v2ex.com/t/1224405)
 1. [公司 vibe coding 的项目，团队已经无法掌控了](https://www.v2ex.com/t/1224558)
