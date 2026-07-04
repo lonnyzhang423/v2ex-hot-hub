@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-04 13:46:50 +0800`
+ `更新时间：2026-07-04 16:22:15 +0800`
 
 ## 热议话题
 
-1. [看《感觉女友很爱去看演唱会，不想让她去怎么办》有感，人生真正的享受是什么](https://www.v2ex.com/t/1224760)
-1. [我预判，第一波 AI 洪峰已过！](https://www.v2ex.com/t/1224778)
 1. [暗色模式到底是怎么流行起来的？？](https://www.v2ex.com/t/1224886)
-1. [家里孩子生了，请帮忙取个名字](https://www.v2ex.com/t/1224777)
-1. [因存在植入后门风险，阿里内部全面禁用 Claude Code](https://www.v2ex.com/t/1224766)
-1. [因为帮朋友代充了 ChatGPT Plus，我的 Apple ID 不干净了](https://www.v2ex.com/t/1224834)
 1. [Claude 账号被封风险检测工具](https://www.v2ex.com/t/1224898)
+1. [因为帮朋友代充了 ChatGPT Plus，我的 Apple ID 不干净了](https://www.v2ex.com/t/1224834)
 1. [咸粽子好吃还是甜粽子好吃？](https://www.v2ex.com/t/1224812)
 1. [求一个好用的蓝牙耳机推荐](https://www.v2ex.com/t/1224791)
+1. [问大佬们个问题， App 只要接了手机验证码就需要办理等保二级？](https://www.v2ex.com/t/1224876)
 1. [做海外模型的 API 中转站，会被判刑吗？](https://www.v2ex.com/t/1224797)
+1. [多年以后，面对前端如此困难的求职环境，你是否还会回想起当初第一次敲下 HTML 的那个遥远的下午](https://www.v2ex.com/t/1224814)
+1. [v2 不是喜欢推荐高考生选计算机专业吗？](https://www.v2ex.com/t/1224832)
+1. [你希望别人拥有的人生体验](https://www.v2ex.com/t/1224838)
 
 ## 历史归档
 
