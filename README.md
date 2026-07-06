@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-06 10:14:22 +0800`
+ `更新时间：2026-07-06 15:00:25 +0800`
 
 ## 热议话题
 
-1. [[新用户送 10 刀] 超低价 Codex API，最低每刀不到 0.05R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt5.4, gpt-image2，稳定好用](https://www.v2ex.com/t/1225059)
 1. [琥珀香氛新品来了，盖楼送新品🎁](https://www.v2ex.com/t/1225157)
-1. [车祸中窥探中国医院的专科细分。](https://www.v2ex.com/t/1225056)
-1. [Claude 被封了也不要去用 codex](https://www.v2ex.com/t/1225093)
-1. [一线城市合租快窒息了，各位佬是不是也需要独立空间？](https://www.v2ex.com/t/1225071)
 1. [“万 1 免 5”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [7.6 日~7.13 日]](https://www.v2ex.com/t/1225158)
+1. [我自己也经常看演唱会呀，为什么 v 友对女生看演唱会那么大的仇意？](https://www.v2ex.com/t/1225167)
+1. [招聘遇到工作经历完全造假的 211](https://www.v2ex.com/t/1225204)
 1. [问界 m6 现金优惠能有多少？](https://www.v2ex.com/t/1225135)
-1. [有没有人觉得罗老师的 TNT 生不逢时](https://www.v2ex.com/t/1225122)
+1. [[送永久激活码]RightX 增强你的 Mac Finder 右键](https://www.v2ex.com/t/1225211)
+1. [一线城市合租快窒息了，各位佬是不是也需要独立空间？](https://www.v2ex.com/t/1225071)
+1. [中转再次开启留言送余额活动， 0.16 倍率，欢迎大家体验](https://www.v2ex.com/t/1225194)
 1. [[从零到一] 一个小尝试，在小红书赚到 3000 元，实战分享](https://www.v2ex.com/t/1225149)
-1. [codex 被封了](https://www.v2ex.com/t/1225161)
+1. [Claude 被封了也不要去用 codex](https://www.v2ex.com/t/1225093)
 
 ## 历史归档
 
