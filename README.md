@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-12 00:41:47 +0800`
+ `更新时间：2026-07-12 01:44:51 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是](https://www.v2ex.com/t/1226541)
 1. [国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax](https://www.v2ex.com/t/1226577)
 1. [GPT5.6 SOL 也就那么回事](https://www.v2ex.com/t/1226536)
-1. [时隔一天， codex 凌晨又重置了……](https://www.v2ex.com/t/1226510)
 1. [用了 ai 之后工作很碎片化，完全无法进入心流](https://www.v2ex.com/t/1226513)
 1. [功夫女足口碑](https://www.v2ex.com/t/1226549)
+1. [Codex 今天是不是放开了五小时限额？](https://www.v2ex.com/t/1226550)
 
 ## 历史归档
 
