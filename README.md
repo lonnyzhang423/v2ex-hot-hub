@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-11 22:17:10 +0800`
+ `更新时间：2026-07-11 23:43:12 +0800`
 
 ## 热议话题
 
-1. [FastAIToken 夏季开业福利公告： OpenAI 0.02x、Claude Kiro 0.7x， GPT5.6 畅用爽蹬（0.02x 倍率 5 元等于 250 美刀额度）！每个人注册评论发账号直接送 5 元！](https://www.v2ex.com/t/1226502)
 1. [为了省下每年几万的的费用，用 ai 做了完整的 erp](https://www.v2ex.com/t/1226505)
 1. [小米手机强制更新系统](https://www.v2ex.com/t/1226527)
 1. [书接上文，确认了是个博彩和区块链的公司，想请教大佬们一些问题](https://www.v2ex.com/t/1226526)
 1. [7.11 号土区续费的 GPT plus 还是 499 里拉，下个周期也是](https://www.v2ex.com/t/1226541)
-1. [实际上发现大多人 A 股赚不到钱都是割肉造成的](https://www.v2ex.com/t/1226494)
-1. [最近遇到的三个选择，想看看大家怎么看](https://www.v2ex.com/t/1226498)
+1. [GPT5.6 SOL 也就那么回事](https://www.v2ex.com/t/1226536)
 1. [时隔一天， codex 凌晨又重置了……](https://www.v2ex.com/t/1226510)
+1. [国模 Minimax 的能力到底如何？ glm 抢不到 打算买一下 minimax](https://www.v2ex.com/t/1226577)
+1. [Codex 今天是不是放开了五小时限额？](https://www.v2ex.com/t/1226550)
 
 ## 历史归档
 
