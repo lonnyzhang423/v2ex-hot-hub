@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-12 17:47:33 +0800`
+ `更新时间：2026-07-12 19:03:25 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [专科大二，喜欢底层开发(?)，但有点迷茫想听听建议...](https://www.v2ex.com/t/1226643)
 1. [干程序年头多了是不是多少都得沾点易经](https://www.v2ex.com/t/1226650)
 1. [魔兽争霸 3 网页版](https://www.v2ex.com/t/1226611)
-1. [求推荐电视上给儿童看动画的 app](https://www.v2ex.com/t/1226588)
+1. [中国人的 homeLab，从 matrix 聊天服务器开始](https://www.v2ex.com/t/1226693)
 1. [16 号从大陆去台湾旅行 大概 3 天 请问大家有什么方式能回回血？ 机票有点贵](https://www.v2ex.com/t/1226646)
+1. [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
 1. [把微信转成 wechat 对现有业务有什么影响？](https://www.v2ex.com/t/1226684)
 1. [grok-4.5 真的比 gpt-5.6 sol 好用吧](https://www.v2ex.com/t/1226656)
 
