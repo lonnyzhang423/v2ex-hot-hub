@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-13 06:36:35 +0800`
+ `更新时间：2026-07-13 07:41:51 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [A÷，老子跟你拼了，被迫成为精神美国人](https://www.v2ex.com/t/1226648)
 1. [奔三 感觉自己漂泊不定 怎么规划人生](https://www.v2ex.com/t/1226703)
 1. [干程序年头多了是不是多少都得沾点易经](https://www.v2ex.com/t/1226650)
-1. [16 号从大陆去台湾旅行 大概 3 天 请问大家有什么方式能回回血？ 机票有点贵](https://www.v2ex.com/t/1226646)
 1. [中国人的 homeLab，从 matrix 聊天服务器开始](https://www.v2ex.com/t/1226693)
 1. [把微信转成 wechat 对现有业务有什么影响？](https://www.v2ex.com/t/1226684)
 1. [突然发现 chatgpt 语音多了 live 功能，感觉练口语挺好的](https://www.v2ex.com/t/1226716)
 1. [grok-4.5 真的比 gpt-5.6 sol 好用吧](https://www.v2ex.com/t/1226656)
+1. [为什么 chatgpt 这么固执](https://www.v2ex.com/t/1226659)
 
 ## 历史归档
 
