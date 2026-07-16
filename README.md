@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-16 09:29:42 +0800`
+ `更新时间：2026-07-16 12:49:38 +0800`
 
 ## 热议话题
 
-1. [0.03 一刀 codex ，支持最新 5.6，评论送 10 刀](https://www.v2ex.com/t/1227416)
 1. [谈一谈中医能不能治病](https://www.v2ex.com/t/1227461)
-1. [有没有便宜点的宽带，一个月 139 真的受不了了](https://www.v2ex.com/t/1227367)
-1. [就这，房东要告我破坏他的房子](https://www.v2ex.com/t/1227387)
 1. [兄弟们 我好像毁了的我人生？（笑）](https://www.v2ex.com/t/1227480)
-1. [推广一下自建最开始和朋友自用现在几十用户的一个小中转](https://www.v2ex.com/t/1227376)
-1. [最近搬家，把客厅搞成了电竞房分享一下](https://www.v2ex.com/t/1227380)
+1. [答为什么大多数医生都会开中成药](https://www.v2ex.com/t/1227483)
+1. [中转稳定运行第 3 个月，专注稳定 coding， Codex api 免费送 30 刀！](https://www.v2ex.com/t/1227502)
 1. [专升本前端毕业 1 年，从初创到大厂，我的开源项目上了 github trending，顺利聊聊做开源的收获](https://www.v2ex.com/t/1227470)
-1. [有老哥买过亚朵星球深睡枕吗](https://www.v2ex.com/t/1227424)
+1. [闲鱼卖 iPhone 遇到骗子](https://www.v2ex.com/t/1227563)
+1. [抛砖引玉，大家觉得哪种后端语言对 vibe coding 更友好？个人认为还得是 go](https://www.v2ex.com/t/1227484)
+1. [golang 的语言排名很低，并且 go 的生态也不丰富，为什么现在很多公司做一些核心业务系统的都使用 go 来实现？](https://www.v2ex.com/t/1227508)
+1. [世界杯支持哪个球队哪个队就输](https://www.v2ex.com/t/1227609)
+1. [上街的时候总会吸引到一些关注](https://www.v2ex.com/t/1227587)
 
 ## 历史归档
 
