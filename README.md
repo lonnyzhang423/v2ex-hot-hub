@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-18 22:14:37 +0800`
+ `更新时间：2026-07-18 23:43:19 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [我发现真的只有互联网行业自己卷死自己，自己把自己的工作整没了。](https://www.v2ex.com/t/1228193)
 1. [大家用 AI 写代码真实感受是啥？](https://www.v2ex.com/t/1228212)
 1. [18 号到期的重置，本来想着今天用的，结果。。。](https://www.v2ex.com/t/1228155)
-1. [Codex 又又又重置了](https://www.v2ex.com/t/1228183)
 1. [2026，我将博客部署到了 Cloudflare（CF）](https://www.v2ex.com/t/1228199)
+1. [Codex 又又又重置了](https://www.v2ex.com/t/1228183)
 1. [PowerShell 和 Codex 在打架？可以试试这份提示词](https://www.v2ex.com/t/1228204)
 
 ## 历史归档
