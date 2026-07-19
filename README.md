@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-20 06:40:25 +0800`
+ `更新时间：2026-07-20 07:46:16 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [灵魂拷问：未来的 vibe coding 平民化了，那我现在还迭代个锤子啊](https://www.v2ex.com/t/1228303)
 1. [有结婚后上交工资卡，让妻子管理家庭财政的吗？](https://www.v2ex.com/t/1228313)
 1. [如何将中美两国的家庭网络组成局域网?](https://www.v2ex.com/t/1228327)
-1. [Vibe Coding 副业四个月：成本超出收益，要放弃吗？](https://www.v2ex.com/t/1228385)
 1. [我开发了一个开源版 Surge，把 Mac 变成可导入规则、可按设备分流的全屋透明代理网关。](https://www.v2ex.com/t/1228353)
+1. [Vibe Coding 副业四个月：成本超出收益，要放弃吗？](https://www.v2ex.com/t/1228385)
 1. [把 app 的每一个页面 copy 给 AI， ai 能复刻出这个 app 吗？它能自动发掘其后的逻辑，复刻出来吗？](https://www.v2ex.com/t/1228298)
 1. [Kimi K3 这波真的爆了，你们用着感觉怎么样？](https://www.v2ex.com/t/1228376)
 
