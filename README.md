@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-28 12:53:10 +0800`
+ `更新时间：2026-07-28 15:31:03 +0800`
 
 ## 热议话题
 
-1. [个人业余项目，做了一个可以物理操作 iPhone 的 agent，不知道有商业前景吗？](https://www.v2ex.com/t/1230118)
-1. [都说生育率低，身边结婚的都有娃了](https://www.v2ex.com/t/1230286)
 1. [老婆同事的母亲去世了，该不该送礼](https://www.v2ex.com/t/1230301)
-1. [Giffgaff 被停止服务了](https://www.v2ex.com/t/1230161)
+1. [都说生育率低，身边结婚的都有娃了](https://www.v2ex.com/t/1230286)
 1. [“万一免五”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [7.28 日~8.3 日]](https://www.v2ex.com/t/1230280)
-1. [大家成年以后，还有没有学什么新技能并内化成肌肉记忆？](https://www.v2ex.com/t/1230102)
-1. [少数人的贪婪，买单的却是全体同事](https://www.v2ex.com/t/1230124)
-1. [摆烂还是转全栈？](https://www.v2ex.com/t/1230116)
+1. [Giffgaff 被停止服务了](https://www.v2ex.com/t/1230161)
+1. [兄弟们交物业吗？](https://www.v2ex.com/t/1230287)
+1. [真的是营销鬼才啊](https://www.v2ex.com/t/1230332)
+1. [收到律师函了，不让用了](https://www.v2ex.com/t/1230329)
+1. [存了 100w+，太想躺平了](https://www.v2ex.com/t/1230348)
+1. [最近悟道了，人生本来就没有意义](https://www.v2ex.com/t/1230230)
 
 ## 历史归档
 
