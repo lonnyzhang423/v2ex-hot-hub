@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-29 09:28:58 +0800`
+ `更新时间：2026-07-29 12:58:02 +0800`
 
 ## 热议话题
 
-1. [老婆同事的母亲去世了，该不该送礼](https://www.v2ex.com/t/1230301)
-1. [真的是营销鬼才啊](https://www.v2ex.com/t/1230332)
-1. [存了 100w+，太想躺平了](https://www.v2ex.com/t/1230348)
-1. [收到律师函了，不让用了](https://www.v2ex.com/t/1230329)
-1. [公司只有我一个开发，该离职吗](https://www.v2ex.com/t/1230400)
-1. [讲一讲我遇到的老师吧](https://www.v2ex.com/t/1230336)
-1. [giffgaff 别开 WiFi Calling，我是 6 月份激活的实体卡，早上开了 WiFi Calling，刚收到邮件被封了](https://www.v2ex.com/t/1230509)
 1. [三兄妹，老大不想出养老钱怎么办？](https://www.v2ex.com/t/1230462)
-1. [遇到酷似汤唯的女生，聊了俩小时~~~](https://www.v2ex.com/t/1230390)
-1. [Kimi k3 今天可以订阅了，这里居然一点声音都没有？](https://www.v2ex.com/t/1230377)
+1. [giffgaff 别开 WiFi Calling，我是 6 月份激活的实体卡，早上开了 WiFi Calling，刚收到邮件被封了](https://www.v2ex.com/t/1230509)
+1. [兄弟们都买了什么新能源车？理想 I6、ModelY、极氪？](https://www.v2ex.com/t/1230594)
+1. [你是在什么时候意识到自己已经不再年轻了？](https://www.v2ex.com/t/1230609)
+1. [观“存了 100w+ 太想躺平了”有感](https://www.v2ex.com/t/1230580)
+1. [妹妹太原理工软件工程专业，现在这个阶段是让她出来打工还是继续考研呢，如果考研还是继续选计算机么，希望大佬给点意见](https://www.v2ex.com/t/1230454)
+1. [每 3 个月给阿里 CDN 换一次证书，我终于受不了了](https://www.v2ex.com/t/1230447)
+1. [深圳灵活就业社保费用一直涨，都快坚持不住了。](https://www.v2ex.com/t/1230577)
+1. [好奇问下，你们碰到的第一台电脑是啥？](https://www.v2ex.com/t/1230623)
 
 ## 历史归档
 
