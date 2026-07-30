@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-07-30 20:22:14 +0800`
+ `更新时间：2026-07-30 23:00:54 +0800`
 
 ## 热议话题
 
 1. [公办二本计算机专业，有必要听老师讲课吗？](https://www.v2ex.com/t/1230880)
-1. [Giffgaff 封号潮？话费余额带不走？不如短信捐公益，一分都别留给 GG！](https://www.v2ex.com/t/1230828)
 1. [[Yukiapi ] 已上线 GPT-5.6 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！](https://www.v2ex.com/t/1230885)
 1. [你们都是在哪买电子烟的](https://www.v2ex.com/t/1230903)
 1. [我和我女儿一起写的游戏上了 Steam 了](https://www.v2ex.com/t/1230860)
 1. [为什么小蓝灯要被禁掉呢](https://www.v2ex.com/t/1230922)
+1. [[神稳中转] GPT 5.6， 0.09 倍率，送 10 刀试用，前字节开发](https://www.v2ex.com/t/1231036)
 1. [进入智驾时代，就不会有插车，逆行等现象，有道理不？](https://www.v2ex.com/t/1230892)
-1. [2026 了，大家现在都怎么远程使用 Mac？](https://www.v2ex.com/t/1230879)
 1. [低代码真的有前景吗](https://www.v2ex.com/t/1231024)
+1. [2026 了，大家现在都怎么远程使用 Mac？](https://www.v2ex.com/t/1230879)
 
 ## 历史归档
 
