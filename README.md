@@ -11,20 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-02 09:46:14 +0800`
+ `更新时间：2026-08-02 13:16:08 +0800`
 
 ## 热议话题
 
 1. [兄弟们，这局怎么破？](https://www.v2ex.com/t/1231464)
-1. [在 DeepSeek 官方 Harness 没有出来之前，用什么 Agent 更好？](https://www.v2ex.com/t/1231381)
 1. [你们买了车之后有没有后悔过？](https://www.v2ex.com/t/1231419)
-1. [无语，县城的健身房早上九点就爆满。真服了](https://www.v2ex.com/t/1231388)
 1. [有没有从始至终在 AI 上花费 0 元的朋友？](https://www.v2ex.com/t/1231438)
-1. [怎么解决骚扰电话的问题啊](https://www.v2ex.com/t/1231397)
-1. [7 月份独立开发复盘](https://www.v2ex.com/t/1231403)
-1. [Codex 重置， 2026.08.01 11:30](https://www.v2ex.com/t/1231400)
-1. [你们用 Opus5 开多大的思考强度？](https://www.v2ex.com/t/1231411)
-1. [现在做 API 中转站怎么样？](https://www.v2ex.com/t/1231408)
+1. [[脑洞] 既然编程生产力如此高了，为什么不众程序员协作重建 BAT/TMD 让中心化的平台暴利回归用户实现普惠互联？](https://www.v2ex.com/t/1231482)
+1. [哪里还能办到大流量卡](https://www.v2ex.com/t/1231429)
+1. [随着知识库的增长， LLM 理论上体积是不是只会越来越大？](https://www.v2ex.com/t/1231474)
+1. [现在国内是买电车好还是买油车好啊](https://www.v2ex.com/t/1231435)
+1. [国企三方劳务派遣一周半，接手了一个巨坑项目](https://www.v2ex.com/t/1231475)
+1. [卸载 vscode IDE 了](https://www.v2ex.com/t/1231485)
 
 ## 历史归档
 
