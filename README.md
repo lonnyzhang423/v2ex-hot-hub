@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-06 20:49:26 +0800`
+ `更新时间：2026-08-06 23:05:08 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [各位都 vibe 了哪些有趣的应用？](https://www.v2ex.com/t/1232324)
 1. [[🎁送码] 维护了四年的今日热榜，我把它从零重写了一遍](https://www.v2ex.com/t/1232339)
 1. [MAC 的鼠标怎么选](https://www.v2ex.com/t/1232404)
-1. [DeepSeek API 要涨价了！且蹬且珍惜。](https://www.v2ex.com/t/1232351)
 1. [很多人说现在中国普通人月入 5000 并不难，也有人认为 5000 对很多人来说很困难。大家说说你家乡的真实情况？](https://www.v2ex.com/t/1232435)
+1. [DeepSeek API 要涨价了！且蹬且珍惜。](https://www.v2ex.com/t/1232351)
 1. [请教一下，本地部署 deepseekV4flash 大概需要什么样的配置需求？](https://www.v2ex.com/t/1232409)
 1. [为什么调用 DeepSeek 的接口，会返回 Claude 的信息呢？](https://www.v2ex.com/t/1232360)
 
