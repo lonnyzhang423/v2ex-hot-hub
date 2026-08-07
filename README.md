@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-08 02:38:07 +0800`
+ `更新时间：2026-08-08 03:43:01 +0800`
 
 ## 热议话题
 
 1. [尝了尝动态血糖仪的咸淡，我觉得很 OK](https://www.v2ex.com/t/1232632)
-1. [我用 AI 给女朋友做了个抑郁测试，结果她朋友是前男友](https://www.v2ex.com/t/1232644)
 1. [稳定运行一个月的 GPT 中转站，支持 GPT5.5, GPT5.6, Codex 满血，回帖送 5 刀](https://www.v2ex.com/t/1232638)
 1. [老婆工作强度太大，如何破局。](https://www.v2ex.com/t/1232618)
 1. [从 windows 切换到 MacOS，感觉 MacOS 不好用。](https://www.v2ex.com/t/1232697)
