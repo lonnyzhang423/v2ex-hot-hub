@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-08 12:03:28 +0800`
+ `更新时间：2026-08-08 13:34:08 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布](https://www.v2ex.com/t/1232738)
 1. [WorkBuddy 是真好用](https://www.v2ex.com/t/1232713)
 1. [如果是这种情况你们还跑路吗？](https://www.v2ex.com/t/1232711)
-1. [两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流](https://www.v2ex.com/t/1232688)
 1. [AI Coding 还看源代码吗？要是不看，会害怕血崩吗？](https://www.v2ex.com/t/1232732)
-1. [抽奖：量产 AI 硬件的通讯协议和小程序源码全开源了，配合 AI 编程可以直接改成自己的产品](https://www.v2ex.com/t/1232693)
 1. [准备做一个反假货网站，有得搞吗？](https://www.v2ex.com/t/1232714)
+1. [ChatGPT 这次真要解禁成人内容了？](https://www.v2ex.com/t/1232700)
+1. [月薪 2W+，工作轻松但几乎没有成长，毕业四五年该继续待着吗？](https://www.v2ex.com/t/1232770)
 
 ## 历史归档
 
