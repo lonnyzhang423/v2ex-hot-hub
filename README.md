@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-09 06:16:39 +0800`
+ `更新时间：2026-08-09 07:17:13 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [分享一个 ublock origin 规则，屏蔽 x 上的黄色评论](https://www.v2ex.com/t/1232883)
 1. [iphone18 来了，大家倾向于怎样换机](https://www.v2ex.com/t/1232921)
 1. [真的不建议任何人用中转 2](https://www.v2ex.com/t/1232923)
-1. [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
+1. [[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）](https://www.v2ex.com/t/1232965)
 
 ## 历史归档
 
