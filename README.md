@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-08 18:20:09 +0800`
+ `更新时间：2026-08-08 19:19:21 +0800`
 
 ## 热议话题
 
 1. [终于看到 V2 有人发 mac 不好用了....我一直以为只有我觉得难用](https://www.v2ex.com/t/1232881)
-1. [codex 似乎要重置啦](https://www.v2ex.com/t/1232843)
 1. [说说为什么明明只用一把键盘,家里还有七把](https://www.v2ex.com/t/1232899)
+1. [codex 似乎要重置啦](https://www.v2ex.com/t/1232843)
 1. [如何 vibe 成本那么低，什么才是护城河？或者我们需要护城河吗？](https://www.v2ex.com/t/1232841)
 1. [Grok 4.5 做的江湖武侠游戏](https://www.v2ex.com/t/1232867)
-1. [一几年的黄焖鸡彻底消失了吗?有没有教程想自己做,太想念那一口汤拌饭了!](https://www.v2ex.com/t/1232805)
-1. [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
 1. [厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感](https://www.v2ex.com/t/1232900)
-1. [Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了](https://www.v2ex.com/t/1232879)
+1. [codex 接 deepseek 的 api 能用么？](https://www.v2ex.com/t/1232858)
 1. [分享一个 ublock origin 规则，屏蔽 x 上的黄色评论](https://www.v2ex.com/t/1232883)
+1. [真的不建议任何人用中转 2](https://www.v2ex.com/t/1232923)
+1. [Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了](https://www.v2ex.com/t/1232879)
 
 ## 历史归档
 
