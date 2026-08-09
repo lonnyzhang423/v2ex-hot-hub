@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-09 10:56:21 +0800`
+ `更新时间：2026-08-09 12:11:35 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [关于我转行矿工的两年后，谢谢大家的关心](https://www.v2ex.com/t/1232933)
 1. [[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）](https://www.v2ex.com/t/1232965)
 1. [厄运专找苦命人，看中山大学 23 岁博士确诊胃癌晚期有感](https://www.v2ex.com/t/1232900)
-1. [Grok 4.5 做的江湖武侠游戏](https://www.v2ex.com/t/1232867)
 1. [iphone18 来了，大家倾向于怎样换机](https://www.v2ex.com/t/1232921)
 1. [分享一个 ublock origin 规则，屏蔽 x 上的黄色评论](https://www.v2ex.com/t/1232883)
 1. [真的不建议任何人用中转 2](https://www.v2ex.com/t/1232923)
+1. [如何看待 DeepSeek 在 X 上要求大家把自己的项目放上去以换取内测资格？以及后续的签约需要身份征等其他个人信息？](https://www.v2ex.com/t/1232938)
 
 ## 历史归档
 
