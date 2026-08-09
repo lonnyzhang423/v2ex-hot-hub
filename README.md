@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-09 20:26:53 +0800`
+ `更新时间：2026-08-09 21:40:14 +0800`
 
 ## 热议话题
 
 1. [[薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）](https://www.v2ex.com/t/1232965)
 1. [从手冲党叛变到胶囊党,说说为什么](https://www.v2ex.com/t/1233017)
-1. [Linux .sb 突然爆火，你怎么看？](https://www.v2ex.com/t/1232993)
 1. [Codex 把我电脑文件都删了](https://www.v2ex.com/t/1233011)
+1. [Linux .sb 突然爆火，你怎么看？](https://www.v2ex.com/t/1232993)
 1. [淘宝这种验证码已经不能用恶心来形容了，这是人干的事吗](https://www.v2ex.com/t/1232969)
 1. [Mac 和 Windows 可以共用一套键鼠吗](https://www.v2ex.com/t/1233018)
 1. [claude 被封了 3 次，用了 3 个苹果账号订阅](https://www.v2ex.com/t/1232990)
+1. [做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用](https://www.v2ex.com/t/1232978)
 1. [Claude Code 一天花了 68 块，正常吗？](https://www.v2ex.com/t/1233003)
-1. [codex 20260808 重置了](https://www.v2ex.com/t/1232951)
 
 ## 历史归档
 
