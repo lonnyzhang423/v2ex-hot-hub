@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-10 00:21:08 +0800`
+ `更新时间：2026-08-10 01:20:26 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [Linux .sb 突然爆火，你怎么看？](https://www.v2ex.com/t/1232993)
 1. [淘宝这种验证码已经不能用恶心来形容了，这是人干的事吗](https://www.v2ex.com/t/1232969)
 1. [Mac 和 Windows 可以共用一套键鼠吗](https://www.v2ex.com/t/1233018)
-1. [claude 被封了 3 次，用了 3 个苹果账号订阅](https://www.v2ex.com/t/1232990)
 1. [昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准](https://www.v2ex.com/t/1233022)
+1. [claude 被封了 3 次，用了 3 个苹果账号订阅](https://www.v2ex.com/t/1232990)
 1. [做了一款终端优先的 AI 编程环境 Termio.sh, 比 Ghostty/ iTem2 / cmux 好用](https://www.v2ex.com/t/1232978)
 
 ## 历史归档
