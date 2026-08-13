@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-13 11:58:41 +0800`
+ `更新时间：2026-08-13 13:37:53 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [DeepSeek V4 Pro 正式版终于发布了！如果没深度求索、月之暗面、智谱等几家新兴 AI 公司，让百度、腾讯、字节，阿里互相卷的话，中国的 AI 还有希望吗？](https://www.v2ex.com/t/1233989)
 1. [不建议年轻人刻意抑制消费去完成所谓的原始积累](https://www.v2ex.com/t/1233943)
 1. [看到 AI 让 Linux 变得真正可用了帖子，想问下现在最推荐的是 Linux 发行版是哪个呢](https://www.v2ex.com/t/1233928)
-1. [不到一个小时后重置，快蹬](https://www.v2ex.com/t/1234001)
 1. [八年之隔，这可能是地球上最漂亮丝滑的 Markdown 应用！](https://www.v2ex.com/t/1233953)
+1. [不到一个小时后重置，快蹬](https://www.v2ex.com/t/1234001)
 1. [cursor grok 4.5 被严重低估了](https://www.v2ex.com/t/1233905)
 1. [给娃选笔记本，求各位大佬看看](https://www.v2ex.com/t/1233856)
 1. [今天 30 岁生日，替大家许个愿望](https://www.v2ex.com/t/1234005)
