@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-14 07:29:54 +0800`
+ `更新时间：2026-08-14 09:01:50 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,8 @@
 1. [不到一个小时后重置，快蹬](https://www.v2ex.com/t/1234001)
 1. [Cursor 的实际体验怎么样？](https://www.v2ex.com/t/1234043)
 1. [[限时福利] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1234025)
-1. [Codex 重置后，账号额度明显缩水](https://www.v2ex.com/t/1233991)
+1. [抨击一下 tibo 现在的重置行为：作秀营销而非真正让利用户](https://www.v2ex.com/t/1234169)
+1. [大家有没有被同事投喂的经历？](https://www.v2ex.com/t/1234014)
 
 ## 历史归档
 
