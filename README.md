@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-14 09:01:50 +0800`
+ `更新时间：2026-08-14 11:54:31 +0800`
 
 ## 热议话题
 
 1. [local.ai](https://www.v2ex.com/t/1234095)
 1. [秋招工作是真难找啊，试了很多路子，想听点建议。](https://www.v2ex.com/t/1234077)
 1. [感觉自己被这个社会判了死刑。](https://www.v2ex.com/t/1234133)
-1. [今天 30 岁生日，替大家许个愿望](https://www.v2ex.com/t/1234005)
-1. [不到一个小时后重置，快蹬](https://www.v2ex.com/t/1234001)
-1. [Cursor 的实际体验怎么样？](https://www.v2ex.com/t/1234043)
-1. [[限时福利] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1234025)
+1. [生活有感 年少不知中医好，错把西医当成宝](https://www.v2ex.com/t/1234245)
 1. [抨击一下 tibo 现在的重置行为：作秀营销而非真正让利用户](https://www.v2ex.com/t/1234169)
-1. [大家有没有被同事投喂的经历？](https://www.v2ex.com/t/1234014)
+1. [想起一件招笑的小事](https://www.v2ex.com/t/1234269)
+1. [为什么知道个内存和存储的区别，会有优越感🤔](https://www.v2ex.com/t/1234200)
+1. [脑供血不足晕倒](https://www.v2ex.com/t/1234248)
+1. [准备买个 NAS， N300 和 N150，差距大吗？](https://www.v2ex.com/t/1234079)
 
 ## 历史归档
 
