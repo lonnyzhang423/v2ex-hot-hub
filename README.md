@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-15 12:18:55 +0800`
+ `更新时间：2026-08-15 13:15:32 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [支付宝 iOS 碰一下的支付流程改变了](https://www.v2ex.com/t/1234346)
 1. [你们周末都是怎么快速放松的？](https://www.v2ex.com/t/1234355)
 1. [[稳定中转] plus0.1-0.12 自建正价 pro20x 稳定号池 0.18x 可用性拉满](https://www.v2ex.com/t/1234372)
+1. [在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731](https://www.v2ex.com/t/1234521)
 1. [大冤种！刚全额续费 Gemini Pro，给我账号封了！](https://www.v2ex.com/t/1234459)
-1. [有丰田荣放车主吗？值得购买吗？](https://www.v2ex.com/t/1234419)
 
 ## 历史归档
 
