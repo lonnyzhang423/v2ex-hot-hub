@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-19 15:29:00 +0800`
+ `更新时间：2026-08-19 16:23:06 +0800`
 
 ## 热议话题
 
-1. [27 岁还没做到税后 2W，是不是发展得有点慢了？](https://www.v2ex.com/t/1235314)
 1. [初恋结婚了，新郎不是我](https://www.v2ex.com/t/1235460)
 1. [中式的酒桌文化 一生黑](https://www.v2ex.com/t/1235437)
+1. [前端的小伙伴们，都怎么样了](https://www.v2ex.com/t/1235509)
 1. [为什么没有诞生第二个“胖东来”？](https://www.v2ex.com/t/1235483)
 1. [AI Coding 时代作为面试官已经不会面试开发了](https://www.v2ex.com/t/1235472)
-1. [前端的小伙伴们，都怎么样了](https://www.v2ex.com/t/1235509)
-1. [跟摩的佬骂起来了。](https://www.v2ex.com/t/1235479)
 1. [粱圣变小粱了，还有啥方便好用的 coding 套餐吗？](https://www.v2ex.com/t/1235487)
+1. [跟摩的佬骂起来了。](https://www.v2ex.com/t/1235479)
+1. [读程序人的 7 年有感](https://www.v2ex.com/t/1235516)
 
 ## 历史归档
 
