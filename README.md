@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-20 08:36:31 +0800`
+ `更新时间：2026-08-20 10:09:44 +0800`
 
 ## 热议话题
 
-1. [初恋结婚了，新郎不是我](https://www.v2ex.com/t/1235460)
 1. [前端的小伙伴们，都怎么样了](https://www.v2ex.com/t/1235509)
 1. [[BeefAPI] 已稳定运行 4 个月， 0 客诉｜ Claude/GPT 平价中转，新用户评论区留 id 送 5 刀额度](https://www.v2ex.com/t/1235528)
-1. [AI Coding 时代作为面试官已经不会面试开发了](https://www.v2ex.com/t/1235472)
-1. [粱圣变小粱了，还有啥方便好用的 coding 套餐吗？](https://www.v2ex.com/t/1235487)
-1. [跟摩的佬骂起来了。](https://www.v2ex.com/t/1235479)
-1. [现在小区房的隔音问题真的无解了](https://www.v2ex.com/t/1235485)
 1. [读程序人的 7 年有感](https://www.v2ex.com/t/1235516)
+1. [带孩子旅行的意义](https://www.v2ex.com/t/1235525)
+1. [各位有多少人白头发了？有什么解决办法吗](https://www.v2ex.com/t/1235748)
+1. [是不是过了 35 对什么都不感兴趣了](https://www.v2ex.com/t/1235640)
+1. [开发了一款懂你的实时预览 Markdown 编辑器 [送码]](https://www.v2ex.com/t/1235715)
+1. [Giffgaff 卡又复活了](https://www.v2ex.com/t/1235529)
+1. [RTX PRO 5000（或其他 48GB 显存）的 Qwen3.8-27B-FP8 配置交流（prefill 5000+t/s， decode 60+t/s）](https://www.v2ex.com/t/1235518)
 
 ## 历史归档
 
