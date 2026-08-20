@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-20 20:23:59 +0800`
+ `更新时间：2026-08-20 21:37:23 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [各位有多少人白头发了？有什么解决办法吗](https://www.v2ex.com/t/1235748)
 1. [AI 受害者 2](https://www.v2ex.com/t/1235756)
 1. [我也有 1000 credits 的邀请名额，有资格的兄弟们来](https://www.v2ex.com/t/1235767)
-1. [把每天和 AI 对话记录公开了](https://www.v2ex.com/t/1235773)
 1. [[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1235779)
+1. [把每天和 AI 对话记录公开了](https://www.v2ex.com/t/1235773)
 1. [想买 iPad Pro M5 13 寸，该怎么买？](https://www.v2ex.com/t/1235743)
-1. [开发了一款懂你的实时预览 Markdown 编辑器 [送码]](https://www.v2ex.com/t/1235715)
+1. [chatgpt 邀请好友 1000 额度 速发邮箱](https://www.v2ex.com/t/1235899)
 
 ## 历史归档
 
