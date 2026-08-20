@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-20 21:37:23 +0800`
+ `更新时间：2026-08-20 22:24:23 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,6 @@
 1. [[Codex 中转站] HyperAPI 的新老用户们，来领鸡蛋了](https://www.v2ex.com/t/1235779)
 1. [把每天和 AI 对话记录公开了](https://www.v2ex.com/t/1235773)
 1. [想买 iPad Pro M5 13 寸，该怎么买？](https://www.v2ex.com/t/1235743)
-1. [chatgpt 邀请好友 1000 额度 速发邮箱](https://www.v2ex.com/t/1235899)
 
 ## 历史归档
 
