@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-22 04:13:14 +0800`
+ `更新时间：2026-08-22 05:12:57 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [统计一下大家现在 vibe coding 的方案](https://www.v2ex.com/t/1236041)
 1. [[中转站] plus 炸了你们用什么？来我这 0.03 opus4.6，无敌平替](https://www.v2ex.com/t/1236086)
 1. [请教下各位用的都是什么梯子订阅](https://www.v2ex.com/t/1236097)
-1. [毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路](https://www.v2ex.com/t/1236035)
 1. [你们会骂 AI 吗](https://www.v2ex.com/t/1236083)
+1. [毕业跟大学老师干了 3 年，欠薪 4 个月还在温水煮青蛙，纠结要不要跑路](https://www.v2ex.com/t/1236035)
 1. [刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题](https://www.v2ex.com/t/1236151)
 1. [你的余额宝会放很多钱吗？](https://www.v2ex.com/t/1236027)
 1. [我们开始倒班考勤了](https://www.v2ex.com/t/1236064)
