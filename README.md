@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-22 13:16:37 +0800`
+ `更新时间：2026-08-22 14:20:24 +0800`
 
 ## 热议话题
 
 1. [大家对最近的 12306 两人三张票三座 怎么看,个人反对!](https://www.v2ex.com/t/1236273)
-1. [刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题](https://www.v2ex.com/t/1236151)
 1. [在这个独属于 ai 的时代，我终究是被裁员了。](https://www.v2ex.com/t/1236240)
 1. [ChatGPT 5X 一个月 800 多舍不得](https://www.v2ex.com/t/1236222)
-1. [似乎找到了自己在 V 站的定位](https://www.v2ex.com/t/1236157)
 1. [多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。](https://www.v2ex.com/t/1236256)
-1. [编程效果对比 本地 Qwen3.8-27B vs Deepseek](https://www.v2ex.com/t/1236180)
 1. [你们公司开始夯实社保了吗？](https://www.v2ex.com/t/1236190)
+1. [编程效果对比 本地 Qwen3.8-27B vs Deepseek](https://www.v2ex.com/t/1236180)
 1. [李彦宏提出要让文心一言回到第一梯队](https://www.v2ex.com/t/1236348)
-1. [codex 订阅额度降幅达 50%！刚刚 tibo 已经回应，是为防止滥用行为](https://www.v2ex.com/t/1236149)
+1. [网传：程序员失业后，被离婚周期是半年，可信度多少？](https://www.v2ex.com/t/1236332)
+1. [迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了](https://www.v2ex.com/t/1236307)
+1. [Tibo 已发 重置卡 注意查收](https://www.v2ex.com/t/1236335)
 
 ## 历史归档
 
