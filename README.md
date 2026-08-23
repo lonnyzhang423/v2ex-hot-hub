@@ -11,20 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-23 17:17:02 +0800`
+ `更新时间：2026-08-23 18:12:13 +0800`
 
 ## 热议话题
 
 1. [感觉 Vibe Coding 时代， Windows 系统要凉了](https://www.v2ex.com/t/1236462)
 1. [2026 年键盘求推荐](https://www.v2ex.com/t/1236534)
-1. [Bun 1.4 发布了，有人关心吗？](https://www.v2ex.com/t/1236482)
 1. [我把全网在赚钱的站点变成了一张榜单](https://www.v2ex.com/t/1236529)
 1. [你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?](https://www.v2ex.com/t/1236538)
-1. [claude 用 google pay 订阅 pro，招行 visa 全币种、葵花 master、工商 master，全部拒付](https://www.v2ex.com/t/1236430)
+1. [Bun 1.4 发布了，有人关心吗？](https://www.v2ex.com/t/1236482)
 1. [你有 token 用量和上下文焦虑吗？](https://www.v2ex.com/t/1236509)
 1. [Antigravity 支持远程控制了](https://www.v2ex.com/t/1236519)
+1. [很多过去认为在 apple 上不可能的实现的事现在都实现了](https://www.v2ex.com/t/1236556)
 1. [Codex 又要重置了](https://www.v2ex.com/t/1236559)
-1. [自己捣鼓了一套 [爬宠智能温湿度控温箱] ，成本到了 500+，有商业价值或迭代必要吗？](https://www.v2ex.com/t/1236441)
+1. [关于楼上渗水到楼下的问题，请友友们提供一些建议。](https://www.v2ex.com/t/1236528)
 
 ## 历史归档
 
