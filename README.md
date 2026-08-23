@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-24 00:12:16 +0800`
+ `更新时间：2026-08-24 01:11:34 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [关于楼上渗水到楼下的问题，请友友们提供一些建议。](https://www.v2ex.com/t/1236528)
 1. [你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?](https://www.v2ex.com/t/1236538)
 1. [你们都是怎么给 chatgpt plus 充值的？](https://www.v2ex.com/t/1236551)
+1. [每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？](https://www.v2ex.com/t/1236570)
 1. [很多过去认为在 apple 上不可能的实现的事现在都实现了](https://www.v2ex.com/t/1236556)
 1. [[招人]杭州，产品研发，后端开发 3 年以上经验来看](https://www.v2ex.com/t/1236533)
-1. [每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？](https://www.v2ex.com/t/1236570)
 1. [Codex 又要重置了](https://www.v2ex.com/t/1236559)
 
 ## 历史归档
