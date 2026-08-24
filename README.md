@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-24 14:34:42 +0800`
+ `更新时间：2026-08-24 15:49:01 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [周末回了躺老家，两件小事打破了县城低价养老的幻想](https://www.v2ex.com/t/1236691)
 1. [90~95 年的 v2er，你是如何接纳自己已经老了这件事的？](https://www.v2ex.com/t/1236619)
 1. [我说现在骗人式的推广真的太恶心了](https://www.v2ex.com/t/1236704)
+1. [娃生了，感叹这个成本确实高。](https://www.v2ex.com/t/1236744)
 1. [miniQMT 即将清退｜“万一免五”证券开户找老倔驴巨靠谱！ #回帖抽 mx anywhere 3s [40 期]](https://www.v2ex.com/t/1236659)
 1. [很久没有碰浏览器了，我决定从头开始写一个浏览器硬刚 Google Chrome](https://www.v2ex.com/t/1236674)
-1. [娃生了，感叹这个成本确实高。](https://www.v2ex.com/t/1236744)
+1. [我今年 45，我以为我已经见过了世界，直到今天我用了一次汇丰的网银](https://www.v2ex.com/t/1236750)
 1. [每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？](https://www.v2ex.com/t/1236570)
-1. [[HappyCode] 企业级稳定精品 API 中转站｜新用户免费领取 100 刀 GPT、Claude 体验额度](https://www.v2ex.com/t/1236669)
 
 ## 历史归档
 
