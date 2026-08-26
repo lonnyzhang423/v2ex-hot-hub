@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-27 00:08:46 +0800`
+ `更新时间：2026-08-27 02:47:49 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [macmini 出来了买什么配置呢？](https://www.v2ex.com/t/1237240)
 1. [最近老刷到男性觉醒的视频](https://www.v2ex.com/t/1237221)
 1. [刚刚会计在公司群里通知：单休了](https://www.v2ex.com/t/1237244)
+1. [[送码] Pooka，一款 macOS 快速启动 App](https://www.v2ex.com/t/1237285)
 1. [北京待业的 40 岁以上的程序员有找到工作的吗](https://www.v2ex.com/t/1237225)
-1. [# 育儿好物 五年级男孩手表极限二选一 | Apple Watch SE 蜂窝 | 小天才 Z10](https://www.v2ex.com/t/1237224)
 
 ## 历史归档
 
