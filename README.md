@@ -11,19 +11,17 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-08-27 10:23:34 +0800`
+ `更新时间：2026-08-27 21:18:26 +0800`
 
 ## 热议话题
 
-1. [医疗病患相关，纯吐槽发泄情绪](https://www.v2ex.com/t/1237275)
-1. [发个无票上高铁的经历](https://www.v2ex.com/t/1237291)
-1. [兄弟们，男生也要对自己好点，那么你们是怎么对自己好的？](https://www.v2ex.com/t/1237321)
-1. [喝了三年美式，最近发现续命变成了纯上瘾](https://www.v2ex.com/t/1237294)
-1. [[送码] Pooka，一款 macOS 快速启动 App](https://www.v2ex.com/t/1237285)
-1. [求助：有没有无影响检查 /etc/fstab 的可靠方法？](https://www.v2ex.com/t/1237351)
-1. [裂开了，自己申请软著， 29 天了还是待受理状态](https://www.v2ex.com/t/1237376)
+1. [女人出轨正在离婚 很迷茫](https://www.v2ex.com/t/1237635)
+1. [2026 年 30w 左右电车选择](https://www.v2ex.com/t/1237605)
 1. [到底是现在的新歌不好听了,还是我们落伍了?](https://www.v2ex.com/t/1237509)
-1. [[PuluAi] 稳定中转站，招新， pro 纯血 0.2X，回复用户名获测试额度！](https://www.v2ex.com/t/1237378)
+1. [兄弟们都预定了什么配置的新 mac](https://www.v2ex.com/t/1237511)
+1. [[0 元党进] 住宅 IP 免费领，人手一个](https://www.v2ex.com/t/1237512)
+1. [你领过最大的空投是什么币？价值多少？](https://www.v2ex.com/t/1237527)
+1. [有买了 24g 内存后悔的吗](https://www.v2ex.com/t/1237641)
 
 ## 历史归档
 
