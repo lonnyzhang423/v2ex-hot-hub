@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-05 05:08:45 +0800`
+ `更新时间：2026-09-05 07:32:43 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [中国的考公考编还能火多久？](https://www.v2ex.com/t/1239471)
 1. [多年经验总结，经常发送消息有错字的人工作能力都不佳，这是为啥？](https://www.v2ex.com/t/1239475)
 1. [医院术后漏取纱布 后续更新](https://www.v2ex.com/t/1239373)
-1. [厉害了 Tibo 每天都送重置卡 直到 Astra 全量铺开](https://www.v2ex.com/t/1239359)
 1. [有没有什么每日必薅的小羊毛？](https://www.v2ex.com/t/1239384)
 1. [手机远程控制电脑跑 Agent 方案](https://www.v2ex.com/t/1239387)
 1. [如果公司报销 200 USD 每月， Claude & ChatGPT 选哪个](https://www.v2ex.com/t/1239403)
+1. [请教下今天我们的大 A 暴涨的原因是什么](https://www.v2ex.com/t/1239398)
 
 ## 历史归档
 
