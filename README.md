@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-05 14:31:09 +0800`
+ `更新时间：2026-09-05 19:01:33 +0800`
 
 ## 热议话题
 
-1. [gtp6 体验中[吉吉 API] 即使同步上线，欢迎各位大佬前来尝鲜。纯血 Pro 倍率 0.16 缓存近 90%，首字 1S 起，自用实时监测无降智，回复送测试鸡蛋。](https://www.v2ex.com/t/1239517)
-1. [opencode 出新模型了，叫 Omen Alpha，输入输出价格接近 deepseek，速度飞快](https://www.v2ex.com/t/1239487)
-1. [周六清早起来快蹬 马上又要重置了....](https://www.v2ex.com/t/1239621)
-1. [用了一次 5.6 Luna，我就滚回到了 Sol](https://www.v2ex.com/t/1239525)
-1. [Sivyer 中转站正式营业，福利多多~](https://www.v2ex.com/t/1239489)
-1. [微软真的是大善人](https://www.v2ex.com/t/1239542)
 1. [现在做什么技术的最容易找工作](https://www.v2ex.com/t/1239623)
-1. [[替尔泊肽] 从 BMI 40 到 27，停药三个月后的减肥日记](https://www.v2ex.com/t/1239507)
+1. [周六清早起来快蹬 马上又要重置了....](https://www.v2ex.com/t/1239621)
+1. [搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度](https://www.v2ex.com/t/1239673)
 1. [Claude 是不是又重置了？](https://www.v2ex.com/t/1239616)
+1. [有没有成色好的二手笔记本网店推荐](https://www.v2ex.com/t/1239638)
+1. [GPT-6 Astra - 新的 O1 时刻](https://www.v2ex.com/t/1239617)
+1. [Scout 是不是一个常用语](https://www.v2ex.com/t/1239571)
+1. [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
+1. [我又又又重构了我的站点](https://www.v2ex.com/t/1239655)
 
 ## 历史归档
 
