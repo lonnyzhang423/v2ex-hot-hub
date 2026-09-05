@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-06 04:48:47 +0800`
+ `更新时间：2026-09-06 06:28:10 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [有没有成色好的二手笔记本网店推荐](https://www.v2ex.com/t/1239638)
 1. [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
 1. [GPT-6 Astra - 新的 O1 时刻](https://www.v2ex.com/t/1239617)
-1. [给我整乐呵了，商汤上了 deepseek v4 flash 和 pro](https://www.v2ex.com/t/1239687)
+1. [外接显示器时，你会把 Mac 打开作为副屏用吗？](https://www.v2ex.com/t/1239671)
 
 ## 历史归档
 
