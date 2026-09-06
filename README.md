@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-07 02:44:01 +0800`
+ `更新时间：2026-09-07 04:56:23 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [外包为什么在大家眼里这么不堪](https://www.v2ex.com/t/1239824)
 1. [22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限](https://www.v2ex.com/t/1239774)
 1. [法拍 iPhone 的 ID 解锁问题让人心里没底](https://www.v2ex.com/t/1239788)
-1. [昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了](https://www.v2ex.com/t/1239792)
+1. [有没有曾经患过焦虑症的 v 友，后面康复了吗？](https://www.v2ex.com/t/1239818)
 
 ## 历史归档
 
