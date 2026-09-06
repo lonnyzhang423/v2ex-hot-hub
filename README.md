@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-06 17:52:55 +0800`
+ `更新时间：2026-09-06 21:17:05 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]](https://www.v2ex.com/t/1239786)
 1. [GPT 6 Astra 重构的我的博客首页，有点喜欢](https://www.v2ex.com/t/1239777)
 1. [22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限](https://www.v2ex.com/t/1239774)
-1. [卧槽 GPT-6 Astra 就是 AGI。](https://www.v2ex.com/t/1239725)
+1. [外包为什么在大家眼里这么不堪](https://www.v2ex.com/t/1239824)
 1. [法拍 iPhone 的 ID 解锁问题让人心里没底](https://www.v2ex.com/t/1239788)
-1. [一个 MonoRepo 复杂系统的部署问题](https://www.v2ex.com/t/1239730)
+1. [卧槽 GPT-6 Astra 就是 AGI。](https://www.v2ex.com/t/1239725)
 
 ## 历史归档
 
