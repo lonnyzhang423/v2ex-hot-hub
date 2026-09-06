@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-06 08:22:08 +0800`
+ `更新时间：2026-09-06 13:17:11 +0800`
 
 ## 热议话题
 
-1. [现在做什么技术的最容易找工作](https://www.v2ex.com/t/1239623)
-1. [搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度](https://www.v2ex.com/t/1239673)
-1. [周六清早起来快蹬 马上又要重置了....](https://www.v2ex.com/t/1239621)
 1. [汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了](https://www.v2ex.com/t/1239707)
-1. [我又又又重构了我的站点](https://www.v2ex.com/t/1239655)
-1. [有没有成色好的二手笔记本网店推荐](https://www.v2ex.com/t/1239638)
-1. [梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块](https://www.v2ex.com/t/1239651)
-1. [外接显示器时，你会把 Mac 打开作为副屏用吗？](https://www.v2ex.com/t/1239671)
+1. [搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度](https://www.v2ex.com/t/1239673)
+1. [难绷，太相信 ai 了😭](https://www.v2ex.com/t/1239751)
 1. [给我整乐呵了，商汤上了 deepseek v4 flash 和 pro](https://www.v2ex.com/t/1239687)
+1. [外接显示器时，你会把 Mac 打开作为副屏用吗？](https://www.v2ex.com/t/1239671)
+1. [拼多多购物体验真的是很恶心](https://www.v2ex.com/t/1239770)
+1. [卧槽 GPT-6 Astra 就是 AGI。](https://www.v2ex.com/t/1239725)
+1. [几个网友分享的 GPT-6-Astra 编写的游戏和 Web 页面](https://www.v2ex.com/t/1239697)
 1. [一个 MonoRepo 复杂系统的部署问题](https://www.v2ex.com/t/1239730)
 
 ## 历史归档
