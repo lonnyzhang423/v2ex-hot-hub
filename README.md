@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-09 18:20:53 +0800`
+ `更新时间：2026-09-09 22:53:35 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益](https://www.v2ex.com/t/1240689)
 1. [幼儿园延时课--兴趣班该怎么选](https://www.v2ex.com/t/1240589)
 1. [又是一个新的时代](https://www.v2ex.com/t/1240550)
-1. [豆包输入法 WIN 端可以下载了](https://www.v2ex.com/t/1240545)
+1. [第一次发现裁员离自己并不遥远](https://www.v2ex.com/t/1240579)
 
 ## 历史归档
 
