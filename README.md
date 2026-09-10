@@ -11,19 +11,22 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-10 10:00:48 +0800`
+ `更新时间：2026-09-10 15:36:13 +0800`
 
 ## 热议话题
 
-1. [避雷一个 AI 中转站，世一稳（https://sub.bulita.net）](https://www.v2ex.com/t/1240644)
-1. [从什么时候开始，早睡早起变成小众爱好了？](https://www.v2ex.com/t/1240610)
-1. [论小红书上的极品蠢人](https://www.v2ex.com/t/1240605)
-1. [幼儿园延时课--兴趣班该怎么选](https://www.v2ex.com/t/1240589)
-1. [V2Echo iOS 客户端 TestFlight 内测招募｜前 50 名赠送 Pro 永久权益](https://www.v2ex.com/t/1240689)
-1. [这里为什么感觉没人讨论国产模型。我发现 qwen 和豆包系列模型问题好多，生产直接没法用](https://www.v2ex.com/t/1240649)
-1. [咸鱼的小法庭机制真是妙啊](https://www.v2ex.com/t/1240703)
-1. [iPhone 上和 macbook 上推荐用什么中文输入法？](https://www.v2ex.com/t/1240607)
-1. [找工作总是挂在一面上，有没有大佬能帮帮忙](https://www.v2ex.com/t/1240624)
+1. [iPhone Duo 并没有多惊艳](https://www.v2ex.com/t/1240866)
+1. [汤家凤与胡锡进英语主科争议事件总结（网友戏称 “胡辣汤大战”）](https://www.v2ex.com/t/1240711)
+1. [高一男孩从班里前四滑到不敢进学校，请假在家也焦虑，有过来人吗？](https://www.v2ex.com/t/1240822)
+1. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)
+1. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
+1. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
+1. [头大，到底要怎么宣传自己的产品啊](https://www.v2ex.com/t/1240867)
+1. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
+1. [苹果首款折叠屏手机名字敲定就叫 iPhone Duo
+
+Duo 怎么读呢 多?嘟噢?](https://www.v2ex.com/t/1240720)
+1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
 
 ## 历史归档
 
