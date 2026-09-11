@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-11 08:39:15 +0800`
+ `更新时间：2026-09-11 13:23:55 +0800`
 
 ## 热议话题
 
-1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
-1. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
-1. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)
 1. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
-1. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
-1. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
-1. [AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）](https://www.v2ex.com/t/1240959)
-1. [如何培养一个爱好](https://www.v2ex.com/t/1240883)
+1. [大家会跟同事或者领导说自己用 Ai 完成需求吗？](https://www.v2ex.com/t/1241204)
+1. [一直有个疑问，感觉用 cursor 的人很少](https://www.v2ex.com/t/1241125)
+1. [把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配](https://www.v2ex.com/t/1241226)
+1. [躺平是不是版本答案？](https://www.v2ex.com/t/1241205)
+1. [Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax](https://www.v2ex.com/t/1241298)
+1. [Duo 真的很不苹果](https://www.v2ex.com/t/1241080)
+1. [更新下广州前端工程师这两个礼拜找工作的情况](https://www.v2ex.com/t/1241146)
 
 ## 历史归档
 
