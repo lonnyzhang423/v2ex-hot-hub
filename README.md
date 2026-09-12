@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-12 13:14:23 +0800`
+ `更新时间：2026-09-12 17:45:08 +0800`
 
 ## 热议话题
 
-1. [筷子不能竖着插在饭里是全国性的常识吗？](https://www.v2ex.com/t/1241327)
-1. [-52% 还能回本吗](https://www.v2ex.com/t/1241315)
-1. [有人买了中转站 6TB 的数据，里面有大量的服务器账号安全数据，看你们还敢用中转吗？](https://www.v2ex.com/t/1241336)
-1. [[送码]在手机端 AI 编程最佳应用： Octrix](https://www.v2ex.com/t/1241311)
-1. [为一个弱智的问题 大家怎么插入的图片](https://www.v2ex.com/t/1241328)
-1. [有些人不允许别人把筷子竖着插进饭里](https://www.v2ex.com/t/1241413)
 1. [讨论一下在手机上编程是不是伪需求](https://www.v2ex.com/t/1241482)
+1. [v2ex 注册成功](https://www.v2ex.com/t/1241517)
+1. [codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神](https://www.v2ex.com/t/1241506)
+1. [智友社回馈 V 站新老客户，抽送第 8 波 8 个智友社的 GPTPLUS 稳定特殊渠道日区月卡成品号 6](https://www.v2ex.com/t/1241484)
+1. [不想上班了，回老家县城躺平是否可行？](https://www.v2ex.com/t/1241455)
+1. [木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办](https://www.v2ex.com/t/1241486)
+1. [你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?](https://www.v2ex.com/t/1241496)
+1. [vibe coding 的代码你怎么放心上线？](https://www.v2ex.com/t/1241529)
+1. [兄弟们和我一起当捞女去崩老头。](https://www.v2ex.com/t/1241452)
 
 ## 历史归档
 
