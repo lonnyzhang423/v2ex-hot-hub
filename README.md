@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-13 09:58:58 +0800`
+ `更新时间：2026-09-13 15:12:01 +0800`
 
 ## 热议话题
 
-1. [v2ex 注册成功](https://www.v2ex.com/t/1241517)
-1. [codex 抓紧蹬啊 弟兄们 又有重置了 tibo 真神](https://www.v2ex.com/t/1241506)
-1. [vibe coding 的代码你怎么放心上线？](https://www.v2ex.com/t/1241529)
-1. [不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历](https://www.v2ex.com/t/1241515)
 1. [有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距](https://www.v2ex.com/t/1241596)
-1. [华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊](https://www.v2ex.com/t/1241528)
-1. [你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?](https://www.v2ex.com/t/1241496)
-1. [养育孩子的牙齿，父母应该知道的事](https://www.v2ex.com/t/1241532)
+1. [你们一天喝多少咖啡的？](https://www.v2ex.com/t/1241624)
+1. [API 中转站能看到你全部 prompt 和回复，为什么没有一个「厂商端到端加密」的标准？](https://www.v2ex.com/t/1241650)
+1. [再折腾了下旁路由，用 debian+mihomo 做透明网关](https://www.v2ex.com/t/1241566)
+1. [18PM 抢到了， 10099 元](https://www.v2ex.com/t/1241578)
+1. [SRE 岗 offer 选择](https://www.v2ex.com/t/1241623)
+1. [陶哲轩等数学家反对 AI，论失败的意义](https://www.v2ex.com/t/1241637)
+1. [郁闷， mac 坏了，又要破费了！](https://www.v2ex.com/t/1241595)
+1. [今晚 8 点开抢，你准备买哪款？](https://www.v2ex.com/t/1241540)
 
 ## 历史归档
 
