@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-21 08:37:59 +0800`
+ `更新时间：2026-09-21 13:38:12 +0800`
 
 ## 热议话题
 
-1. [昨天被朋友说自私，想问问站友们也这样吗？](https://www.v2ex.com/t/1243285)
-1. [2026 年买电车还买特斯拉吗？](https://www.v2ex.com/t/1243341)
-1. [[HyperAPI 中转站]限时福利，评论留 ID，就送$10 体验额度](https://www.v2ex.com/t/1243283)
-1. [单休公司的今天怎么算？](https://www.v2ex.com/t/1243242)
-1. [忽然有一天，我离开了东京](https://www.v2ex.com/t/1243276)
-1. [2026 自家红心猕猴桃上市了😋， 中秋送礼佳品🧺，送 V 友福利回帖抽奖🥝！抽奖🥝！抽奖🥝！团 10 送 1️⃣团 10 送 1️⃣](https://www.v2ex.com/t/1243337)
-1. [相约十三年， 2026 大闸蟹已上市，欢迎新老 V 友尝鲜](https://www.v2ex.com/t/1243241)
-1. [收到 giffgaff 退款了，抓紧退款吧](https://www.v2ex.com/t/1243247)
-1. [18 Pro 的充电头太难买了，大伙有推荐的吗](https://www.v2ex.com/t/1243294)
+1. [Vex —— 更好用的 V2EX iOS 客户端 ｜ 送码](https://www.v2ex.com/t/1243520)
+1. [女友第一次去我家 不是很想住我家里](https://www.v2ex.com/t/1243502)
+1. [为什么大家偏爱银河？](https://www.v2ex.com/t/1243506)
+1. [中秋节礼品发了， 500 算是什么水平？](https://www.v2ex.com/t/1243412)
+1. [ZCode 开源了](https://www.v2ex.com/t/1243535)
+1. [我发现写病毒居然很有意思。无害的那种](https://www.v2ex.com/t/1243534)
+1. [Airpods5 到手，说下感受](https://www.v2ex.com/t/1243567)
+1. [阿里云百炼的用户都不会质疑价格的吗？](https://www.v2ex.com/t/1243361)
+1. [还有用 Mac 打游戏的吗？](https://www.v2ex.com/t/1243453)
+1. [纯吐槽，被当初装修安装工坑了](https://www.v2ex.com/t/1243555)
 
 ## 历史归档
 
