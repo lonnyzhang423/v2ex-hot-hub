@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-22 05:22:59 +0800`
+ `更新时间：2026-09-22 08:22:17 +0800`
 
 ## 热议话题
 
 1. [Vex —— 更好用的 V2EX iOS 客户端 ｜ 送码](https://www.v2ex.com/t/1243520)
-1. [女友第一次去我家 不是很想住我家里](https://www.v2ex.com/t/1243502)
-1. [为什么大家偏爱银河？](https://www.v2ex.com/t/1243506)
 1. [油车怎么选](https://www.v2ex.com/t/1243570)
 1. [Airpods5 到手，说下感受](https://www.v2ex.com/t/1243567)
 1. [如果是你的话， 17pro1t 和 18pro512g 选哪个？](https://www.v2ex.com/t/1243558)
 1. [我发现写病毒居然很有意思。无害的那种](https://www.v2ex.com/t/1243534)
 1. [纯吐槽，被当初装修安装工坑了](https://www.v2ex.com/t/1243555)
+1. [哪位老哥的公司编码已经进化到这种程度了吗，感觉都是穷途末路](https://www.v2ex.com/t/1243605)
+1. [突然想到 AI 一个很可怕的点，以后会没有程序员了，而这是我们自己造成的！](https://www.v2ex.com/t/1243633)
 
 ## 历史归档
 
