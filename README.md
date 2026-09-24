@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-24 10:08:19 +0800`
+ `更新时间：2026-09-24 15:56:00 +0800`
 
 ## 热议话题
 
-1. [我说的话那里不好听了？谁能给我解释一下](https://www.v2ex.com/t/1244204)
-1. [注册 meta 的 muse 智能体 使用 google gemini pro 的 spark [绕过 ip 问题与排队]](https://www.v2ex.com/t/1244201)
-1. [好像很少人知道曾经纳指跌过 75%？纳指现在明显就是“宝妈指数”。](https://www.v2ex.com/t/1244192)
-1. [300 万存款财务自由](https://www.v2ex.com/t/1244159)
-1. [33 岁 8 年大厂前端 Gap 三年找工作近况最后一次更新，决定放弃找工作，在家人的支持下决定再创业一年试试，送各位大佬五个码，希望大佬们给个商店好评](https://www.v2ex.com/t/1244262)
-1. [很遗憾， Apple 国内直营店已经明显让人失望了](https://www.v2ex.com/t/1244237)
-1. [从 Windows 转 Mac 找不到顺手的 WGestures 替代品？用 Swift 6 原生手搓了一款 Glide (妙划)，送 V 友永久授权](https://www.v2ex.com/t/1244175)
-1. [[咖啡] 有什么好喝的解决方案？](https://www.v2ex.com/t/1244232)
+1. [Muse 注册的新方法，已经成功](https://www.v2ex.com/t/1244403)
 1. [注册 Meta 的 muse，免费领取 10 亿 token](https://www.v2ex.com/t/1244389)
+1. [服气！老婆不想换工作](https://www.v2ex.com/t/1244359)
+1. [手机都这么贵了，越来越买不起了！](https://www.v2ex.com/t/1244393)
+1. [逝世三周年民俗调查](https://www.v2ex.com/t/1244335)
+1. [你敢信，小米 18 系列都 9999 了，这价格谁还买小米啊！](https://www.v2ex.com/t/1244433)
+1. [你们多少人是自费订阅 ai 用在工作上的？](https://www.v2ex.com/t/1244416)
+1. [你们过节都发了什么东西？](https://www.v2ex.com/t/1244516)
+1. [注册 muse ai 方法和跳过年龄、绑卡方法](https://www.v2ex.com/t/1244408)
 
 ## 历史归档
 
