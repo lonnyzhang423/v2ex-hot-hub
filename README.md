@@ -11,16 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-25 13:34:21 +0800`
+ `更新时间：2026-09-25 18:46:46 +0800`
 
 ## 热议话题
 
-1. [大家公司中秋都发了什么？都来晒一下呗](https://www.v2ex.com/t/1244528)
-1. [当司机都 10-15k 了，做程序员干啥](https://www.v2ex.com/t/1244564)
+1. [我以一己之力，用三年时间，带起来了国内独立开发做出海网站赚美元养老行业。
+让不少中老年程序员焕发了第二春，让不少新程序员找到了人生方向。](https://www.v2ex.com/t/1244750)
 1. [用半年时间打磨的 HTTPS 抓包和调试工具-ApiCatcher，对标 Proxyman](https://www.v2ex.com/t/1244674)
 1. [实体倒闭真是活该的](https://www.v2ex.com/t/1244668)
-1. [dmit 洛杉矶 补货了！](https://www.v2ex.com/t/1244588)
-1. [杭州有什么好玩的？](https://www.v2ex.com/t/1244521)
+1. [今天中秋节，还要加班的有吗？来报道下](https://www.v2ex.com/t/1244704)
+1. [黑神话悟空-在线版](https://www.v2ex.com/t/1244710)
+1. [国内注册 Muse 的方法，亲测可用](https://www.v2ex.com/t/1244695)
+1. [一个不需要 gemini pro 的完全免费的注册 Muse 的方法](https://www.v2ex.com/t/1244728)
+1. [LockSticky 上架不到 2 天收入 25 刀，再送本帖评论数量 * 0.1 个永久会员码！](https://www.v2ex.com/t/1244722)
 1. [贴膜的价值：回收的时候多 200 块](https://www.v2ex.com/t/1244642)
 
 ## 历史归档
