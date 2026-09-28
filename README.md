@@ -11,17 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-09-28 09:17:16 +0800`
+ `更新时间：2026-09-28 15:57:12 +0800`
 
 ## 热议话题
 
-1. [女朋友说“在你这里很没有气氛”，性格沉闷的我该怎么补救？](https://www.v2ex.com/t/1244983)
-1. [muse 注册非常丝滑，正常注册就行！](https://www.v2ex.com/t/1245031)
+1. [我实在是无法理解认为重置周期时间会亏这种想法](https://www.v2ex.com/t/1245140)
+1. [银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。](https://www.v2ex.com/t/1245115)
 1. [看了影视飓风 Tim 的创业视频，聊聊我的看法](https://www.v2ex.com/t/1245104)
+1. [VVAE：一个 V2EX 原生 iOS 客户端 - 送 Premium 兑换码](https://www.v2ex.com/t/1245121)
+1. [有多少人和我一样今天连休！中秋到国庆之间这三天！](https://www.v2ex.com/t/1245124)
 1. [新款 Apple Watch 的设计太离谱了吧](https://www.v2ex.com/t/1245062)
-1. [离职半年了， AI 对工作流程的影响有多大？想回去上班](https://www.v2ex.com/t/1245020)
-1. [求家庭组网方案建议](https://www.v2ex.com/t/1245037)
-1. [主账号都用的国区还是用外区 apple id??](https://www.v2ex.com/t/1245059)
+1. [第一次去港澳，想问问有什么值得特地去买的东西吗](https://www.v2ex.com/t/1245130)
+1. [自从看了动漫 还看看的下去电影,电视剧吗?](https://www.v2ex.com/t/1245137)
+1. [AI 带来的不是便利性，而是更多人的迷失](https://www.v2ex.com/t/1245109)
 
 ## 历史归档
 
