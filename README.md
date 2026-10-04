@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-05 02:27:16 +0800`
+ `更新时间：2026-10-05 06:05:09 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [claude 的 100 刀在苹果商店要加 24 刀税,如何避免?](https://www.v2ex.com/t/1246350)
 1. [macOS 上 ChatGPT 客户端长期无法使用](https://www.v2ex.com/t/1246331)
 1. [公司让开发个某书刷阅读系统](https://www.v2ex.com/t/1246332)
-1. [大模型对 Vuejs 支持不如 react：](https://www.v2ex.com/t/1246345)
 1. [[开源] 我做了一个没有删除和升级权限的链上论坛](https://www.v2ex.com/t/1246367)
+1. [大模型对 Vuejs 支持不如 react：](https://www.v2ex.com/t/1246345)
 
 ## 历史归档
 
