@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-06 06:59:11 +0800`
+ `更新时间：2026-10-06 10:43:18 +0800`
 
 ## 热议话题
 
 1. [如果因为特殊原因无法结婚生子，那该如何找到新的支点来度过比较充实的一生？](https://www.v2ex.com/t/1246483)
 1. [喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了](https://www.v2ex.com/t/1246477)
 1. [香港仓库管理 或 日本永居 如何选择，请 V 友们给点想法](https://www.v2ex.com/t/1246491)
-1. [久坐提醒，有没有啥好的方案，能让自己站起来？](https://www.v2ex.com/t/1246459)
 1. [准备注册美国公司来使用 claude](https://www.v2ex.com/t/1246523)
 1. [codex 的梯子流量消耗很大，怎么治？](https://www.v2ex.com/t/1246473)
-1. [感觉到了一些不好的苗头](https://www.v2ex.com/t/1246516)
-1. [ai 时代怎么感觉招 js/ts 全栈还是那么少？](https://www.v2ex.com/t/1246444)
 1. [loon 有没有好用的去 YouTube 广告的插件](https://www.v2ex.com/t/1246475)
+1. [[送码] 给 Navidrome 写的安卓播放器 Mu3ic：现代 UI、智能歌单、混音、断网也能听，基础版免费](https://www.v2ex.com/t/1246531)
+1. [目前还有可用的微信聊天记录导出工具吗，最好不用降级的](https://www.v2ex.com/t/1246515)
+1. [目前有没有用了两年 Claude 没被封的？](https://www.v2ex.com/t/1246558)
 
 ## 历史归档
 
