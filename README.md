@@ -11,12 +11,12 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-10 03:53:03 +0800`
+ `更新时间：2026-10-10 07:40:40 +0800`
 
 ## 热议话题
 
-1. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro](https://www.v2ex.com/t/1247361)
 1. [第一次相亲，请教下各位怎么聊，应该聊些什么。](https://www.v2ex.com/t/1247240)
+1. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro](https://www.v2ex.com/t/1247361)
 1. [分享一下国庆美国东海岸的行程和花费](https://www.v2ex.com/t/1247300)
 1. [大家多久没去电影院看电影了](https://www.v2ex.com/t/1247254)
 1. [绝了，碰到神人了！一大早给我奶头气堵了](https://www.v2ex.com/t/1247250)
