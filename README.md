@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-10 11:15:50 +0800`
+ `更新时间：2026-10-10 18:13:19 +0800`
 
 ## 热议话题
 
-1. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 迎来 macOS 首发，送 30 个永久 Pro](https://www.v2ex.com/t/1247361)
-1. [分享一下国庆美国东海岸的行程和花费](https://www.v2ex.com/t/1247300)
-1. [大家有什么二手便宜好物推荐吗？感觉生活很枯燥，想买点东西玩一玩或者折腾点什么东西](https://www.v2ex.com/t/1247354)
-1. [记录一次关于我和楼上隔壁邻居魔法咚咚咚](https://www.v2ex.com/t/1247313)
-1. [32 岁做啥啥失败，是不是该被斩杀了？](https://www.v2ex.com/t/1247331)
-1. [[免费赠] PolyDrive Disk: NTFS 和 Linux 盘在 Finder 里自由读写](https://www.v2ex.com/t/1247310)
-1. [换车选极氪 009 还是 MEGA](https://www.v2ex.com/t/1247297)
+1. [十年挚友，突然离世](https://www.v2ex.com/t/1247465)
 1. [超过 500 行的代码改动， codex 根本无法独立完成。astra 也不行](https://www.v2ex.com/t/1247511)
+1. [五年后，还有多少程序员能靠写代码活着？](https://www.v2ex.com/t/1247509)
+1. [做了一个“珠光宝气”的页面， V 友看看咋样，提提意见](https://www.v2ex.com/t/1247527)
+1. [深圳社保上涨. 需要补缴..](https://www.v2ex.com/t/1247591)
+1. [曝光一个互联网小骗子 本站用户 @missx](https://www.v2ex.com/t/1247525)
+1. [有男的脱毛过吗？想把腹毛脱了，有没有过来人请教下](https://www.v2ex.com/t/1247556)
+1. [[送码]我把 1996 年《小浣熊水浒卡》的 [闪光] 效果做出来了](https://www.v2ex.com/t/1247629)
 
 ## 历史归档
 
