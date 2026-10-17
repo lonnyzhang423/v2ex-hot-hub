@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-17 15:17:19 +0800`
+ `更新时间：2026-10-17 19:49:35 +0800`
 
 ## 热议话题
 
-1. [如何评价 rea 逆向一切？](https://www.v2ex.com/t/1249389)
 1. [为何我国公安系统对遛狗不栓绳问题非常漠视呢？](https://www.v2ex.com/t/1249536)
-1. [抑郁症的人到底在想些什么？](https://www.v2ex.com/t/1249406)
+1. [96110 冻结银行卡，普通人真是无解](https://www.v2ex.com/t/1249610)
 1. [刚接到 96110 反诈宣传电话](https://www.v2ex.com/t/1249532)
-1. [大龄程序员 2 个 offer 如何选择啊，纠结。。。](https://www.v2ex.com/t/1249437)
-1. [房子卖了，赔了 37%](https://www.v2ex.com/t/1249412)
-1. [备货这么充足嘛， iPhone Duo 官网购买很顺利](https://www.v2ex.com/t/1249458)
+1. [智友社回馈 V 站新老客户，抽送第 10 波 18 个 智友社的 Muse Ai 稳定特殊渠道独享成品号 1A（10 亿 Token，质保首登）](https://www.v2ex.com/t/1249529)
 1. [好哥哥们，俺能赚多少呀🤭](https://www.v2ex.com/t/1249468)
-1. [老哥们 65/55 寸电视求建议](https://www.v2ex.com/t/1249401)
+1. [备货这么充足嘛， iPhone Duo 官网购买很顺利](https://www.v2ex.com/t/1249458)
+1. [过敏性鼻炎怎样治疗？](https://www.v2ex.com/t/1249502)
+1. [腾讯云服务器要不要续费？](https://www.v2ex.com/t/1249546)
+1. [roadster 发布了，是真的假的这么牛](https://www.v2ex.com/t/1249540)
 
 ## 历史归档
 
