@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-20 23:26:51 +0800`
+ `更新时间：2026-10-21 03:43:16 +0800`
 
 ## 热议话题
 
@@ -19,12 +19,12 @@
 1. [开个银河买纳指或者红利低波 ETF 比较稳健，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。](https://www.v2ex.com/t/1250173)
 1. [招行信用卡是真➗啊](https://www.v2ex.com/t/1250316)
 1. [本地机器能跑 DeepSeek v4.1flash 或者 Qwen3.8 得多少钱？](https://www.v2ex.com/t/1250179)
-1. [能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的](https://www.v2ex.com/t/1250170)
 1. [是去海外还是留国内](https://www.v2ex.com/t/1250306)
-1. [最近被同事消耗的太厉害](https://www.v2ex.com/t/1250197)
+1. [能清理、卸载和系统维护的 Mole Windows 版终于来啦，聊聊我是怎么用 Mac 开发它的](https://www.v2ex.com/t/1250170)
 1. [搓了一个看东南亚频道的站](https://www.v2ex.com/t/1250171)
-1. [老婆又要生孩子了](https://www.v2ex.com/t/1250150)
+1. [最近被同事消耗的太厉害](https://www.v2ex.com/t/1250197)
 1. [卖房咨询，有卖房朋友经验的朋友来聊聊](https://www.v2ex.com/t/1250231)
+1. [各位大佬都是用啥工具管理自己的密码的](https://www.v2ex.com/t/1250247)
 
 ## 历史归档
 
