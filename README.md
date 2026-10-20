@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2026-10-20 05:51:05 +0800`
+ `更新时间：2026-10-20 08:47:38 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,9 @@
 1. [[送激活码] 我做了一个跟随 Finder 窗口的路径工具 FinderNav，送 80 个激活码](https://www.v2ex.com/t/1249891)
 1. [大家的 giffgaff 还能用吗](https://www.v2ex.com/t/1249905)
 1. [利用学生优惠$8.99 开通 2 年半 Google AI Pro + YouTube Premium + 5TB 存储](https://www.v2ex.com/t/1249913)
-1. [NSFW/姿势出图 skill](https://www.v2ex.com/t/1249850)
 1. [突然发现逛小吃摊比想象中贵，所以我做了一个逛夜市模拟器，看看大家金钱的数字敏感度有多高](https://www.v2ex.com/t/1249864)
 1. [男孩子青春期问题（迷茫 没信心）怎么解决](https://www.v2ex.com/t/1249955)
+1. [也分享下我起起伏伏伏伏伏的 2026 年吧](https://www.v2ex.com/t/1249995)
 
 ## 历史归档
 
